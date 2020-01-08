@@ -30,7 +30,7 @@ permalink: /Members/
                   <td> </td>
                 </tr>
                 <tr>
-                  <td>Sangyup Lee</td>
+                  <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science Engineering</td>
                   <td> </td>
                 </tr>
@@ -64,7 +64,7 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td>Jeon, HyunSung</td>
+                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Jeon, HyunSung </a> </td>
                   <td>AI</td>
                   <td> </td>
                 </tr>
@@ -74,7 +74,7 @@ permalink: /Members/
                   <td> </td>
                 </tr>
                 <tr>
-                  <td>Junyaup Kim</td>
+                  <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
                   <td>Computer Science Engineering</td>
                   <td> </td>       
                 </tr>

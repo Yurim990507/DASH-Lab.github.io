@@ -6,7 +6,7 @@ permalink: /About/
 
 <h1 class="page-title">Simon Woo</h1>
 
-![Simon Woo](./img/simonwoo.png)
+![Simon Woo](./img/simonwoo.png){:.aligncenter}
 
 <div class="section">
     <h5>About me</h5> 

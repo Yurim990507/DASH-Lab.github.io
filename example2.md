@@ -24,7 +24,7 @@ permalink: /Publications/
         
 <p>Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) </p>
         
-<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
+<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
         
 <p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, "Tensor Decomposition for Anomaly Detection in Space", Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         

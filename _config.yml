@@ -1,4 +1,4 @@
-title: DASH LAB
+title: Welcom!
 author: Simon Woo
 email: swoo@g.skku.edu
 url: "https://DASH-Lab.github.io"
@@ -9,5 +9,3 @@ description:  # this means to ignore newlines until "baseurl:"
 twitter_username: none
 github_username:  DASH-Lab
 
-sass:
-    style: compressed

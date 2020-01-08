@@ -10,12 +10,12 @@ permalink: /About/
 
 <div class="section">
     <h5>About me</h5> 
-        ◼Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
-        ◼M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
-        ◼M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
-        ◼B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
-        ◼Lynnwood High School, Lynnwood, WA, USA <br>
-        ◼YoungShin High School (영신고), Taegu, S.Korea <br>
+        ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
+        ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
+        ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
+        ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
+        ◼ Lynnwood High School, Lynnwood, WA, USA <br>
+        ◼ YoungShin High School (영신고), Taegu, S.Korea <br>
  
 </div>
 
@@ -35,14 +35,17 @@ permalink: /About/
 </div>
 <div class="divider"></div>
 <div class="section">
-    <h5>My Skills</h5> 
-
-    <div class="row">
-        <div class="col s12">
-                <a class="btn-large disabled">Button</a>
-                <a class="btn disabled">Button</a>
-                <a class="btn-flat disabled">Button</a>
-                <a class="btn-floating disabled"><i class="material-icons">add</i></a>      
-        </div>
-    </div>
+    <h5>Course</h5> 
+        ◼ CSE 215 Discrete Math (Undergrad) (2018F)
+        ◼ CSE 517 Science for Society II (Gradaute) (2018S)
+        ◼ CSE 353 Machine Learning (Undergrd) (2018S)
+        ◼ CSE 512 Machine Learning (Graduate) (2018S)
+        ◼ CSE 509 Systems Security (Graduate) (2017F)
+        ◼ Security Seminar (Fall/Spring)
+</div>
+<div class="divider"></div>
+<div class="section">
+    <h5>Contact me</h5>     
+        Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in security and privacy, HCI, AI/machine learning, and Satellite systems/networking.
+        Email me for a chat(swoo @ g dot skku dot edu)
 </div>

@@ -3,4 +3,4 @@ layout: home
 ---
 
 
-Data-driven + AI + Security + HCI Lab
+Developing Usable and Secure Technology after Better Understanding Data, Machines, and Humans

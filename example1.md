@@ -36,16 +36,16 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Course</h5> 
-        ◼ CSE 215 Discrete Math (Undergrad) (2018F)
-        ◼ CSE 517 Science for Society II (Gradaute) (2018S)
-        ◼ CSE 353 Machine Learning (Undergrd) (2018S)
-        ◼ CSE 512 Machine Learning (Graduate) (2018S)
-        ◼ CSE 509 Systems Security (Graduate) (2017F)
+        ◼ CSE 215 Discrete Math (Undergrad) (2018F) <br>
+        ◼ CSE 517 Science for Society II (Gradaute) (2018S) <br>
+        ◼ CSE 353 Machine Learning (Undergrd) (2018S) <br>
+        ◼ CSE 512 Machine Learning (Graduate) (2018S) <br>
+        ◼ CSE 509 Systems Security (Graduate) (2017F) <br>
         ◼ Security Seminar (Fall/Spring)
 </div>
 <div class="divider"></div>
 <div class="section">
     <h5>Contact me</h5>     
-        Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in security and privacy, HCI, AI/machine learning, and Satellite systems/networking.
+        Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in security and privacy, HCI, AI/machine learning, and Satellite systems/networking.<br>
         Email me for a chat(swoo @ g dot skku dot edu)
 </div>

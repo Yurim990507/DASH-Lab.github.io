@@ -9,22 +9,22 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
-            <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, "CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network," The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (Accepted, BK Computer Science IF=1) </p>
+            <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network," </strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (Accepted, BK Computer Science IF=1) </p>
     </div>
 </div>
 <div class="divider"></div>
 <div class="section">
     <h5>2019</h5>
     <div class="row">
-<p>Jelena Mirkovic and Simon S. Woo, "Designing for fallible humans," 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) </p>
+<p>Jelena Mirkovic and Simon S. Woo, <strong> "Designing for fallible humans," </strong> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) </p>
 
-<p>Junyaup Kim, Siho Han, and Simon S. Woo*, "Poster: Classifying Genuine Face images from Disguised Face Images," 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
+<p>Junyaup Kim, Siho Han, and Simon S. Woo*, <strong> "Poster: Classifying Genuine Face images from Disguised Face Images," </strong> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
 
-<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, "Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," The 26th ACM Conference on Computer and Communications Security, London, UK, 2019 </p>
+<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019 </p>
         
-<p>Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) </p>
+<p>Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) </p>
         
-<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
+<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
         
 <p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, "Tensor Decomposition for Anomaly Detection in Space", Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         

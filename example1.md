@@ -7,7 +7,7 @@ permalink: /About/
 <h1 class="page-title">Simon Woo</h1>
 
 <center>
-    <img src="./img/simonwoo.png" width ="300" height="300">
+    <img src="./img/simonwoo.png">
 </center>
 
 <div class="section">

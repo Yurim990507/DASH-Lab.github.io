@@ -35,7 +35,7 @@ permalink: /Members/
                   <td> </td>
                 </tr>
                 <tr>
-                  <td>Shahroz Tariq</td>
+                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
                   <td>Computer Science Engineering</td>
                   <td> </td>
                 </tr>

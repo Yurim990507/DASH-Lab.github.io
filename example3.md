@@ -87,6 +87,11 @@ permalink: /Members/
                   <td>Sang Won Lee</td>
                   <td>Applied Data Science</td>
                   <td> </td>       
+                </tr>
+                <tr>
+                  <td>Sowon Jeon</td>
+                  <td>Computer Science Engineering</td>
+                  <td> </td>       
                 </tr> 
               </tbody>
             </table>

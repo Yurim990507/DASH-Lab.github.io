@@ -30,7 +30,7 @@ permalink: /Publications/
         
 <p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
         
-<p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, "Tensor Decomposition for Anomaly Detection in Space", Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
+<p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, <strong> "Tensor Decomposition for Anomaly Detection in Space", </strong> Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
 <p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence", 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         

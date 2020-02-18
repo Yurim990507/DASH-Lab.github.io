@@ -64,12 +64,12 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Jeon, HyunSung </a> </td>
+                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">HyunSung Jeon </a> </td>
                   <td>AI</td>
                   <td> </td>
                 </tr>
                 <tr>
-                  <td>Bang, YoungOh</td>
+                  <td>YoungOh Bang</td>
                   <td>AI</td>
                   <td> </td>
                 </tr>

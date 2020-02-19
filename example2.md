@@ -9,12 +9,16 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
+        <p>  Simon S. Woo*, "How do we Create a Fantabulous Password?", The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=4, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_final_fanta__Camera_Ready_(2).pdf" download> (PDF) </a> </p> 
+        
+ <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_ePost_short_final_Camera_ready__submit.pdf" download> (PDF) </a> </p> 
         
   <p> Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="../../raw/master/Publications/IFIP_SEC_2020_CR_paper_135.pdf" download> (PDF) </a> </p>  
   
 <p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. (BK CS IF=1) <a href="../../raw/master/Publications/" download> (PDF) </a> </p>
 
- <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. <a href="" download> (PDF) </a> </p>
+ <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020.<a href="../../raw/master/Publications/" download> (PDF) </a>  </p>
+ 
  <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1) <a href="../../raw/master/Publications/CAN_SAC_2019_FinalCameraReady(1).pdf
 " download> (PDF) </a> </p>
     </div>
@@ -31,7 +35,7 @@ permalink: /Publications/
         
 <p>Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) </p>
         
-<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea </p>
+<p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea  <a href="../../raw/master/Publications/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.pdf" download> (PDF) </a></p>
         
 <p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, <strong> "Tensor Decomposition for Anomaly Detection in Space", </strong> Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         

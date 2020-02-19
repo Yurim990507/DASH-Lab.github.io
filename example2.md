@@ -11,7 +11,9 @@ permalink: /Publications/
     <div class="row">
         
   <p> Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="../../raw/master/Publications/IFIP_SEC_2020_CR_paper_135.pdf" download> (PDF) </a> </p>  
-<p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. <p style="color: blue"> (BK IF=1)</p> <a href="../../raw/master/Publications/" download> (PDF) </a> </p>
+  
+<p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. <p style="color: blue"> (BK IF=1) </p> <a href="../../raw/master/Publications/" download> (PDF) </a> </p>
+
             <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. <a href="" download> (PDF) </a> </p>
  <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (Accepted, BK Computer Science IF=1) <a href="../../raw/master/Publications/CAN_SAC_2019_FinalCameraReady(1).pdf
 " download> (PDF) </a> </p>

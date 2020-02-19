@@ -9,9 +9,9 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
-        <p>  Simon S. Woo*, "How do we Create a Fantabulous Password?", The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=4, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_final_fanta__Camera_Ready_(2).pdf" download> (PDF) </a> </p> 
+        <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=4, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_final_fanta__Camera_Ready_(2).pdf" download> (PDF) </a> </p> 
         
- <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_ePost_short_final_Camera_ready__submit.pdf" download> (PDF) </a> </p> 
+ <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_ePost_short_final_Camera_ready__submit.pdf" download> (PDF) </a> </p> 
         
   <p> Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="../../raw/master/Publications/IFIP_SEC_2020_CR_paper_135.pdf" download> (PDF) </a> </p>  
   
@@ -27,13 +27,16 @@ permalink: /Publications/
 <div class="section">
     <h5>2019</h5>
     <div class="row">
-<p>Jelena Mirkovic and Simon S. Woo, <strong> "Designing for fallible humans," </strong> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) </p>
+<p>Jelena Mirkovic and Simon S. Woo, <strong> "Designing for fallible humans," </strong> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) 
+<a href="../../raw/master/Publications/DesigningForFallibleHumanshacs.pdf" download> (PDF) </a>
+</p>
 
 <p>Junyaup Kim, Siho Han, and Simon S. Woo*, <strong> "Poster: Classifying Genuine Face images from Disguised Face Images," </strong> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
 
-<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019 </p>
+<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="../../raw/master/Publications/NickeltoLego.pdf" download> (PDF) </a> </p>
         
-<p>Keeyoun Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) </p>
+<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) <a href="../../raw/master/Publications/3357384.3357803.pdf	
+" download> (PDF) </a> </p>
         
 <p>Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea  <a href="../../raw/master/Publications/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.pdf" download> (PDF) </a></p>
         
@@ -112,7 +115,8 @@ permalink: /Publications/
 <div class="section">
     <h5>2016</h5>
     <div class="row">
-<p> Simon S. Woo* and Jelena Mirkovic. "Improving Recall and Security of Passphrases Through Use of Mnemonics", Proceedings of the 10th International Conference on Passwords (Passwords), Bochum, Germany, 2016 (pdf). </p>
+<p> Simon S. Woo* and Jelena Mirkovic. <strong> "Improving Recall and Security of Passphrases Through Use of Mnemonics" </strong>, Proceedings of the 10th International Conference on Passwords (Passwords), Bochum, Germany, 2016 <a href="../../raw/master/Publications/Improving Recall and Security of Passphrases Through Use of Mnemonics.pdf" download> (PDF) </a>
+ </p>
 
 <p> Simon S. Woo, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein "Life Experience Passwords (LEPs)", The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 (Acceptance Rate 22.8%, BK우수학회 IF=2) (pdf) </p>
 

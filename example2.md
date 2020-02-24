@@ -9,9 +9,9 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
-        <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=4, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020__final_fanta__Camera_Ready_(2).pdf" download> (PDF) </a> </p> 
+        <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=4, Acceptance Rate=19%) </p> 
         
- <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_ePost_short_final_Camera_ready__submit.pdf" download> (PDF) </a> </p> 
+ <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%) </p> 
         
   <p> Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="https://arxiv.org/pdf/2001.01265.pdf" download> (PDF) </a> </p>  
   
@@ -19,8 +19,7 @@ permalink: /Publications/
 
  <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. </p>
  
- <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1) <a href="../../raw/master/Publications/CAN_SAC_2019_FinalCameraReady(1).pdf
-" download> (PDF) </a> </p>
+ <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1)  </p>
     </div>
 </div>
 <div class="divider"></div>
@@ -28,15 +27,14 @@ permalink: /Publications/
     <h5>2019</h5>
     <div class="row">
 <p>Jelena Mirkovic and Simon S. Woo, <strong> "Designing for fallible humans," </strong> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) 
-<a href="../../raw/master/Publications/DesigningForFallibleHumanshacs.pdf" download> (PDF) </a>
+<a href="https://www.isi.edu/~mirkovic/publications/hacs.pdf" download> (PDF) </a>
 </p>
 
 <p>Junyaup Kim, Siho Han, and Simon S. Woo*, <strong> "Poster: Classifying Genuine Face images from Disguised Face Images," </strong> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
 
-<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="../../raw/master/Publications/NickeltoLego.pdf" download> (PDF) </a> </p>
+<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="https://dl.acm.org/doi/10.1145/3319535.3363264" download> (PDF) </a> </p>
         
-<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) <a href="../../raw/master/Publications/3357384.3357803.pdf	
-" download> (PDF) </a> </p>
+<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357803f" download> (PDF) </a> </p>
         
 <p>Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea  <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.pdf" download> (PDF) </a></p>
         
@@ -44,11 +42,11 @@ permalink: /Publications/
         
 <p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence", 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA", SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4) </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA", SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a> </p>
         
-<p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (Acceptance Rate = 22.5%, BK Computer Science IF=1) </p>
+<p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (Acceptance Rate = 22.5%, BK Computer Science IF=1) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         
-<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557) </p>
+<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
 
 <p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3) </p>
         

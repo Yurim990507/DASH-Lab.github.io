@@ -13,7 +13,7 @@ permalink: /Publications/
         
  <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%)<a href="../../raw/master/Publications/_WWW2020_ePost_short_final_Camera_ready__submit.pdf" download> (PDF) </a> </p> 
         
-  <p> Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="../../raw/master/Publications/IFIP_SEC_2020_CR_paper_135.pdf" download> (PDF) </a> </p>  
+  <p> Hyeon Seong Jeon, Young Oh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="https://arxiv.org/pdf/2001.01265.pdf" download> (PDF) </a> </p>  
   
 <p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. (BK CS IF=1) </p>
 

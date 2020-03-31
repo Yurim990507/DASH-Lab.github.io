@@ -42,7 +42,7 @@ permalink: /Publications/
         
 <p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence", 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA", SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a> </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA", SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
         
 <p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (Acceptance Rate = 22.5%, BK Computer Science IF=1) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         

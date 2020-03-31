@@ -21,27 +21,27 @@ permalink: /Members/
               <tbody>
                 <tr>
                   <td>Keeyoung Kim</td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td>Youjin Shin</td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
                   <td>Khalid Hassam</td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>       
                 </tr>
               </tbody>
@@ -75,7 +75,7 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>       
                 </tr>
                 <tr>
@@ -90,7 +90,7 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td>Sowon Jeon</td>
-                  <td>Computer Science Engineering</td>
+                  <td>Computer Science & Engineering</td>
                   <td> </td>       
                 </tr> 
               </tbody>

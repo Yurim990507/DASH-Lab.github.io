@@ -40,9 +40,9 @@ permalink: /Publications/
         
 <p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, <strong> "Tensor Decomposition for Anomaly Detection in Space", </strong> Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
-<p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence", 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
+<p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, <strong> "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence",</strong> 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA", SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, <strong> "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA",</strong> SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
         
 <p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (Acceptance Rate = 22.5%, BK Computer Science IF=1) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         
@@ -52,7 +52,7 @@ permalink: /Publications/
         
 <p>Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using Episodic Memory for User Authentication,” ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019 (SCIE Q1 IF=2.1) </p>
  
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images," ACM SAC Cyprus April 2019, (Acceptance Rate 25%, BK Computer Science 우수학회 IF=1) </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, <strong> "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images",</strong> ACM SAC Cyprus April 2019, (Acceptance Rate 25%, BK Computer Science 우수학회 IF=1) </p>
        
 </div>
 <div class="divider"></div>
@@ -71,9 +71,9 @@ permalink: /Publications/
 
 <p> Yimin Zhu and Simon S. Woo* "Poster: Adversarial Product Review Generation with Word Replacements," 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
 
-<p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo* "Detecting In-Vehicle CAN Message Attacks using Heuristics and RNNs," 3rd International workshop on Information & Operational Technology (IT & OT) security systems (IOSec 2018), co-located with 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 </p>
+<p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo* <strong>"Detecting In-Vehicle CAN Message Attacks using Heuristics and RNNs",</strong> 3rd International workshop on Information & Operational Technology (IT & OT) security systems (IOSec 2018), co-located with 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 </p>
 
-<p> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo* "Detecting Both Machine and Human Created Fake Face Images In the Wild," 2nd International Workshop on Multimedia Privacy and Security (MPS 2018), co-located with 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
+<p> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo* <strong>"Detecting Both Machine and Human Created Fake Face Images In the Wild",</strong> 2nd International Workshop on Multimedia Privacy and Security (MPS 2018), co-located with 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
 
 <p> Simon S. Woo* and Jelena Mirkovic "GuidedPass: Guiding users to create both more memorable and strong passwords", 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 (Acceptance Rate 22.8%, BK우수학회 IF=2). </p>
 

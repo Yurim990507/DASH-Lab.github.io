@@ -37,7 +37,7 @@ permalink: /Members/
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
                   <td>Computer Science Engineering</td>
-                  <td>Timeseries Anomaly Detection, Deepfake generation & detection, Super Resolution, and Neural Style Transfer </td>
+                  <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
                   <td>Khalid Hassam</td>

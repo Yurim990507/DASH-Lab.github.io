@@ -19,7 +19,7 @@ permalink: /Publications/
 
  <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. </p>
  
- <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1)  </p>
+ <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1) <a href="https://dl.acm.org/doi/10.1145/3341105.3373868"> (PDF) </a> <a href="https://drive.google.com/u/1/uc?id=196DxRjdv5krMvMZfzo1BygGSfYTIHTv6&export=download" download="newfilename"> (Slides) </a> <a href="https://youtu.be/aNWjlSuSBWE"> (Video) </a></p>
     </div>
 </div>
 <div class="divider"></div>

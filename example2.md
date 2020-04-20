@@ -49,11 +49,11 @@ permalink: /Publications/
         
 <p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (<b><font color='blue'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         
-<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
+<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557</font></b>) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
 
 <p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (<b><font color='blue'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b>) </p>
         
-<p>Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using Episodic Memory for User Authentication,” ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019 (SCIE Q1 IF=2.1) </p>
+<p>Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using Episodic Memory for User Authentication,” ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019 (<b><font color='green'>SCIE Q1 IF=2.1</font></b>) </p>
  
 <p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, <strong> "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images",</strong> ACM SAC Cyprus April 2019, (<b><font color='blue'>Acceptance Rate 25%, BK Computer Science 우수학회 IF=1</font></b>) </p>
        
@@ -62,7 +62,7 @@ permalink: /Publications/
 <div class="section">
     <h5>2018</h5>
     <div class="row">
-<p> Simon S. Woo*, "Design and Evaluation of 3D CAPTCHAs", Elsevier Computers & Security, December 2018 (SCIE Q1 IF=2.86) </p>
+<p> Simon S. Woo*, "Design and Evaluation of 3D CAPTCHAs", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=2.86</font></b>) </p>
         
 <p> Joonkyu Han and Simon S. Woo*, "Poster: Memorability and Security of Image and Text Integrated Authentication System," The 34th Annual Computer Security Applications Conference (ACSAC), Puerto Rico, USA, 2018 </p>
 
@@ -70,7 +70,7 @@ permalink: /Publications/
 
 <p> Jihye Woo, Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and Simon S. Woo*, "Understanding Users’ Perception on Digital Certificate and Their Web Browser Usages in Korea," Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 (Best Paper, 국보연 원장상) </p>
 
-<p> H. Choi, J. Jeong, Simon S Woo, K. Kang, and J. Hur, "Password typographical error resilience in honey encryption", Elsevier Computers & Security, October 2018 (SCIE Q1 IF=2.86) </p>
+<p> H. Choi, J. Jeong, Simon S Woo, K. Kang, and J. Hur, "Password typographical error resilience in honey encryption", Elsevier Computers & Security, October 2018 (<b><font color='green'>SCIE Q1 IF=2.86</font></b>) </p>
 
 <p> Yimin Zhu and Simon S. Woo* "Poster: Adversarial Product Review Generation with Word Replacements," 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
 
@@ -139,7 +139,7 @@ permalink: /Publications/
 <div class="section">
     <h5>2014</h5>
     <div class="row">
-<p> Simon S. Woo and Jelena Mirkovic, "Optimal application allocation on multiple public clouds", Elsevier Computer Networks, February 2014. (SCIE Q1 IF=2.52) (pdf) </p>
+<p> Simon S. Woo and Jelena Mirkovic, "Optimal application allocation on multiple public clouds", Elsevier Computer Networks, February 2014. (<b><font color='green'>SCIE Q1 IF=2.52</font></b>) (pdf) </p>
 
 <p> Simon S. Woo, Jelena Mikovic, Ron Artstein, and Elsi Kaiser, "Life-Experice Passwords", Who are you?! Adventures in Authentication: ACM SOUPS-WAY Workshop, 2014, Menlo Park, CA (pdf) </p>
 

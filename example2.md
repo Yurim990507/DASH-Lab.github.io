@@ -10,7 +10,7 @@ permalink: /Publications/
     <h5>2020</h5>
     <div class="row">
         
- <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA </p> (PDF)  
+ <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  
         
  <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>Accepted, BK Computer Science IF=4, Acceptance Rate=19%</font></b>) </p> 
         

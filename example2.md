@@ -82,7 +82,7 @@ permalink: /Publications/
 
 <p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Poster: Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," Usenix The Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), Baltimore, USA, 2018 </p>
 
-<p> Keeyoung Kim and Simon S. Woo*, "When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs", 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 (<b><font color='blue'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated). </p>
+<p> Keeyoung Kim and Simon S. Woo*, "When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs", 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 (<b><font color='blue'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated</font></b>). </p>
 
 <p> Keeyoung Kim and Simon S. Woo*, "Generating Adversarial Images using Genetic Algorithm", The Second International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018) In conjunction with the IEEE CVPR 2018 , Salt Lake City, USA, June 2018. </p>
 

@@ -37,7 +37,7 @@ permalink: /Publications/
 
 <p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="https://dl.acm.org/doi/10.1145/3319535.3363264" download> (PDF) </a> </p>
         
-<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (Acceptance rate=21%, BK Computer Science IF=3) <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357803f" download> (PDF) </a> </p>
+<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (<b><font color='blue'>Acceptance rate=21%, BK Computer Science IF=3</font></b>) <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357803f" download> (PDF) </a> </p>
         
 <p>Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea  <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.pdf" download> (PDF) </a></p>
         
@@ -45,17 +45,17 @@ permalink: /Publications/
         
 <p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, <strong> "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence",</strong> 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
         
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, <strong> "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA",</strong> SIG KDD, Alaska, USA, 2019. (Accepted, BK Computer Science IF=4)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, <strong> "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA",</strong> SIG KDD, Alaska, USA, 2019. (<b><font color='blue'>Accepted, BK Computer Science IF=4</font></b>)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
         
-<p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (Acceptance Rate = 22.5%, BK Computer Science IF=1) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
+<p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (<b><font color='blue'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         
 <p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
 
-<p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3) </p>
+<p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (<b><font color='blue'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b>) </p>
         
 <p>Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using Episodic Memory for User Authentication,” ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019 (SCIE Q1 IF=2.1) </p>
  
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, <strong> "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images",</strong> ACM SAC Cyprus April 2019, (Acceptance Rate 25%, BK Computer Science 우수학회 IF=1) </p>
+<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, <strong> "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images",</strong> ACM SAC Cyprus April 2019, (<b><font color='blue'>Acceptance Rate 25%, BK Computer Science 우수학회 IF=1</font></b>) </p>
        
 </div>
 <div class="divider"></div>
@@ -78,11 +78,11 @@ permalink: /Publications/
 
 <p> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo* <strong>"Detecting Both Machine and Human Created Fake Face Images In the Wild",</strong> 2nd International Workshop on Multimedia Privacy and Security (MPS 2018), co-located with 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
 
-<p> Simon S. Woo* and Jelena Mirkovic "GuidedPass: Guiding users to create both more memorable and strong passwords", 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 (Acceptance Rate 22.8%, BK우수학회 IF=2). </p>
+<p> Simon S. Woo* and Jelena Mirkovic "GuidedPass: Guiding users to create both more memorable and strong passwords", 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 (<b><font color='blue'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b>). </p>
 
 <p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Poster: Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," Usenix The Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), Baltimore, USA, 2018 </p>
 
-<p> Keeyoung Kim and Simon S. Woo*, "When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs", 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 (Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated). </p>
+<p> Keeyoung Kim and Simon S. Woo*, "When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs", 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 (<b><font color='blue'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated). </p>
 
 <p> Keeyoung Kim and Simon S. Woo*, "Generating Adversarial Images using Genetic Algorithm", The Second International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018) In conjunction with the IEEE CVPR 2018 , Salt Lake City, USA, June 2018. </p>
 
@@ -90,7 +90,7 @@ permalink: /Publications/
 
 <p> Simon S. Woo*, "Benefits and Challenges of Long Term Self-Tracking to Prevent Lonely Deaths and Detect Signs of Life," A Short Workshop on Next Steps Towards Long Term Self Tracking at ACM SIG CHI2018, April, 2018, Montreal, Canada (pdf) </p>
 
-<p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," ACM SIG CHI2018, April, 2018, Montreal, Canada (Acceptance Rate 25.7%, BK우수학회 IF=4)(pdf) </p>
+<p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," ACM SIG CHI2018, April, 2018, Montreal, Canada (<b><font color='blue'>Acceptance Rate 25.7%, BK우수학회 IF=4</font></b>)(pdf) </p>
 
 <p> Simon S. Woo*, and Jelena Mirkovic, "Memorablity and Security of Different Passphrase Generation Methods,"Review of KIISC (정보보호학회지), Feb. 2018 (pdf) </p>
 
@@ -119,7 +119,7 @@ permalink: /Publications/
 <p> Simon S. Woo* and Jelena Mirkovic. <strong> "Improving Recall and Security of Passphrases Through Use of Mnemonics" </strong>, Proceedings of the 10th International Conference on Passwords (Passwords), Bochum, Germany, 2016 <a href="../../raw/master/Publications/Improving Recall and Security of Passphrases Through Use of Mnemonics.pdf" download> (PDF) </a>
  </p>
 
-<p> Simon S. Woo, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein "Life Experience Passwords (LEPs)", The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 (Acceptance Rate 22.8%, BK우수학회 IF=2) (pdf) </p>
+<p> Simon S. Woo, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein "Life Experience Passwords (LEPs)", The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 (<b><font color='blue'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b>) (pdf) </p>
 
 <p> Simon S. Woo*, Zuyao Li, and Jelena Mirkovic, "Good Automatic Authentication Question Generation", The 9th SIGGEN International Natural Language Generation Conference (INLG), Edinburgh, 2016 (pdf) </p>
 

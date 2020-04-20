@@ -9,7 +9,7 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
-        <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<font color="blue">Accepted, BK Computer Science IF=4, Acceptance Rate=19%</font>) </p> 
+        <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<font color='blue'>Accepted, BK Computer Science IF=4, Acceptance Rate=19%</font>) </p> 
         
  <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%) </p> 
         

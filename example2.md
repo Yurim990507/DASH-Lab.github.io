@@ -12,17 +12,17 @@ permalink: /Publications/
         
  <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  
         
- <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>Accepted, BK Computer Science IF=4, Acceptance Rate=19%</font></b>) </p> 
+ <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=4, Acceptance Rate=19%</font></b>) </p> 
         
- <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (Accepted, BK Computer Science IF=3, Acceptance Rate=19%) </p> 
+ <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=3, Acceptance Rate=19%</font></b>) </p> 
         
-  <p> Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (BK CS IF=1) <a href="https://arxiv.org/pdf/2001.01265.pdf" download="newfilename"> (PDF) </a> </p>  
+  <p> Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (<b><font color='blue'>BK CS IF=1)</font></b> <a href="https://arxiv.org/pdf/2001.01265.pdf" download="newfilename"> (PDF) </a> </p>  
   
-<p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. (BK CS IF=1) </p>
+<p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. (<b><font color='blue'>BK CS IF=1</font></b>) </p>
 
  <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. </p>
  
- <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (BK CS IF=1) <a href="https://dl.acm.org/doi/10.1145/3341105.3373868"> (PDF) </a> <a href="https://drive.google.com/u/1/uc?id=196DxRjdv5krMvMZfzo1BygGSfYTIHTv6&export=download" download="newfilename"> (Slides) </a> <a href="https://youtu.be/aNWjlSuSBWE"> (Video) </a></p>
+ <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (<b><font color='blue'>BK CS IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3341105.3373868"> (PDF) </a> <a href="https://drive.google.com/u/1/uc?id=196DxRjdv5krMvMZfzo1BygGSfYTIHTv6&export=download" download="newfilename"> (Slides) </a> <a href="https://youtu.be/aNWjlSuSBWE"> (Video) </a></p>
     </div>
 </div>
 <div class="divider"></div>

@@ -27,13 +27,13 @@ permalink: /Members/
                 <tr>
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering</td>
-                   <td>Tensor methods for Anomaly Detection and Deep learning and Deepfakes </td>
+                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science & Engineering</td>
-                  <td> Anomaly Detection and Deepfakes Detection</td>
+                  <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>

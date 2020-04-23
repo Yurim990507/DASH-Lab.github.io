@@ -89,6 +89,12 @@ permalink: /Members/
                   <td> </td>       
                 </tr>
                 <tr>
+                <tr>
+                  <td>Sujin Park</td>
+                  <td>Applied Data Science/Kakao</td>
+                  <td> </td>       
+                </tr>
+                <tr>
                   <td>Sowon Jeon</td>
                   <td>Computer Science & Engineering</td>
                   <td> </td>       

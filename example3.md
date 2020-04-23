@@ -27,6 +27,7 @@ permalink: /Members/
                 <tr>
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering</td>
+                   <td>Tensor methods for anomaly detection and deep learning  </td>
                   <td> </td>
                 </tr>
                 <tr>

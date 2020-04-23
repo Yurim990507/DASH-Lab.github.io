@@ -9,10 +9,14 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
+        
  <p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo*, "CAN-ADF: The Controller Area Network Attack Detection Framework", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=3.06</font></b>) </p>
         
  <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  
-        
+
+ <p> Hanbin Jang, Woojung Ji, <b>Simon Woo</b> and Hyoungshick Kim, “Design and Evaluation of Enumeration Attacks on Package Tracking Systems”,  The 25th Australasian Conference on Information Security and Privacy, Perth, Australia, 2020 (acceptance rate ~ = 20%)
+ </p>        
+
  <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=4, Acceptance Rate=19%</font></b>) </p> 
         
  <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=3, Acceptance Rate=19%</font></b>) </p> 

@@ -27,7 +27,7 @@ permalink: /Members/
                 <tr>
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering</td>
-                   <td>Tensor methods for Anomaly Detection and Deep learning  </td>
+                   <td>Tensor methods for Anomaly Detection and Deep learning and Deepfakes </td>
                   <td> </td>
                 </tr>
                 <tr>
@@ -97,7 +97,7 @@ permalink: /Members/
                 <tr>
                   <td>Sowon Jeon</td>
                   <td>Computer Science & Engineering</td>
-                  <td> </td>       
+                  <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
                   <td>JoonHyung Kang</td>

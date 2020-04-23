@@ -22,12 +22,12 @@ permalink: /Members/
                 <tr>
                   <td>Keeyoung Kim</td>
                   <td>Computer Science & Engineering</td>
-                  <td> </td>
+                  <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering</td>
-                   <td>Tensor methods for anomaly detection and deep learning  </td>
+                   <td>Tensor methods for Anomaly Detection and Deep learning  </td>
                   <td> </td>
                 </tr>
                 <tr>

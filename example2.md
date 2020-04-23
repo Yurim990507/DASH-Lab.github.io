@@ -9,7 +9,7 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
- <p> Shahroz Tariqa, Sangyup Leea, Huy Kang, Kim and Simon S. Woo*, "CAN-ADF: The Controller Area Network Attack Detection Framework", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=2.86</font></b>) </p>
+ <p> Shahroz Tariqa, Sangyup Leea, Huy Kang, Kim and Simon S. Woo*, "CAN-ADF: The Controller Area Network Attack Detection Framework", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=3.06</font></b>) </p>
         
  <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  
         
@@ -63,7 +63,7 @@ permalink: /Publications/
 <div class="section">
     <h5>2018</h5>
     <div class="row">
-<p> Simon S. Woo*, "Design and Evaluation of 3D CAPTCHAs", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=2.86</font></b>) </p>
+<p> Simon S. Woo*, "Design and Evaluation of 3D CAPTCHAs", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=3.06</font></b>) </p>
         
 <p> Joonkyu Han and Simon S. Woo*, "Poster: Memorability and Security of Image and Text Integrated Authentication System," The 34th Annual Computer Security Applications Conference (ACSAC), Puerto Rico, USA, 2018 </p>
 

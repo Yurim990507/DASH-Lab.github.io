@@ -91,7 +91,7 @@ permalink: /Members/
                 <tr>
                 <tr>
                   <td>Sujin Park</td>
-                  <td>Applied Data Science/Kakao</td>
+                  <td>Applied Data Science and Kakao</td>
                   <td> </td>       
                 </tr>
                 <tr>

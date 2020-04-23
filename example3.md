@@ -120,6 +120,35 @@ permalink: /Members/
     </div>
 </div>
 
+<div class="section">
+    <h5>Undergraduate</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table>
+              <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Major</th>
+                    <th>Research Interests</th>
+                </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                  <td>Donghoon Cha</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Deepfakes</td>       
+                </tr>
+                 <tr>
+                  <td>Gunwoo Park</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Security and Deepfakes</td>       
+                </tr>
+              </tbody>
+            </table>
+          </div>
+    </div>
+</div>
+
 
 <div class="section">
     <h5>Master Thesis Supervision</h5> 

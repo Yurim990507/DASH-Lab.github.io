@@ -72,12 +72,12 @@ permalink: /Members/
                 <tr>
                   <td>Youngoh Bang</td>
                   <td>AI</td>
-                  <td> </td>
+                  <td>Fake Image Detection and Generation, AI based Satellite Ops </td>
                 </tr>
                 <tr>
                   <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
                   <td>Computer Science & Engineering</td>
-                  <td> Fake Image Detection and Generation, AI based Satellite Ops</td>       
+                  <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
                   <td>Siho Han</td>
@@ -112,7 +112,7 @@ permalink: /Members/
                  <tr>
                   <td>HyunJae Lee</td>
                   <td>Statistics</td>
-                  <td> </td>       
+                  <td> Anomaly Detection</td>       
                 </tr>
               </tbody>
             </table>

@@ -92,6 +92,11 @@ permalink: /Members/
                   <td>Sowon Jeon</td>
                   <td>Computer Science & Engineering</td>
                   <td> </td>       
+                </tr>
+                 <tr>
+                  <td>JoonHyung Kang</td>
+                  <td>AI</td>
+                  <td> </td>       
                 </tr> 
                 <tr>
                   <td>Hanbin Lee</td>

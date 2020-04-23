@@ -33,7 +33,7 @@ permalink: /Members/
                 <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science & Engineering</td>
-                  <td> </td>
+                  <td> Anomaly Detection and Deepfakes Detection</td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
@@ -43,7 +43,7 @@ permalink: /Members/
                 <tr>
                   <td>Khalid Hassam</td>
                   <td>Computer Science & Engineering</td>
-                  <td> </td>       
+                  <td> Deepfakes and Speech Applications</td>       
                 </tr>
               </tbody>
             </table>

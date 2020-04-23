@@ -87,9 +87,8 @@ permalink: /Members/
                 <tr>
                   <td>Sang Won Lee</td>
                   <td>Applied Data Science</td>
-                  <td> </td>       
+                  <td> Big Data Processing and Social Networking</td>       
                 </tr>
-                <tr>
                 <tr>
                   <td>Sujin Park</td>
                   <td>Applied Data Science and Kakao</td>

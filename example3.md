@@ -102,7 +102,12 @@ permalink: /Members/
                   <td>Hanbin Lee</td>
                   <td>AI</td>
                   <td> </td>       
-                </tr> 
+                </tr>
+                 <tr>
+                  <td>HyunJae Lee</td>
+                  <td>Statistics</td>
+                  <td> </td>       
+                </tr>
               </tbody>
             </table>
           </div>

@@ -67,7 +67,7 @@ permalink: /Members/
                 <tr>
                   <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon </a> </td>
                   <td>AI</td>
-                  <td> </td>
+                  <td> Fake Image Detection and Generation</td>
                 </tr>
                 <tr>
                   <td>Youngoh Bang</td>
@@ -77,12 +77,12 @@ permalink: /Members/
                 <tr>
                   <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
                   <td>Computer Science & Engineering</td>
-                  <td> </td>       
+                  <td> Fake Image Detection and Generation, AI based Satellite Ops</td>       
                 </tr>
                 <tr>
                   <td>Siho Han</td>
                   <td>Applied Data Science</td>
-                  <td> </td>       
+                  <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
                   <td>Sang Won Lee</td>
@@ -92,7 +92,7 @@ permalink: /Members/
                 <tr>
                   <td>Sujin Park</td>
                   <td>Applied Data Science and Kakao</td>
-                  <td> </td>       
+                  <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
                   <td>Sowon Jeon</td>
@@ -102,12 +102,12 @@ permalink: /Members/
                  <tr>
                   <td>JoonHyung Kang</td>
                   <td>AI</td>
-                  <td> </td>       
+                  <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
                   <td>Hanbin Lee</td>
                   <td>AI</td>
-                  <td> </td>       
+                  <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
                   <td>HyunJae Lee</td>

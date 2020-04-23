@@ -93,6 +93,11 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td> </td>       
                 </tr> 
+                <tr>
+                  <td>Hanbin Lee</td>
+                  <td>AI</td>
+                  <td> </td>       
+                </tr> 
               </tbody>
             </table>
           </div>

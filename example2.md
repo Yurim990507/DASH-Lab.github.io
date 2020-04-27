@@ -42,6 +42,7 @@ permalink: /Publications/
 
 <p>Junyaup Kim, Siho Han, and Simon S. Woo*, <strong> "Poster: Classifying Genuine Face images from Disguised Face Images," </strong> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
 
+
 <p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="https://dl.acm.org/doi/10.1145/3319535.3363264" download> (PDF) </a> </p>
         
 <p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (<b><font color='blue'>Acceptance rate=21%, BK Computer Science IF=3</font></b>) <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357803f" download> (PDF) </a> </p>

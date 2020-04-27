@@ -9,7 +9,9 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
-        
+ 
+ <p> Dan Zhang, and Simon S. Woo*, "Real Time Localized Air Quality Monitoring and Prediction Through Mobile and Fixed IoT Sensing Network", IEEE Access, May 2020 (<b><font color='green'>SCIE Q1 IF=4.09</font></b>) </p>
+ 
  <p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo*, "CAN-ADF: The Controller Area Network Attack Detection Framework", Elsevier Computers & Security, December 2018 (<b><font color='green'>SCIE Q1 IF=3.06</font></b>) </p>
         
  <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  

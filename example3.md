@@ -67,7 +67,7 @@ permalink: /Members/
                 <tr>
                   <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon </a> </td>
                   <td>AI</td>
-                  <td> Neural Architectures, Data Augmentation, and Video Generation</td>
+                  <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
                   <td>Youngoh Bang</td>

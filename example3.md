@@ -65,53 +65,53 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon </a> </td>
+                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon (인공지능학과)</a> </td>
                   <td>AI</td>
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
-                  <td>Youngoh Bang</td>
+                  <td>Youngoh Bang (인공지능학과)</td>
                   <td>AI</td>
                   <td>Fake Image Detection and Generation, AI based Satellite Ops </td>
                 </tr>
                 <tr>
                   <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
                   <td>Siho Han</td>
-                  <td>Applied Data Science</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
                   <td>Sang Won Lee</td>
-                  <td>Applied Data Science</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td>Sujin Park</td>
-                  <td>Applied Data Science and Kakao</td>
+                  <td>Sujin Park (데이터사이언스)</td>
+                  <td>Applied Data Science/Kakao</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td>Sowon Jeon</td>
+                  <td>Sowon Jeon (소프트웨어)</td>
                   <td>Computer Science & Engineering</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td>JoonHyung Kang</td>
+                  <td>JoonHyung Kang (인공지능학과)</td>
                   <td>AI</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td>Hanbin Lee</td>
+                  <td>Hanbin Lee (인공지능학과)</td>
                   <td>AI</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
                   <td>HyunJae Lee</td>
-                  <td>Statistics</td>
+                  <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
                 <tr>

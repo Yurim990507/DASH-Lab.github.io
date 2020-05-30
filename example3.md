@@ -65,13 +65,13 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon (인공지능학과)</a> </td>
-                  <td>AI</td>
+                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon </a> </td>
+                  <td>AI (인공지능학과)</td>
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
-                  <td>Youngoh Bang (인공지능학과)</td>
-                  <td>AI</td>
+                  <td>Youngoh Bang </td>
+                  <td>AI (인공지능학과)</td>
                   <td>Fake Image Detection and Generation, AI based Satellite Ops </td>
                 </tr>
                 <tr>

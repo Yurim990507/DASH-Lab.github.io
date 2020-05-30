@@ -171,13 +171,13 @@ permalink: /Members/
               <tbody>
                 <tr>
                   <td>Seunghwa Song</td>
-                  <td>Applied Data Science</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
                   <td>Citi Bank</td>
                   <td>Topic : Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
                 </tr>
                 <tr>
                   <td>SoonYoung Kwon</td>
-                  <td>Applied Data Science</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
                   <td>Tiger Team</td>
                   <td>Topic : Deep Learning based Phishing Website Detection using Source Code</td>
                 </tr>

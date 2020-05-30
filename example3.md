@@ -202,7 +202,7 @@ permalink: /Members/
               <tbody>
                 <tr>
                   <td>Young Rok Choi </td>
-                  <td>Applied Data Science</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
                   <td>Kakao</td>
                 </tr>
                 <tr>

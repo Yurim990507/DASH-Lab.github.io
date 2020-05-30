@@ -21,28 +21,28 @@ permalink: /Members/
               <tbody>
                 <tr>
                   <td>Keeyoung Kim</td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
                   <td>Youjin Shin</td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                    <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                   <td> </td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
                   <td>Khalid Hassam</td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
               </tbody>

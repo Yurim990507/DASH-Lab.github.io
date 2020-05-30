@@ -29,8 +29,8 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
-          ◼ DeepFake Detection and Generation <br>
-          ◼ Anomlay Detectopm <br>
+          ◼ Deepfake Detection and Generation <br>
+          ◼ Time Series Analysis/Anomlay Detection <br>
           ◼ Computer Security (Usable Security, Blockchain, Intrusion/Anomaly Detection) <br>
           ◼ Satellite Image Processing, Object Detection, Communications and Protocols  <br>
           ◼ DataScience <br>

@@ -181,6 +181,13 @@ permalink: /Members/
                   <td>Tiger Team</td>
                   <td>Topic : Deep Learning based Phishing Website Detection using Source Code</td>
                 </tr>
+                <tr>
+                  <td>서수량</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>서울대학교 병원</td>
+                  <td>Topic : 전자의무기록 임상 노트와 ClinicalBERT로 Transfer Learning을 이용한 장기재원 여부 예측 
+                 </td>
+                </tr>
               </tbody>
             </table>
           </div>

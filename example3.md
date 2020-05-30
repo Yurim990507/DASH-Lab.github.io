@@ -156,7 +156,7 @@ permalink: /Members/
 
 
 <div class="section">
-    <h5>Master Thesis Supervision</h5> 
+    <h5>Master Thesis/Capstone Project Supervision</h5> 
     <div class="row">
           <div class="col s12">
             <table>

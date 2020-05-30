@@ -15,7 +15,7 @@ permalink: /About/
         ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
         ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
         ◼ Lynnwood High School, Lynnwood, WA, USA <br>
-        ◼ YoungShin High School (영신고), Taegu, S.Korea <br>
+      
  
 </div>
 
@@ -29,9 +29,17 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
+          ◼ DeepFake Detection and Generation <br>
+          ◼ Anomlay Detectopm <br>
           ◼ Computer Security (Usable Security, Blockchain, Intrusion/Anomaly Detection) <br>
-          ◼ Satellite Communications and Protocols (PHY, DTN, OPS, SYNC, Deep Space) <br>
-          ◼ AI/Machine Learning/Big Data <br>
+          ◼ Satellite Image Processing, Object Detection, Communications and Protocols  <br>
+          ◼ DataScience <br>
+</div>
+<div class="section">
+    <h5>TPC/Reviewer Service</h5> 
+          ◼ Securecomm (2019, 2020) <br>
+          ◼ SOUPS (2020) <br>
+
 </div>
 <div class="divider"></div>
 <div class="section">

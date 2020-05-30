@@ -90,23 +90,23 @@ permalink: /Members/
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td>Sujin Park (데이터사이언스)</td>
-                  <td>Applied Data Science/Kakao</td>
+                  <td>Sujin Park </td>
+                  <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td>Sowon Jeon (소프트웨어)</td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Sowon Jeon </td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td>JoonHyung Kang (인공지능학과)</td>
-                  <td>AI</td>
+                  <td>JoonHyung Kang </td>
+                  <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td>Hanbin Lee (인공지능학과)</td>
-                  <td>AI</td>
+                  <td>Hanbin Lee </td>
+                  <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>

@@ -114,6 +114,11 @@ permalink: /Members/
                   <td>Statistics</td>
                   <td> Anomaly Detection</td>       
                 </tr>
+                <tr>
+                  <td>Sunny Yoon</td>
+                  <td>Applied AI (인공지능융합학과)</td>
+                  <td> Anomaly Detection</td>       
+                </tr>
               </tbody>
             </table>
           </div>

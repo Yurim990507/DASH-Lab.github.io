@@ -9,12 +9,12 @@ permalink: /Projects/
 ![Simon Woo](./img/simonwoo.png)
 
 <div class="section">
-    <h5>About me</h5> 
-        ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
+    <h5>Current Research Projects</h5> 
+        ◼ ABC <br>
         ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
         ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
         ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
-        ◼ Lynnwood High School, Lynnwood, WA, USA <br>
+        ◼ ABC
       
  
 </div>

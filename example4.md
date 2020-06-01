@@ -8,7 +8,7 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-June 1st 2020. Congrats Hyeonseong Jeon for his ICML2020 paper acceptance (acceptance rate=21.8%) <br>
+June 1st 2020. Big Congrats to Hyeonseong Jeon for his ICML2020 paper acceptance (acceptance rate=21.8%) <br>
 Nov. 2019. Won the special prize for KoGas Big Data Competition(click) <br>
 Nov. 2019. Gave a talk at Authentication Workshop(click) <br>
 Oct. 2019. Open Energy Cloud Platform, a joint security + ML project with KAIST and SNU is funded(click) <br>

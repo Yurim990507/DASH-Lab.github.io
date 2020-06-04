@@ -12,9 +12,9 @@ permalink: /Publications/
  
 
 
- <p>Seoyoung Park*, Siho Han* and Simon S. Woo, "Applying Deep Learning to Reconstruct Pottery from Thousands Shards," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
+ <p>Keeyoung Kim, Jinseok Hong, Sang-Hoon Rhee and Simon Woo,, "Applying Deep Learning to Reconstruct Pottery from Thousands Shards," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
 
- <p>Keeyoung Kim, Jinseok Hong, Sang-Hoon Rhee and Simon Woo, "Forecasting Error Pattern-based Anomaly Detection in Multivariate Time Series," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
+ <p>Seoyoung Park*, Siho Han* and Simon S. Woo, "Forecasting Error Pattern-based Anomaly Detection in Multivariate Time Series," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
  
  <p> Hyeonseong Jeon, Youngoh Bang, Junyaup Kim, and Simon S. Woo. "T-GD: Transferable GAN-generated Images Detection Framework.". Thirty-seventh International Conference on Machine Learning  (ICML), Vienna, Austria, 2020 (<b><font color='blue'>BK Computer Science IF=4, Acceptance Rate=21.8%</font></b>) </p>
  

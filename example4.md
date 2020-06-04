@@ -8,6 +8,7 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
+June 4th 2020. Big Congrats to Siho (Sean) Han and Keeyoung Kim, 2 papers acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) <br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>
 Nov. 2019. Won the special prize for KoGas Big Data Competition(click) <br>
 Nov. 2019. Gave a talk at Authentication Workshop(click) <br>

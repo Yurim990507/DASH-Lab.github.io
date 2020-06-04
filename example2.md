@@ -65,7 +65,7 @@ permalink: /Publications/
         
 <p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (<b><font color='blue'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
         
-<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (SCIE Q1 IF= 3.557</font></b>) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
+<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (<b><font color='purple'> SCIE Q1 IF= 3.557</font></b>) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
 
 <p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (<b><font color='blue'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b>) </p>
         

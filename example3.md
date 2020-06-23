@@ -71,7 +71,7 @@ permalink: /Members/
                   <div style="display:flex;flex-direction:column">
                   <img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
-                  <div> 
+                  </div> 
                       </td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>

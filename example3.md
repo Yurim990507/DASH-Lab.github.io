@@ -37,7 +37,7 @@ permalink: /Members/
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><img  class="responsive-img" src="img/ShahrozTariq.jpg" alt="" width="128">
+                  <td><img  class="responsive-img" src="img/ShahrozTariq.jpg" alt="" width="128"> 
                       <div class="parallax">
                   <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
                           </div></td>
@@ -100,8 +100,7 @@ permalink: /Members/
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td>  ![Simon Woo](./img/simonwoo.png) 
-                      <img src="img/SowonJeon.png" alt=""  width="128">Sowon Jeon</td>
+                  <td>  <img src="img/SowonJeon.png" alt=""  width="128"> </img> <br/> Sowon Jeon</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>

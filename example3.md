@@ -35,7 +35,7 @@ permalink: /Members/
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/ShahrozTariq.jpg" alt="" width="128"><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></td>
+                  <td><img  class="responsive-img" src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/ShahrozTariq.jpg" alt="" width="128"><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>

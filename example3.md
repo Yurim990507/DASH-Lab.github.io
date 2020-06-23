@@ -100,7 +100,7 @@ permalink: /Members/
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td>  <img src="img/SowonJeon.png" alt=""  width="128"> </img> <br/> Sowon Jeon</td>
+                  <td>  <img src="img/SowonJeon.jpg" alt=""  width="128"> </img> <br/> Sowon Jeon</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>

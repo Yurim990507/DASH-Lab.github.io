@@ -20,30 +20,30 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img src="img/KeeyoungKim.png"  alt="" width="128">Keeyoung Kim</td>
+                  <td><img src="/img/KeeyoungKim.png"  alt="" width="128">Keeyoung Kim</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
-                  <td><img src="img/YoujinShin.png" alt="" width="128">Youjin Shin</td>
+                  <td><img src="/img/YoujinShin.png" alt="" width="128">Youjin Shin</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
                 <tr>
                   <td>
-                      <img  src="img/SangyupLee.png" alt="" width="128">
+                      <img  src="/img/SangyupLee.png" alt="" width="128">
                       <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><img  src="img/ShahrozTariq.jpg" alt="" width="128"> 
+                  <td><img  src="/img/ShahrozTariq.jpg" alt="" width="128"> 
                   <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
-                  <td><img src="img/HassamKhalid.png" alt="" width="128">Hassam Khalid</td>
+                  <td><img src="/img/HassamKhalid.png" alt="" width="128">Hassam Khalid</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
@@ -83,43 +83,43 @@ permalink: /Members/
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
-                  <td><img src="img/SihoHan.jpg" alt="" width="128">Siho Han</td>
+                  <td><img src="/img/SihoHan.jpg" alt="" width="128">Siho Han</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="img/SangWonLee.png" alt="" width="128">Sang Won Lee</td>
+                  <td><img src="/img/SangWonLee.png" alt="" width="128">Sang Won Lee</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td><img src="img/SujinPark.png" alt="" width="128">Sujin Park</td>
+                  <td><img src="/img/SujinPark.png" alt="" width="128">Sujin Park</td>
                   <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
                   <td>
-                      <img src="img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon</td>
+                      <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td><img src="img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang</td>
+                  <td><img src="/img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang</td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td><img src="img/HanbinLee.png" alt=""  width="128">Hanbin Lee</td>
+                  <td><img src="/img/HanbinLee.png" alt=""  width="128">Hanbin Lee</td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
-                  <td><img src="img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee</td>
+                  <td><img src="/img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee</td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="img/SunnyYoon.png" alt="" width="128">Sunny Yoon</td>
+                  <td><img src="/img/SunnyYoon.png" alt="" width="128">Sunny Yoon</td>
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>

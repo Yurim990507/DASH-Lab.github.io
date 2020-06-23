@@ -111,33 +111,49 @@ permalink: /Members/
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td><img src="/img/SujinPark.png" alt="" width="128">Sujin Park</td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/SujinPark.png" alt="" width="128">Sujin Park
+                      </div></td>
                   <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
                   <td>
-                      <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon</td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon
+                      </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td><img src="/img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang</td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang
+                      </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td><img src="/img/HanbinLee.png" alt=""  width="128">Hanbin Lee</td>
+                  <td>
+                    <div style="display:flex;flex-direction:column">
+                      <img src="/img/HanbinLee.png" alt=""  width="128">Hanbin Lee
+                      </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
-                  <td><img src="/img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee</td>
+                  <td>
+                <div style="display:flex;flex-direction:column">
+                  <img src="/img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee
+                      </div></td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="/img/SunnyYoon.png" alt="" width="128">Sunny Yoon</td>
+                  <td>
+                <div style="display:flex;flex-direction:column">
+                      <img src="/img/SunnyYoon.png" alt="" width="128">Sunny Yoon</div></td>
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>

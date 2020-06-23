@@ -67,28 +67,46 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
-                  <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a></td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                  <img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
+                  <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
+                  <div> 
+                      </td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
-                  <td><img src="/img/YoungohBang.jpg" alt="" width="128">Youngoh Bang</td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/YoungohBang.jpg" alt="" width="128">Youngoh Bang
+                      </div>
+                      </td>
                   <td>AI (인공지능학과)</td>
                   <td> Fake Image Detection and Generation, AI based Satellite Ops</td>       
                 </tr>
                 <tr>
-                  <td><img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a></td>
+                    <td>
+                  <div style="display:flex;flex-direction:column">
+                  <img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a>
+                </div>
+                </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
-                  <td><img src="/img/SihoHan.jpg" alt="" width="128">Siho Han</td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/SihoHan.jpg" alt="" width="128">Siho Han
+                      </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="/img/SangWonLee.png" alt="" width="128">Sang Won Lee</td>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/SangWonLee.png" alt="" width="128">Sang Won Lee
+                      </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>

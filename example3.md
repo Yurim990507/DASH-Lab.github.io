@@ -13,6 +13,7 @@ permalink: /Members/
             <table>
               <thead>
                 <tr>
+                    <th></th>
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>
@@ -20,28 +21,33 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/KeeyoungKim.png" alt=""></td>
                   <td>Keeyoung Kim</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoujinShin.png" alt=""></td>
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
-                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
+                  <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                   <td> </td>
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SangyupLee.png" alt=""></td>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank"> Shahroz Tariq </a></td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/ShahrozTariq.png" alt=""></td>
+                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
-                  <td>Khalid Hassam</td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HassamKhalid.png" alt=""></td>
+                  <td>Hassam Khalid</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
@@ -58,6 +64,7 @@ permalink: /Members/
             <table>
               <thead>
                 <tr>
+                    <th></th>
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>
@@ -65,56 +72,67 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon </a> </td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyeonseongJeon.png" alt=""></td>
+                  <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon</a> </td>
                   <td>AI (인공지능학과)</td>
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoungohBang.png" alt=""></td>
                   <td>Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
                   <td>Fake Image Detection and Generation, AI based Satellite Ops </td>
                 </tr>
                 <tr>
-                  <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/"> Junyaup Kim </a></td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/JunyaupKim.png" alt=""></td>
+                  <td><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SihoHan.png" alt=""></td>
                   <td>Siho Han</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SangWonLee.png" alt=""></td>
                   <td>Sang Won Lee</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td>Sujin Park </td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SujinPark.png" alt=""></td> 
+                  <td>Sujin Park</td>
                   <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td>Sowon Jeon </td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SowonJeon.png" alt=""></td>
+                  <td>Sowon Jeon</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td>JoonHyung Kang </td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/JoonHyungKang.png" alt=""></td>
+                  <td>JoonHyung Kang</td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td>Hanbin Lee </td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HanbinLee.png" alt=""></td>
+                  <td>Hanbin Lee</td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyunJaeLee.png" alt=""></td>
                   <td>HyunJae Lee</td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
                 <tr>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SunnyYoon.png" alt=""></td>
                   <td>Sunny Yoon</td>
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       

@@ -30,7 +30,9 @@ permalink: /Members/
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
                 <tr>
-                  <td>![SangyupLee](./img/SangyupLee.png)<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
+                  <td>
+                      ![SangyupLee](./img/SangyupLee.png)
+                      <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>

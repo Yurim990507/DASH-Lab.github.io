@@ -71,7 +71,7 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyeonseongJeon.png" alt=""></td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyeonseongJeon.jpg" alt=""></td>
                   <td><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon</a> </td>
                   <td>AI (인공지능학과)</td>
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
@@ -89,7 +89,7 @@ permalink: /Members/
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SihoHan.png" alt=""></td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SihoHan.jpg" alt=""></td>
                   <td>Siho Han</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       

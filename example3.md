@@ -37,8 +37,8 @@ permalink: /Members/
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><img  class="responsive-img" src="img/ShahrozTariq.jpg" alt="" width="128">
-                      <div class="parallax">
+                  <td><div class="responsive-img">
+                      <img  class="responsive-img" src="img/ShahrozTariq.jpg" alt="" width="128">                   
                   <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
                           </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

@@ -13,7 +13,7 @@ permalink: /Members/
             <table>
               <thead>
                 <tr>
-                    <th></th>
+                    <th> </th>
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>
@@ -63,7 +63,7 @@ permalink: /Members/
             <table>
               <thead>
                 <tr>
-                    <th></th>
+                    <th> </th>
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>

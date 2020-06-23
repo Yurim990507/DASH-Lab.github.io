@@ -77,7 +77,7 @@ permalink: /Members/
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoungohBang.png" alt="" width="128"></td>
+                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoungohBang.jpg" alt="" width="128"></td>
                   <td>Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
                   <td>Fake Image Detection and Generation, AI based Satellite Ops </td>

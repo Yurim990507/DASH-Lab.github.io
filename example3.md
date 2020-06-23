@@ -31,7 +31,6 @@ permalink: /Members/
                   <td>Youjin Shin</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
-                  <td> </td>
                 </tr>
                 <tr>
                   <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SangyupLee.png" alt=""></td>

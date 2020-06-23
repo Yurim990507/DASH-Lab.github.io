@@ -66,6 +66,12 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+              <tr>
+                  <td><img  src="/img/ShahrozTariq.jpg" alt="" width="128"> 
+                  <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
+                </tr>
                 <tr>
                   <td><img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a></td>

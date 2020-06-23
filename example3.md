@@ -20,12 +20,12 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/KeeyoungKim.png"  alt="" width="128">Keeyoung Kim</td>
+                  <td><img src="img/KeeyoungKim.png"  alt="" width="128">Keeyoung Kim</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoujinShin.png" alt="" width="128">Youjin Shin</td>
+                  <td><img src="img/YoujinShin.png" alt="" width="128">Youjin Shin</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
@@ -42,7 +42,7 @@ permalink: /Members/
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HassamKhalid.png" alt="" width="128">Hassam Khalid</td>
+                  <td><img src="img/HassamKhalid.png" alt="" width="128">Hassam Khalid</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
@@ -66,57 +66,57 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyeonseongJeon.jpg" alt="" width="128"><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon</a> </td>
+                  <td><img src="img/HyeonseongJeon.jpg" alt="" width="128"><a href="https://sites.google.com/view/cutz-j/" target ="_blank">Hyeonseong Jeon</a> </td>
                   <td>AI (인공지능학과)</td>
                   <td> Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/YoungohBang.jpg" alt="" width="128">Youngoh Bang </td>
+                  <td><img src="img/YoungohBang.jpg" alt="" width="128">Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
                   <td>Fake Image Detection and Generation, AI based Satellite Ops </td>
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a></td>
+                  <td><img src="img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Fake Image Detection,  Speech Applications</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SihoHan.jpg" alt="" width="128">Siho Han</td>
+                  <td><img src="img/SihoHan.jpg" alt="" width="128">Siho Han</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SangWonLee.png" alt="" width="128">Sang Won Lee</td>
+                  <td><img src="img/SangWonLee.png" alt="" width="128">Sang Won Lee</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> Big Data Processing and Social Networking</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SujinPark.png" alt="" width="128">Sujin Park</td>
+                  <td><img src="img/SujinPark.png" alt="" width="128">Sujin Park</td>
                   <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SowonJeon.png" alt=""  width="128">Sowon Jeon</td>
+                  <td><img src="img/SowonJeon.png" alt=""  width="128">Sowon Jeon</td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
                 </tr>
                  <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang</td>
+                  <td><img src="img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang</td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
                 </tr> 
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HanbinLee.png" alt=""  width="128">Hanbin Lee</td>
+                  <td><img src="img/HanbinLee.png" alt=""  width="128">Hanbin Lee</td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee</td>
+                  <td><img src="img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee</td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
                 <tr>
-                  <td><img src="https://github.com/DASH-Lab/DASH-Lab.github.io/blob/master/img/SunnyYoon.png" alt="" width="128">Sunny Yoon</td>
+                  <td><img src="img/SunnyYoon.png" alt="" width="128">Sunny Yoon</td>
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>

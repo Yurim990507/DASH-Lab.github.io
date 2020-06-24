@@ -10,7 +10,7 @@ permalink: /Projects/
 
 <div class="section">
     <h5>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구)</h5> 
-        ◼  Deepfake Detection <br>
+        ◼  Unified Deepfake Detection Methods <br>
         ◼  Deepfake Generation <br>
         ◼  딥페이크관련 정책 및 대응방안 연구 <br>
         ◼  연구성과물: <br>
@@ -39,6 +39,11 @@ permalink: /Projects/
         ◼  연구성과물: <br>
 </div>
 
+<div class="section">
+    <h5> CPS Anomaly Detection</h5> 
+        ◼  Multivariate Anomaly Detection Research <br>
+        ◼  연구성과물: <br>
+</div>
 
 <div class="section">
     <h5> 블록체인과 Privacy 이슈 </h5> 

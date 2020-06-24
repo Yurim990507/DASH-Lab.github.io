@@ -4,9 +4,9 @@ title: Projects
 permalink: /Projects/
 ---
 
-<h1 class="page-title">Research Projects</h1>
+<h1 class="page-title">Current Research Projects</h1>
 
-<h2>Current Research Projects</h2> 
+
 
 <div class="section">
     <h3>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구)</h3> 

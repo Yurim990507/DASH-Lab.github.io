@@ -30,6 +30,13 @@ permalink: /Projects/
 </div>
 
 <div class="section">
+    <h5> AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구</h5> 
+        ◼  Sponsor: 항공우주연구원 (KARI) <br>
+ 
+</div>
+
+
+<div class="section">
     <h5> 블록체인과 Privacy 이슈 </h5> 
         ◼  Sponsor: ETRI <br>
  

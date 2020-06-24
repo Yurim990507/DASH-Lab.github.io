@@ -13,6 +13,7 @@ permalink: /Projects/
         ◼  Deepfake Detection <br>
         ◼  Deepfake Generation <br>
         ◼  딥페이크관련 정책 및 대응방안 연구 <br>
+        ◼  연구성과물: <br>
 </div>
 
 <div class="section">
@@ -21,27 +22,28 @@ permalink: /Projects/
         ◼  KAIST, SNU 공동연구 <br>
         ◼  User Authentication Research <br>
         ◼  Anomaly Detection Research <br>
- 
+        ◼  연구성과물: <br>
 </div>
 
 <div class="section">
     <h5> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 연구</h5> 
         ◼  우주개발기반조성 및 성과확산사업 <br>
         ◼  Object Detection and Classification Research <br>
- 
+        ◼  연구성과물: <br>
 </div>
 
 <div class="section">
     <h5> AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구</h5> 
         ◼  Multivariate Anomaly Detection Research <br>
         ◼  Ground big data system design <br>
+        ◼  연구성과물: <br>
 </div>
 
 
 <div class="section">
     <h5> 블록체인과 Privacy 이슈 </h5> 
         ◼  Sponsor: ETRI <br>
- 
+        ◼  연구성과물: <br>
 </div>
 
 

@@ -21,7 +21,7 @@ permalink: /Projects/
 </div>
 
 <div class="section">
-    <h1> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 </h1> 
+    <h1> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 연구</h1> 
         ◼  Sponsor: NRF (한국연구재단) <br>
  
 </div>

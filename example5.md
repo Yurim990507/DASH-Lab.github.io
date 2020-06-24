@@ -12,28 +12,29 @@ permalink: /Projects/
     <h5>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구)</h5> 
         ◼  Deepfake Detection <br>
         ◼  Deepfake Generation <br>
-        ◼  Sponsor: NRF (한국연구재단) <br>
+        ◼  딥페이크관련 정책 및 대응방안 연구 <br>
 </div>
 
 <div class="section">
     <h5> Next Generation Integrated and Intelligent Energy Cloud Security System Research (차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구) </h5> 
-    ◼  Open Energy Cloud Platform (OECP) 연구단 <a href="https://www.oecp.kaist.ac.kr/">O</a> <br>
+        ◼  <a href="https://www.oecp.kaist.ac.kr/">Open Energy Cloud Platform (OECP) 연구단</a> <br>
         ◼  KAIST, SNU 공동연구 <br>
-        ◼  Sponsor: NRF (한국연구재단) <br>
+        ◼  User Authentication Research <br>
+        ◼  Anomaly Detection Research <br>
  
 </div>
 
 <div class="section">
     <h5> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 연구</h5> 
         ◼  우주개발기반조성 및 성과확산사업 <br>
-        ◼  Sponsor: NRF (한국연구재단) <br>
+        ◼  Object Detection and Classification Research <br>
  
 </div>
 
 <div class="section">
     <h5> AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구</h5> 
-        ◼  Sponsor: 항공우주연구원 (KARI) <br>
- 
+        ◼  Multivariate Anomaly Detection Research <br>
+        ◼  Ground big data system design <br>
 </div>
 
 

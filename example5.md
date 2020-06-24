@@ -4,19 +4,19 @@ title: Projects
 permalink: /Projects/
 ---
 
-<h1 class="page-title">Research Projects</h1>
+<h2 class="page-title">Research Projects</h2>
 
-<h2>Current Research Projects</h2> 
+<h1>Current Research Projects</h1> 
 
 <div class="section">
-    <h5>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구)</h5> 
+    <h6>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구)</h6> 
         ◼  한국연구재단 <br>
        
  
 </div>
 
 <div class="section">
-    <h5> Protection Energy Cloud (차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구) </h5> 
+    <h7> Protection Energy Cloud (차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구) </h7> 
         ◼  한국연구재단 <br>
  
 </div>

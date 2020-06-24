@@ -16,7 +16,7 @@ permalink: /Projects/
 </div>
 
 <div class="section">
-    <h5>차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구 </h5> 
+    <h5> Protection Energy Cloud (차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구) </h5> 
         ◼  한국연구재단 <br>
  
 </div>

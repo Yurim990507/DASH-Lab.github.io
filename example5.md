@@ -26,6 +26,12 @@ permalink: /Projects/
  
 </div>
 
+<div class="section">
+    <h5> 블록체인과 Privacy 이슈 </h5> 
+        ◼  Sponsor: ETRI <br>
+ 
+</div>
+
 
 
 

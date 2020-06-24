@@ -17,7 +17,7 @@ permalink: /Projects/
 
 <div class="section">
     <h5> Next Generation Integrated and Intelligent Energy Cloud Security System Research (차세대 지능형 고신뢰 에너지 클라우드 통합 보안 시스템 연구) </h5> 
-        ◼  Open Energy Cloud Platform (OECP) 연구단 https://www.oecp.kaist.ac.kr/ <br>
+    ◼  Open Energy Cloud Platform (OECP) 연구단 <a href="https://www.oecp.kaist.ac.kr/">O</a> <br>
         ◼  KAIST, SNU 공동연구 <br>
         ◼  Sponsor: NRF (한국연구재단) <br>
  

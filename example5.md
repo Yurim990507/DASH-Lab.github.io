@@ -19,6 +19,12 @@ permalink: /Projects/
  
 </div>
 
+<div class="section">
+    <h5> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 </h5> 
+        ◼  한국연구재단 <br>
+ 
+</div>
+
 
 
 

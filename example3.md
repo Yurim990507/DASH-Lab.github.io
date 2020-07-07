@@ -20,42 +20,50 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                    <td><figure>
+                    <td>
+                        <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" width="128">
-                          <figcaption>Keeyoung Kim</figcaption>
-                       </figure></td>
+                            Keeyoung Kim
+                        </div>
+                    </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
-                    <td><figure>
+                    <td>
+                        <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" width="128">
-                          <figcaption>Youjin Shin</figcaption>
-                       </figure></td>
+                            Youjin Shin
+                        </div>
+                    </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
                 <tr>
-                  <td><figure>
+                   <td>
+                       <div style="display:flex;flex-direction:column">
                           <img src="/img/SangyupLee.png" alt="" width="128"/>
-                          <figcaption><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></figcaption>
-                       </figure></td>
+                           <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>
+                       </div>
+                    </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>
                 <tr>
-                  <td><figure>
+                  <td>
+                      <div style="display:flex;flex-direction:column">
                           <img  src="/img/ShahrozTariq.jpg" alt="" width="128"> 
-                          <figcaption><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a></figcaption>
-                       </figure></td>
+                          <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
+                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
-                   <td><figure>
-                     <img src="/img/HassamKhalid.png" alt="" width="128">
-                      <figcaption>Hassam Khalid</figcaption>
-                   </figure></td>
+                   <td>
+                       <div style="display:flex;flex-direction:column">
+                           <img src="/img/HassamKhalid.png" alt="" width="128">
+                           Hasam Khalid
+                   </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>

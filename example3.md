@@ -158,15 +158,17 @@ permalink: /Members/
                   <td>
                     <div style="display:flex;flex-direction:column">
                       <img src="/img/dummy_male.png" alt=""  width="128">Hanbin Lee
-                      </div></td>
+                      </div>
+                    </td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
                 </tr>
                  <tr>
                   <td>
-                <div style="display:flex;flex-direction:column">
-                  <img src="/img/dummy_male.png" alt=""  height="128">HyunJae Lee
-                      </div></td>
+                      <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt=""  width="128">HyunJae Lee
+                      </div>
+                     </td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>

@@ -165,7 +165,7 @@ permalink: /Members/
                  <tr>
                   <td>
                 <div style="display:flex;flex-direction:column">
-                  <img src="/img/HyunJaeLee.png" alt=""  height="128">HyunJae Lee
+                  <img src="/img/dummy_male.png" alt=""  height="128">HyunJae Lee
                       </div></td>
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
@@ -173,7 +173,7 @@ permalink: /Members/
                 <tr>
                   <td>
                 <div style="display:flex;flex-direction:column">
-                      <img src="/img/SunnyYoon.png" alt="" width="128">Sunny Yoon</div></td>
+                      <img src="/img/dummy_female.png" alt="" width="128">Sunny Yoon</div></td>
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>

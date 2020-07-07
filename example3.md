@@ -133,7 +133,7 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SujinPark.png" alt="" width="128">Sujin Park
+                      <img src="/img/dummy_female.png" alt="" width="128">Sujin Park
                       </div></td>
                   <td>Applied Data Science/Kakao (데이터사이언스)</td>
                   <td> Big Data Processing and NLP</td>       
@@ -157,7 +157,7 @@ permalink: /Members/
                 <tr>
                   <td>
                     <div style="display:flex;flex-direction:column">
-                      <img src="/img/HanbinLee.png" alt=""  width="128">Hanbin Lee
+                      <img src="/img/dummy_male.png" alt=""  width="128">Hanbin Lee
                       </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       

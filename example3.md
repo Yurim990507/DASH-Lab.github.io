@@ -31,8 +31,10 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td>
-                      <img  src="/img/SangyupLee.png" alt="" width="128">
-                      <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></td>
+                      <figure>
+                          <img src="/img/SangyupLee.png" alt="" width="128"/>
+                          <figcaption><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></figcaption>
+                       </figure>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Anomaly Detection for CPS, Deepfakes Detection</td>
                 </tr>

@@ -20,12 +20,18 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><img src="/img/KeeyoungKim.png"  alt="" width="128">Keeyoung Kim</td>
+                    <td><figure>
+                          <img src="/img/dummy_male.png" alt="" width="128">
+                          <figcaption>Keeyoung Kim</figcaption>
+                       </figure></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                 <tr>
-                  <td><img src="/img/YoujinShin.png" alt="" width="128">Youjin Shin</td>
+                    <td><figure>
+                          <img src="/img/dummy_female.png" alt="" width="128">
+                          <figcaption>Youjin Shin</figcaption>
+                       </figure></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
@@ -46,7 +52,10 @@ permalink: /Members/
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
                 <tr>
-                  <td><img src="/img/HassamKhalid.png" alt="" width="128">Hassam Khalid</td>
+                   <td><figure>
+                     <img src="/img/HassamKhalid.png" alt="" width="128">
+                      <figcaption>Hassam Khalid</figcaption>
+                   </figure></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>

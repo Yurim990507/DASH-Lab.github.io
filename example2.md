@@ -11,6 +11,7 @@ permalink: /Publications/
     <div class="row">
  
 
+<p>Eunsoo Kim, Young-Seob Cho, Bedeuro Kim, Woojoong Ji, Seok-hyun Kim, <b>Simon S. Woo*</b>, and Hyoungshick Kim*,“Can We Create a Cross-Domain Federated Identity for Industrial Internet of Things without Google?”, IEEE Internet of Things Magazine, 2020. (<b><font color='purple'>SCIE</font></b>)</p>
 
  <p>Keeyoung Kim, Jinseok Hong, Sang-Hoon Rhee and Simon Woo,, "Applying Deep Learning to Reconstruct Pottery from Thousands Shards," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
 

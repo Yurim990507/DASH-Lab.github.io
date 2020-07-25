@@ -9,8 +9,10 @@ permalink: /Publications/
 <div class="section">
     <h5>2020</h5>
     <div class="row">
- 
-<p> DaeYoung Yoon and <b>Simon S. Woo*</b>, “Who is Delivering My Food? Detecting Food Delivery Abusers using Variational Reward Inference Networks“, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
+
+<p> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo*</b>, “ITAD: Integrative Tensor-based Anomaly Detection System for Reducing False Postives of Satellite Systems”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
+
+<p> DaeYoung Yoon and <b>Simon S. Woo*</b>, “Who is Delivering My Food? Detecting Food Delivery Abusers using Variational Reward Inference Networks”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
 
 <p>Eunsoo Kim, Young-Seob Cho, Bedeuro Kim, Woojoong Ji, Seok-hyun Kim, <b>Simon S. Woo*</b>, and Hyoungshick Kim*,“Can We Create a Cross-Domain Federated Identity for Industrial Internet of Things without Google?”, IEEE Internet of Things Magazine, 2020. </p>
 

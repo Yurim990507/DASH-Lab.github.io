@@ -133,14 +133,6 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/dummy_female.png" alt="" width="128">Sujin Park
-                      </div></td>
-                  <td>Applied Data Science/Kakao (데이터사이언스)</td>
-                  <td> Big Data Processing and NLP</td>       
-                </tr>
-                <tr>
-                  <td>
-                  <div style="display:flex;flex-direction:column">
                       <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon
                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -281,6 +273,11 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td> </td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Kakao</td>
+                </tr>
                 <tr>
                   <td>Young Rok Choi </td>
                   <td>Applied Data Science (데이터사이언스)</td>

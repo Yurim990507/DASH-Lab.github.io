@@ -275,6 +275,13 @@ permalink: /Members/
                   <td>Topic : 텐서 분해를 이용한 에어비앤비 추천시스템 연구
                  </td>
                 </tr>
+                <tr>
+                 <td>이지은</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td> 롯대 </td>
+                  <td>Topic : 면세점 웹로그 데이터를 활용한 개인화 추천 시스템 연구
+                 </td>
+                </tr>
               </tbody>
             </table>
           </div>

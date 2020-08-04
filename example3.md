@@ -247,23 +247,27 @@ permalink: /Members/
                   <td>Topic : AutoML을 활용한 지역적 특성을 반영한 공유자전거 대여/반납 수량 예측
                  </td>
                 </tr>
-                 <tr>
+                <tr>
                   <td>이준형</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> </td>
                   <td>Topic : 오토인코더 기반의 특성추출을 활용한 신용카드 사기탐지 분류성능 개선
-                 </td>
+                  </td>
                 </tr>
-                  
                  <tr>
                   <td>윤대영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> </td>
-                  <td>Topic : nverse Reinforcement Learning based Novelty Detection
+                  <td>Topic : Inverse Reinforcement Learning based Novelty Detection
                  </td>
                 </tr>
-                
-                
+                <tr>
+                  <td>박성호</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td> </td>
+                  <td>Topic : 머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
+                 </td>
+                </tr>
               </tbody>
             </table>
           </div>

@@ -274,7 +274,7 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
-                  <td> </td>
+                  <td>박수진 </td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Kakao</td>
                 </tr>

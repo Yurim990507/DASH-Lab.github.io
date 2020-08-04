@@ -254,6 +254,16 @@ permalink: /Members/
                   <td>Topic : 오토인코더 기반의 특성추출을 활용한 신용카드 사기탐지 분류성능 개선
                  </td>
                 </tr>
+                  
+                 <tr>
+                  <td>윤대영</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td> </td>
+                  <td>Topic : nverse Reinforcement Learning based Novelty Detection
+                 </td>
+                </tr>
+                
+                
               </tbody>
             </table>
           </div>

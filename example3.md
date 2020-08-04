@@ -257,15 +257,20 @@ permalink: /Members/
                  <tr>
                   <td>윤대영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
-                  <td> </td>
+                  <td> 배달의 민족 </td>
                   <td>Topic : Inverse Reinforcement Learning based Novelty Detection
                  </td>
                 </tr>
                 <tr>
                   <td>박성호</td>
                   <td>Applied Data Science (데이터사이언스)</td>
-                  <td> </td>
+                  <td> 롯대 Food </td>
                   <td>Topic : 머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
+                 </td>
+                 <td>천세영</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td> NC Soft </td>
+                  <td>Topic : 텐서 분해를 이용한 에어비앤비 추천시스템 연구
                  </td>
                 </tr>
               </tbody>

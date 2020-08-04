@@ -267,6 +267,8 @@ permalink: /Members/
                   <td> 롯대 Food </td>
                   <td>Topic : 머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
                  </td>
+                </tr>
+                <tr>
                  <td>천세영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> NC Soft </td>

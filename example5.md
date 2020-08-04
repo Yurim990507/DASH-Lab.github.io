@@ -14,6 +14,9 @@ permalink: /Projects/
         ◼  Deepfake Generation <br>
         ◼  딥페이크관련 정책 및 대응방안 연구 <br>
         ◼  연구성과물: <br>
+    
+    <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> 
+    
 </div>
 
 <div class="section">
@@ -23,6 +26,8 @@ permalink: /Projects/
         ◼  User Authentication Research <br>
         ◼  Anomaly Detection Research <br>
         ◼  연구성과물: <br>
+    
+        
 </div>
 
 <div class="section">

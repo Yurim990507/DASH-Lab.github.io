@@ -14,7 +14,7 @@ Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?i
 July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
 June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim(박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>
-        Nov. 2019. Won the special prize for KoGas Big Data Competition [<a href="">media</a>] <br>
+        Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 3기 한국가스공사 빅데이터경진대회 수상, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
 Nov. 2019. Gave a talk at Authentication Workshop(click) <br>
 Oct. 2019. Open Energy Cloud Platform, a joint security + ML project with KAIST and SNU is funded(click) <br>
 Dec 2018. Best Paper (국보연원장상) CISC-W <br>

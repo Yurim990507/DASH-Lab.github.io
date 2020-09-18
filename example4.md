@@ -9,7 +9,7 @@ permalink: /News/
 <div class="section">
     <div class="row">
 Sept 19th 2020. Congrats to Hyunseong Jeon(석사과정), 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
-Aug 10th 2020. Congrats to Everyone: <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (석사과정) 2020인공지능그랜드챌린지 1위 입상</a></b> <br> 
+Aug 10th 2020. Congrats to Everyone: <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (석사과정) IITP 2020인공지능그랜드챌린지 <u>1위 입상</u></a></b> <br> 
 Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>] <br>
         July 27th 2020. Congrats Sowon Jeon, 전소원 석사과정 한국정보보호학회 하계학술대회(CISC-S’20) <b>우수상 수상</b> [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
 July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>

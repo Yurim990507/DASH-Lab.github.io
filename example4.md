@@ -14,8 +14,8 @@ Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?i
         July 27th 2020. Congrats Sowon Jeon, 전소원(CS석사과정) 한국정보보호학회 하계학술대회(CISC-S’20) <b>우수상 수상</b> [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
 July 25th 2020. Double Congrats to YJ(CS박사과정) and Jhonny (Daeyoung)(데사석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
 July 16th 2020. AI 기반 딥페이크 탐지기술 <a href="http://www.netsec-kr.or.kr/static/program">NetSec-KR 발표</a> <br>
-June 4th 2020. Double Congrats to Siho (Sean) Han(데사석사과정) and Keeyoung Kim(CS박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
-June 1st 2020. Big Congrats to Hyeonseong Jeon(인공지능석사과정) for his <b>ICML 2020 (BK IF=4) </b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
+June 4th 2020. Double Congrats to Siho Han(데사석사과정) and Keeyoung Kim(CS박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
+June 1st 2020. Big Congrats to 전현성, 방영오(인공지능석사과정), 김준엽(CS석사과정) for his <b>ICML 2020 (BK IF=4) </b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
 Feb 2020. <b> 1 short paper (BK IF=3) and 1 full paper (BK IF=4) got accepted at The Web Conf (WWW), 2020 </b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
 
 Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 석사 3기 <b>한국가스공사 빅데이터경진대회 특별상수상</b>, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
@@ -23,10 +23,10 @@ Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이
 Nov. 2019. Gave a talk at Authentication Workshop, '한국정보보호학회', 차세대인증연구회 ‘2019 차세대 인증 워크숍’, [<a href="http://www.youthdaily.co.kr/news/article.html?no=21734">media</a>]<br>
 
 Oct. 2019. Open Energy Cloud Platform, a joint security + ML project with KAIST and SNU is funded [<a href="https://www.oecp.kaist.ac.kr/members">media</a>] <br>
-May 2019, Congrats Shahroz, Sangyup, and YJ(박사과정)<b>1 paper got accepted at KDD, 2019 (BK IF=4)</b>, 우사이먼 교수 연구실, 기계학습/데이터마이닝 탑 컨퍼런스(KDD) 논문 게재, [<a href="https://cs.skku.edu/edures/research/view/4225">media</a>] <br>
+May 2019, Congrats Shahroz, Sangyup, and YJ(CS박사과정)<b>1 paper got accepted at KDD, 2019 (BK IF=4)</b>, 우사이먼 교수 연구실, 기계학습/데이터마이닝 탑 컨퍼런스(KDD) 논문 게재, [<a href="https://cs.skku.edu/edures/research/view/4225">media</a>] <br>
 
 Dec 2018. Best Paper (국보연원장상) CISC-W <br>
-August 2018. Nominated for the "Best Student Paper" at IFIP-SEC 2018 by Keeyoung Kim(박사과정) <br>
+August 2018. Nominated for the "Best Student Paper" at IFIP-SEC 2018 by Keeyoung Kim(CS박사과정) <br>
 August 2018. Won the grant from Korea Aerospace Research Institute (KARI). Thank you for the support! <br>
 July 2018. Won the top 7th place (top 3rd among universities) among 400 teams in Korea for AI R&D Challenge on Fake Face Image Detection, Congrats Sangyup, Shahroz, Hoyoung, and Youjin! <br>
 July 2018, Gave a keynote talk at International Conference on Software Security and Assurance (ICSSA) 2018 <br>

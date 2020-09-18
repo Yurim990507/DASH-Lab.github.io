@@ -9,7 +9,8 @@ permalink: /News/
 <div class="section">
     <div class="row">
 Sept 19th 2020. Congrats to Hyunseong Jeon, 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
-Aug 10th 2020. Congrats to Everyone: <a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (석사과정) 2020인공지능그랜드챌린지 1위 입상</a> Very proud of all! 
+Aug 10th 2020. Congrats to Everyone: <a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (석사과정) 2020인공지능그랜드챌린지 1위 입상</a> <br> 
+        Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>]
 July 25th 2020. Double Congrats to YJ and Jhonny (Daeyoung), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) <br>
 June 4th 2020. Double Congrats to Siho (Sean) Han and Keeyoung Kim, <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) <br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>

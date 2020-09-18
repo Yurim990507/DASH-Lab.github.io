@@ -13,6 +13,7 @@ Aug 10th 2020. Congrats to Everyone: <a href="https://ai.skku.edu/ai/community/n
 Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>] <br>
 July 27th 2020. Congrats Sowon Jeon, 전소원 석사과정 한국정보보호학회 하계학술대회(CISC-S’20) 우수상 수상 [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
 July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
+July 16th 2020. AI 기반 딥페이크 탐지기술 <a href="http://www.netsec-kr.or.kr/static/program">NetSec-KR 발표</a> <br>
 June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim(박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>
         Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 3기 한국가스공사 빅데이터경진대회 수상, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>

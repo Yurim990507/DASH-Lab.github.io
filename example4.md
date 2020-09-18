@@ -31,7 +31,7 @@ August 2018. Won the grant from Korea Aerospace Research Institute (KARI). Thank
 July 2018. Won the top 7th place (top 3rd among universities) among 400 teams in Korea for AI R&D Challenge on Fake Face Image Detection, Congrats Sangyup, Shahroz, Hoyoung, and Youjin! <br>
 July 2018, Gave a keynote talk at International Conference on Software Security and Assurance (ICSSA) 2018 <br>
 April 2018, Gave a talk at NetSec-Kr'18 <br>
-Dec. 2017. 1 paper is "Accepted" at ACM SIG CHI'18 <br>
+Dec. 2017. 1 paper is "Accepted" at <b>ACM SIG CHI'18 (BK IF=4)</b> <br>
 Dec. 2017. Won the 2nd place at National Data Science Challenge (http://challenge.cisc.or.kr/), Congrats Sangyup, Shahroz, and Homin! (Media coverage click here) <br>
 Dec. 2017. gave a CS Colloquium talk at Hanyang University, Seoul, Korea <br>
 Dec. 2017. gave a talk at Inha University, Incheon, Korea <br>

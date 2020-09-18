@@ -8,6 +8,7 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
+Sept 19th 2020. Congrats to Hyunseong Jeon, 1 full paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
 July 25th 2020. Double Congrats to YJ and Jhonny (Daeyoung), 2 full papers acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) <br>
 June 4th 2020. Double Congrats to Siho (Sean) Han and Keeyoung Kim, 2 papers acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) <br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>

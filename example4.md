@@ -8,17 +8,17 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-Sept 19th 2020. Congrats to Hyunseong Jeon, 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
+Sept 19th 2020. Congrats to Hyunseong Jeon(석사과정), 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
 Aug 10th 2020. Congrats to Everyone: <a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (석사과정) 2020인공지능그랜드챌린지 1위 입상</a> <br> 
         Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>]
-July 25th 2020. Double Congrats to YJ and Jhonny (Daeyoung), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) <br>
-June 4th 2020. Double Congrats to Siho (Sean) Han and Keeyoung Kim, <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) <br>
-June 1st 2020. Big Congrats to Hyeonseong Jeon for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>
-Nov. 2019. Won the special prize for KoGas Big Data Competition(click) <br>
+July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) <br>
+June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim(박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) <br>
+June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) <br>
+Nov. 2019. Won the special prize for KoGas Big Data Competition (click) <br>
 Nov. 2019. Gave a talk at Authentication Workshop(click) <br>
 Oct. 2019. Open Energy Cloud Platform, a joint security + ML project with KAIST and SNU is funded(click) <br>
 Dec 2018. Best Paper (국보연원장상) CISC-W <br>
-August 2018. Nominated for the "Best Student Paper" at IFIP-SEC 2018 by Keeyoung Kim <br>
+August 2018. Nominated for the "Best Student Paper" at IFIP-SEC 2018 by Keeyoung Kim(박사과정) <br>
 August 2018. Won the grant from Korea Aerospace Research Institute (KARI). Thank you for the support! <br>
 July 2018. Won the top 7th place (top 3rd among universities) among 400 teams in Korea for AI R&D Challenge on Fake Face Image Detection, Congrats Sangyup, Shahroz, Hoyoung, and Youjin! <br>
 July 2018, Gave a keynote talk at International Conference on Software Security and Assurance (ICSSA) 2018 <br>

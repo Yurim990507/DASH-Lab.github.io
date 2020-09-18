@@ -10,7 +10,7 @@ permalink: /Publications/
     <h5>2020</h5>
     <div class="row">
 
-<p> Hyeonseong Jeon, Siho Han, Sangwon Lee, and Simon S. Woo. "Compensating for the Lack of Extra Training Data by Learning Extra Representation." 15th Asian Conference on Computer Vision (ACCV). 2020  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
+<p> Hyeonseong Jeon, Siho Han, Sangwon Lee, and <b>Simon S. Woo*</b>, "Compensating for the Lack of Extra Training Data by Learning Extra Representation." 15th Asian Conference on Computer Vision (ACCV). 2020  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
 
 <p> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo*</b>, “ITAD: Integrative Tensor-based Anomaly Detection System for Reducing False Postives of Satellite Systems”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
 

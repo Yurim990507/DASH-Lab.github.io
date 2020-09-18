@@ -39,7 +39,7 @@ Nov. 2017. Our paper "Towards Machine Generated Passwords" is selected as one of
 Nov. 2017. Our paper "Towards Machine Generated Passwords" is accepted, at CISC-W 2017 <br>
 Nov. 2017. Student Research Workshop paper is acceted at ACM CoNEXT2017, Congats Pratik! <br>
 Oct.2017. NRF Grant Awarded (2017-2020, KRW 90K) <br>
-Sept.2017. Finance Chair for ACM CoNEXT 2017 <br>
+Sept.2017. Finance Chair for <a href="https://conferences2.sigcomm.org/co-next/2017/#!/committee">ACM CoNEXT 2017</a> <br>
 Aug. 2016. gave a talk at Korea University, Seoul, Korea <br>
 Aug.2016. ETNews on <b> 3D CAPTCHAs, AI로 위기에 빠진 캡차...3D로 막는다, 전자신문</b>, 2016 [<a href="https://www.etnews.com/20160826000204?m=1">media</a>] <br> 
 Aug. 2016. Our paper "3D CAPTCHAs" was selected as the best paper at WISA 2016 <br>

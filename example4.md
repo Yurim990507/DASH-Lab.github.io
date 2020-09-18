@@ -16,7 +16,7 @@ July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사
 July 16th 2020. AI 기반 딥페이크 탐지기술 <a href="http://www.netsec-kr.or.kr/static/program">NetSec-KR 발표</a> <br>
 June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim(박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
 June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020</b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
-        Feb 2020. <b> 2 papers got accepted at The Web Conf (WWW), 2020 (BK IF=4)</b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
+Feb 2020. <b> 1 short paper (BK IF=4) and 1 full paper (BK IF=4) got accepted at The Web Conf (WWW), 2020 </b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
 
 Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 3기 한국가스공사 빅데이터경진대회 수상, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
 Nov. 2019. Gave a talk at Authentication Workshop(click) <br>

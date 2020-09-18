@@ -19,7 +19,9 @@ June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 202
 Feb 2020. <b> 1 short paper (BK IF=3) and 1 full paper (BK IF=4) got accepted at The Web Conf (WWW), 2020 </b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
 
 Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 3기 한국가스공사 빅데이터경진대회 수상, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
-Nov. 2019. Gave a talk at Authentication Workshop(click) <br>
+
+Nov. 2019. Gave a talk at Authentication Workshop, '한국정보보호학회', 차세대인증연구회 ‘2019 차세대 인증 워크숍’, [<a href="http://www.youthdaily.co.kr/news/article.html?no=21734">media</a>]<br>
+
 Oct. 2019. Open Energy Cloud Platform, a joint security + ML project with KAIST and SNU is funded [<a href="https://www.oecp.kaist.ac.kr/members">media</a>] <br>
 May 2019, <b>1 paper got accepted at KDD, 2019 (BK IF=4)</b>, 우사이먼 교수 연구실, 기계학습/데이터마이닝 탑 컨퍼런스(KDD) 논문 게재, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=60121&article.offset=0&articleLimit=10">media</a>] <br>
 

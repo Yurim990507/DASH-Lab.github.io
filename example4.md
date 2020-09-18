@@ -11,11 +11,11 @@ permalink: /News/
 Sept 19th 2020. Congrats to 전현성(인공지능석사과정), 한시호(데사석사과정), 이상원(데사석사과정), 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
 Aug 10th 2020. Congrats to Everyone: <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (인공지능석사과정) IITP 2020인공지능그랜드챌린지 <u>1위 입상</u></a></b> <br> 
 Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>]<br>
-        July 27th 2020. Congrats Sowon Jeon, 전소원(소프트석사과정) 한국정보보호학회 하계학술대회(CISC-S’20) <b>우수상 수상</b> [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
-July 25th 2020. Double Congrats to YJ(박사과정) and Jhonny (Daeyoung)(석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
+        July 27th 2020. Congrats Sowon Jeon, 전소원(CS석사과정) 한국정보보호학회 하계학술대회(CISC-S’20) <b>우수상 수상</b> [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
+July 25th 2020. Double Congrats to YJ(CS박사과정) and Jhonny (Daeyoung)(데사석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
 July 16th 2020. AI 기반 딥페이크 탐지기술 <a href="http://www.netsec-kr.or.kr/static/program">NetSec-KR 발표</a> <br>
-June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim(박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
-June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020 (BK IF=4) </b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
+June 4th 2020. Double Congrats to Siho (Sean) Han(데사석사과정) and Keeyoung Kim(CS박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>
+June 1st 2020. Big Congrats to Hyeonseong Jeon(인공지능석사과정) for his <b>ICML 2020 (BK IF=4) </b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
 Feb 2020. <b> 1 short paper (BK IF=3) and 1 full paper (BK IF=4) got accepted at The Web Conf (WWW), 2020 </b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
 
 Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 석사 3기 <b>한국가스공사 빅데이터경진대회 특별상수상</b>, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>

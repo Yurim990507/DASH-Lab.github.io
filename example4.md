@@ -18,7 +18,7 @@ June 4th 2020. Double Congrats to Siho (Sean) Han(석사과정) and Keeyoung Kim
 June 1st 2020. Big Congrats to Hyeonseong Jeon(석사과정) for his <b>ICML 2020 (BK IF=4) </b> paper acceptance (acceptance rate=21.8%) [<a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=97854&article.offset=0&articleLimit=10">media</a>]<br> 
 Feb 2020. <b> 1 short paper (BK IF=3) and 1 full paper (BK IF=4) got accepted at The Web Conf (WWW), 2020 </b> [<a href="https://cs.skku.edu/edures/research/view/4808">media</a>] <br>
 
-Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 3기 <b>한국가스공사 빅데이터경진대회 특별상수상</b>, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
+Nov. 2019. Won the special prize for KoGas Big Data Competition, 데이터사이언스융합학과 석사 3기 <b>한국가스공사 빅데이터경진대회 특별상수상</b>, [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=87619&article.offset=0&articleLimit=10">media</a>] <br>
 
 Nov. 2019. Gave a talk at Authentication Workshop, '한국정보보호학회', 차세대인증연구회 ‘2019 차세대 인증 워크숍’, [<a href="http://www.youthdaily.co.kr/news/article.html?no=21734">media</a>]<br>
 

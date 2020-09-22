@@ -5,7 +5,7 @@ permalink: /News/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
-
+<b>좋은 연구릃 하고, 좋은 논문을 쓰고 싶은 highly motivated한 학사, 석사, 박사, 포닥분들은 지원을 하십시요!</b>
 <div class="section">
     <div class="row">
 Sept 19th 2020. Congrats to 전현성(인공지능석사과정), 한시호(데사석사과정), 이상원(데사석사과정), 1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>

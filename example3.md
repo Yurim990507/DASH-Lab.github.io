@@ -171,6 +171,15 @@ permalink: /Members/
                   <td>Applied AI (인공지능융합학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
+                  <tr>
+                  <td>
+                      <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt=""  width="128">JungHo Kim
+                      </div>
+                     </td>
+                  <td> CS/수학 (학석연계)</td>
+                  <td> Vision</td>       
+                </tr>
               </tbody>
             </table>
           </div>

@@ -25,6 +25,8 @@ permalink: /About/
         ◼ Assistant Professor at SKKU, affliated with Applied Data Science (데이터사이언스), CSE (소프트웨어/융합보안대학원), and Applied AI Dept.(인공지능융합학과) <br>
         ◼ NASA Jet Propulsion Lab (JPL), Pasadena, CA, 2005-2014 <br>
         ◼ Verisign Research Lab, Reston, VA, 2016 <br>
+        ◼ Intel Corp 2001, 2002 (Co-op Intern) <br>
+        ◼ Part-time cook at Burger King, Waiter & Dishwasher, once upon a time in highschool/college years  <br>
 </div>
 
 <div class="divider"></div>

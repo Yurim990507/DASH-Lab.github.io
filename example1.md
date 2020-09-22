@@ -37,6 +37,8 @@ permalink: /About/
           ◼ Computer Security (Usable Security, Blockchain, Intrusion/Anomaly Detection) <br>
           ◼ Satellite Image Processing, Object Detection, Communications and Protocols  <br>
           ◼ DataScience <br>
+
+<center><img src="/img/WooDF.jpg" alt="" width="1000" /></center> 
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 
@@ -55,6 +57,7 @@ permalink: /About/
         ◼ Security Seminar (Fall/Spring)
 </div>
 <div class="divider"></div>
+
 <div class="section">
     <h5>Contact me</h5>     
         Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in security and privacy, HCI, AI/machine learning, and Satellite systems/networking.<br>

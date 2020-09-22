@@ -7,7 +7,7 @@ permalink: /About/
 <h1 class="page-title">Simon Woo</h1>
 
 ![Simon Woo](./img/simonwoo.png)
-(./img/WooDF.jpg)
+
 <div class="section">
     <h5>About me</h5> 
         ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
@@ -38,7 +38,7 @@ permalink: /About/
           ◼ Satellite Image Processing, Object Detection, Communications and Protocols  <br>
           ◼ DataScience <br>
 
-<center><img src="/img/WooDF.jpg" alt="" width="700" /></center> 
+<img src="/img/WooDF.jpg" alt="" width="700" />
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 

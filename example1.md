@@ -38,7 +38,7 @@ permalink: /About/
           ◼ Satellite Image Processing, Object Detection, Communications and Protocols  <br>
           ◼ DataScience <br>
 
-<center><img src="/img/WooDF.jpg" alt="" width="500" /></center> 
+<center><img src="/img/WooDF.jpg" alt="" width="700" /></center> 
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 

@@ -222,8 +222,18 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td>문학준</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Satellite Object Detection</td>       
+                </tr>
+                <tr>
+                  <td>이동준</td>
                   <td>Computer Science & Engineering 복전</td>
                   <td>Satellite Object Detection</td>       
+                </tr>
+                 <tr>
+                  <td>김진범</td>
+                  <td>Computer Science & Engineering</td>
+                  <td></td>       
                 </tr>
               </tbody>
             </table>

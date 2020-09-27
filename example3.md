@@ -67,6 +67,15 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
+                 <tr>
+                   <td>
+                       <div style="display:flex;flex-direction:column">
+                           <img src="/img/dummy_male.png" alt="" width="128">
+                           Le Minh Binh
+                   </div></td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td> Deepfakes and Anomaly Detection</td>       
+                </tr>
               </tbody>
             </table>
           </div>

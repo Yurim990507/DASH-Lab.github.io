@@ -233,7 +233,7 @@ permalink: /Members/
                  <tr>
                   <td>김진범</td>
                   <td>Computer Science & Engineering</td>
-                  <td></td>       
+                  <td>딥러닝</td>       
                 </tr>
               </tbody>
             </table>

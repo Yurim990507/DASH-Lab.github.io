@@ -134,14 +134,6 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SangWonLee.png" alt="" width="128">Sang Won Lee
-                      </div></td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td> Big Data Processing and Social Networking</td>       
-                </tr>
-                <tr>
-                  <td>
-                  <div style="display:flex;flex-direction:column">
                       <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon
                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

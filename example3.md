@@ -181,6 +181,14 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Vision</td>       
                 </tr>
+                 <tr>
+                  <td>
+                  <div style="display:flex;flex-direction:column">
+                      <img src="/img/SowonJeon.jpg" alt=""  width="128">김민하
+                      </div></td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>딥페이크 </td>       
+                </tr>
               </tbody>
             </table>
           </div>

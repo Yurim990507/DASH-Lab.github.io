@@ -228,7 +228,7 @@ permalink: /Members/
                 <tr>
                   <td>이동준</td>
                   <td>Computer Science & Engineering 복전</td>
-                  <td>Satellite Object Detection</td>       
+                  <td>딥러닝/Anomaly Detection</td>       
                 </tr>
                  <tr>
                   <td>김진범</td>

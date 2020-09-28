@@ -58,24 +58,6 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
                 </tr>
-                <tr>
-                   <td>
-                       <div style="display:flex;flex-direction:column">
-                           <img src="/img/HassamKhalid.png" alt="" width="128">
-                           Hasam Khalid
-                   </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Deepfakes and Speech Applications</td>       
-                </tr>
-                 <tr>
-                   <td>
-                       <div style="display:flex;flex-direction:column">
-                           <img src="/img/dummy_male.png" alt="" width="128">
-                           Le Minh Binh
-                   </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Deepfakes and Anomaly Detection</td>       
-                </tr>
               </tbody>
             </table>
           </div>
@@ -165,13 +147,6 @@ permalink: /Members/
                   <td>Statistics (통계학과)</td>
                   <td> Anomaly Detection</td>       
                 </tr>
-                <tr>
-                  <td>
-                <div style="display:flex;flex-direction:column">
-                      <img src="/img/dummy_female.png" alt="" width="128">Sunny Yoon</div></td>
-                  <td>Applied AI (인공지능융합학과)</td>
-                  <td> Anomaly Detection</td>       
-                </tr>
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
@@ -181,14 +156,7 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Vision</td>       
                 </tr>
-                 <tr>
-                  <td>
-                  <div style="display:flex;flex-direction:column">
-                      <img src="/img/SowonJeon.jpg" alt=""  width="128">김민하
-                      </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>딥페이크 </td>       
-                </tr>
+
               </tbody>
             </table>
           </div>

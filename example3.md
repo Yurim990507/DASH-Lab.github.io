@@ -19,26 +19,7 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                    <td>
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" width="128">
-                            Keeyoung Kim
-                        </div>
-                    </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Skip-dense layer deep learning model</td>
-                </tr>
-                <tr>
-                    <td>
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt="" width="128">
-                            Youjin Shin
-                        </div>
-                    </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
-                </tr>
+
                 <tr>
                    <td>
                        <div style="display:flex;flex-direction:column">

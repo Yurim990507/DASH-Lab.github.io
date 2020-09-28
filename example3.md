@@ -303,21 +303,6 @@ permalink: /Members/
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Kakao</td>
                 </tr>
-                <tr>
-                  <td>Jiwon Choi</td>
-                  <td>SUNYK, 2019</td>
-                  <td>Stony Brook Univ, NY, USA</td>
-                </tr>
-                <tr>
-                  <td>Jihye Woo</td>
-                  <td>SUNYK, 2019</td>
-                  <td>Stony Brook Univ, NY, USA</td>
-                </tr>
-                <tr>
-                  <td>Soyoon Jeon</td>
-                  <td>SUNYK, 2019</td>
-                  <td>Stony Brook Univ, NY, USA</td>
-                </tr>
               </tbody>
             </table>
           </div>

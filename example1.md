@@ -42,8 +42,8 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 
-          ◼ SecureComm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021), ACM SAC Machine Learning Application Track (2020, 2021)<br>
-          ◼ TIIS Editor (2019-2020) IEEE TIFS, AIAA Journal of Aerospace Information Systems (2020)<br>
+          ◼ ACM CoNext Finance Chair (2017), SecureComm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021), ACM SAC Machine Learning Application Track (2020, 2021)<br>
+          ◼ TIIS Editor (2019-2020), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
 
 </div>
 <div class="divider"></div>

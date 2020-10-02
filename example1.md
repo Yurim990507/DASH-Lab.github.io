@@ -42,13 +42,17 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 
-          ◼ Securecomm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021)<br>
-          ◼ TIIS, Editor (2019-2020) <br>
+          ◼ SecureComm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021), ACM SAC Machine Learning Application Track (2020, 2021)<br>
+          ◼ TIIS Editor (2019-2020) <br>
 
 </div>
 <div class="divider"></div>
 <div class="section">
     <h5>Course</h5> 
+        ◼ Data-driven Security (2020F) <br>
+        ◼ Data Science Application (2019F, 2020S) <br>
+        ◼ Probability and Random Processes (2020S) <br>
+        ◼ Data Science MS Thesis Supervision (2019S, 2019F, 2020S, 2019F) <br>
         ◼ CSE 215 Discrete Math (Undergrad) (2018F) <br>
         ◼ CSE 517 Science for Society II (Gradaute) (2018S) <br>
         ◼ CSE 353 Machine Learning (Undergrd) (2018S) <br>

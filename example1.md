@@ -51,7 +51,8 @@ permalink: /About/
     <h5>Course</h5> 
         ◼ ADS (Graduate) Data-driven Security (2020F) <br>
         ◼ ADS (Graduate) Data Science Application (2019F, 2020S) <br>
-        ◼ SWE (Undergraduate) Probability and Random Processes (2020S) <br>
+        ◼ CSE (Undergraduate) Computer Security (2019F) <br>
+        ◼ CSE (Undergraduate) Probability and Random Processes (2020S) <br>
         ◼ ADS (Graduate) Data Science MS Thesis Supervision (2019S, 2019F, 2020S, 2020F) <br>
         ◼ CSE 215 Discrete Math (Undergrad) (2018F) <br>
         ◼ CSE 517 Science for Society II (Gradaute) (2018S) <br>

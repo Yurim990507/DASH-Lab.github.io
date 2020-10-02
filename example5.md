@@ -4,7 +4,9 @@ title: Projects
 permalink: /Projects/
 ---
 
-<h1 class="page-title">Current Research Projects</h1>
+한국연구재단, 항공우주연구원, 경찰청, 국립과학수사연구소, 국가보안기술연구소, ETRI, IITP등과 다양한 연구를 수행하여 왔고, 진행중. 
+
+<h1 class="page-title">Research Projects</h1>
 
 
 

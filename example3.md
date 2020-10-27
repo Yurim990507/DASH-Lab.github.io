@@ -169,7 +169,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt=""  width="128">Sunny Yun (윤선이)
+                          <img src="/img/dummy_female.png" alt=""  width="128">Sunny Yun (윤선이)
                       </div>
                      </td>
                   <td>Applied AI</td>

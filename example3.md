@@ -152,7 +152,7 @@ permalink: /Members/
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;Siho Han
+                      <a href = "https://www.linkedin.com/in/sihohan" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Siho Han</a>
                       </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
@@ -193,7 +193,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          HyunJae Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;HyunJae Lee
                       </div>
                      </td>
                   <td>Statistics (통계학과)</td>

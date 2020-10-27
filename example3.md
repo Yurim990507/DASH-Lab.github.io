@@ -28,7 +28,7 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                   <td>
+                   <td style="text-align: center; vertical-align: middle;">
                        <div style="display:flex;flex-direction:column">                         
                             <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/><br>
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>                         
@@ -38,7 +38,7 @@ permalink: /Members/
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
-                  <td>
+                  <td style="text-align: center; vertical-align: middle;">
                       <div style="display:flex;flex-direction:column">
                           <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
@@ -287,7 +287,7 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>딥러닝</td>       
                 </tr>
-                  <tr>
+                 <tr>
                   <td>Jeongho Kim (김정호)</td>
                   <td>Computer Science & Engineering</td>
                   <td>Computer Vision and Deepfakes</td>       

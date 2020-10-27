@@ -208,7 +208,7 @@ permalink: /Members/
                       </div>
                      </td>
                   <td> CS/수학 (인공지능학과 학석연계)</td>
-                  <td> Vision</td>       
+                  <td> Computer Vision and Deepfakes</td>       
                       <td><i></i></td>
                 </tr>
                   <tr>
@@ -286,11 +286,6 @@ permalink: /Members/
                   <td>김진범</td>
                   <td>Computer Science & Engineering</td>
                   <td>딥러닝</td>       
-                </tr>
-                 <tr>
-                  <td>Jeongho Kim (김정호)</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Computer Vision and Deepfakes</td>       
                 </tr>
               </tbody>
             </table>

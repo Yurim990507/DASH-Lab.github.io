@@ -46,7 +46,7 @@ permalink: /Members/
                             Youjin Shin
                         </div>
                     </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Computer Science & Engineering</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
                 </tr>
                   <tr>
@@ -56,7 +56,7 @@ permalink: /Members/
                             Keeyoung Kim
                         </div>
                     </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Computer Science & Engineering</td>
                   <td> Skip-dense layer deep learning model</td>
                 </tr>
                   <tr>
@@ -65,7 +65,7 @@ permalink: /Members/
                            <img src="/img/HassamKhalid.png" alt="" width="128">
                            Hasam Khalid
                    </div></td>
-                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
+                  <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
                 </tr>
                   <tr>
@@ -74,7 +74,7 @@ permalink: /Members/
                           <img src="/img/dummy_male.png" alt=""  width="128">Minh-Binh Le
                       </div>
                      </td>
-                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
+                  <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
                   <td>Deepfakes</td>       
                 </tr>
               </tbody>

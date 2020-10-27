@@ -31,7 +31,7 @@ permalink: /Members/
                    <td align="center">
                        <div style="display:flex;flex-direction:column">                         
                             <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/><br>
-                           	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee</a>                         
+                           	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee</a>                         
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Anomaly Detection for CPS, Deepfakes Detection</td>
@@ -51,7 +51,7 @@ permalink: /Members/
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youjin Shin
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youjin Shin
                         </div>
                     </td>
                   <td>Computer Science & Engineering</td>

@@ -166,6 +166,15 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Vision</td>       
                 </tr>
+                  <tr>
+                  <td>
+                      <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt=""  width="128">Sunny Yun (윤선이)
+                      </div>
+                     </td>
+                  <td>Applied AI</td>
+                  <td>Anomaly Detection</td>       
+                </tr>
               </tbody>
             </table>
           </div>

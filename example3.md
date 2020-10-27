@@ -124,7 +124,7 @@ permalink: /Members/
                   </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>
-                    <td><i></i></td>
+                    <td><i>cutz @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">

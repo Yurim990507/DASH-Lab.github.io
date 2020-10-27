@@ -25,7 +25,7 @@ permalink: /Members/
                        <div style="display:flex;flex-direction:column">
                            <figure class="item">
                             <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/>
-                               <figcaption class="caption"><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></figcaption>
+                               <figcaption class="caption">Sangyup Lee</figcaption>
                             </figure>
                        </div>
                     </td>

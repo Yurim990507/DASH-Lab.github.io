@@ -41,7 +41,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
+                          <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Shahroz Tariq</a>
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
@@ -51,7 +51,7 @@ permalink: /Members/
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            Youjin Shin
+                            &nbsp;&nbsp;&nbsp;&nbsp;Youjin Shin
                         </div>
                     </td>
                   <td>Computer Science & Engineering</td>
@@ -62,7 +62,7 @@ permalink: /Members/
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            Keeyoung Kim
+                            &nbsp;&nbsp;&nbsp;&nbsp;Keeyoung Kim
                         </div>
                     </td>
                   <td>Computer Science & Engineering</td>
@@ -73,7 +73,7 @@ permalink: /Members/
                    <td align="center">
                        <div style="display:flex;flex-direction:column">
                            <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                           Hasam Khalid
+                           &nbsp;&nbsp;&nbsp;&nbsp;Hasam Khalid
                    </div></td>
                   <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>
@@ -83,7 +83,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          Minh-Binh Le
+                          &nbsp;&nbsp;&nbsp;&nbsp;Minh-Binh Le
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>

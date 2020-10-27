@@ -166,7 +166,6 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Vision</td>       
                 </tr>
-
               </tbody>
             </table>
           </div>

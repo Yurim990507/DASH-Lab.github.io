@@ -75,7 +75,7 @@ permalink: /Members/
                            <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                            Hasam Khalid
                    </div></td>
-                  <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
+                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>
                   <td><i>hasam dot khalid @ g dot skku dot edu</i></td>
                 </tr>
@@ -86,7 +86,7 @@ permalink: /Members/
                           Minh-Binh Le
                       </div>
                      </td>
-                  <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
+                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
                   <td>Deepfakes</td>
                   <td><i></i></td>
                 </tr>

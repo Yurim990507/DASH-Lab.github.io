@@ -287,6 +287,11 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>딥러닝</td>       
                 </tr>
+                  <tr>
+                  <td>Jeongho Kim (김정호)</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision and Deepfakes</td>       
+                </tr>
               </tbody>
             </table>
           </div>

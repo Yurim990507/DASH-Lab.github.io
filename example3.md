@@ -203,13 +203,13 @@ permalink: /Members/
                   <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          <img src="/img/JunghoKim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           JungHo Kim
                       </div>
                      </td>
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Computer Vision and Deepfakes</td>       
-                      <td><i></i></td>
+                      <td><i>rlawkdghek @ g dot skku dot edu</i></td>
                 </tr>
                   <tr>
                   <td align="center">

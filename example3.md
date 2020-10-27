@@ -11,7 +11,12 @@ permalink: /Members/
     <h5>Ph.D.</h5> 
     <div class="row">
           <div class="col s12">
-            <table>
+            <table style="width: 100%">
+                <colgroup>
+                   <col span="1" style="width: 15%;">
+                   <col span="1" style="width: 70%;">
+                   <col span="1" style="width: 15%;">
+                </colgroup>
               <thead>
                 <tr>
                     <th>Name</th>

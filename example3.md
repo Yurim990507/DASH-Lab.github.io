@@ -118,7 +118,7 @@ permalink: /Members/
                 <tr>
                     <td>
                   <div style="display:flex;flex-direction:column">
-                  <img src="/img/dummy_male.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a>
+                  <img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a>
                 </div>
                 </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -178,7 +178,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt=""  width="128">Sunny Yun (윤선이)
+                          <img src="/img/SunnyYun.jpg" alt=""  width="128">Sunny Yun (윤선이)
                       </div>
                      </td>
                   <td>Applied AI</td>

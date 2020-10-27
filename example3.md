@@ -17,6 +17,7 @@ permalink: /Members/
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>
+                    <th>Contact</th>
                 </tr>
               </thead>
               <tbody>
@@ -24,10 +25,11 @@ permalink: /Members/
                    <td>
                        <div style="display:flex;flex-direction:column">                         
                             <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/><br>
-                           	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>(sangyup.lee@g.skku.edu)                           
+                           	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>                         
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Anomaly Detection for CPS, Deepfakes Detection</td>
+                  <td>Anomaly Detection for CPS, Deepfakes Detection</td>
+                    <td><i>sangyup DOT lee AT g DOT skku DOT edu</i></td>
                 </tr>
                 <tr>
                   <td>

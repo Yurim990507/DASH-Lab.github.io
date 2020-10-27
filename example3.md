@@ -102,7 +102,7 @@ permalink: /Members/
                   <img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
                   </div> 
-                      </td>
+                  </td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>
                 </tr>
@@ -183,7 +183,16 @@ permalink: /Members/
                      </td>
                   <td>Applied AI</td>
                   <td>Anomaly Detection</td>       
-                </tr>               
+                </tr>
+                  <tr>
+                  <td>
+                      <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_female.png" alt=""  width="128">Minha Kim
+                      </div>
+                     </td>
+                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Deefakes and Meta Learning</td>       
+                </tr>  
               </tbody>
             </table>
           </div>

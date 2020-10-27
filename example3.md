@@ -7,7 +7,7 @@ permalink: /Members/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
 <div class="section">
-    I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!<br>
+    <b>I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br> <i>— Simon S. Woo</i><br>
     <h5>Ph.D.</h5> 
     <div class="row">
           <div class="col s12">

@@ -99,7 +99,7 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                  <img  src="/img/HyeonseongJeon.jpg" alt="" width="128"> 
+                  <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
                   </div> 
                   </td>
@@ -109,7 +109,7 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/YoungohBang.jpg" alt="" width="128">Youngoh Bang
+                      <img src="/img/YoungohBang.jpg" alt="" height="auto" width="128" style="border-radius:50%">Youngoh Bang
                       </div>
                       </td>
                   <td>AI (인공지능학과)</td>
@@ -118,7 +118,8 @@ permalink: /Members/
                 <tr>
                     <td>
                   <div style="display:flex;flex-direction:column">
-                  <img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">Junyaup Kim</a>
+                  <img src="/img/JunyaupKim.png" alt="" height="auto" width="128" style="border-radius:50%">
+                      <a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">Junyaup Kim</a>
                 </div>
                 </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -127,7 +128,7 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SihoHan.jpg" alt="" width="128">Siho Han
+                      <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%">Siho Han
                       </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
@@ -135,7 +136,7 @@ permalink: /Members/
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SowonJeon.jpg" alt=""  width="128">Sowon Jeon
+                      <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%">Sowon Jeon
                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
@@ -143,7 +144,7 @@ permalink: /Members/
                  <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/JoonHyungKang.png" alt=""  width="128">JoonHyung Kang
+                      <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%">JoonHyung Kang
                       </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
@@ -151,7 +152,7 @@ permalink: /Members/
                 <tr>
                   <td>
                     <div style="display:flex;flex-direction:column">
-                      <img src="/img/dummy_male.png" alt=""  width="128">Hanbin Lee
+                      <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">Hanbin Lee
                       </div>
                     </td>
                   <td>AI (인공지능학과)</td>
@@ -160,7 +161,7 @@ permalink: /Members/
                  <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt=""  width="128">HyunJae Lee
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">HyunJae Lee
                       </div>
                      </td>
                   <td>Statistics (통계학과)</td>
@@ -169,7 +170,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt=""  width="128">JungHo Kim
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">JungHo Kim
                       </div>
                      </td>
                   <td> CS/수학 (인공지능학과 학석연계)</td>
@@ -178,7 +179,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/SunnyYun.jpg" alt=""  width="128">Sunny Yun (윤선이)
+                          <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%">Sunny Yun (윤선이)
                       </div>
                      </td>
                   <td>Applied AI</td>
@@ -187,7 +188,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt=""  width="128">Minha Kim
+                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%">Minha Kim
                       </div>
                      </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

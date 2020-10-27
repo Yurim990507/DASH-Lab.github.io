@@ -20,15 +20,15 @@ permalink: /Members/
                 </colgroup>
               <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Major</th>
-                    <th>Research Interests</th>
-                    <th>Contact</th>
+                    <th align="center">Name</th>
+                    <th align="center">Major</th>
+                    <th align="center">Research Interests</th>
+                    <th align="center">Contact</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                   <td style="text-align: center; vertical-align: middle;">
+                   <td align="center">
                        <div style="display:flex;flex-direction:column">                         
                             <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/><br>
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>                         
@@ -38,7 +38,7 @@ permalink: /Members/
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
-                  <td style="text-align: center; vertical-align: middle;">
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
@@ -48,7 +48,7 @@ permalink: /Members/
                     <td><i>shahroz @ g dot skku dot edu</i></td>
                 </tr>
                   <tr>
-                    <td>
+                    <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                             Youjin Shin
@@ -59,7 +59,7 @@ permalink: /Members/
                   <td><i>youjin dot shin dot 1 @ stonybrook dot edu</i></td>
                 </tr>
                   <tr>
-                    <td>
+                    <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                             Keeyoung Kim
@@ -70,7 +70,7 @@ permalink: /Members/
                   <td><i>Kykim @ sunykorea dot ac dot kr</i></td>
                 </tr>
                   <tr>
-                   <td>
+                   <td align="center">
                        <div style="display:flex;flex-direction:column">
                            <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                            Hasam Khalid
@@ -80,7 +80,7 @@ permalink: /Members/
                   <td><i>hasam dot khalid @ g dot skku dot edu</i></td>
                 </tr>
                   <tr>
-                  <td>
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           Minh-Binh Le
@@ -109,15 +109,15 @@ permalink: /Members/
                 </colgroup>
               <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Major</th>
-                    <th>Research Interests</th>
-                    <th>Contact</th>
+                    <th align="center">Name</th>
+                    <th align="center">Major</th>
+                    <th align="center">Research Interests</th>
+                    <th align="center">Contact</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>
+                  <td align="center">
                   <div style="display:flex;flex-direction:column">
                   <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
@@ -127,7 +127,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                 <tr>
-                  <td>
+                  <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/YoungohBang.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Youngoh Bang
@@ -138,7 +138,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                 <tr>
-                    <td>
+                    <td align="center">
                   <div style="display:flex;flex-direction:column">
                   <img src="/img/JunyaupKim.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       <a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">Junyaup Kim</a>
@@ -149,7 +149,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                 <tr>
-                  <td>
+                  <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Siho Han
@@ -159,7 +159,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                 <tr>
-                  <td>
+                  <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Sowon Jeon
@@ -169,7 +169,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                  <tr>
-                  <td>
+                  <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       JoonHyung Kang
@@ -179,7 +179,7 @@ permalink: /Members/
                      <td><i></i></td>
                 </tr> 
                 <tr>
-                  <td>
+                  <td align="center">
                     <div style="display:flex;flex-direction:column">
                       <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                         Hanbin Lee
@@ -190,7 +190,7 @@ permalink: /Members/
                     <td><i></i></td>
                 </tr>
                  <tr>
-                  <td>
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           HyunJae Lee
@@ -201,7 +201,7 @@ permalink: /Members/
                      <td><i></i></td>
                 </tr>
                   <tr>
-                  <td>
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           JungHo Kim
@@ -212,7 +212,7 @@ permalink: /Members/
                       <td><i></i></td>
                 </tr>
                   <tr>
-                  <td>
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           Sunny Yun (윤선이)
@@ -223,7 +223,7 @@ permalink: /Members/
                       <td><i>capt dot yun dot a350 @ gmail dot com</i></td>
                 </tr>
                   <tr>
-                  <td>
+                  <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           Minha Kim

@@ -162,7 +162,7 @@ permalink: /Members/
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;Sowon Jeon
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sowon Jeon
                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
@@ -215,7 +215,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Sunny Yun (윤선이)
+                          &nbsp;&nbsp;Sunny Yun (윤선이)
                       </div>
                      </td>
                   <td>Applied AI</td>

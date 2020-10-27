@@ -23,7 +23,7 @@ permalink: /Members/
                 <tr>
                    <td>
                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/SangyupLee.png" alt="" width="128"/>
+                          <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/>
                            <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>
                        </div>
                     </td>
@@ -33,8 +33,7 @@ permalink: /Members/
                 <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <div class="circular--landscape">
-                          <img  src="/img/ShahrozTariq.jpg" alt="" width="128"></div>
+                          <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%">
                           <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -43,7 +42,7 @@ permalink: /Members/
                   <tr>
                     <td>
                         <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt="" width="128">
+                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%">
                             Youjin Shin
                         </div>
                     </td>
@@ -53,7 +52,7 @@ permalink: /Members/
                   <tr>
                     <td>
                         <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" width="128">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">
                             Keeyoung Kim
                         </div>
                     </td>
@@ -63,7 +62,7 @@ permalink: /Members/
                   <tr>
                    <td>
                        <div style="display:flex;flex-direction:column">
-                           <img src="/img/HassamKhalid.png" alt="" width="128">
+                           <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%">
                            Hasam Khalid
                    </div></td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
@@ -72,7 +71,7 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt=""  width="128">Minh-Binh Le
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">Minh-Binh Le
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>

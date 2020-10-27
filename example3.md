@@ -13,9 +13,10 @@ permalink: /Members/
           <div class="col s12">
             <table style="width: 100%">
                 <colgroup>
-                   <col span="1" style="width: 15%;">
-                   <col span="1" style="width: 70%;">
-                   <col span="1" style="width: 15%;">
+                   <col span="1" style="width: 25%;">
+                   <col span="1" style="width: 25%;">
+                   <col span="1" style="width: 25%;">
+                   <col span="1" style="width: 25%;">
                 </colgroup>
               <thead>
                 <tr>

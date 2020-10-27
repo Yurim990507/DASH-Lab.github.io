@@ -120,7 +120,7 @@ permalink: /Members/
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                   <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br> 
-                  <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Hyeonseong Jeon</a>
+                  <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">&nbsp;&nbsp;&nbsp;Hyeonseong Jeon</a>
                   </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>
@@ -152,7 +152,7 @@ permalink: /Members/
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      <a href = "https://www.linkedin.com/in/sihohan" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Siho Han</a>
+                      <a href = "https://www.linkedin.com/in/sihohan" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Siho Han</a>
                       </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
@@ -182,7 +182,7 @@ permalink: /Members/
                   <td align="center">
                     <div style="display:flex;flex-direction:column">
                       <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;Hanbin Lee
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanbin Lee
                       </div>
                     </td>
                   <td>AI (인공지능학과)</td>
@@ -226,7 +226,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Minha Kim
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minha Kim
                       </div>
                      </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

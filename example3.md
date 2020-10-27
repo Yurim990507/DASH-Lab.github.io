@@ -65,8 +65,17 @@ permalink: /Members/
                            <img src="/img/HassamKhalid.png" alt="" width="128">
                            Hasam Khalid
                    </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
                   <td> Deepfakes and Speech Applications</td>       
+                </tr>
+                  <tr>
+                  <td>
+                      <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt=""  width="128">Minh-Binh Le
+                      </div>
+                     </td>
+                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
+                  <td>Deepfakes</td>       
                 </tr>
               </tbody>
             </table>
@@ -174,7 +183,7 @@ permalink: /Members/
                      </td>
                   <td>Applied AI</td>
                   <td>Anomaly Detection</td>       
-                </tr>
+                </tr>               
               </tbody>
             </table>
           </div>

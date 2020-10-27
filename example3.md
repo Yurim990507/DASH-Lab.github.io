@@ -34,7 +34,7 @@ permalink: /Members/
                 <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a>
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -44,7 +44,7 @@ permalink: /Members/
                   <tr>
                     <td>
                         <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                             Youjin Shin
                         </div>
                     </td>
@@ -55,7 +55,7 @@ permalink: /Members/
                   <tr>
                     <td>
                         <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                             Keeyoung Kim
                         </div>
                     </td>
@@ -66,7 +66,7 @@ permalink: /Members/
                   <tr>
                    <td>
                        <div style="display:flex;flex-direction:column">
-                           <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%">
+                           <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                            Hasam Khalid
                    </div></td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
@@ -76,7 +76,8 @@ permalink: /Members/
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">Minh-Binh Le
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          Minh-Binh Le
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
@@ -99,114 +100,126 @@ permalink: /Members/
                     <th>Name</th>
                     <th>Major</th>
                     <th>Research Interests</th>
+                    <th>Contact</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                  <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"> 
+                  <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br> 
                   <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">Hyeonseong Jeon</a>
                   </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>Neural Architectures, Data Augmentation, and GAN</td>
+                    <td><i></i></td>
                 </tr>
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/YoungohBang.jpg" alt="" height="auto" width="128" style="border-radius:50%">
+                      <img src="/img/YoungohBang.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Youngoh Bang
                       </div>
                       </td>
                   <td>AI (인공지능학과)</td>
-                  <td> Fake Image Detection and Generation, AI based Satellite Ops</td>       
+                  <td> Fake Image Detection and Generation, AI based Satellite Ops</td>
+                    <td><i></i></td>
                 </tr>
                 <tr>
                     <td>
                   <div style="display:flex;flex-direction:column">
-                  <img src="/img/JunyaupKim.png" alt="" height="auto" width="128" style="border-radius:50%">
+                  <img src="/img/JunyaupKim.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       <a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">Junyaup Kim</a>
                 </div>
                 </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Fake Image Detection,  Speech Applications</td>       
+                  <td> Fake Image Detection,  Speech Applications</td>
+                    <td><i></i></td>
                 </tr>
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%">
+                      <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Siho Han
                       </div></td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Time-series Anomaly Detection</td>       
+                    <td><i></i></td>
                 </tr>
                 <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%">
+                      <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       Sowon Jeon
                       </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Blockchain, Privacy, AI Security </td>       
+                    <td><i></i></td>
                 </tr>
                  <tr>
                   <td>
                   <div style="display:flex;flex-direction:column">
-                      <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%">
+                      <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                       JoonHyung Kang
                       </div></td>
                   <td>AI (인공지능학과)</td>
                   <td>AI based Satellite Ops</td>       
+                     <td><i></i></td>
                 </tr> 
                 <tr>
                   <td>
                     <div style="display:flex;flex-direction:column">
-                      <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">
+                      <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                         Hanbin Lee
                       </div>
                     </td>
                   <td>AI (인공지능학과)</td>
                   <td>Object Detection, Deepfakes</td>       
+                    <td><i></i></td>
                 </tr>
                  <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           HyunJae Lee
                       </div>
                      </td>
                   <td>Statistics (통계학과)</td>
-                  <td> Anomaly Detection</td>       
+                  <td> Anomaly Detection</td>    
+                     <td><i></i></td>
                 </tr>
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           JungHo Kim
                       </div>
                      </td>
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Vision</td>       
+                      <td><i></i></td>
                 </tr>
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           Sunny Yun (윤선이)
                       </div>
                      </td>
                   <td>Applied AI</td>
                   <td>Anomaly Detection</td>       
+                      <td><i>capt dot yun dot a350 @ gmail dot com</i></td>
                 </tr>
                   <tr>
                   <td>
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%">
+                          <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           Minha Kim
                       </div>
                      </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Deefakes and Meta Learning</td>       
+                      <td><i></i></td>
                 </tr>  
               </tbody>
             </table>

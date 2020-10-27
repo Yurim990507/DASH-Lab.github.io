@@ -118,7 +118,7 @@ permalink: /Members/
                 <tr>
                     <td>
                   <div style="display:flex;flex-direction:column">
-                  <img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/%EC%A4%80%EC%97%BD-%EA%B9%80-b801a2174/">Junyaup Kim</a>
+                  <img src="/img/JunyaupKim.png" alt="" width="128"><a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">Junyaup Kim</a>
                 </div>
                 </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

@@ -29,7 +29,7 @@ permalink: /Members/
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Anomaly Detection for CPS, Deepfakes Detection</td>
-                    <td><i>sangyup DOT lee AT g DOT skku DOT edu</i></td>
+                    <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td>
@@ -39,6 +39,7 @@ permalink: /Members/
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
+                    <td><i>shahroz @ g dot skku dot edu</i></td>
                 </tr>
                   <tr>
                     <td>
@@ -49,6 +50,7 @@ permalink: /Members/
                     </td>
                   <td>Computer Science & Engineering</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
+                  <td><i>youjin dot shin dot 1 @ stonybrook dot edu</i></td>
                 </tr>
                   <tr>
                     <td>
@@ -59,6 +61,7 @@ permalink: /Members/
                     </td>
                   <td>Computer Science & Engineering</td>
                   <td> Skip-dense layer deep learning model</td>
+                  <td><i>Kykim @ sunykorea dot ac dot kr</i></td>
                 </tr>
                   <tr>
                    <td>
@@ -67,7 +70,8 @@ permalink: /Members/
                            Hasam Khalid
                    </div></td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
-                  <td> Deepfakes and Speech Applications</td>       
+                  <td> Deepfakes and Speech Applications</td>
+                  <td><i>hasam dot khalid @ g dot skku dot edu</i></td>
                 </tr>
                   <tr>
                   <td>
@@ -76,7 +80,8 @@ permalink: /Members/
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & <br> Engineering (소프트웨어)</td>
-                  <td>Deepfakes</td>       
+                  <td>Deepfakes</td>
+                  <td><i></i></td>
                 </tr>
               </tbody>
             </table>

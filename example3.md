@@ -23,8 +23,10 @@ permalink: /Members/
                 <tr>
                    <td>
                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/>
-                           <a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a>
+                           <figure class="item">
+                            <img src="/img/SangyupLee.png" alt="" height="auto" width="128" style="border-radius:50%"/>
+                               <figcaption class="caption"><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a></figcaption>
+                            </figure>
                        </div>
                     </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>

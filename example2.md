@@ -25,6 +25,8 @@ permalink: /Publications/
 
 <p> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b>, "오픈소스 기반 격자 방식 PQC 알고리즘 분석", CISC-W, 2020 </p>
 
+<p> Sowon Jeon, Junhyung Kang, Jinhee Hwang and <b>Simon S. Woo</b>, 국내 딥페이크 기술 현황 및 제도적 대응방안 연구", CISC-S, 2020 (<b><font color='blue'>우수논문상</font></b>)</p>
+
 <p> Hyeonseong Jeon, Siho Han, Sangwon Lee, and <b>Simon S. Woo*</b>, "Compensating for the Lack of Extra Training Data by Learning Extra Representation." 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
 
 <p> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo*</b>, “ITAD: Integrative Tensor-based Anomaly Detection System for Reducing False Postives of Satellite Systems”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>

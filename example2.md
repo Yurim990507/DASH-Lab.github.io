@@ -12,7 +12,7 @@ permalink: /Publications/
     <h5>2021</h5>
     <div class="row">
 
-<p> Sujin Park, Sangwon Lee, and Simon S. Woo, “BertLoc: Duplicate Location Record Detection in a Large-Scale Location Dataset”, SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021.  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
+<p> Sujin Park, Sangwon Lee, and <b>Simon S. Woo*</b>, “BertLoc: Duplicate Location Record Detection in a Large-Scale Location Dataset”, SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021.  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
     </div>
 </div>
 

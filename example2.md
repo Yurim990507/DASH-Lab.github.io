@@ -25,7 +25,7 @@ permalink: /Publications/
 
 <p> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b>, "오픈소스 기반 격자 방식 PQC 알고리즘 분석", CISC-W, 2020 </p>
 
-<p>김정호, 안재주, 양보성, 정주연, 우사이먼성일, "데이터 기반 딥페이크 탐지기법에 관한 최신 기술 동향 조사", 정보보호학회지, "Data-driven Security" 특집호, 10월 30(5), 79-92.</p>
+<p>김정호, 안재주, 양보성, 정주연, 우사이먼성일, "데이터 기반 딥페이크 탐지기법에 관한 최신 기술 동향 조사", 정보보호학회지 (Review of KIISC), "Data-driven Security" 특집호, 10월 30(5), 79-92.</p>
 
 <p> Hyeonseong Jeon, Siho Han, Sangwon Lee, and <b>Simon S. Woo*</b>, "Compensating for the Lack of Extra Training Data by Learning Extra Representation." 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
 

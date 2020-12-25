@@ -22,7 +22,7 @@ Sept 19th 2020. Congrats to 전현성(인공지능석사과정)/한시호(데사
 Aug 10th 2020. Congrats!: <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (인공지능석사과정) IITP 2020인공지능그랜드챌린지 4차 1단계 <u>1위 입상</u></a></b> <br> 
 Very proud of all! [<a href="http://www.lecturernews.com/news/articleView.html?idxno=50892">media coverage</a>]<br>
         July 27th 2020. Congrats Sowon Jeon, 전소원(CS석사과정) 한국정보보호학회 하계학술대회(CISC-S’20) <b>우수상 수상</b> [<a href="https://www.boannews.com/media/view.asp?idx=89875&direct=mobile">media</a>]  <br>
-July 25th 2020. Double Congrats to YJ(CS박사과정) and Jhonny (Daeyoung)(데사석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=99206">media</a>]<br>
+July 25th 2020. Double Congrats to YJ(CS박사과정) and Jhonny (Daeyoung)(데사석사과정), <b> 2 full papers </b> acceptance at <b>CIKM 2020 (BK IF=3)</b> (acceptance rate around 20%ish) [<a href="https://www.skku.edu/skku/campus/skk_comm/news.do?mode=view&articleNo=86286&article.offset=0&articleLimit=10&srSearchVal=%EC%9A%B0%EC%82%AC%EC%9D%B4%EB%A8%BC">media</a>]<br>
 July 19th 2020. 미디어커버리지, 머니투데이 "'N번방'에 쓰인 딥페이크, 정치범죄에 악용될 수 있다" [<a href="https://news.mt.co.kr/mtview.php?no=2020071907512779308">media</a>]<br>
 July 16th 2020. AI 기반 딥페이크 탐지기술 <a href="http://www.netsec-kr.or.kr/static/program">NetSec-KR 발표</a> <br>
 June 4th 2020. Double Congrats to Siho Han(데사석사과정) and Keeyoung Kim(CS박사과정), <b> 2 papers </b> acceptance at <b>ECML-PKDD 2020</b> (acceptance rate=28%) [<a href="https://sci-cube.skku.edu/sci-cube/community/news.do?mode=view&articleNo=98145&article.offset=0&articleLimit=10">media</a>]<br>

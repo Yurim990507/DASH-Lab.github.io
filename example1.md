@@ -22,7 +22,10 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Work Experience</h5> 
-        ◼ Currently, Assistant Professor at SKKU, affliated with Applied Data Science (데이터사이언스), CSE (소프트웨어/융합보안대학원), and Applied AI Dept.(인공지능융합학과) <br>
+        ◼ Currently, Assistant Professor at SKKU affliated with 
+        Applied Data Science (데이터사이언스) <br>
+        CSE (소프트웨어/융합보안대학원) <br> 
+        Applied AI Dept.(인공지능융합학과) <br>
         ◼ NASA Jet Propulsion Lab (JPL), Pasadena, CA, 2005-2014 <br>
         ◼ Verisign Research Lab, Reston, VA, 2016 <br>
         ◼ Intel Corp 2001, 2002 (Co-op Intern) <br>
@@ -32,7 +35,7 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
-          ◼  <br>
+          ◼ AI Security <br>
           ◼ Deepfake Detection and Generation <br>
           ◼ Time Series Analysis/Anomlay Detection <br>
           ◼ Computer Security (Usable Security, Blockchain, Intrusion/Anomaly Detection) <br>

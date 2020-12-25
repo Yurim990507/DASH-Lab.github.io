@@ -9,7 +9,7 @@ permalink: /News/
 <br>
 --><a href="https://swb.skku.edu/security2020/index.do">CS 석/박사지원 융합보안대학원</a> <br>
 --><a href="https://ai.skku.edu">인공지능학과 석/박사지원</a> <br>
---><a href=https://skb.skku.edu/skkuaai/index.do">인공지능융합학과 석/박사지원</a> <br>
+--><a href="https://skb.skku.edu/skkuaai/index.do">인공지능융합학과 석/박사지원</a> <br>
 
 
 <br>

@@ -1,1 +1,7 @@
-<p> AGC anomaly detection dataset page</p>
+---
+layout: page
+title: Anomaly Dataset
+permalink: /AnomalyDataSet/
+---
+
+<p> SKKU AGC Anomaly Detection Dataset Page</p>

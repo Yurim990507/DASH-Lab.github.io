@@ -12,7 +12,7 @@ permalink: /Publications/
     <h5>2021</h5>
     <div class="row">
 
-<p> Shahroz Tariq, Sangwon Lee, and <b>Simon S. Woo*</b>, ““One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework”, The 30th Web Conference (WWW),  Ljubljana, Slovenia, April 19, 2021.  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
+<p> Shahroz Tariq, Sangwon Lee, and <b>Simon S. Woo*</b>, ““One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework”, The 30th Web Conference (WWW),  Ljubljana, Slovenia, April 19, 2021.  (<b><font color='blue'>BK Computer Science IF=4,  (Acceptace rate = 20.6%)</font></b>)</p>
 
 <p> Sujin Park, Sangwon Lee, and <b>Simon S. Woo*</b>, “BertLoc: Duplicate Location Record Detection in a Large-Scale Location Dataset”, SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021.  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
 

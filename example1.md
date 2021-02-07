@@ -47,8 +47,8 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>TPC/Reviewer Service</h5> 
-          ◼ Charing: ACM CoNext Finance Chair (2017)<br>
-          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021), ACM SAC Machine Learning Application Track (2020, 2021)<br>
+          ◼ Charing: ACM CoNext Finance Chair (2017),  EAI CyDiP 2021 Technical Program Committee Chair <br>
+          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf(WWW) (2021), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2021), ACCV (2021)<br>
           ◼ Journals: TIIS Editor (2019-2020), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
 
 </div>

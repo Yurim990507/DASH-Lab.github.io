@@ -15,4 +15,19 @@ permalink: /Dataset/
 <h6><b>2. Classification Data</b></h6>
   <p>Organized into normal_day, normal_night, falldown_night, and falldown_day. Each folder contains images cropped only by humans.</p><br>
 <p><b>Dataset Link</b></p>
-  <a href="https://drive.google.com/drive/folders/1JfEMxKb70GSEEUKMBqr62UFOsMbpPK8s?usp=sharing">SKKU AGC Anomaly Detection Dataset</a>
+  <a href="https://drive.google.com/drive/folders/1JfEMxKb70GSEEUKMBqr62UFOsMbpPK8s?usp=sharing">SKKU AGC Anomaly Detection Dataset</a><br>
+<hr>
+<p><b>Examples of Anomalies</b></p>
+<table>
+  <tr>
+    <td width="50%" valign=top>
+      <p align=center style='margin-top:12.0pt; margin-botton:6.0pt'><u>Detection</p>
+      <p align=center><img border=0 width=240 height=135 src="./img/AGC_detection.jpg"></p>
+    </td>
+    
+    <td width="50%" valign=top>
+      <p align=center style='margin-top:12.0pt; margin-botton:6.0pt'><u>Classification</p>
+      <p align=center><img border=0 width=240 height=135 src="./img/AGC_classification.jpg"></p>
+    </td>
+  </tr>
+</table>

@@ -24,7 +24,6 @@ permalink: /Dataset/
       <p align=center style='margin-top:12.0pt; margin-botton:6.0pt'><u>Detection</p>
       <p align=center><img border=0 width=240 height=135 src="./img/AGC_detection.jpg"></p>
     </td>
-    
     <td width="50%" valign=top>
       <p align=center style='margin-top:12.0pt; margin-botton:6.0pt'><u>Classification</p>
       <p align=center><img border=0 width=240 height=135 src="./img/AGC_classification.jpg"></p>

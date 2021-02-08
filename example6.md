@@ -11,7 +11,7 @@ permalink: /Dataset/
   
 <h6><b>1. Detection Data</b></h6>
   <p>Organized into subfolders of day, day_anno, night, and night_anno. The day and night floders are composed of images. The day_anno and night_anno are composed of xml files for adnormal data.</p>
-  <p>day: 3000<br>night: 2000</p>
+  <p>day: 3000<br>night: 2000</p><br>
 
 <h6><b>2. Classification Data</b></h6>
   <p>Organized into normal_day, normal_night, falldown_night, and falldown_day. Each folder contains images cropped only by humans.</p>

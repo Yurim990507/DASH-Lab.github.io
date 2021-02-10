@@ -10,11 +10,11 @@ permalink: /Dataset/
   <p>SKKU AGC Anomaly Detection Dataset was acquired with a stationary camera mounted at an elevation, overlooking pedestrians, both day and night from various locations. Abnormal event is when a person's head touches the ground. The data was split into detection data and classification data.<p><br>
   
 <h6><b>1. Detection Data</b></h6>
-  <p>It consits of an image and anomaly labels. Images are in day and night folders. Labels(.xml files) are in day_anno and night_anno folders.</p>
+  <p>It consits of images and anomaly labels. Images(1920x1080) are in day and night folders. Labels(.xml files) are in day_anno and night_anno folders.</p>
   <p>day: 3000<br>night: 2000</p><br>
 
 <h6><b>2. Classification Data</b></h6>
-  <p>Organized into normal_day, normal_night, falldown_night, and falldown_day. Each folder contains images cropped only by humans.</p>
+  <p>Images cropped only by humans. There are two classes, normal and falldown. Images are in normal_day, normal_night, falldown_night, and falldown_day folders.</p>
   <p>normal_day: 3200<br>normal_night: 1300<br>falldown_day: 3700<br>falldown_night: 900</p>
   <br>
 <p><b>Dataset Link</b></p>
@@ -45,15 +45,30 @@ permalink: /Dataset/
     </td>
   </tr>
 </table>
-
+<br>
+<hr>
 <p><b>Examples of Classification data</b></p>
 <table>
   <tr>
-    <td width="50%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection.jpg"></p>
-    </td>
-    <td width="50%" valign=top>
+    <td width="33%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification.jpg"></p>
+    </td>
+    <td width="33%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification1.jpg"></p>
+    </td>
+    <td width="33%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification2.jpg"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification3.jpg"></p>
+    </td>
+    <td width="33%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification4.jpg"></p>
+    </td>
+    <td width="33%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification5.jpg"></p>
     </td>
   </tr>
 </table>

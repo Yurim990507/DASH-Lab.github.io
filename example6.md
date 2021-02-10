@@ -23,11 +23,20 @@ permalink: /Dataset/
 <p><b>Examples of Anomaly Detection data</b></p>
 <table>
   <tr>
-    <td width="50%" valign=top>
+    <td width="20%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection.jpg"></p>
     </td>
-    <td width="50%" valign=top>
+    <td width="20%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection3.jpg"></p>
+    </td>
+    <td width="20%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection4.jpg"></p>
+    </td>
+    <td width="20%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection1.jpg"></p>
+    </td>
+    <td width="20%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection2.jpg"></p>
     </td>
   </tr>
 </table>

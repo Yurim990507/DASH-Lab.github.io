@@ -32,11 +32,16 @@ permalink: /Dataset/
     <td width="20%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection4.jpg"></p>
     </td>
+  </tr>
+  <tr>
     <td width="20%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection1.jpg"></p>
     </td>
     <td width="20%" valign=top>
       <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection2.jpg"></p>
+    </td>
+    <td width="20%" valign=top>
+      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection5.jpg"></p>
     </td>
   </tr>
 </table>

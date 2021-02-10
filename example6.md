@@ -51,24 +51,24 @@ permalink: /Dataset/
 <table>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification1.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification1.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification2.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification2.jpg"></p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification3.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification3.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification4.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification4.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_classification5.jpg"></p>
+      <p align=center><img border=0  src="/img/AGC_classification5.jpg"></p>
     </td>
   </tr>
 </table>

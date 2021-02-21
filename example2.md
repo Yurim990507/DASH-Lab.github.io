@@ -12,7 +12,10 @@ permalink: /Publications/
     <h5>2021</h5>
     <div class="row">
 
+
 <p> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b>, “Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet”, Elsevier  Applied Soft Computing (Minor revision)</p>
+
+<p> Jaeju An, Jeongho Kim, Bosung Yang, Geonwoo Park, <b>Simon S. Woo</b> "Exploring Racial Bias in Classifiers for Face Recognition,"  Third Workshop on Fairness, Accountability, Transparency, Ethics and Society on the Web (FATES) Joint with The Web Conference 2021, Ljubljana, Slovenia, 19-23 April 2021</p>
 
 <p> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo*</b>, “One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework”, The 30th Web Conference (WWW),  Ljubljana, Slovenia, April 19, 2021.  (<b><font color='blue'>BK Computer Science IF=4,  Acceptace rate = 20.6%</font></b>)</p>
 

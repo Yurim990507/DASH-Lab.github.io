@@ -8,7 +8,7 @@ permalink: /Publications/
 
 
 
-<div class="container content" style="margin-top:2vw;">
+<div  style="margin-top:2vw;">
     <h4 style="margin-top:40px"><b>2021</b></h4><hr>
     
     <div style="display: flex;">

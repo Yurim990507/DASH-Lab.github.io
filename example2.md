@@ -7,44 +7,26 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 
-<div  style="margin-top:2vw;">
 
-        <div style="display: flex;">
-            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-            </div>
+            <div style="margin-left: 25px;">
+                <p><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></p> 
+                    <p> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
     
-         
+                    <p > <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small>  </p>    
+                    <p> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p>
         </div>
-    
-</div>
-
-
-<div  style="margin-top:2vw;">
-
-        <div style="display: flex;">
-            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-            </div>
-    
-         
         </div>
+        <hr>
+<div style="margin-left: 25px;">
+                <p><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></p> 
+                    <p> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
     
-</div>
-
-<div  style="margin-top:2vw;">
-
-        <div style="display: flex;">
-            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-            </div>
-    
-         
+                    <p > <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small>  </p>    
+                    <p> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p>
         </div>
-    
-</div>
-
-
+        </div>
+        <hr>
+        
 <div class="section">
     <h5>2020</h5>
     <div class="row">

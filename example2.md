@@ -14,26 +14,33 @@ permalink: /Publications/
             </div>
     
             <div style="margin-left: 25px;">
-                <table >
-                <thead>
-                    <tr>
-                        <a ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
-                    </tr>
-                </thead>
-                <tbody>
+                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
+                  <p > <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
     
-                    <tr> <td scope="row"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </td> </tr>
+                    <p> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p>
     
-                    <tr> <td scope="row"> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </td> </tr>
+                    <p> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p>
     
-                    <tr> <td scope="row"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </td> </tr>
-    
-                </tbody>
-                </table>
             </div>
         </div>
         <hr>
+                <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
+                  <p > <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
+    
+                    <p> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p>
+    
+                    <p> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p>
+    
+            </div>
         </div>
+        <hr>
+</div>
 
 
 <div class="section">

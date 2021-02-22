@@ -6,7 +6,13 @@ permalink: /Publications/
 
 <h1 class="page-title">Publications</h1>
 
-
+<script>
+    // When the user clicks on div, open the popup
+    function myFunction() {
+      var popup = document.getElementById("myPopup");
+      popup.classList.toggle("show");
+    }
+</script>
 <div class="divider"></div>
 <div class="section">
     <h5>2021</h5>
@@ -23,7 +29,8 @@ permalink: /Publications/
  
  
 <p> Sujin Park, Sangwon Lee, and <b>Simon S. Woo*</b>, “BertLoc: Duplicate Location Record Detection in a Large-Scale Location Dataset”, SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021.  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
-
+<p><div class="popup" onclick="myFunction()">Bibtex
+    <span class="popuptext" id="myPopup">Popup text...</span></div></p>
 </div>
 </div>
 

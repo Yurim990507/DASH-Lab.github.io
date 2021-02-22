@@ -14,7 +14,7 @@ permalink: /Publications/
             </div>
     
             <div style="margin-left: 25px;">
-                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
+                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> </p>
                   <p > <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
     
                     <p> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p>
@@ -30,7 +30,7 @@ permalink: /Publications/
             </div>
     
             <div style="margin-left: 25px;">
-                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
+                <p ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b>  </p>
                   <p > <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
     
                     <p> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p>

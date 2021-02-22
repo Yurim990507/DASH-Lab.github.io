@@ -24,11 +24,11 @@ permalink: /Publications/
                 </thead>
                 <tbody>
     
-                    <tr> <p scope="row"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p> </tr>
     
-                    <tr> <p scope="row"> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p> </tr>
     
-                    <tr> <p scope="row"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
     
                 </tbody>
                 </table>
@@ -51,11 +51,11 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Jaeju An, Jeongho Kim, Bosung Yang, Geonwoo Park, <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jaeju An, Jeongho Kim, Bosung Yang, Geonwoo Park, <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> Third Workshop on Fairness, Accountability, Transparency, Ethics and Society on the Web (FATES) Joint with The Web Conference 2021, Ljubljana, Slovenia, </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Third Workshop on Fairness, Accountability, Transparency, Ethics and Society on the Web (FATES) Joint with The Web Conference 2021, Ljubljana, Slovenia, </b> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> Recent advancements in deep learning have allowed, among others,various applications of face recognition systems, where a largeamount of face image data are typically required for training. </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Recent advancements in deep learning have allowed, among others,various applications of face recognition systems, where a largeamount of face image data are typically required for training. </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -77,11 +77,11 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> The 30th Web Conference (WWW), Ljubljana, Slovenia, April 19, 2021 </b> </small> </p> </tr>
-                        <tr> <p scope="row"> <small> <b><font color='blue'>BK Computer Science IF=4,  Acceptace rate = 20.6%</font></b> </small>  </p> </tr> 
-                        <tr> <p scope="row"> <small> ... </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 30th Web Conference (WWW), Ljubljana, Slovenia, April 19, 2021 </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'>BK Computer Science IF=4,  Acceptace rate = 20.6%</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -104,11 +104,11 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Bong Gon Kim, Young-Seob Cho, Seok-hyun Kim, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Bong Gon Kim, Young-Seob Cho, Seok-hyun Kim, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> IEEE Access, Jan 2021 </b> </small> </p> </tr>
-                        <tr> <p scope="row"> <small> <b><font color='purple'>SCIE Q1 IF=4.09</font></b> </small>  </p> </tr> 
-                        <tr> <p scope="row"> <small> Decentralized identifiers (DID) has shown great potential for sharing user identities across different domains and services without compromising user privacy. DID is designed to enable the minimum disclosure of the proof from a user’s credentials on a need-to-know basis with a contextualized delegation. </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Access, Jan 2021 </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=4.09</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Decentralized identifiers (DID) has shown great potential for sharing user identities across different domains and services without compromising user privacy. DID is designed to enable the minimum disclosure of the proof from a user’s credentials on a need-to-know basis with a contextualized delegation. </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -129,11 +129,11 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Sujin Park, Sangwon Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;" scope="row"> <small> <i> Sujin Park, Sangwon Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021. </b> </small> </p> </tr>
-                        <tr> <p scope="row"> <small> <b><font color='blue'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
-                        <tr> <p scope="row"> <small> ... </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021. </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -160,10 +160,10 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> 정보보호학회지 (Review of KIISC) </b> </small> </p> </tr>
-                        <tr> <p scope="row"> <small> ... </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 정보보호학회지 (Review of KIISC) </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -184,11 +184,11 @@ permalink: /Publications/
                     </thead>
                     <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Hyeonseong Jeon, Siho Han, Sangwon Lee and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hyeonseong Jeon, Siho Han, Sangwon Lee and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020 </b> </small> </p> </tr>
-                        <tr> <p scope="row"> <small> <b><font color='purple'>SCIE Q1 IF=1</font></b> </small>  </p> </tr> 
-                        <tr> <p scope="row"> <small> Outperforming the previous state of the art, numerous deep learning models have been proposed for image classification using the ImageNet database. </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020 </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=1</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Outperforming the previous state of the art, numerous deep learning models have been proposed for image classification using the ImageNet database. </small>  </p> </tr>
     
                     </tbody>
                     </table>
@@ -214,13 +214,13 @@ permalink: /Publications/
                       </thead>
                       <tbody>
     
-                        <tr> <p scope="row"> <small> <i> Matthias Nießner, Roman Sturm, Günther Greiner </i> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Matthias Nießner, Roman Sturm, Günther Greiner </i> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> <b> ACM SIGGRAPH VRCAI 2012 </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SIGGRAPH VRCAI 2012 </b> </small> </p> </tr>
     
-                        <tr> <p scope="row"> <small> We present a novel approach that allows real-time simulation of human vision through eyeglasses. Our system supports glasses that are composed of a combination of spheric, toric and in particular of free-form surfaces. </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> We present a novel approach that allows real-time simulation of human vision through eyeglasses. Our system supports glasses that are composed of a combination of spheric, toric and in particular of free-form surfaces. </small>  </p> </tr>
     
-                        <tr> <p scope="row"> <small> [<a href="papers/2012/0eyeglass/niessner2012eyeglass.pdf">paper</a>][<a href="papers/2012/0eyeglass/niessner2012eyeglass.bib">bibtex</a>][<a href="projects/niessner2012eyeglass.html">project page</a>] </small>  </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="papers/2012/0eyeglass/niessner2012eyeglass.pdf">paper</a>][<a href="papers/2012/0eyeglass/niessner2012eyeglass.bib">bibtex</a>][<a href="projects/niessner2012eyeglass.html">project page</a>] </small>  </p> </tr>
     
     
                       </tbody>

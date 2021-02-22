@@ -7,97 +7,17 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 
-<div class="container content" style="margin-top:2vw;">
-    <h4 style="margin-top:40px"><b>2020</b></h4><hr>
-    
-        <div style="display: flex;">
+<div  style="margin-top:2vw;">
+
+    <div >
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                     <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
             </div>
     
-            <div style="margin-left: 25px;">
-                <table >
-                <thead>
-                    <tr>
-                        <a ><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></b> 
-                    </tr>
-                </thead>
-                <tbody>
-    
-                    <tr> <td scope="row"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </td> </tr>
-    
-                    <tr> <td scope="row"> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </td> </tr>
-    
-                    <tr> <td scope="row"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </td> </tr>
-    
-                </tbody>
-                </table>
-            </div>
-        </div>
-        <hr>
-           
-    
-            <div style="display: flex;">
-                <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                        <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-                </div>
-    
-                <div style="margin-left: 25px;">
-                    <table >
-                    <thead>
-                        <tr>
-                            <a ><b>Exploring Racial Bias in Classifiers for Face Recognition</a></b> 
-                        </tr>
-                    </thead>
-                    <tbody>
-    
-                        <tr> <td scope="row"> <small> <i> Jaeju An, Jeongho Kim, Bosung Yang, Geonwoo Park, <b>Simon S. Woo </i> </small> </td> </tr>
-    
-                        <tr> <td scope="row"> <small> <b> Third Workshop on Fairness, Accountability, Transparency, Ethics and Society on the Web (FATES) Joint with The Web Conference 2021, Ljubljana, Slovenia, </b> </small> </td> </tr>
-    
-                        <tr> <td scope="row"> <small> Recent advancements in deep learning have allowed, among others,various applications of face recognition systems, where a largeamount of face image data are typically required for training. </small>  </td> </tr>
-    
-                    </tbody>
-                    </table>
-                </div>
-            </div>
-
-
-    <!--   
-    
-            <div class="row">
-                <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                        <a href="projects/niessner2012eyeglass.html"> <img class="thumbnail" src="papers/2012/0eyeglass/thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-                </div>
-    
-                <div class="col-lg-9">
-                    <table cellpadding="2">
-                      <thead>
-                        <tr>
-                          <th class="text-left">     
-                            <a href="projects/niessner2012eyeglass.html"> Real-time Simulation and Visualization of Human Vision through Eyeglasses on the GPU </a>
-                        </th>
-                        </tr>
-                      </thead>
-                      <tbody>
-    
-                        <tr> <td scope="row"> <small> <i> Matthias Nießner, Roman Sturm, Günther Greiner </i> </small> </td> </tr>
-    
-                        <tr> <td scope="row"> <small> <b> ACM SIGGRAPH VRCAI 2012 </b> </small> </td> </tr>
-    
-                        <tr> <td scope="row"> <small> We present a novel approach that allows real-time simulation of human vision through eyeglasses. Our system supports glasses that are composed of a combination of spheric, toric and in particular of free-form surfaces. </small>  </td> </tr>
-    
-                        <tr> <td scope="row"> <small> [<a href="papers/2012/0eyeglass/niessner2012eyeglass.pdf">paper</a>][<a href="papers/2012/0eyeglass/niessner2012eyeglass.bib">bibtex</a>][<a href="projects/niessner2012eyeglass.html">project page</a>] </small>  </td> </tr>
-    
-    
-                      </tbody>
-                    </table>
-                </div>
-            </div>
-            <hr>
-            -->
-    
     </div>
+      <hr>
+    
+</div>
 
 
 

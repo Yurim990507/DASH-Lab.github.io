@@ -7,7 +7,10 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 
-
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
             <div style="margin-left: 25px;">
                 <p><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></p> 
                     <p> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
@@ -17,6 +20,11 @@ permalink: /Publications/
         </div>
         </div>
         <hr>
+        
+<div style="display: flex;">
+<div class="col-lg-3" style="vertical-align: middle; text-align:center">
+        <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+</div>
 <div style="margin-left: 25px;">
                 <p><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using ShallowNet </a></p> 
                     <p> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>

@@ -100,7 +100,8 @@ permalink: /Publications/
                 <table >
                 <thead>
                     <tr>
-                        <a ><b>A Security Analysis of Blockchain-based DID Services</b></a> 
+                        <a ><b>A Security Analysis of Bl
+                        kchain-based DID Services</b></a> 
                     </tr>
                 </thead>
                 <tbody>
@@ -423,7 +424,7 @@ permalink: /Publications/
         <hr>
         <div style="display: flex;">
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+                    <a > <img  src="ocvae.png" style="width:160px; height:160px; margin-bottom:20px"></a>
             </div>
     
             <div style="margin-left: 25px;">
@@ -435,7 +436,8 @@ permalink: /Publications/
                 </thead>
                 <tbody>
     
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hasam Khalid and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> 
+                    Khalid and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA </b> </small> </p> </tr>
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> An image forgery method called Deepfakes can cause security and privacy issues by changing the identity of a person in a photo through the replacement of his/her face with a computer-generated image or another person’s face. </small>  </p> </tr>

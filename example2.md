@@ -784,7 +784,6 @@ permalink: /Publications/
         </div>
     </div>
     <hr>
-    <h4 style="margin-top:40px"><b>2019</b></h4><hr>
     <div style="display: flex;">
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                 <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>

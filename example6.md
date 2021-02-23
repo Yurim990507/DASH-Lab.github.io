@@ -4,12 +4,11 @@ title: Dataset
 permalink: /Dataset/
 ---
 
-<p> SKKU AGC Anomaly Detection Dataset Page</p>
+<p><a href="https://dash-lab.github.io/Dataset_kor.html">Kor</a></p>
 
 <h1 class="page-title">SKKU AGC Anomaly Detection Dataset</h1>
   <p>SKKU AGC Anomaly Detection Dataset was acquired with a stationary camera mounted at an elevation, overlooking pedestrians, both day and night from various locations. Abnormal event is when a person's head touches the ground. The data was split into detection data and classification data.<p><br>
  
- Korean Click <a href="https://dash-lab.github.io/Dataset_kor.html">here</a>
 <h6><b>1. Detection Data</b></h6>
   <p>It consits of images and anomaly labels. Images(1920x1080) are in day and night folders. Labels(.xml files) are in day_anno and night_anno folders.</p>
   <p>day: 3000<br>night: 2000</p><br>

@@ -9,7 +9,7 @@ permalink: /Publications/
 
 
 <div  style="margin-top:2vw;">
-    <h4 style="margin-top:40px"><b>2021</b></h4><hr>
+    <h4 style="margin-top:20px"><b>2021</b></h4><hr>
     
     <div style="display: flex;">
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
@@ -100,8 +100,7 @@ permalink: /Publications/
                 <table >
                 <thead>
                     <tr>
-                        <a ><b>A Security Analysis of Bl
-                        kchain-based DID Services</b></a> 
+                        <a ><b>A Security Analysis of Blockchain-based DID Services</b></a> 
                     </tr>
                 </thead>
                 <tbody>
@@ -436,8 +435,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
     
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> 
-                    Khalid and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hasam Khalid and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA </b> </small> </p> </tr>
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> An image forgery method called Deepfakes can cause security and privacy issues by changing the identity of a person in a photo through the replacement of his/her face with a computer-generated image or another person’s face. </small>  </p> </tr>
@@ -497,91 +495,584 @@ permalink: /Publications/
             </div>
         </div>
         <hr>
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
     
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Simon S. Woo</b>,Hanbin Jang, Woojung Ji and Hyoungshick Kim </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=3, Acceptance Rate=19%</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> A package tracking number (PTN) is widely used to monitor and track a shipment. Through the lenses of security and privacy, however, a package tracking number can possibly reveal certain personal information, leading to security and privacy breaches.  </p> </tr>
+    
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo</b> </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020</b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Creating fake images and videos such as "Deepfake" has become much easier these days due to the advancement in Generative Adversarial Networks (GANs). Moreover, recent research such as the few-shot learning can create highly realistic personalized fake images with only a few images. </p> </tr>
+    
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>How do we Create a Fantabulous Password?</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Joon Kuy Han,<b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020.</b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Designing a fallback authentication mechanism that is both memorable and strong is a challenging problem because of the trade-off between usability and security. Security questions are popularly used as a fallback authentication method for password recovery. </p> </tr>
+    
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AsiaUSEC, Feb. 2020 </b> </small> </p> </tr>
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Internet users in South Korea seem to have clearly different web browser choices and usage patterns compared to the rest of the world, heavily using Internet Explorer (IE) or multiple browsers. </p> </tr>
+    
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020 </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> In-vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is widely used as the de facto standard to provide serial communications between Electronic Control Units (ECUs). </p> </tr>
+    
+                </tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+    <h4 style="margin-top:40px"><b>2019</b></h4><hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Designing for fallible humans</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jelena Mirkovic and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019.</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Security and privacy solutions today are designed with an assumption of a rational user. System designers assume that the user is able to review all information shown to them, consider it along with other information they have, and user priorities, and make a conscious, rational decision in their best interest.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: Classifying Genuine Face images from Disguised Face Images</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Junyaup Kim, Siho Han, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA</b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Detecting fake or disguised face images become much more challenging due to the significant advancements made in machine learning, computer vision, and image processing techniques. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API,</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Joon Kuy Han, Hyoungshick Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Many companies offer automatic speech recognition or Speech-to-Text APIs for use in diverse applications. However, audio classification algorithms trained with deep neural networks (DNNs) can sometimes misclassify adversarial examples, posing a significant threat to critical applications. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM'19, Beijing, China, Nov, 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance rate=21%, BK Computer Science IF=3</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Manufacturing steel requires extremely challenging industrial processes. In particular, predicting the exact time instance of opening and closing tap-holes in a blast furnace has a great influence on steel production efficiency and operating cost, in addition to human safety. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hyeonseong Jeon, Youngoh Bang, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Detecting realistic fake images and videos is an increasingly important and urgent problem because they can be
+                    maliciously used. In this work, we propose FakeTalkerDetect, which is based on siamese networks to detect the recently proposed realistic talking head with few-shot learning. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Tensor Decomposition for Anomaly Detection in Space</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Youjin Shin, Sangyup Lee, Shahroz Tariq, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA</b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA</b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <h4 style="margin-top:40px"><b>2019</b></h4><hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SIG KDD, Alaska, USA, 2019.</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Accepted, BK Computer Science IF=4</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Detecting an anomaly is not only important for many terrestrial applications on Earth but also for space applications. Especially, satellite missions are highly risky because unexpected hardware and software failures can occur due to sudden or unforeseen space environment changes. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Yuri Son, Geumhwan Cho, Hyoungshick Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> To understand users' risk perceptions about sharing their PHR on SNS, we first conducted a qualitative user study by interviewing 16 participants. Next, we conducted a large-scale online user study with 497 participants in the U.S. to validate our qualitative results from the first study. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Pratik Musale, Duin Baek, Nuwan Werellagama, <b>Simon S. Woo</b>, and and Bong Jun Choi </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Access, Early Access, 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF= 3.557</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> With a plethora of wearable IoT devices available today, we can easily monitor human activities, many of which are unconscious or subconscious. Interestingly, some of these activities exhibit distinct patterns for each individual, which can provide an opportunity to extract useful features for user authentication. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Youjin Shin and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The Web Conference (WWW), May 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In the past, there have been several studies in analyzing password strength and structures. However, there are still many unknown questions to understand what really makes passwords both memorable and strong. In this work, we aim to answer some of these questions by analyzing password dataset through the lenses of data science and machine learning perspectives. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Using Episodic Memory for User Authentication</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>  ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=2.1</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Passwords are widely used for user authentication, but they are often difficult for a user to recall, easily cracked by automated programs, and heavily reused. Security questions are also used for secondary authentication. They are more memorable than passwords, because the question serves as a hint to the user, but they are very easily guessed. We propose a new authentication mechanism, called "life-experience passwords (LEPs)." </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SAC Cyprus April 2019</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 25%, BK Computer Science 우수학회 IF=1</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Creating fake images such as replacing one's face with other person's face has become much easier due to the advancement of sophisticated image editing tools. In addition, Generative Adversarial Networks (GANs) enable creating natural looking human faces. However, fake images can cause many potential problems, as they can be misused to abuse information, hurt people, and generate fake identification. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <h4 style="margin-top:40px"><b>2018</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Design and Evaluation of 3D CAPTCHAs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier Computers & Security, December 2018</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3.06</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Most current 2D CAPTCHAs are vulnerable to automated character recognition attacks and the latest attacks can successfully break the 2D text CAPTCHAs at a rate of more than 90%. In this work, we present two novel 3D CAPTCHAs, which are more secure than current 2D text CAPTCHAs against automated character recognition attacks. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: Memorability and Security of Image and Text Integrated Authentication System</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Joonkyu Han and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 34th Annual Computer Security Applications Conference (ACSAC)</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Puerto Rico, USA, 2018</font></b> </small>  </p> </tr> 
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Evaluating and Breaking Naver’s Audio CAPTCHA using Off-the-Shelf Speech-to-text APIs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Soyoon Jeon, Jihye Woo, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018) Seoul, Korea, 2018</b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Understanding Users’ Perception on Digital Certificate and Their Web Browser Usages in Korea</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jihye Woo, Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 (Best Paper, 국보연 원장상)</b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Password typographical error resilience in honey encryption</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  H. Choi, J. Jeong,<b>Simon S. Woo</b>, K. Kang, and J. Hur </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier Computers & Security, October 2018</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=2.86</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Honey encryption (HE) is a novel password-based encryption scheme that is secure against brute-force attacks even if users’ passwords have min-entropy. However, in HE, decryption with an incorrect key produces fake messages that appear valid. Hence, password typographical errors may confuse even legitimate users. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: Adversarial Product Review Generation with Word Replacements</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Yimin Zhu and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Machine learning algorithms including Deep Neural Networks (DNNs) have shown great success in many different areas. However, they are frequently susceptible to adversarial examples, which are maliciously crafted inputs to fool machine learning classifiers. On the other hand, humans cannot distinguish between non-adversarial and adversarial inputs. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+
+
+
+
 
     </div>
 
-
-<div class="section">
-    <h5>2020</h5>
-    <div class="row">
-
-<p> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b>, "오픈소스 기반 격자 방식 PQC 알고리즘 분석", CISC-W, 2020 </p>
-
-<p>김정호, 안재주, 양보성, 정주연, 우사이먼성일, "데이터 기반 딥페이크 탐지기법에 관한 최신 기술 동향 조사", 정보보호학회지 (Review of KIISC), "Data-driven Security" 특집호, 10월 30(5), 79-92.</p>
-
-<p> Hyeonseong Jeon, Siho Han, Sangwon Lee, and <b>Simon S. Woo*</b>, "Compensating for the Lack of Extra Training Data by Learning Extra Representation." 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020  (<b><font color='blue'>BK Computer Science IF=1</font></b>)</p>
-
-<p> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo*</b>, “ITAD: Integrative Tensor-based Anomaly Detection System for Reducing False Postives of Satellite Systems”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
-
-<p> DaeYoung Yoon and <b>Simon S. Woo*</b>, “Who is Delivering My Food? Detecting Food Delivery Abusers using Variational Reward Inference Networks”, CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland (<b><font color='blue'>BK Computer Science IF=3</font></b>)</p>
-
-<p>Eunsoo Kim, Young-Seob Cho, Bedeuro Kim, Woojoong Ji, Seok-hyun Kim, <b>Simon S. Woo*</b>, and Hyoungshick Kim*,“Can We Create a Cross-Domain Federated Identity for Industrial Internet of Things without Google?”, IEEE Internet of Things Magazine, 2020. </p>
-
- <p>Keeyoung Kim, Jinseok Hong, Sang-Hoon Rhee and Simon Woo,, "Applying Deep Learning to Reconstruct Pottery from Thousands Shards," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
-
- <p>Seoyoung Park*, Siho Han* and Simon S. Woo, "Forecasting Error Pattern-based Anomaly Detection in Multivariate Time Series," ECML-PKDD, Ghent, Belgium 2020 (<b><font color='blue'> Acceptance Rate=28%</font></b>)</p>
- 
- <p> Sowon Jeon, Junhyung Kang, Jinhee Hwang and <b>Simon S. Woo</b>, 국내 딥페이크 기술 현황 및 제도적 대응방안 연구", CISC-S, 2020 (<b><font color='blue'>우수논문상</font></b>)</p>
- 
- <p> Hyeonseong Jeon, Youngoh Bang, Junyaup Kim, and Simon S. Woo. "T-GD: Transferable GAN-generated Images Detection Framework.". Thirty-seventh International Conference on Machine Learning  (ICML), Vienna, Austria, 2020 (<b><font color='blue'>BK Computer Science IF=4, Acceptance Rate=21.8%</font></b>) </p>
- 
- <p> Dan Zhang, and Simon S. Woo*, "Real Time Localized Air Quality Monitoring and Prediction Through Mobile and Fixed IoT Sensing Network", IEEE Access, May 2020 (<b><font color='purple'>SCIE Q1 IF=4.09</font></b>) </p>
- 
- <p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo*, "CAN-ADF: The Controller Area Network Attack Detection Framework", Elsevier Computers & Security, December 2020 (<b><font color='purple'>SCIE Q1 IF=3.06</font></b>) </p>
-        
- <p>  Hasam Khalid and Simon S. Woo*, <strong>"OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder"</strong>, Workshop on Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA (PDF) </p>  
-
- <p> Hanbin Jang, Woojung Ji, <b>Simon Woo</b> and Hyoungshick Kim, “Design and Evaluation of Enumeration Attacks on Package Tracking Systems”,  The 25th Australasian Conference on Information Security and Privacy, Perth, Australia, 2020 (acceptance rate ~ = 20%)
- </p>        
-
- <p>  Simon S. Woo*, <strong>"How do we Create a Fantabulous Password?"</strong>, The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=4, Acceptance Rate=19%</font></b>) </p> 
-        
- <p> Simon S. Woo*, Hanbin Jang, Woojung Ji and Hyoungshick Kim, <strong> "(Short paper) I've Got Your Packages: Harvesting customers' delivery order data using package tracking number enumeration attacks", </strong> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 (<b><font color='blue'>BK Computer Science IF=3, Acceptance Rate=19%</font></b>) </p> 
-        
-  <p> Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong>“FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network”,</strong> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020 (<b><font color='blue'>BK CS IF=1)</font></b> <a href="https://arxiv.org/pdf/2001.01265.pdf" download="newfilename"> (PDF) </a> </p>  
-  
-<p> Joon Kuy Han, Simon S. Woo* and Hyoungshick Kim, <strong> “PassTag: A Graphical-Textual Hybrid Fallback Authentication System” </strong>, ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020. (<b><font color='blue'>BK CS IF=1</font></b>) </p>
-
- <p> Jihye Woo, Ji Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and Simon S. Woo*,<strong> "Tale of Two Browsers: Understanding Users' Web Browser Choices in South Korea",</strong> AsiaUSEC, Feb. 2020. </p>
- 
- <p> Shahroz Tariq, Sangyup Lee, and Simon S. Woo*, <strong>"CANTransfer -- Transfer Learning based Intrusion Detection on a Controller Area Network using Convolutional LSTM Network,"</strong> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020. (<b><font color='blue'>BK CS IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3341105.3373868"> (PDF) </a> <a href="https://drive.google.com/u/1/uc?id=196DxRjdv5krMvMZfzo1BygGSfYTIHTv6&export=download" download="newfilename"> (Slides) </a> <a href="https://youtu.be/aNWjlSuSBWE"> (Video) </a></p>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>2019</h5>
-    <div class="row">
-<p>Jelena Mirkovic and Simon S. Woo, <strong> "Designing for fallible humans," </strong> 2019 IEEE Humans and Cyber Security (HACS) workshop in conjunction with IEEE CogMI (Cognitive Machine Intelligence), IEEE CIC (Collaboration and Internet Computing) and IEEE TPS (Trust, Privacy and Security of Intelligence Systems, and Applications) Los Angeles, California, USA, December 14, 2019. (Invited Paper) 
-<a href="https://www.isi.edu/~mirkovic/publications/hacs.pdf" download> (PDF) </a>
-</p>
-
-<p>Junyaup Kim, Siho Han, and Simon S. Woo*, <strong> "Poster: Classifying Genuine Face images from Disguised Face Images," </strong> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA </p>
-
-
-<p>Joon Kuy Han, Hyoungshick Kim and Simon S. Woo*, <strong>"Poster: Nickel to Lego: Using Foolgle to Create Adversarial Examples to fool Google Cloud Speech-to-Text API," </strong> The 26th ACM Conference on Computer and Communications Security, London, UK, 2019<a href="https://dl.acm.org/doi/10.1145/3319535.3363264" download> (PDF) </a> </p>
-        
-<p>Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and Simon S. Woo*, <strong> "Deep Learning for Blast Furnaces: Skip-Dense Layers Deep Learning Model to Predict the Remaining Time to Close Tap-holes for Blast Furnaces", </strong> CIKM'19, Beijing, China, Nov, 2019. (<b><font color='blue'>Acceptance rate=21%, BK Computer Science IF=3</font></b>) <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3357803f" download> (PDF) </a> </p>
-        
-<p>Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo*, <strong> "FakeTalkerDetect: Effective and Practical Realistic Neural Talking Head Detection with a Highly Unbalanced Datase", </strong> 10th International Workshop on Human Behavior Understanding (HBU), held in conjunction with ICCV'19 Nov, 2019 - Seoul, S. Korea  <a href="http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Jeon_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_ICCVW_2019_paper.pdf" download> (PDF) </a></p>
-        
-<p>Youjin Shin, Sangyup Lee, Shahroz Tariq, and Simon S. Woo*, <strong> "Tensor Decomposition for Anomaly Detection in Space", </strong> Workshop on Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
-        
-<p>Jinwoo Cho, Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun Kim and Simon S. Woo, <strong> "Contextual Anomaly Detection by Correlated Probability Distributions using Kullback-Leibler Divergence",</strong> 5th Workshop on Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA </p>
-        
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and Simon S. Woo*, <strong> "Detecting Anomalies in Space using Multivariate Convolutional LSTM with Mixtures of Probabilistic PCA",</strong> SIG KDD, Alaska, USA, 2019. (<b><font color='blue'>Accepted, BK Computer Science IF=4</font></b>)<a href="https://dl.acm.org/doi/10.1145/3292500.3330776" download> (PDF) </a>  <a href="https://youtu.be/fI5z_nk3q_4" download> (Video) </a> </p>
-        
-<p>Yuri Son, Geumhwan Cho, Hyoungshick Kim and Simon S. Woo, "Understanding Users Risk Perceptions about Personal Health Records Shared on Social Networking Services", ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019. (<b><font color='blue'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b>) <a href="https://dl.acm.org/doi/10.1145/3321705.3329838" download> (PDF) </a> </p>
-        
-<p>Pratik Musale, Duin Baek, Nuwan Werellagama, Simon S. Woo, and Bong Jun Choi, "You Walk, We Authenticate: Lightweight Seamless Authentication based on Gait in Wearable IoT Systems," IEEE Access, Early Access, 2019. (<b><font color='purple'> SCIE Q1 IF= 3.557</font></b>) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8672772" download> (PDF) </a> </p>
-
-<p>Youjin Shin and Simon S. Woo*, "What Is in Your Password? Analyzing Memorable and Secure Passwords using a Tensor Decomposition" (Short Paper), The Web Conference (WWW), May 2019 (<b><font color='blue'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b>) </p>
-        
-<p>Simon S. Woo*, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic “Using Episodic Memory for User Authentication,” ACM Transactions on Transactions on Privacy and Security (TOPS), January 2019 (<b><font color='purple'>SCIE Q1 IF=2.1</font></b>) </p>
- 
-<p>Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo*, <strong> "GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images",</strong> ACM SAC Cyprus April 2019, (<b><font color='blue'>Acceptance Rate 25%, BK Computer Science 우수학회 IF=1</font></b>) </p>
-       
-</div>
 <div class="divider"></div>
 <div class="section">
     <h5>2018</h5>

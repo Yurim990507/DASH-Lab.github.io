@@ -1041,7 +1041,8 @@ permalink: /Publications/
             </table>
         </div>
     </div>
-    <hr>    <div style="display: flex;">
+    <hr>    
+    <div style="display: flex;">
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                 <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
         </div>
@@ -1064,14 +1065,878 @@ permalink: /Publications/
         </div>
     </div>
     <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Detecting In-Vehicle CAN Message Attacks using Heuristics and RNNs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 3rd International workshop on Information & Operational Technology (IT & OT) security systems (IOSec 2018), co-located with 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is used as the de facto standard to provide serial communication between Electronic Control Units (ECUs). However, prior research reveals that several network-level attacks can be performed on the CAN bus due to the lack of underlying security mechanism. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Detecting Both Machine and Human Created Fake Face Images In the Wild</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 2nd International Workshop on Multimedia Privacy and Security (MPS 2018), co-located with 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Due to the significant advancements in image processing and machine learning algorithms, it is much easier to create, edit, and produce high quality images. However, attackers can maliciously use these tools to create legitimate looking but fake images to harm others, bypass image detection algorithms, or fool image recognition classifiers. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>GuidedPass: Guiding users to create both more memorable and strong passwords</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and  and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018  </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Password meters and policies are currently the only tools helping users to create stronger passwords. However, such tools often do not provide consistent or useful feedback to users, and their suggestions may decrease memorability of resulting passwords.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: Leveraging Semantic Transformation to Investigate Password Habits and Their Causes</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Ameya Hanesamgar, <b>Simon S. Woo</b>, Chris Kanich, and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Usenix The Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), Baltimore, USA, 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> It is no secret that users have difficulty choosing and remembering strong passwords, especially when asked to choose different passwords across different accounts. While research has shed light on password weaknesses and reuse, less is known about user motivations for following bad password practices. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Keeyoung Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In recent years, significant advancements have been made in detecting and recognizing contents of images using Deep Neural Networks (DNNs). As a result, many companies offer image recognition APIs for use in diverse applications. However, image classification algorithms trained with DNNs can misclassify adversarial examples, posing a significant threat to critical applications. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Generating Adversarial Images using Genetic Algorithm</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Keeyoung Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The Second International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018) In conjunction with the IEEE CVPR 2018 , Salt Lake City, USA, June 2018 </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Poster: I can’t hear this because I am human: A novel design of audio CAPTCHA system</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Jusop Choi, Taekkyung Oh, William Aiken, <b>Simon S. Woo</b> and Hyoungshick Kim </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 11th ACM Asia Conference on Computer and Communications Security (ACM ASIACCS), Incheon, Korea, 2018 </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Benefits and Challenges of Long Term Self-Tracking to Prevent Lonely Deaths and Detect Signs of Life</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>  A Short Workshop on Next Steps Towards Long Term Self Tracking at ACM SIG CHI2018, April, 2018, Montreal, Canada </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> We explore the benefit of a new long-term self-tracking application for the elderly population. In the last few years, there has been a significant increase in number of people dying alone or remaining undiscovered for a long period time in Korea and Japan. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Leveraging Semantic Transformation to Investigate Password Habits and Their Causes</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Ameya Hanesamgar, <b>Simon S. Woo</b>, Chris Kanich, and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SIG CHI2018, April, 2018, Montreal, Canada </b> </small> </p> </tr>                
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 25.7%, BK우수학회 IF=4</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> It is no secret that users have difficulty choosing and remembering strong passwords, especially when asked to choose different passwords across different accounts. While research has shed light on password weaknesses and reuse, less is known about user motivations for following bad password practices. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Memorablity and Security of Different Passphrase Generation Methods</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Review of KIISC (정보보호학회지), Feb. 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Passphrases are considered to be more secure than passwords since they are longer than passwords. However, users choose predictable word patterns and common phrases to make passphrases memorable, which in turn significantly lowers security.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Survey on Current Password Composition Policies</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Kyeong Joo Jung, and Bong Jun Choi </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Review of KIISC (정보보호학회지), Feb. 2018 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Textual passwords are widely used for accessing online accounts. Despite the problems of current textual passwords, research has shown that there is no other strong alternatives for a textual password due to its simplicity.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
 
 
+    <h4 style="margin-top:40px"><b>2017</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Lightweight Authentication for IoT</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Pratik Musale, Duin Baek, <b>Simon S. Woo</b>, Bong Jun Choi </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Proc. ACM CoNEXT, Seoul, South Korea, Dec. 2017. (Student Workshop) </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Toward Machine Generated Passwords</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Wenzhi Li, and, Hyeran Jeon </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W), Seoul, Korea, Dec. 2017 (Best paper (우수 논문상)) </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Computer Vision Attacks against 3D CAPTCHAs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The First International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2017) In conjunction with the IEEE CVPR 2017 , Honolulu, USA, July 2017 </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Life-Experience Passwords (LEPs)</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mirkovic, Ron Artstein, and Elsi Kaiser </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Usenix The Thirteenteenth Symposium on Usable Privacy and Security (SOUPS 2017), Santa Clara, USA, July 2017 </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <h4 style="margin-top:40px"><b>2016</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Improving Recall and Security of Passphrases Through Use of Mnemonics</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Proceedings of the 10th International Conference on Passwords (Passwords), Bochum, Germany, 2016 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Passphrases are regarded as more secure than passwords because they are longer than passwords. Yet, users use predictable word patterns and common phrases to make passphrases memorable, which in turn significantly lowers security.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Life Experience Passwords (LEPs)</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein  </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b> </small>  </p> </tr> 
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Good Automatic Authentication Question Generation</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Zuyao Li, and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 9th SIGGEN International Natural Language Generation Conference (INLG), Edinburgh, 2016 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> We explore a novel application of Question Generation (QG) for authentication use, where questions are widely used to verify user identity for online accounts. In our approach, we prompt users to provide a few sentences about their personal life events. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Exploration of 3D Texture and Projection for New CAPTCHA Design</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jingul Kim, Duoduo Yu, and Beomjun Kim </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 (Best Conference Paper) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Most of current text-based CAPTCHAs have been shown to be easily breakable. In this work, we present two novel 3D CAPTCHA designs, which are more secure than current 2D text CAPTCHAs, against automated attacks. Our approach is to display CAPTCHA characters onto 3D objects to improve security. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
 
 
+    
+    <h4 style="margin-top:40px"><b>2015</b></h4><hr>
 
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Empirical Data Analysis on User Privacy and Sentiment in Personal Blogs</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Harsha Manjunatha </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 2nd ACM SIGIR Workshop on Privacy-Preserving Information Retrieval, Chilie, 2015  </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Engaging Novices in Cybersecurity Competitions: A Vision and Lessons Learned at ACM Tapia 2015</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Jelena Mirkovic, Aimee Tabor, <b>Simon S. Woo</b> and Portia Pusey </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> USENIX Summit on Gaming, Games, and Gamification in Security Education (3GSE), D.C, 2015 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Cybersecurity competitions are popular tools for attracting students to cybersecurity field. Yet, many competitions require extensive preparation, strong coding skills and solid background knowledge, not just in security, but also in system administration, networking and operating systems.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    
+    <h4 style="margin-top:40px"><b>2014</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Optimal application allocation on multiple public clouds</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Jelena Mirkovic </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier Computer Networks, February 2014. </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=2.52</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Cloud computing customers currently host all of their application components at a single cloud provider. Single-provider hosting eases maintenance tasks, but reduces resilience to failures. Recent research (Li et al., 2010) also shows that providers’ offers differ greatly in performance and price, and no single provider is the best in all service categories. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Life-Experice Passwords</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mikovic, Ron Artstein, and Elsi Kaiser </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Who are you?! Adventures in Authentication: ACM SOUPS-WAY Workshop, 2014, Menlo Park, CA </b> </small> </p> </tr>                
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Passwords are widely used for user authentication, but they are often difficult for a user to recall, easily cracked by automated programs and heavily reused. Security questions are also used for secondary authentication. They are more memorable than passwords, but are very easily guessed. We propose a new authentication mechanism, called "life-experience passwords (LEPs)," which outperforms passwords and security questions, both at recall and at security. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>3DOC: 3D Object CAPTCHA</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, and B. Kim </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>  Information Sciences Institute Graduate Student Symposium (ISI-GSS), Nov, 2014 (Best Student Paper) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Current 2D CAPTCHA mechanisms can be easily defeated by character recognition and segmentation attacks by automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the weaknesses of 2D CAPTCHA for a few websites.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>3DOC: 3D Object CAPTCHA</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, and B. Kim </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 23rd International World Wide Web (WWW) Conference, 2014 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Current 2D CAPTCHA mechanisms can be easily defeated by character recognition and segmentation attacks by automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the weaknesses of 2D CAPTCHA for a few websites.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Life Experience-Passwords</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mirkovic, and Elsi Kaiser </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Network and Distributed System Security (NDSS) Symposium, Feb, 2014  </b> </small> </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    
+    <h4 style="margin-top:40px"><b>2011</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Analysis of Proximity-1 Space Link Interleaved Time Synchronization Protocol</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo*</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>  IEEE Globecom 2011, Houston, TX  </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance rate: 36%</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> To synchronize clocks between spacecraft in proximity, the Proximity-1 Space Link Interleaved Time Synchronization (PITS) Protocol has been proposed. PITS is based on the NTP Interleaved On-Wire Protocol and is capable of being adapted and integrated into CCSDS Proximity-1 Space Link with minimal modifications. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+
+    
+    <h4 style="margin-top:40px"><b>2010</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>MACHETE: A Protocol Evaluation Tool for Space- Based Networking Architecture and Simulation</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> E. Jennings, J. Segui, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2010, Huntsville, AL </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Space Exploration missions requires the design and implementation of space networking that differs from terrestrial networks. In a space networking architecture, interplanetary communication protocols need to be designed, validated and evaluated carefully to support different mission requirements.  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Space Time Distribution and Synchronization Protocol Development for Mars Proximity Link</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, David Mills, and J. Gao </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2010 (Invited for Book Chapter) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Time distribution and synchronization in deep space network are challenging due to long propagation delays, spacecraft movements, and relativistic effects. Further, the Network Time Protocol (NTP) designed for terrestrial networks may not work properly in space </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+
+    <h4 style="margin-top:40px"><b>2009</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Space Communications and Navigation (SCaN) Network Simulation Tool Development and Its Use Cases</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  E. Jennings, R. Borgen, C. Chevalier, E. Wesley, Sam Nguyen, John Segui, Tudor Stoenescu, Shin-Ywan Wang, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA, Modeling and Simulation Technologies (AIAA MST) Conference, 2009 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In this work, we focus on the development of a simulation tool to assist in analysis of current and future (proposed) network architectures for NASA. Specifically, the Space Communications and Navigation (SCaN) Network is being architected as an integrated set of new assets and a federation of upgraded legacy systems. The SCaN architecture for the initial missions for returning humans to the moon and beyond will include the Space Network (SN) and the Near-Earth Network (NEN).  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Efficient File Sharing by multicast - P2P protocol using network coding and rank based peer selection</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Simon S. Woo</b> and Tudor Stoenescu </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE 69th Vehicular Technology Conference (IEEE VTC) 2009-Spring, Barcelona, Spain, April, 2009 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In this work, we consider information dissemination and sharing in a highly dynamic peer-to-peer (P2P) communication network. In particular, we explore a network coding technique for transmission and a rank based peer selection (RBPS) method for network formation.   </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <h4 style="margin-top:40px"><b>2008</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Interfacing Space Communications and Navigation Network Simulation with Distributed System Integration Laboratories (DSIL)</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Esther H. Jennings, Sam P. Nguyen, Shin-Ywan Wang, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2008 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> NASA’s planned Lunar missions will involve multiple NASA centers where each participating center has a specific role and specialization. In this vision, the Constellation program (CxP)’s Distributed System Integration Laboratories (DSIL) architecture consist of multiple System Integration Labs (SILs), with simulators, emulators, testlabs and control centers interacting with each other over a broadband network to perform test and verification for mission scenarios. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Prioritized LT codes</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Mike Cheng </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Annual Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2008. </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> It is common in data transmissions that some information is more important than others. This is especially true in space communications where mission critical information or science data are high priority. In this work, we propose a simple yet constructive scheme to send high priority data reliably and efficiently using Luby transform (LT) codes. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>A Simulation Tool for ASCTA Microsensor Network Architecture</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Esther Jennings, and Loren Clare </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Aerospace Conference, Big Sky, MT, March, 2008 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Advances in technology have made the large-scale deployment of low-cost networked sensors possible for situational awareness. We developed a Simulation Tool for the Advanced Sensors Collaborative Technology Alliance (ASCTA) Microsensor Network Architecture (STAMINA) to evaluate the performance of networked sensor systems. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <h4 style="margin-top:40px"><b>2007</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Improved In Situ Communications Using Network Coding</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Mike Cheng, <b>Simon S. Woo</b>, Kar-Ming Cheung, Sam Dolinar, and Jon Hamkins </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Research and Technology Development Poster session, (R&TD), Pasadena, Nov, 2007 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+
+    <h4 style="margin-top:40px"><b>2006</b></h4><hr>
+
+    <div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>CFDP Performance Over Weather-Dependent Ka-Band Channel</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Jay Gao </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2006, Rome, Italy </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> This study presents an analysis of the delay performance of the CCSDS File Delivery Protocol (CFDP) over weather-dependent Ka-band channel. The Ka-band channel condition is determined by the strength of the atmospheric noise temperature, which is weather dependent. </small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
 
     </div>
-
+<!-- 
 <div class="divider"></div>
 <div class="section">
     <h5>2018</h5>
@@ -1216,4 +2081,4 @@ Mike Cheng, Simon S. Woo, Kar-Ming Cheung, Sam Dolinar, and Jon Hamkins, "Improv
     <div class="row">
 <p> Simon S. Woo and Jay Gao, "CFDP Performance Over Weather-Dependent Ka-Band Channel", AIAA SpaceOps 2006, Rome, Italy (pdf) </p>
     </div>
-</div>
+</div> -->

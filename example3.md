@@ -243,7 +243,7 @@ permalink: /Members/
                   </td>
                   <td>AI (인공지능학과) </td>
                   <td></td>
-                  <td><i> @ g dot skku dot edu</i></td>
+                  <td><i></i></td>
                 </tr>
                   
               </tbody>

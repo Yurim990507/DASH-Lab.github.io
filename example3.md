@@ -94,12 +94,12 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Kwanghan Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;Gwanghan Lee
                       </div>
                   </td>
                   <td>Combined MS & PhD in AI (인공지능학과) </td>
-                  <td></td>
-                  <td><i></i></td>
+                  <td>Model compression,Time Series </td>
+                  <td><i>icanlgh0016 @ gmail dot com</i></td>
                 </tr>
               </tbody>
             </table>

@@ -115,28 +115,7 @@ permalink: /Members/
                     <th align="center">Contact</th>
                 </tr>
               </thead>
-              <tbody>
-                <tr>
-                  <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                  <img  src="/img/HyeonseongJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br> 
-                  <a href = "https://sites.google.com/view/cutz-j/" target = "_blank">&nbsp;&nbsp;&nbsp;Hyeonseong Jeon</a>
-                  </div></td>
-                  <td>AI (인공지능학과)</td>
-                  <td>Neural Architectures, Data Augmentation, and GAN</td>
-                    <td><i>cutz @ g dot skku dot edu</i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                      <img src="/img/YoungohBang.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;Youngoh Bang
-                      </div>
-                      </td>
-                  <td>AI (인공지능학과)</td>
-                  <td> Fake Image Detection and Generation, AI based Satellite Ops</td>
-                    <td><i></i></td>
-                </tr>
+              <tbody>             
                 <tr>
                     <td align="center">
                   <div style="display:flex;flex-direction:column">
@@ -232,7 +211,41 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Deefakes and Meta Learning</td>       
                       <td><i></i></td>
-                </tr>  
+                </tr>
+                  <tr>
+                    <td align="center">
+                        <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Jinbeom Kim
+                        </div>
+                    </td>
+                  <td>AI (인공지능학과)</td>
+                  <td>Object detection and Knowledge Distillation</td>
+                  <td><i>kjinb1212 @ g dot skku dot edu</i></td>
+                </tr>
+                  <tr>
+                    <td align="center">
+                        <div style="display:flex;flex-direction:column">
+                          <img src="/img/Jaeju.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Jaeju An
+                        </div>
+                    </td>
+                  <td>Convergence Security in Computer Science & Engineering (소프트웨어) </td>
+                  <td>Federated Learning and Image Classification</td>
+                  <td><i>anjaeju @ g dot skku dot edu</i></td>
+                </tr>
+                  <tr>
+                    <td align="center">
+                        <div style="display:flex;flex-direction:column">
+                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;Kwanghan Lee
+                        </div>
+                    </td>
+                  <td>AI (인공지능학과) </td>
+                  <td></td>
+                  <td><i> @ g dot skku dot edu</i></td>
+                </tr>
+                  
               </tbody>
             </table>
           </div>
@@ -281,12 +294,7 @@ permalink: /Members/
                   <td>이동준</td>
                   <td>Computer Science & Engineering 복전</td>
                   <td>딥러닝/Anomaly Detection</td>       
-                </tr>
-                 <tr>
-                  <td>김진범</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>딥러닝</td>       
-                </tr>
+                </tr>              
               </tbody>
             </table>
           </div>
@@ -397,6 +405,16 @@ permalink: /Members/
                   <td>Young Rok Choi </td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Kakao</td>
+                </tr>
+                <tr>
+                  <td>Hyeonseong Jeon </td>
+                  <td>AI (인공지능학과)</td>
+                  <td>Hyundai AI Research Lab</td>
+                </tr>
+                <tr>
+                  <td>Youngoh Bang </td>
+                  <td>AI (인공지능학과)</td>
+                  <td></td>
                 </tr>
               </tbody>
             </table>

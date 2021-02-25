@@ -147,7 +147,7 @@ permalink: /Members/
                   <td>Blockchain, Privacy, AI Security </td>       
                     <td><i></i></td>
                 </tr>
-                 <tr>
+                <tr>
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -168,7 +168,7 @@ permalink: /Members/
                   <td>Object Detection, Deepfakes</td>       
                     <td><i></i></td>
                 </tr>
-                 <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -179,7 +179,7 @@ permalink: /Members/
                   <td> Anomaly Detection</td>    
                      <td><i></i></td>
                 </tr>
-                  <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/JunghoKim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -190,7 +190,7 @@ permalink: /Members/
                   <td> Computer Vision and Deepfakes</td>       
                       <td><i>rlawkdghek @ g dot skku dot edu</i></td>
                 </tr>
-                  <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -201,7 +201,7 @@ permalink: /Members/
                   <td>Anomaly Detection</td>       
                       <td><i>capt dot yun dot a350 @ gmail dot com</i></td>
                 </tr>
-                  <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -212,35 +212,35 @@ permalink: /Members/
                   <td>Deefakes and Meta Learning</td>       
                       <td><i></i></td>
                 </tr>
-                  <tr>
-                    <td align="center">
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;Jinbeom Kim
-                        </div>
-                    </td>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Jinbeom Kim
+                      </div>
+                  </td>
                   <td>AI (인공지능학과)</td>
                   <td>Object detection and Knowledge Distillation</td>
                   <td><i>kjinb1212 @ g dot skku dot edu</i></td>
                 </tr>
-                  <tr>
-                    <td align="center">
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/Jaeju.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;Jaeju An
-                        </div>
-                    </td>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/Jaeju.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Jaeju An
+                      </div>
+                  </td>
                   <td>Convergence Security in Computer Science & Engineering (소프트웨어) </td>
                   <td>Federated Learning and Image Classification</td>
                   <td><i>anjaeju @ g dot skku dot edu</i></td>
                 </tr>
-                  <tr>
-                    <td align="center">
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;Kwanghan Lee
-                        </div>
-                    </td>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Kwanghan Lee
+                      </div>
+                  </td>
                   <td>AI (인공지능학과) </td>
                   <td></td>
                   <td><i> @ g dot skku dot edu</i></td>

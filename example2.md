@@ -83,7 +83,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 30th Web Conference (WWW), Ljubljana, Slovenia, April 19, 2021 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'>BK Computer Science IF=4,  Acceptace rate = 20.6%</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'><u>BK Computer Science IF=4,  Acceptace rate = 20.6%</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                 </tbody>

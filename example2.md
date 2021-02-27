@@ -802,7 +802,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
 
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SIG KDD, Alaska, USA, 2019.</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SIG KDD, Alaska, USA, 2019.</b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=4</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Detecting an anomaly is not only important for many terrestrial applications on Earth but also for space applications. Especially, satellite missions are highly risky because unexpected hardware and software failures can occur due to sudden or unforeseen space environment changes. </small>  </p> </tr>
 

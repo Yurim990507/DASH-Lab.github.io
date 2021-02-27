@@ -27,8 +27,10 @@ permalink: /Publications/
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p> </tr>
     
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier  Applied Soft Computing, accepted on Feb 2021, (IF=5.47) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier  Applied Soft Computing, accepted on Feb 2021 </b> </small> </p> </tr>
     
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=5.47</font></b> </small>  </p> </tr> 
+                
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
     
             </tbody>

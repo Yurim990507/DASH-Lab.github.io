@@ -190,7 +190,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hyeonseong Jeon, Siho Han, Sangwon Lee and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK CS IF=1</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Outperforming the previous state of the art, numerous deep learning models have been proposed for image classification using the ImageNet database. </small>  </p> </tr>
     
                 </tbody>
@@ -215,7 +215,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK CS IF=3</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Reducing false positives while detecting anomalies is of growing importance for various industrial applications and mission-critical infrastructures, including satellite systems. Undesired false positives can be costly for such systems, bringing the operation to a halt for human experts to determine if the anomalies are true anomalies that need to be mitigated </small>  </p> </tr>
     
                 </tbody>
@@ -240,7 +240,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> DaeYoung Yoon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK CS IF=3</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The recent paramount success of the gig economy has introduced new business opportunities in different areas such as food delivery service. However, there are food delivery ride abusers who break the company rule by driving unauthorized vehicles that are not stated in the contract </small>  </p> </tr>
     
                 </tbody>

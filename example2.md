@@ -1504,7 +1504,8 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jingul Kim, Duoduo Yu, and Beomjun Kim </i> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 (Best Conference Paper) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Best Conference Paper (우수논문상)</font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Most of current text-based CAPTCHAs have been shown to be easily breakable. In this work, we present two novel 3D CAPTCHA designs, which are more secure than current 2D text CAPTCHAs, against automated attacks. Our approach is to display CAPTCHA characters onto 3D objects to improve security. </small>  </p> </tr>
 
             </tbody>

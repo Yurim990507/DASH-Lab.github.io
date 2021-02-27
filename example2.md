@@ -1647,7 +1647,7 @@ permalink: /Publications/
             <table >
             <thead>
                 <tr>
-                    <a ><b>3DOC: 3D Object CAPTCHA</b></a> 
+                    <a ><b>Poster: 3DOC: 3D Object CAPTCHA</b></a> 
                 </tr>
             </thead>
             <tbody>

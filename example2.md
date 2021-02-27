@@ -95,7 +95,7 @@ permalink: /Publications/
         
         <div style="display: flex;">
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="/img/secBlock.jpg" style="width:200px; height:160px; margin-bottom:20px"></a>
+                    <a > <img  src="/img/secBlock.jpg" style="width:180px; height:140px; margin-bottom:20px"></a>
             </div>
     
             <div style="margin-left: 25px;">

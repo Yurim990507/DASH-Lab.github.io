@@ -1014,7 +1014,9 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jihye Woo, Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 (Best Paper, 국보연 원장상)</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 </b> </small> </p> </tr>
+                
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>우수논문상 (국보연 원장상)</font></b> </small>  </p> </tr> 
 
             </tbody>
             </table>
@@ -1364,8 +1366,8 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Wenzhi Li, and, Hyeran Jeon </i> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W), Seoul, Korea, Dec. 2017 (Best paper (우수 논문상)) </b> </small> </p> </tr>
-
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W), Seoul, Korea, Dec. 2017 ( </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>우수논문상</font></b> </small>  </p> </tr> 
             </tbody>
             </table>
         </div>

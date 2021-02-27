@@ -42,7 +42,7 @@ permalink: /Publications/
     
         <div style="display: flex;">
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+                    <a > <img  src="ExploringRacialBias.png" style="width:160px; height:160px; margin-bottom:20px"></a>
             </div>
     
             <div style="margin-left: 25px;">
@@ -1593,8 +1593,8 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and Harsha Manjunatha </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 2nd ACM SIGIR Workshop on Privacy-Preserving Information Retrieval, Chilie, 2015  </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1617,8 +1617,8 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  Jelena Mirkovic, Aimee Tabor, <b>Simon S. Woo</b> and Portia Pusey </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> USENIX Summit on Gaming, Games, and Gamification in Security Education (3GSE), D.C, 2015 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Cybersecurity competitions are popular tools for attracting students to cybersecurity field. Yet, many competitions require extensive preparation, strong coding skills and solid background knowledge, not just in security, but also in system administration, networking and operating systems.  </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic">paper</a>][<a href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic">project page</a>] </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1647,7 +1647,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=2.52</font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Cloud computing customers currently host all of their application components at a single cloud provider. Single-provider hosting eases maintenance tasks, but reduces resilience to failures. Recent research (Li et al., 2010) also shows that providers’ offers differ greatly in performance and price, and no single provider is the best in all service categories. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371">paper</a>][<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1672,7 +1672,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Who are you?! Adventures in Authentication: ACM SOUPS-WAY Workshop, 2014, Menlo Park, CA </b> </small> </p> </tr>                
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Passwords are widely used for user authentication, but they are often difficult for a user to recall, easily cracked by automated programs and heavily reused. Security questions are also used for secondary authentication. They are more memorable than passwords, but are very easily guessed. We propose a new authentication mechanism, called "life-experience passwords (LEPs)," which outperforms passwords and security questions, both at recall and at security. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">paper</a>][<a href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1697,7 +1697,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>  Information Sciences Institute Graduate Student Symposium (ISI-GSS), Nov, 2014 (Best Student Paper) </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Current 2D CAPTCHA mechanisms can be easily defeated by character recognition and segmentation attacks by automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the weaknesses of 2D CAPTCHA for a few websites.  </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://openreview.net/forum?id=rkWY4b-dWS">paper</a>][<a href="https://openreview.net/forum?id=rkWY4b-dWS">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1721,7 +1721,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 23rd International World Wide Web (WWW) Conference, 2014 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Current 2D CAPTCHA mechanisms can be easily defeated by character recognition and segmentation attacks by automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the weaknesses of 2D CAPTCHA for a few websites.  </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA">paper</a>][<a href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1745,8 +1745,8 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mirkovic, and Elsi Kaiser </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Network and Distributed System Security (NDSS) Symposium, Feb, 2014  </b> </small> </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
-</tbody>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">paper</a>][<a href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">project page</a>] </small>  </p> </tr>
+            </tbody>
             </table>
         </div>
     </div>
@@ -1774,7 +1774,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance rate: 36%</font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> To synchronize clocks between spacecraft in proximity, the Proximity-1 Space Link Interleaved Time Synchronization (PITS) Protocol has been proposed. PITS is based on the NTP Interleaved On-Wire Protocol and is capable of being adapted and integrated into CCSDS Proximity-1 Space Link with minimal modifications. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://ieeexplore.ieee.org/document/6134144">paper</a>][<a href="https://ieeexplore.ieee.org/document/6134144">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1803,7 +1803,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2010, Huntsville, AL </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Space Exploration missions requires the design and implementation of space networking that differs from terrestrial networks. In a space networking architecture, interplanetary communication protocols need to be designed, validated and evaluated carefully to support different mission requirements.  </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://arc.aiaa.org/doi/10.2514/6.2010-2260">paper</a>][<a href="https://arc.aiaa.org/doi/10.2514/6.2010-2260">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1827,7 +1827,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2010 (Invited for Book Chapter) </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Time distribution and synchronization in deep space network are challenging due to long propagation delays, spacecraft movements, and relativistic effects. Further, the Network Time Protocol (NTP) designed for terrestrial networks may not work properly in space </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://arc.aiaa.org/doi/10.2514/6.2010-2360">paper</a>][<a href="https://arc.aiaa.org/doi/10.2514/6.2010-2360">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1855,7 +1855,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA, Modeling and Simulation Technologies (AIAA MST) Conference, 2009 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In this work, we focus on the development of a simulation tool to assist in analysis of current and future (proposed) network architectures for NASA. Specifically, the Space Communications and Navigation (SCaN) Network is being architected as an integrated set of new assets and a federation of upgraded legacy systems. The SCaN architecture for the initial missions for returning humans to the moon and beyond will include the Space Network (SN) and the Near-Earth Network (NEN).  </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases">paper</a>][<a href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1880,7 +1880,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE 69th Vehicular Technology Conference (IEEE VTC) 2009-Spring, Barcelona, Spain, April, 2009 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In this work, we consider information dissemination and sharing in a highly dynamic peer-to-peer (P2P) communication network. In particular, we explore a network coding technique for transmission and a rank based peer selection (RBPS) method for network formation.   </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://ieeexplore.ieee.org/document/5073526">paper</a>][<a href="https://ieeexplore.ieee.org/document/5073526">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1906,7 +1906,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2008 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> NASA’s planned Lunar missions will involve multiple NASA centers where each participating center has a specific role and specialization. In this vision, the Constellation program (CxP)’s Distributed System Integration Laboratories (DSIL) architecture consist of multiple System Integration Labs (SILs), with simulators, emulators, testlabs and control centers interacting with each other over a broadband network to perform test and verification for mission scenarios. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://arc.aiaa.org/doi/10.2514/6.2008-3462">paper</a>][<a href="https://arc.aiaa.org/doi/10.2514/6.2008-3462">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1931,7 +1931,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Annual Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2008. </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> It is common in data transmissions that some information is more important than others. This is especially true in space communications where mission critical information or science data are high priority. In this work, we propose a simple yet constructive scheme to send high priority data reliably and efficiently using Luby transform (LT) codes. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://ieeexplore.ieee.org/document/4558589">paper</a>][<a href="https://ieeexplore.ieee.org/document/4558589">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -1955,7 +1955,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Aerospace Conference, Big Sky, MT, March, 2008 </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Advances in technology have made the large-scale deployment of low-cost networked sensors possible for situational awareness. We developed a Simulation Tool for the Advanced Sensors Collaborative Technology Alliance (ASCTA) Microsensor Network Architecture (STAMINA) to evaluate the performance of networked sensor systems. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://ieeexplore.ieee.org/document/4526447">paper</a>][<a href="https://ieeexplore.ieee.org/document/4526447">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>
@@ -2009,7 +2009,7 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> AIAA SpaceOps 2006, Rome, Italy </b> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> This study presents an analysis of the delay performance of the CCSDS File Delivery Protocol (CFDP) over weather-dependent Ka-band channel. The Ka-band channel condition is determined by the strength of the atmospheric noise temperature, which is weather dependent. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel">paper</a>][<a href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel">project page</a>] </small>  </p> </tr>
 </tbody>
             </table>
         </div>

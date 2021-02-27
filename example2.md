@@ -415,7 +415,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier Computers & Security, December 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=4.09</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3.58</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In recent years, there has been significant interest in developing autonomous vehicles such as self-driving cars. In-vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is widely used as the de facto standard to provide serial communications between Electronic Control Units (ECUs) </small>  </p> </tr>
     
                 </tbody>

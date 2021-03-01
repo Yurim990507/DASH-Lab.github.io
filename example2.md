@@ -26,11 +26,13 @@ permalink: /Publications/
             <tbody>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Sangyup Lee, Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p> </tr>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier  Applied Soft Computing, accepted on Feb 2021 </b> </small> </p> </tr>
     
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier  Applied Soft Computing (Minor revision) </b> </small> </p> </tr>
-    
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=5.47</font></b> </small>  </p> </tr> 
                 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
+    
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.google.com/search?q=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&rlz=1C1CHBD_enKR919KR919&oq=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&aqs=chrome.0.69i59.1407j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&rlz=1C1CHBD_enKR919KR919&oq=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&aqs=chrome.0.69i59.1407j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>
 
             </tbody>
@@ -84,7 +86,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 30th Web Conference (WWW), Ljubljana, Slovenia, April 19, 2021 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'>BK Computer Science IF=4,  Acceptace rate = 20.6%</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'><u>BK Computer Science IF=4,  Acceptace rate = 20.6%</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
@@ -97,8 +99,9 @@ permalink: /Publications/
         
         <div style="display: flex;">
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                    <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-            </div>
+                <a > <img  src="/img/secBlock.jpg" style="width:160px; height:120px; margin-bottom:20px"></a>
+        </div>
+
     
             <div style="margin-left: 25px;">
                 <table >
@@ -138,7 +141,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Sujin Park, Sangwon Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SAC: The 36th ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021. </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='blue'><u>BK Computer Science IF=1</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> ... </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
@@ -195,7 +198,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hyeonseong Jeon, Siho Han, Sangwon Lee and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 15th Asian Conference on Computer Vision (ACCV), Kyoto, Japan, 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=1</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Outperforming the previous state of the art, numerous deep learning models have been proposed for image classification using the ImageNet database. </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://openaccess.thecvf.com/content/ACCV2020/html/Jeon_Compensating_for_the_Lack_of_Extra_Training_Data_by_Learning_ACCV_2020_paper.html">paper</a>][<a href="https://openaccess.thecvf.com/content/ACCV2020/html/Jeon_Compensating_for_the_Lack_of_Extra_Training_Data_by_Learning_ACCV_2020_paper.html">project page</a>] </small>  </p> </tr>
@@ -221,7 +224,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Youjin Shin, Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=3</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Reducing false positives while detecting anomalies is of growing importance for various industrial applications and mission-critical infrastructures, including satellite systems. Undesired false positives can be costly for such systems, bringing the operation to a halt for human experts to determine if the anomalies are true anomalies that need to be mitigated </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716">paper</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716">project page</a>] </small>  </p> </tr>
@@ -247,7 +250,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> DaeYoung Yoon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM ’20: The 29th ACM International Conference on Information and Knowledge Management, Galway, Ireland </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=3</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> The recent paramount success of the gig economy has introduced new business opportunities in different areas such as food delivery service. However, there are food delivery ride abusers who break the company rule by driving unauthorized vehicles that are not stated in the contract </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3340531.3412750">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3340531.3412750">project page</a>] </small>  </p> </tr>
@@ -429,7 +432,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Elsevier Computers & Security, December 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=4.09</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>SCIE Q1 IF=3.58</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In recent years, there has been significant interest in developing autonomous vehicles such as self-driving cars. In-vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is widely used as the de facto standard to provide serial communications between Electronic Control Units (ECUs) </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach.">paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach.">project page</a>] </small>  </p> </tr>
@@ -480,7 +483,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hanbin Jang, Woojung Ji, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 25th Australasian Conference on Information Security and Privacy, Perth, Australia, 2020  </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>acceptance rate ~ = 20%</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance rate ~ = 20%</font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Most shipping companies provide a package tracking system where customers can easily track their package delivery status when the package is being shipped. However, we present a security problem called enumeration attacks against package tracking systems... </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28">paper</a>][<a href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28">project page</a>] </small>  </p> </tr>
@@ -506,8 +509,8 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=4, Acceptance Rate=19%</font></b> </small>  </p> </tr> 
-                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Although pronounceability can improve password memorability, most existing password generation approaches have not properly integrated the pronounceability of passwords in their designs. In this work, we demonstrate several shortfalls of current pronounceable password generation approaches, and then propose, ProSemPass, a new method of generating passwords that are pronounceable and semantically meaningful. </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=4, Acceptance Rate=19%</u></font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Although pronounceability can improve password memorability, most existing password generation approaches have not properly integrated the pronounceability of passwords in their designs. In this work, we demonstrate several shortfalls of current pronounceable password generation approaches, and then propose, ProSemPass, a new method of generating passwords that are pronounceable and semantically meaningful. </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3366423.3380222">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3366423.3380222">project page</a>] </small>  </p> </tr>
 </tbody>
@@ -532,8 +535,8 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Simon S. Woo</b>,Hanbin Jang, Woojung Ji and Hyoungshick Kim </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 29th Web Conference (WWW), Taipei, Taiwan, 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=3, Acceptance Rate=19%</font></b> </small>  </p> </tr> 
-                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> A package tracking number (PTN) is widely used to monitor and track a shipment. Through the lenses of security and privacy, however, a package tracking number can possibly reveal certain personal information, leading to security and privacy breaches.  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=3, Acceptance Rate=19%</u></font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> A package tracking number (PTN) is widely used to monitor and track a shipment. Through the lenses of security and privacy, however, a package tracking number can possibly reveal certain personal information, leading to security and privacy breaches.  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3366423.3380062">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3366423.3380062">project page</a>] </small>  </p> </tr>
 </tbody>
@@ -558,7 +561,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> <b>Hyeonseong Jeon, Youngoh Bang, and Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SEC 2020 International Conference on Information Security and Privacy Protection (IFIP-SEC), Solvenia, Sept 2020</b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=1</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Creating fake images and videos such as "Deepfake" has become much easier these days due to the advancement in Generative Adversarial Networks (GANs). Moreover, recent research such as the few-shot learning can create highly realistic personalized fake images with only a few images. </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://arxiv.org/abs/2001.01265">paper</a>][<a href="https://arxiv.org/abs/2001.01265">project page</a>] </small>  </p> </tr>
@@ -584,7 +587,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Joon Kuy Han,<b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ASIACCS: The 13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan, 2020.</b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=1</u></font></b> </small>  </p> </tr> 
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> Designing a fallback authentication mechanism that is both memorable and strong is a challenging problem because of the trade-off between usability and security. Security questions are popularly used as a fallback authentication method for password recovery. </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3366423.3380222">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3366423.3380222">project page</a>] </small>  </p> </tr>
@@ -635,8 +638,8 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 35th ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
-                        <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> In-vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is widely used as the de facto standard to provide serial communications between Electronic Control Units (ECUs). </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=1</u></font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  </small> In-vehicle communications, due to simplicity and reliability, a Controller Area Network (CAN) bus is widely used as the de facto standard to provide serial communications between Electronic Control Units (ECUs). </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3341105.3373868">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3341105.3373868">project page</a>] </small>  </p> </tr>
 </tbody>
@@ -735,8 +738,8 @@ permalink: /Publications/
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Keeyoung Kim, Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> CIKM'19, Beijing, China, Nov, 2019</b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance rate=21%, BK Computer Science IF=3</font></b> </small>  </p> </tr> 
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Manufacturing steel requires extremely challenging industrial processes. In particular, predicting the exact time instance of opening and closing tap-holes in a blast furnace has a great influence on steel production efficiency and operating cost, in addition to human safety. </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>Acceptance rate=21%, BK Computer Science IF=3</u></font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Manufacturing steel requires extremely challenging industrial processes. In particular, predicting the exact time instance of opening and closing tap-holes in a blast furnace has a great influence on steel production efficiency and operating cost, in addition to human safety. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3357384.3357803">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3357384.3357803">project page</a>] </small>  </p> </tr>
 </tbody>
@@ -831,9 +834,8 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
-
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> SIG KDD, Alaska, USA, 2019.</b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Accepted, BK Computer Science IF=4</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SIG KDD, Alaska, USA, 2019.</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=4</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Detecting an anomaly is not only important for many terrestrial applications on Earth but also for space applications. Especially, satellite missions are highly risky because unexpected hardware and software failures can occur due to sudden or unforeseen space environment changes. </small>  </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 
@@ -858,7 +860,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Yuri Son, Geumhwan Cho, Hyoungshick Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ASIACCS: The 12th ACM Asia Conference on Computer and Communications Security, Auckland, New Zealand, 2019</b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate = 22.5%, BK Computer Science IF=1</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science IF=1, Acceptance Rate = 22.5%</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> To understand users' risk perceptions about sharing their PHR on SNS, we first conducted a qualitative user study by interviewing 16 participants. Next, we conducted a large-scale online user study with 497 participants in the U.S. to validate our qualitative results from the first study. </small>  </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3321705.3329838">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3321705.3329838">project page</a>] </small>  </p> </tr>
 
@@ -907,7 +909,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Youjin Shin and <b>Simon S. Woo</b> </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The Web Conference (WWW), May 2019</b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 19.9%, BK Computer Science 우수학회 IF=3</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science 우수학회 IF=3, Acceptance Rate 19.9% </u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In the past, there have been several studies in analyzing password strength and structures. However, there are still many unknown questions to understand what really makes passwords both memorable and strong. In this work, we aim to answer some of these questions by analyzing password dataset through the lenses of data science and machine learning perspectives. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3308558.3313690">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3308558.3313690">project page</a>] </small>  </p> </tr>
@@ -954,7 +956,7 @@ permalink: /Publications/
             <tbody>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SAC Cyprus April 2019</b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 25%, BK Computer Science 우수학회 IF=1</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK Computer Science 우수학회 IF=1, Acceptance Rate 25%</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Creating fake images such as replacing one's face with other person's face has become much easier due to the advancement of sophisticated image editing tools. In addition, Generative Adversarial Networks (GANs) enable creating natural looking human faces. However, fake images can cause many potential problems, as they can be misused to abuse information, hurt people, and generate fake identification. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3297280.3297410">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3297280.3297410">project page</a>] </small>  </p> </tr>
@@ -1053,7 +1055,7 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Jihye Woo, Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 (Best Paper, 국보연 원장상)</b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018) Seoul, Korea, 2018</b> </small> </p> </tr>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 </tbody>
@@ -1174,7 +1176,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b> and  and Jelena Mirkovic </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018  </b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK우수학회 IF=2, Acceptance Rate 22.8% </u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Password meters and policies are currently the only tools helping users to create stronger passwords. However, such tools often do not provide consistent or useful feedback to users, and their suggestions may decrease memorability of resulting passwords.  </small>  </p> </tr>
 
 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings">paper</a>][<a href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings">project page</a>] </small>  </p> </tr>
@@ -1223,7 +1225,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Keeyoung Kim and <b>Simon S. Woo</b> </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 </b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK우수학회 IF=1, Acceptance Rate 36% </u>, Best Student Paper Nominated</font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> In recent years, significant advancements have been made in detecting and recognizing contents of images using Deep Neural Networks (DNNs). As a result, many companies offer image recognition APIs for use in diverse applications. However, image classification algorithms trained with DNNs can misclassify adversarial examples, posing a significant threat to critical applications. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25">paper</a>][<a href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25">project page</a>] </small>  </p> </tr>
@@ -1319,7 +1321,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Ameya Hanesamgar, <b>Simon S. Woo</b>, Chris Kanich, and Jelena Mirkovic </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> ACM SIG CHI2018, April, 2018, Montreal, Canada </b> </small> </p> </tr>                
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 25.7%, BK우수학회 IF=4</font></b> </small>  </p> </tr> 
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u>BK우수학회 IF=4, Acceptance Rate 25.7%</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> It is no secret that users have difficulty choosing and remembering strong passwords, especially when asked to choose different passwords across different accounts. While research has shed light on password weaknesses and reuse, less is known about user motivations for following bad password practices. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/3173574.3174144">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3173574.3174144">project page</a>] </small>  </p> </tr>
@@ -1516,8 +1518,7 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein  </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 </b> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b> </small>  </p> </tr> 
-
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'><u> BK우수학회 IF=2, Acceptance Rate 22.8%</u></font></b> </small>  </p> </tr> 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://dl.acm.org/doi/10.1145/2991079.2991107">paper</a>][<a href="https://dl.acm.org/doi/10.1145/2991079.2991107">project page</a>] </small>  </p> </tr>
             </tbody>
             </table>
@@ -1563,7 +1564,8 @@ permalink: /Publications/
             <tbody>
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i>  <b>Simon S. Woo</b>, Jingul Kim, Duoduo Yu, and Beomjun Kim </i> </small> </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 (Best Conference Paper) </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>Best Conference Paper (우수논문상)</font></b> </small>  </p> </tr>     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Most of current text-based CAPTCHAs have been shown to be easily breakable. In this work, we present two novel 3D CAPTCHA designs, which are more secure than current 2D text CAPTCHAs, against automated attacks. Our approach is to display CAPTCHA characters onto 3D objects to improve security. </small>  </p> </tr>
 
             <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30">paper</a>][<a href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30">project page</a>] </small>  </p> </tr>
@@ -1688,7 +1690,7 @@ permalink: /Publications/
             <table >
             <thead>
                 <tr>
-                    <a ><b>3DOC: 3D Object CAPTCHA</b></a> 
+                    <a ><b>Poster: 3DOC: 3D Object CAPTCHA</b></a> 
                 </tr>
             </thead>
             <tbody>

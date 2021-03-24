@@ -12,37 +12,7 @@ permalink: /Publications/
     <h4 style="margin-top:20px"><b>2021</b></h4><hr>
     
 	
-	    <div style="display: flex;">
-        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-        </div>
-
-
-        <div style="margin-left: 25px;">
-            <table >
-            <thead>
-                <tr>
-                    <a ><b>Towards a Generalized Framework to Detect Deepfakes using Weakly Supervised Learning</b></a> 
-                </tr>
-            </thead>
-            <tbody>
-    
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Sangyup Lee, Shahroz Tariq, Junyaup Kim, and <b>Simon S. Woo*</b> </i> </small> </p> </tr>
-
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b>36th International Conference on ICT Systems Security and Privacy Protection – IFIP SEC 2021, 22–24 June 2021 </b> </small> </p> </tr>
-    
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b><font color='purple'>BK Computer Science IF=1</font></b> </small>  </p> </tr> 
-                
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>  This work introduces a practical digital forensic tool to detect different types of deepfakes simultaneously and proposes Transfer learning-based Autoencoder with Residuals (TAR).  </small>  </p> </tr>
-    
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>
-
-            </tbody>
-            </table>
-        </div>
-    </div>
-    <hr>
-    
+	  
     
     	
 	    <div style="display: flex;">

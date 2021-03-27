@@ -379,6 +379,33 @@ permalink: /Publications/
             </div>
         </div>
         <hr>
+		
+        <div style="display: flex;">
+            <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                    <a > <img  src="ocvae.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+            </div>
+    
+            <div style="margin-left: 25px;">
+                <table >
+                <thead>
+                    <tr>
+                        <a ><b>OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder</b></a> 
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <i> Hasam Khalid and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+    
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> IEEE Biometrics Council newsletter</b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> An image forgery method called Deepfakes can cause security and privacy issues by changing the identity of a person in a photo through the replacement of his/her face with a computer-generated image or another person’s face. </small>  </p> </tr>
+    
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a>][<a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">paper</a>] </small>  </p> </tr>
+</tbody>
+                </table>
+            </div>
+        </div>
+        <hr>
+		
         <div style="display: flex;">
             <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                     <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>

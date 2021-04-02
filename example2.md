@@ -13,6 +13,32 @@ permalink: /Publications/
 <div  style="margin-top:2vw;">
     <h4 style="margin-top:20px"><b>2021</b></h4><hr>
     
+
+	<div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b> Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+    
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> William Aiken, Hyoungshick Kim, <i><b>Simon S. Woo*</b> </i>, and Jungwoo Ryoo </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Computers & Security, 2020 </small> </p> </tr>                    
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>Creating a state-of-the-art deep-learning system requires vast amounts of data, expertise, and hardware, yet research into embedding copyright protection for neural networks has been limited. One of the main methods for achieving such protection involves relying on the susceptibility of neural networks to backdoor attacks, but the robustness of these tactics has been primarily evaluated against pruning, fine-tuning, and model inversion attacks. </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://arxiv.org/abs/2004.11368">paper</a>][<a href="https://arxiv.org/abs/2004.11368">project</a>]</small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+	
 	<div style="display: flex;">
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                 <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>

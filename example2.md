@@ -61,8 +61,7 @@ permalink: /Publications/
 		[<a href="https://www.biometricupdate.com/202103/researchers-show-deepfakes-can-beat-face-biometric-web-services-propose-defense-strategy">News-1</a>]
 		[<a href="https://www.digitalinformationworld.com/2021/03/social-media-users-warned-of-deepfake.html">News-2</a>] 
 		[<a href="https://medium.com/paradigm-fund/bt-biometric-digital-id-providers-partner-with-microsoft-on-decentralized-id-passwordless-pilot-c7c2aab797d1">News-3</a>]
-		[<a href="https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/
-"> News-4</a>]
+		[<a href="https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/"> News-4</a>]
 		[<a href="https://epocanegocios.globo.com/Tecnologia/noticia/2021/03/deepfakes-podem-enganar-ate-mesmo-inteligencia-artificial.html">News-5</a>]
 		[<a href="https://www.etcentric.org/study-suggests-deepfakes-fool-top-facial-recognition-tech/">News-6</a>]
 		[<a href="https://www.archyworldys.com/deepfakes-can-trick-facial-recognition/">News-7</a>]

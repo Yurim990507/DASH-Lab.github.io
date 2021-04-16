@@ -23,6 +23,32 @@ permalink: /Publications/
             <table >
             <thead>
                 <tr>
+                    <a ><b> FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+    
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Minha Kim, Shahroz Tariq, <i><b>Simon S. Woo*</b> </i></small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> WORKSHOP ON MEDIA FORENSICS 2021 </b> </small> </p> </tr>
+					<tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>As GAN-based video and image manipulation technologies become more sophisticated and easily accessible, there is an urgent need for effective deepfake detection technologies. Moreover, various deepfake generation techniques have emerged over the past few years.</small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">project</a>]</small>  </p> </tr>
+
+            </tbody>
+            </table>
+        </div>
+    </div>
+    <hr>
+	
+
+	<div style="display: flex;">
+        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+        </div>
+
+        <div style="margin-left: 25px;">
+            <table >
+            <thead>
+                <tr>
                     <a ><b> Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks</b></a> 
                 </tr>
             </thead>

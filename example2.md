@@ -29,7 +29,7 @@ permalink: /Publications/
             <tbody>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> Minha Kim, Shahroz Tariq, <i><b>Simon S. Woo*</b> </i></small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> <a https://sites.google.com/view/mediaforensics2021/"> WORKSHOP ON MEDIA FORENSICS</a>, CVPR 2021 </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> <b> <a href="https://sites.google.com/view/mediaforensics2021/"> WORKSHOP ON MEDIA FORENSICS</a>, CVPR 2021 </b> </small> </p> </tr>
 					<tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small>As GAN-based video and image manipulation technologies become more sophisticated and easily accessible, there is an urgent need for effective deepfake detection technologies. Moreover, various deepfake generation techniques have emerged over the past few years.</small>  </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;"> <small> [<a href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">project</a>]</small>  </p> </tr>
 

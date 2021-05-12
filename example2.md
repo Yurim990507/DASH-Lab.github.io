@@ -1409,7 +1409,7 @@ permalink: /Publications/
                         </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>  
                
     </div>
@@ -1740,7 +1740,7 @@ permalink: /Publications/
                         </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>    
     </div>
     <hr>

@@ -184,15 +184,15 @@ permalink: /Publications/
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><font color='purple'>SCIE Q1 IF=5.47</font></b> </small>  </p> </tr> 
                 
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> The rapid progress of sophisticated image editing tools has made it easier to manipulate original face images and create fake media content by putting one's face to another. In addition to image editing tools, creating natural-looking fake human faces can be easily achieved by Generative Adversarial Networks (GANs). </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> This work introduces a practical digital forensic tool to detect different types of deepfakes simultaneously and proposes Transfer learning-based Autoencoder with Residuals (TAR). The ultimate goal of this work is to develop an uni fied model to detect various types of deepfake videos with high accuracy, with only a small number of training samples that can work well in real-world settings. To achieve this, this work develops an autoencoder-based detection model with Residual blocks and sequentially performs transfer learning to detect different types of deepfakes simultaneously. The detection model shows a high detection performance not only on the FF++ dataset but also on 200 real-world Deepfake-in-the-wild videos. </small>  </p> </tr>
     
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.google.com/search?q=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&rlz=1C1CHBD_enKR919KR919&oq=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&aqs=chrome.0.69i59.1407j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&rlz=1C1CHBD_enKR919KR919&oq=Detecting+Handcrafted+Facial+Image+Manipulations+and+GAN-Generated+Facial+Images+using+ShallowNet&aqs=chrome.0.69i59.1407j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.sciencedirect.com/science/article/pii/S1568494621001794">paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S1568494621001794">project page</a>] </small>  </p> </tr>
 
             </tbody>
                         </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img src=""  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="dhfi.png"  style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>    
     </div>
     <hr>
@@ -215,7 +215,7 @@ permalink: /Publications/
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Recent advancements in deep learning have allowed, among others,various applications of face recognition systems, where a largeamount of face image data are typically required for training. </small>  </p> </tr>
     
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://arxiv.org/abs/2004.08945">paper</a>][<a href="https://arxiv.org/abs/2004.08945">project page</a>] </small>  </p> </tr>
 </tbody>
                 </table>
         </div>
@@ -328,16 +328,15 @@ permalink: /Publications/
                 <tbody>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 정보보호학회지 (Review of KIISC), 2020 </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Currently used cryptography algorithms like RSA are vulnerable to quantum computers and are at risk of being deciphered in polynomial time. As the commercialization of quantum computers is soon to be realized, there is an urgent need for developing post-quantum cryptography(PQC) algorithms. In this paper, we analyze several lattice-based PQC algorithms from NIST Post-Quantum Cryptography Standardization project and test them in some representative security protocols to show their practicality. </small>  </p> </tr>
     
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 정보보호학회지 (Review of KIISC) </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> ... </small>  </p> </tr>
-    
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.google.com/search?q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&rlz=1C1YKST_koKR876KR876&oq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&aqs=chrome.0.69i59j69i60.422j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&rlz=1C1YKST_koKR876KR876&oq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&aqs=chrome.0.69i59j69i60.422j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>
 </tbody>
                 </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img src=""  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="osca.png"  style="max-height:160px;width: 360px; margin-bottom:10px">
         </div> 
         </div>
         <hr>
@@ -519,14 +518,14 @@ permalink: /Publications/
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> ECML-PKDD, Ghent, Belgium 2020 </b> </small> </p> </tr>
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><font color='purple'>Acceptance Rate=28%</font></b> </small>  </p> </tr> 
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  </small>  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> We propose novel Functional Data Analysis (FDA) and Autoencoder-based approaches for anomaly detection in the Secure Water Treatment (SWaT) dataset, which realistically represents a scaled-down industrial water treatment plant. We demonstrate that our methods can capture the underlying forecasting error patterns of the SWaT dataset generated by Mixture Density Networks (MDNs). </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="">paper</a>][<a href="">project page</a>] </small>  </p> </tr>
 </tbody>
                 </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img src=""  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="fepb.jpg"  style="max-height:160px;width: 360px; margin-bottom:10px">
         </div> 
         </div>
         <hr>
@@ -572,15 +571,15 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hyeonseong Jeon, Youngoh Bang, Junyaup Kim, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Thirty-seventh International Conference on Machine Learning (ICML), Vienna, Austria, 2020 </b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><font color='purple'>BK Computer Science IF=4, Acceptance Rate=21.8%</font></b> </small>  </p> </tr> 
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Recent advancements in Generative Adversarial Networks (GANs) enable the generation of highly realistic images, raising concerns about their misuse for malicious purposes. Detecting these GAN-generated images (GAN-images) becomes increasingly challenging due to the significant reduction of underlying artifacts and specific patterns. </small>  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><font color='purple'>BK Computer Science IF=4, Acceptance Rate=18.48%</font></b> </small>  </p> </tr> 
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> In this work, we present the Transferable GAN-images Detection framework (T-GD), a robust transferable framework for an effective detection of GAN-images. T-GD is composed of a teacher and a student model that can iteratively teach and evaluate each other to improve the detection performance. </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://arxiv.org/abs/2008.04115">paper</a>][<a href="https://arxiv.org/abs/2008.04115">project page</a>] </small>  </p> </tr>
 </tbody>
                 </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img src=""  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="tgd.png"  style="max-height:160px;width: 360px; margin-bottom:10px">
         </div> 
         </div>
         <hr>
@@ -894,14 +893,14 @@ permalink: /Publications/
 
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Junyaup Kim, Siho Han, and <b>Simon S. Woo</b> </i> </small> </p> </tr>
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 2019 IEEE International conference on Big Data (IEEE BigData 2019), Los Angeles, CA, USA</b> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Detecting fake or disguised face images become much more challenging due to the significant advancements made in machine learning, computer vision, and image processing techniques. </small>  </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> In this preliminary work, we aim to detect a target person's face from different similar individuals, Doppelgangers, leveraging the dataset from Disguised Faces in the Wild (DFW) 2018. We use well-known off-the-shelf face detection classifiers, such as ShallowNet, VGG-16, and Xception to evaluate the classification performance. In order to further improve the detection performance, we apply data augmentation. Our preliminary result shows that the Xception model can classify one from different individuals with a 62% accuracy. </small>  </p> </tr>
 
-            <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.semanticscholar.org/paper/Classifying-Genuine-Face-images-from-Disguised-Face-Kim-Han/b27d6e60772825cd5f425a6954365c7f80ded134">paper</a>][<a href="https://www.semanticscholar.org/paper/Classifying-Genuine-Face-images-from-Disguised-Face-Kim-Han/b27d6e60772825cd5f425a6954365c7f80ded134">project page</a>] </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://ieeexplore.ieee.org/abstract/document/9005683">paper</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9005683">project page</a>] </small>  </p> </tr>
 </tbody>
                         </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-                <img src=""  style="max-height:160px;width: 360px; margin-bottom:10px">
+                <img src="cgfi.png"  style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>    
     </div>
     <hr>

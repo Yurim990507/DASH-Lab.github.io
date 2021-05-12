@@ -314,10 +314,33 @@ permalink: /Publications/
     
     <h4 style="margin-top:40px"><b>2020</b></h4><hr>
     
-    
-        	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
             
     
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table >
+            <thead>
+                <tr>
+                    <a ><b>Image hashing algorithm to defend FGSM attacks on Neural Network</b></a> 
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Junyaup Kim, Siho Han and <b>Simon S. Woo</b> </i> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Cyber Defence Next Generation Technology and Science Conference.(2020), March 2020 </b> </small> </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> In this research, we present a performance evaluation of existing image hashing algorithms on defending deep learning models against adversarial attacks as an initial work to developing a new, time efficient image hashing algorithm. Upon experimenting with existing image hashing algorithms, we conclude that the wavelet hashing algorithm achieves the highest accuracy (75%) when detecting images generated from Neural Networks attacked by the FGSM, with a time complexity of 𝑂(𝑁). </small>  </p> </tr>
+            <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.google.com/search?q=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&oq=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&aqs=chrome..69i57.4633j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&oq=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&aqs=chrome..69i57.4633j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>
+</tbody>
+            </table>
+    </div>
+    <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="ihad.png"  style="max-height:160px;width: 360px; margin-bottom:10px">
+    </div> 
+    </div>
+    <hr>
+
+
+        	<div style="display: flex;flex-direction: row;justify-content: space-between;">
             <div style="margin-left: 25px;margin-right: 10px;">
                 <table >
                 <thead>
@@ -340,9 +363,8 @@ permalink: /Publications/
         </div> 
         </div>
         <hr>
+
         	<div style="display: flex;flex-direction: row;justify-content: space-between;">
-            
-    
             <div style="margin-left: 25px;margin-right: 10px;">
                 <table >
                 <thead>

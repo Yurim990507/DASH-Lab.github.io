@@ -16,7 +16,7 @@ permalink: /Publications/
 
 	<div style="display: flex;">
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-                <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
+                <a > <img  src="fretal.png" style="width:160px; height:160px; margin-bottom:20px"></a>
         </div>
 
         <div style="margin-left: 25px;">
@@ -67,9 +67,9 @@ permalink: /Publications/
     <hr>
 	
 	<div style="display: flex;">
-        <div class="col-lg-3" style="vertical-align: middle; text-align:center">
+        <!-- <div class="col-lg-3" style="vertical-align: middle; text-align:center">
                 <a > <img  src="thumb.png" style="width:160px; height:160px; margin-bottom:20px"></a>
-        </div>
+        </div> -->
 
         <div style="margin-left: 25px;">
             <table >
@@ -97,6 +97,13 @@ permalink: /Publications/
 		[<a href="https://www.trendyvoice.in/study-warns-deepfakes-can-fool-facial-recognition/?amp">News-11</a>]
 		</small>  </p> </tr>
 
+
+            <tr>
+                <div class="col-lg-3" style="vertical-align: middle; text-align:left;margin-top:10px">
+                    <a > <img  src="airor.png" style="height:160px; margin-bottom:20px"></a>
+            </div>
+
+            </tr>
             </tbody>
             </table>
         </div>

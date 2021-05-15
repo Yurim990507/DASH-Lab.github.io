@@ -910,7 +910,8 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a>][<a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">paper</a>]
-                            </small> </p>
+                                    [<a href="https://fb.watch/5v0wiOGnsg/">talk</a>]
+                                </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1193,7 +1194,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">paper</a>][<a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">project
-                                    page</a>] </small> </p>
+                                    page</a>] [<a href="https://fb.watch/5v0wiOGnsg/">talk</a>]</small> </p>
                     </tr>
                 </tbody>
             </table>

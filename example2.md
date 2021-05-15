@@ -347,13 +347,14 @@ permalink: /Publications/
                 <table >
                 <thead>
                     <tr>
-                        <a ><b>오픈소스 기반 격자 방식 PQC 알고리즘 분석</b></a> 
+                        <a ><b>오픈소스 기반 격자 방식 PQC 알고리즘 분석 (Open-Source Code Analysis on 
+Lattice-Based Post Quantum Cryptography)</b></a> 
                     </tr>
                 </thead>
                 <tbody>
     
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Minha Kim, Hakjun Moon and <b>Simon S. Woo</b> </i> </small> </p> </tr>
-                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 정보보호학회지 (Review of KIISC), 2020 </b> </small> </p> </tr>
+                    <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>CISC-W, 2020 </b> </small> </p> </tr>
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Currently used cryptography algorithms like RSA are vulnerable to quantum computers and are at risk of being deciphered in polynomial time. As the commercialization of quantum computers is soon to be realized, there is an urgent need for developing post-quantum cryptography(PQC) algorithms. In this paper, we analyze several lattice-based PQC algorithms from NIST Post-Quantum Cryptography Standardization project and test them in some representative security protocols to show their practicality. </small>  </p> </tr>
     
                 <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.google.com/search?q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&rlz=1C1YKST_koKR876KR876&oq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&aqs=chrome.0.69i59j69i60.422j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a href="https://www.google.com/search?q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&rlz=1C1YKST_koKR876KR876&oq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&aqs=chrome.0.69i59j69i60.422j0j7&sourceid=chrome&ie=UTF-8">project page</a>] </small>  </p> </tr>

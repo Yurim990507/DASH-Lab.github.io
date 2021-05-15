@@ -57,7 +57,7 @@ permalink: /Publications/
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Elsevier Computers & Security, accepted on April 2021  </b> </small> </p> </tr>
                     <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><font color='purple'>SCIE Q1 IF=3.58</font></b> </small>  </p> </tr>     
 					<tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Creating a state-of-the-art deep-learning system requires vast amounts of data, expertise, and hardware, yet research into embedding copyright protection for neural networks has been limited. One of the main methods for achieving such protection involves relying on the susceptibility of neural networks to backdoor attacks, but the robustness of these tactics has been primarily evaluated against pruning, fine-tuning, and model inversion attacks. </small>  </p> </tr>
-                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://arxiv.org/abs/2004.11368">paper</a>][<a href="https://arxiv.org/abs/2004.11368">project</a>]</small>  </p> </tr>
+                <tr> <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a href="https://www.sciencedirect.com/science/article/pii/S0167404821001012">paper</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0167404821001012">project</a>]</small>  </p> </tr>
 
             </tbody>
             </table>

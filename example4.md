@@ -18,7 +18,7 @@ permalink: /News/
 <div class="section">
     <div class="row">
         
-2021. 4월 성대신문<a href="http://www.skkuw.com/news/articleView.html?idxno=22706">딥페이크 기술, 실제와 허구의 경계에 서다.</a> 진짜보다 더 진짜같은 딥페이크 악용되는 딥페이크를 막기 위해 탐지기술 발달과 책임의식 고취 필요해...<br>
+-2021. 4월 성대신문<a href="http://www.skkuw.com/news/articleView.html?idxno=22706">딥페이크 기술, 실제와 허구의 경계에 서다.</a> 진짜보다 더 진짜같은 딥페이크 악용되는 딥페이크를 막기 위해 탐지기술 발달과 책임의식 고취 필요해...<br>
 Dec 25th 2020. Congrats! : <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=109849">우사이먼교수 연구실, 이한빈, 강준형 (인공지능석사과정) IITP 2020인공지능그랜드챌린지 4차 2단계 <u>3위 입상</u></a></b> <br> 
 Sept 19th 2020. Congrats to 전현성(인공지능석사과정)/한시호(데사석사과정),  1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>
 Aug 10th 2020. Congrats!: <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=99744&article.offset=0&articleLimit=10">우사이먼교수 연구실, 이한빈, 강준형 (인공지능석사과정) IITP 2020인공지능그랜드챌린지 4차 1단계 <u>1위 입상</u></a></b> <br> 

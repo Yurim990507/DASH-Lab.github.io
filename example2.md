@@ -430,7 +430,7 @@ permalink: /Publications/
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="">paper</a>][<a href="">project page</a>] </small> </p>
+                                    href="">paper</a>][<a href="">project page</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1721,7 +1721,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ky.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>

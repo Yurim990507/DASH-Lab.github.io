@@ -364,16 +364,7 @@ permalink: /Publications/
                     </tr>
 
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> This work introduces
-                                a practical digital forensic tool to detect different types of deepfakes simultaneously
-                                and proposes Transfer learning-based Autoencoder with Residuals (TAR). The ultimate goal
-                                of this work is to develop an uni fied model to detect various types of deepfake videos
-                                with high accuracy, with only a small number of training samples that can work well in
-                                real-world settings. To achieve this, this work develops an autoencoder-based detection
-                                model with Residual blocks and sequentially performs transfer learning to detect
-                                different types of deepfakes simultaneously. The detection model shows a high detection
-                                performance not only on the FF++ dataset but also on 200 real-world Deepfake-in-the-wild
-                                videos. </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we introduce a novel Handcrafted Facial Manipulation (HFM) image dataset and soft computing neural network models (Shallow-FakeFaceNets) with an efficient facial manipulation detection pipeline. Our neural network classifier model, Shallow-FakeFaceNet (SFFN), shows the ability to focus on the manipulated facial landmarks to detect fake images. This study is targeted for developing an automated defense mechanism to combat fake images used in different online services and applications, leveraging our state-of-the-art handcrafted fake facial dataset (HFM) and the neural network classifier Shallow-FakeFaceNet (SFFN).</small> </p>
                     </tr>
 
                     <tr>

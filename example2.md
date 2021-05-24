@@ -31,8 +31,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> JunHyung Kang, HyeonSeong Jeon, YoungOh Bang, and <i><b>Simon S. Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> <a
-                                        href="https://sites.google.com/view/mediaforensics2021/"> The 28th IEEE International Conference on Image Processing (ICIP 2021)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 28th IEEE International Conference on Image Processing (ICIP 2021)</b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we introduce SAROD, a novel efficient end-to-end object detection 

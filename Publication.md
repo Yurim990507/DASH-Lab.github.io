@@ -14,7 +14,39 @@ permalink: /Publications/
     <h4 style="margin-top:20px"><b>2021</b></h4>
     <hr>
 
-
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Le Minh Binh and <i><b>Simon S. Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://ssdl2021.github.io/">International Workshop on Safety and Security of Deep Learning</a>, IJCAI 2021 </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we propose a new approach that explores the asynchronous frequency spectra of color channels, which is simple but effective for training both unsupervised and supervised learning models to distinguish GAN-based synthetic images.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://www.google.com/search?q=Exploring+the+Asynchronous+of+the+Frequency+Spectra+of+GAN-generated+Facial+Images&oq=Exploring+the+Asynchronous+of+the+Frequency+Spectra+of+GAN-generated+Facial+Images&aqs=chrome..69i57j69i61.257j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a
+                                    href="https://github.com/Leminhbinh0209/Asynchronous-in-Frequency-domain-of-GAN-images">project</a>]</small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="Publications/ijcai2021_overall_diag.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+        </div>
+    </div>
+    <hr>
+    
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
 
 

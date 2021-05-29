@@ -1,23 +1,13 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: ./Publications/
 ---
-
 <h1 class="page-title">Publications</h1>
-
-
-
-
-
-<div style="margin-top:2vw;">
+<div style="margin-top:2vw;"> </div>
     <h4 style="margin-top:20px"><b>2021</b></h4>
-    <hr>
-
-
+    <hr></hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -26,7 +16,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> JunHyung Kang, HyeonSeong Jeon, YoungOh Bang, and <i><b>Simon S. Woo*</b> </i></small> </p>
                     </tr>
@@ -43,20 +32,15 @@ permalink: /Publications/
                                     href="https://github.com/JunHyungKang/SAROD_ICIP">project</a>]</small>
                         </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="sarod.jpg" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="Publications/sarod.jpg" style="max-height:220px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -66,7 +50,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Minha Kim, Shahroz
                                 Tariq, <i><b>Simon S. Woo*</b> </i></small> </p>
@@ -88,20 +71,15 @@ permalink: /Publications/
                                     href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">project</a>]</small>
                         </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="fretalgd.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="Publications/fretalgd.png" style="max-height:220px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -111,7 +89,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> William Aiken,
                                 Hyoungshick Kim, <i><b>Simon S. Woo*</b> </i>, and Jungwoo Ryoo </small> </p>
@@ -140,19 +117,15 @@ permalink: /Publications/
                                     href="https://www.sciencedirect.com/science/article/pii/S0167404821001012">project</a>]</small>
                         </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="nb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/nb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right:10px;">
             <table>
                 <thead>
@@ -162,7 +135,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Shahroz Tariq, Sowon
                                 Jeon, and <i><b>Simon S. Woo*</b> </i> </small> </p>
@@ -209,19 +181,15 @@ permalink: /Publications/
                                     href="https://www.trendyvoice.in/study-warns-deepfakes-can-fool-facial-recognition/?amp">News-11</a>]
                             </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-            <img src="airor.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/airor.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -231,7 +199,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Young Geun Kim,
                                     Jeong-Han Yun, Siho Han, Hyoung Chun Kimand <b>Simon S. Woo*</b> </i> </small> </p>
@@ -254,7 +221,6 @@ permalink: /Publications/
                                 introduce Self-Organizing Map-based Anomaly Detector (SOMAD), an anomaly detection
                                 framework based on a novel test statistic, SomAnomaly, for Cyber-Physical System (CPS)
                                 security.
-
                             </small> </p>
                     </tr>
                     <tr>
@@ -263,22 +229,15 @@ permalink: /Publications/
                                     href="https://www.google.com/search?q=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&oq=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&aqs=chrome..69i57.216j0j7&sourceid=chrome&ie=UTF-8">project
                                     page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="rsom.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/rsom.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -288,7 +247,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Sangyup Lee,
                                     Shahroz Tariq, Junyaup Kim, and <b>Simon S. Woo*</b> </i> </small> </p>
@@ -321,22 +279,15 @@ permalink: /Publications/
                                     href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8">project
                                     page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tgddw.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/tgddw.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -346,46 +297,37 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Sangyup Lee,
                                     Shahroz Tariq, Youjin Shin, and <b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Elsevier Applied
                                     Soft Computing, accepted on Feb 2021 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                     <font color='purple'>SCIE Q1 IF=5.47</font>
                                 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we introduce a novel Handcrafted Facial Manipulation (HFM) image dataset and soft computing neural network models (Shallow-FakeFaceNets) with an efficient facial manipulation detection pipeline. Our neural network classifier model, Shallow-FakeFaceNet (SFFN), shows the ability to focus on the manipulated facial landmarks to detect fake images. This study is targeted for developing an automated defense mechanism to combat fake images used in different online services and applications, leveraging our state-of-the-art handcrafted fake facial dataset (HFM) and the neural network classifier Shallow-FakeFaceNet (SFFN).</small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.sciencedirect.com/science/article/pii/S1568494621001794">paper</a>][<a
                                     href="https://www.sciencedirect.com/science/article/pii/S1568494621001794">project
                                     page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dhfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/dhfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -394,25 +336,21 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jaeju An,
                                     Jeongho Kim, Bosung Yang, Geonwoo Park, <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Third Workshop
                                     on Fairness, Accountability, Transparency, Ethics and Society on the Web (FATES)
                                     Joint with The Web Conference 2021, Ljubljana, Slovenia, </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Recent advancements
                                 in deep learning have allowed, among others,various applications of face recognition
                                 systems, where a largeamount of face image data are typically required for training.
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arxiv.org/abs/2004.08945">paper</a>][<a
@@ -422,14 +360,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ExploringRacialBias.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/ExploringRacialBias.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -439,12 +374,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 30th Web
                                     Conference (WWW), Ljubljana, Slovenia, April 19, 2021 </b> </small> </p>
@@ -457,7 +390,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> ... </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
@@ -466,16 +398,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="odtr.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/odtr.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -484,13 +411,11 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Bong Gon Kim,
                                     Young-Seob Cho, Seok-hyun Kim, Hyoungshick Kim, and <b>Simon S. Woo</b> </i>
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> IEEE Access, Jan
                                     2021 </b> </small> </p>
@@ -507,7 +432,6 @@ permalink: /Publications/
                                 minimum disclosure of the proof from a user’s credentials on a need-to-know basis with a
                                 contextualized delegation. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/9336711">paper</a>][<a
@@ -517,13 +441,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="/img/secBlock.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/secBlock.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -532,12 +454,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Sujin Park,
                                     Sangwon Lee, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> SAC: The 36th
                                     ACM/SIGAPP Symposium On Applied Computing, Gwangju, Korea, 2021. </b> </small> </p>
@@ -560,7 +480,6 @@ permalink: /Publications/
                                 great promise in detecting duplicate records in a large-scale location dataset. </small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3412841.3441969">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3412841.3441969">project page</a>] 
@@ -571,19 +490,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="bertLoc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/bertLoc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
-
     <h4 style="margin-top:40px"><b>2020</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -592,7 +505,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Junyaup Kim,
                                     Siho Han and <b>Simon S. Woo</b> </i> </small> </p>
@@ -621,12 +533,10 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="jy.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/jy.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -637,7 +547,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Minha Kim,
                                     Hakjun Moon and <b>Simon S. Woo</b> </i> </small> </p>
@@ -655,7 +564,6 @@ permalink: /Publications/
                                 algorithms from NIST Post-Quantum Cryptography Standardization project and test them in
                                 some representative security protocols to show their practicality. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="pqc.pdf">paper</a>][<a
@@ -666,11 +574,10 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="pqc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/pqc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -680,12 +587,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hyeonseong Jeon,
                                     Siho Han, Sangwon Lee and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 15th Asian
                                     Conference on Computer Vision (ACCV), Kyoto, Japan, 2020 </b> </small> </p>
@@ -716,13 +621,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ctle.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/ctle.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -732,13 +635,11 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Youjin Shin,
                                     Shahroz Tariq, Sangyup Lee, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon
                                         S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> CIKM ’20: The
                                     29th ACM International Conference on Information and Knowledge Management, Galway,
@@ -757,7 +658,6 @@ permalink: /Publications/
                                 halt for human experts to determine if the anomalies are true anomalies that need to be
                                 mitigated </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716">paper</a>][<a
@@ -768,13 +668,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="itad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/itad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -784,12 +682,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> DaeYoung Yoon
                                     and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> CIKM ’20: The
                                     29th ACM International Conference on Information and Knowledge Management, Galway,
@@ -807,7 +703,6 @@ permalink: /Publications/
                                 the company rule by driving unauthorized vehicles that are not stated in the contract
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3340531.3412750">paper</a>][<a
@@ -818,13 +713,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="yoon.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/yoon.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -834,13 +727,11 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Eunsoo Kim,
                                     Young-Seob Cho, Bedeuro Kim, Woojoong Ji, Seok-hyun Kim and <b>Simon S. Woo</b> </i>
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> IEEE Internet of
                                     Things Magazine, 2020 </b> </small> </p>
@@ -856,18 +747,15 @@ permalink: /Publications/
                                     href="https://ieeexplore.ieee.org/document/9319620">paper</a>][<a
                                     href="https://ieeexplore.ieee.org/document/9319620">project page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="bc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/bc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -876,12 +764,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Keeyoung Kim,
                                     Jinseok Hong, Sang-Hoon Rhee and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> ECML-PKDD,
                                     Ghent, Belgium 2020 </b> </small> </p>
@@ -898,7 +784,6 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
@@ -907,10 +792,7 @@ permalink: /Publications/
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -919,12 +801,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hasam Khalid and
                                     <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> IEEE Biometrics
                                     Council newsletter</b> </small> </p>
@@ -935,7 +815,6 @@ permalink: /Publications/
                                 of a person in a photo through the replacement of his/her face with a computer-generated
                                 image or another person’s face. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a>][<a
@@ -947,14 +826,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -963,12 +839,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Seoyoung Park*,
                                     Siho Han* and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> ECML-PKDD,
                                     Ghent, Belgium 2020 </b> </small> </p>
@@ -986,7 +860,6 @@ permalink: /Publications/
                                 underlying forecasting error patterns of the SWaT dataset generated by Mixture Density
                                 Networks (MDNs). </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/349556890_Forecasting_Error_Pattern-Based_Anomaly_Detection_in_Multivariate_Time_Series">paper</a>][<a
@@ -999,13 +872,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="fepb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/fepb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1014,12 +885,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Sowon Jeon,
                                     Junhyung Kang, Jinhee Hwang and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> CISC-S, 2020
                                 </b> </small> </p>
@@ -1035,7 +904,6 @@ permalink: /Publications/
                                 더욱더 빠르게 발전하고 있으나 관련 규제와 대응방안이 부족한 실정이다. 따라서 본 논문에서는 딥페이크 기술의 현황과 딥페이크 관련 국내외 법적 규제 및
                                 현행법의 한계점을 살펴보고, 이로부터 각 개인 및 기관의 역할과 대응방안을 제안한다. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -1044,13 +912,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="sowon1.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/sowon1.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1059,12 +925,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hyeonseong Jeon,
                                     Youngoh Bang, Junyaup Kim, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Thirty-seventh
                                     International Conference on Machine Learning (ICML), Vienna, Austria, 2020 </b>
@@ -1082,7 +946,6 @@ permalink: /Publications/
                                 student model that can iteratively teach and evaluate each other to improve the
                                 detection performance. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arxiv.org/abs/2008.04115">paper</a>][<a
@@ -1092,13 +955,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tgd.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/tgd.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1108,12 +969,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Dan Zhang, and
                                     <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> IEEE Access, May
                                     2020 </b> </small> </p>
@@ -1129,7 +988,6 @@ permalink: /Publications/
                                 In recent years, research interests in measuring and predicting the quality of air
                                 around people has spiked. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/9090830">paper</a>][<a
@@ -1139,14 +997,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1155,12 +1010,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, Huy Kang Kim, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Elsevier
                                     Computers & Security, December 2020 </b> </small> </p>
@@ -1177,7 +1030,6 @@ permalink: /Publications/
                                 Controller Area Network (CAN) bus is widely used as the de facto standard to provide
                                 serial communications between Electronic Control Units (ECUs) </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach.">paper</a>][<a
@@ -1188,13 +1040,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="canadf.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/canadf.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1203,12 +1053,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hasam Khalid and
                                     <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Workshop on
                                     Media Forensics, CVPR 2020, Monday, 15th June 2020, Seattle, USA </b> </small> </p>
@@ -1219,7 +1067,6 @@ permalink: /Publications/
                                 of a person in a photo through the replacement of his/her face with a computer-generated
                                 image or another person’s face. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">paper</a>][<a
@@ -1230,13 +1077,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1245,12 +1090,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hanbin Jang,
                                     Woojung Ji, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 25th
                                     Australasian Conference on Information Security and Privacy, Perth, Australia, 2020
@@ -1268,7 +1111,6 @@ permalink: /Publications/
                                 security problem called enumeration attacks against package tracking systems...</small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28">paper</a>][<a
@@ -1279,13 +1121,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1294,12 +1134,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 29th Web
                                     Conference (WWW), Taipei, Taiwan, 2020 </b> </small> </p>
@@ -1317,7 +1155,6 @@ permalink: /Publications/
                             approaches, and then propose, ProSemPass, a new method of generating passwords that are
                             pronounceable and semantically meaningful. </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3366423.3380222">paper</a>][<a
@@ -1328,13 +1165,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1344,12 +1179,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>,Hanbin Jang, Woojung Ji and Hyoungshick Kim </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 29th Web
                                     Conference (WWW), Taipei, Taiwan, 2020 </b> </small> </p>
@@ -1365,7 +1198,6 @@ permalink: /Publications/
                                 security and privacy, however, a package tracking number can possibly reveal certain
                                 personal information, leading to security and privacy breaches. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3366423.3380062">paper</a>][<a
@@ -1376,13 +1208,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1391,12 +1221,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Hyeonseong
                                         Jeon, Youngoh Bang, and Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> SEC 2020
                                     International Conference on Information Security and Privacy Protection (IFIP-SEC),
@@ -1414,7 +1242,6 @@ permalink: /Publications/
                                 few-shot learning can create highly realistic personalized fake images with only a few
                                 images.</small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arxiv.org/abs/2001.01265">paper</a>][<a
@@ -1424,13 +1251,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1439,12 +1264,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Joon Kuy
                                     Han,<b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> ASIACCS: The
                                     13th ACM Asia Conference on Computer and Communications Security, Taipei, Taiwan,
@@ -1461,7 +1284,6 @@ permalink: /Publications/
                                 because of the trade-off between usability and security. Security questions are
                                 popularly used as a fallback authentication method for password recovery. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3366423.3380222">paper</a>][<a
@@ -1472,13 +1294,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1487,13 +1307,11 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jihye Woo, Ji
                                     Won Choi, Soyoon Jeon, Joon Han, Hyoungshick Kim, and <b>Simon S. Woo</b> </i>
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> AsiaUSEC, Feb.
                                     2020 </b> </small> </p>
@@ -1504,7 +1322,6 @@ permalink: /Publications/
                                 compared to the rest of the world, heavily using Internet Explorer (IE) or multiple
                                 browsers.</small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://link.springer.com/chapter/10.1007/978-3-030-54455-3_1">paper</a>][<a
@@ -1515,13 +1332,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1531,12 +1346,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 35th
                                     ACM/SIGAPP Symposium On Applied Computing (SAC), Brno, Czech Republic, March 2020
@@ -1553,7 +1366,6 @@ permalink: /Publications/
                                 is widely used as the de facto standard to provide serial communications between
                                 Electronic Control Units (ECUs). </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3341105.3373868">paper</a>][<a
@@ -1564,15 +1376,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cantransfer.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/cantransfer.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <h4 style="margin-top:40px"><b>2019</b></h4>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1581,7 +1391,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jelena Mirkovic
                                     and <b>Simon S. Woo</b> </i> </small> </p>
@@ -1600,7 +1409,6 @@ permalink: /Publications/
                                 with other information they have, and user priorities, and make a conscious, rational
                                 decision in their best interest. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/8998513">paper</a>][<a
@@ -1610,14 +1418,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1626,7 +1431,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Junyaup Kim,
                                     Siho Han, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -1646,7 +1450,6 @@ permalink: /Publications/
                                 Xception model can classify one from different individuals with a 62% accuracy. </small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/abstract/document/9005683">paper</a>][<a
@@ -1657,13 +1460,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cgfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/cgfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1673,7 +1474,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Joon Kuy Han,
                                     Hyoungshick Kim and <b>Simon S. Woo</b> </i> </small> </p>
@@ -1690,7 +1490,6 @@ permalink: /Publications/
                                 sometimes misclassify adversarial examples, posing a significant threat to critical
                                 applications. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3319535.3363264">paper</a>][<a
@@ -1701,13 +1500,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1717,13 +1514,11 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Keeyoung Kim,
                                     Byeongrak Seo, Sang-Hoon Rhee, Seungmoon Lee, and <b>Simon S. Woo</b> </i> </small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> CIKM'19,
                                     Beijing, China, Nov, 2019</b> </small> </p>
@@ -1740,7 +1535,6 @@ permalink: /Publications/
                                 on steel production efficiency and operating cost, in addition to human safety. </small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3357384.3357803">paper</a>][<a
@@ -1751,13 +1545,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1767,12 +1559,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Hyeonseong Jeon,
                                     Youngoh Bang, and <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 10th
                                     International Workshop on Human Behavior Understanding (HBU), held in conjunction
@@ -1786,7 +1576,6 @@ permalink: /Publications/
                                 networks to detect the recently proposed realistic talking head with few-shot learning.
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/338187408_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_a_Highly_Unbalanced_Dataset">paper</a>][<a
@@ -1797,13 +1586,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1812,7 +1599,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Youjin Shin,
                                     Sangyup Lee, Shahroz Tariq, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -1822,7 +1608,6 @@ permalink: /Publications/
                                     Tensor Methods for Emerging Data Science Challenges (TMEDSC), held in conjunction
                                     with KDD'19 Aug 5, 2019 - Anchorage, Alaska, USA</b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://milets19.github.io/papers/milets19_poster_6.pdf">paper</a>][<a
@@ -1833,13 +1618,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tdfad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/tdfad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1849,7 +1632,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jinwoo Cho,
                                     Shahroz Tariq, Sangyup Lee, Young Geun Kim, Jeong-Han Yun, Jonguk Kim, Hyoung Chun
@@ -1860,7 +1642,6 @@ permalink: /Publications/
                                     Mining and Learning from Time Series, held in conjunction with KDD'19 Aug 5, 2019 -
                                     Anchorage, Alaska, USA</b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3292500.3330776">paper</a>][<a
@@ -1871,13 +1652,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/cad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1887,7 +1666,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, Youjin Shin, Myeong Shin Lee, Okchul Jung, Daewon Chung, and <b>Simon
@@ -1913,18 +1691,15 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dais.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/dais.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1934,7 +1709,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Yuri Son,
                                     Geumhwan Cho, Hyoungshick Kim and <b>Simon S. Woo</b> </i> </small> </p>
@@ -1962,18 +1736,15 @@ permalink: /Publications/
                                     href="https://dl.acm.org/doi/10.1145/3321705.3329838">project page</a>] </small>
                         </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1983,7 +1754,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Pratik Musale,
                                     Duin Baek, Nuwan Werellagama, <b>Simon S. Woo</b>, and and Bong Jun Choi </i>
@@ -2005,7 +1775,6 @@ permalink: /Publications/
                                 distinct patterns for each individual, which can provide an opportunity to extract
                                 useful features for user authentication. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/8672772">paper</a>][<a
@@ -2015,13 +1784,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2031,7 +1798,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Youjin Shin and
                                     <b>Simon S. Woo</b> </i> </small> </p>
@@ -2054,7 +1820,6 @@ permalink: /Publications/
                                 analyzing password dataset through the lenses of data science and machine learning
                                 perspectives. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3308558.3313690">paper</a>][<a
@@ -2065,13 +1830,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2080,7 +1843,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Le Xiao, Ron Artstein, Elsi Kaiser, and Jelena Mrikovic </i> </small>
@@ -2103,7 +1865,6 @@ permalink: /Publications/
                                 serves as a hint to the user, but they are very easily guessed. We propose a new
                                 authentication mechanism, called "life-experience passwords (LEPs)." </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3308992">paper</a>][<a
@@ -2113,13 +1874,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2150,7 +1909,6 @@ permalink: /Publications/
                                 cause many potential problems, as they can be misused to abuse information, hurt people,
                                 and generate fake identification. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3297280.3297410">paper</a>][<a
@@ -2161,17 +1919,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ganfof.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/ganfof.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <h4 style="margin-top:40px"><b>2018</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2180,12 +1934,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Elsevier
                                     Computers & Security, December 2018</b> </small> </p>
@@ -2202,7 +1954,6 @@ permalink: /Publications/
                                 work, we present two novel 3D CAPTCHAs, which are more secure than current 2D text
                                 CAPTCHAs against automated character recognition attacks. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.sciencedirect.com/science/article/pii/S0167404818301238">paper</a>][<a
@@ -2213,13 +1964,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2229,12 +1978,10 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Joonkyu Han and
                                     <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 34th Annual
                                     Computer Security Applications Conference (ACSAC)</b> </small> </p>
@@ -2244,7 +1991,6 @@ permalink: /Publications/
                                     <font color='purple'>Puerto Rico, USA, 2018</font>
                                 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -2253,13 +1999,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2269,7 +2013,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Soyoon Jeon,
                                     Jihye Woo, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -2279,7 +2022,6 @@ permalink: /Publications/
                                     Information Security and Cryptography 2017 Winter (CISC-W 2018) Seoul, Korea,
                                     2018</b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -2288,13 +2030,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2304,7 +2044,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jihye Woo,
                                     Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and <b>Simon S. Woo</b> </i> </small>
@@ -2315,7 +2054,6 @@ permalink: /Publications/
                                     Information Security and Cryptography 2017 Winter (CISC-W 2018) Seoul, Korea,
                                     2018</b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -2324,13 +2062,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2339,7 +2075,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> H. Choi, J.
                                     Jeong,<b>Simon S. Woo</b>, K. Kang, and J. Hur </i> </small> </p>
@@ -2360,7 +2095,6 @@ permalink: /Publications/
                                 incorrect key produces fake messages that appear valid. Hence, password typographical
                                 errors may confuse even legitimate users. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.sciencedirect.com/science/article/pii/S0167404818311246#:~:text=Honey%20encryption%20(HE)%20is%20a,may%20confuse%20even%20legitimate%20users.">paper</a>][<a
@@ -2371,13 +2105,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2386,7 +2118,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Yimin Zhu and
                                     <b>Simon S. Woo</b> </i> </small> </p>
@@ -2403,7 +2134,6 @@ permalink: /Publications/
                                 are maliciously crafted inputs to fool machine learning classifiers. On the other hand,
                                 humans cannot distinguish between non-adversarial and adversarial inputs. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3243734.3278492">paper</a>][<a
@@ -2414,13 +2144,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="aprg.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/aprg.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2429,7 +2157,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, Huy Kang Kim, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -2449,7 +2176,6 @@ permalink: /Publications/
                                 can be performed on the CAN bus due to the lack of underlying security mechanism.
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://link.springer.com/chapter/10.1007/978-3-030-12085-6_4">paper</a>][<a
@@ -2460,14 +2186,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dican.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/dican.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2476,7 +2199,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Shahroz Tariq,
                                     Sangyup Lee, Youjin Shin, Ho Young Kim, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -2494,7 +2216,6 @@ permalink: /Publications/
                                 maliciously use these tools to create legitimate looking but fake images to harm others,
                                 bypass image detection algorithms, or fool image recognition classifiers. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3267357.3267367">paper</a>][<a
@@ -2505,13 +2226,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dbmh.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/dbmh.png" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2520,7 +2239,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and and Jelena Mirkovic </i> </small> </p>
@@ -2541,7 +2259,6 @@ permalink: /Publications/
                                 However, such tools often do not provide consistent or useful feedback to users, and
                                 their suggestions may decrease memorability of resulting passwords. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings">paper</a>][<a
@@ -2552,14 +2269,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
-
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2569,7 +2283,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Ameya
                                     Hanesamgar, <b>Simon S. Woo</b>, Chris Kanich, and Jelena Mirkovic </i> </small>
@@ -2587,7 +2300,6 @@ permalink: /Publications/
                                 on password weaknesses and reuse, less is known about user motivations for following bad
                                 password practices. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3173574.3174144">paper</a>][<a
@@ -2598,13 +2310,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2614,7 +2324,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Keeyoung Kim and
                                     <b>Simon S. Woo</b> </i> </small> </p>
@@ -2638,7 +2347,6 @@ permalink: /Publications/
                                 with DNNs can misclassify adversarial examples, posing a significant threat to critical
                                 applications. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25">paper</a>][<a
@@ -2649,13 +2357,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2664,7 +2370,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Keeyoung Kim and
                                     <b>Simon S. Woo</b> </i> </small> </p>
@@ -2675,7 +2380,6 @@ permalink: /Publications/
                                     and Opportunities for Privacy and Security (CV-COPS2018) In conjunction with the
                                     IEEE CVPR 2018 , Salt Lake City, USA, June 2018 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/339840424_Generating_Adversarial_Images_using_Genetic_Algorithm">paper</a>][<a
@@ -2686,13 +2390,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2702,7 +2404,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jusop Choi,
                                     Taekkyung Oh, William Aiken, <b>Simon S. Woo</b> and Hyoungshick Kim </i> </small>
@@ -2720,7 +2421,6 @@ permalink: /Publications/
                                 Recently, audio-based CAPTCHA systems are started to use for visually impaired people in
                                 many internet services. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3196494.3201590">paper</a>][<a
@@ -2731,13 +2431,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2747,7 +2445,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> </i> </small> </p>
@@ -2763,7 +2460,6 @@ permalink: /Publications/
                                 last few years, there has been a significant increase in number of people dying alone or
                                 remaining undiscovered for a long period time in Korea and Japan. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="http://longtermtracking.offis.de/wp-content/uploads/2018/03/Woo.pdf">paper</a>][<a
@@ -2774,13 +2470,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2789,7 +2483,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Ameya
                                     Hanesamgar, <b>Simon S. Woo</b>, Chris Kanich, and Jelena Mirkovic </i> </small>
@@ -2811,7 +2504,6 @@ permalink: /Publications/
                                 on password weaknesses and reuse, less is known about user motivations for following bad
                                 password practices. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/3173574.3174144">paper</a>][<a
@@ -2822,13 +2514,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2837,7 +2527,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, and Jelena Mirkovic </i> </small> </p>
@@ -2852,7 +2541,6 @@ permalink: /Publications/
                                 However, users choose predictable word patterns and common phrases to make passphrases
                                 memorable, which in turn significantly lowers security. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399563">paper</a>][<a
@@ -2863,13 +2551,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2878,7 +2564,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Kyeong Joo Jung, and Bong Jun Choi </i> </small> </p>
@@ -2893,7 +2578,6 @@ permalink: /Publications/
                                 passwords, research has shown that there is no other strong alternatives for a textual
                                 password due to its simplicity. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399565">paper</a>][<a
@@ -2904,18 +2588,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <h4 style="margin-top:40px"><b>2017</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2924,7 +2603,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Pratik Musale,
                                     Duin Baek, <b>Simon S. Woo</b>, Bong Jun Choi </i> </small> </p>
@@ -2933,7 +2611,6 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Proc. ACM
                                     CoNEXT, Seoul, South Korea, Dec. 2017. (Student Workshop) </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -2942,14 +2619,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2958,7 +2632,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Wenzhi Li, and, Hyeran Jeon </i> </small> </p>
@@ -2968,7 +2641,6 @@ permalink: /Publications/
                                     Information Security and Cryptography 2017 Winter (CISC-W), Seoul, Korea, Dec. 2017
                                     (Best paper (우수 논문상)) </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -2977,13 +2649,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -2992,7 +2662,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> </i> </small> </p>
@@ -3003,7 +2672,6 @@ permalink: /Publications/
                                     and Opportunities for Privacy and Security (CV-COPS2017) In conjunction with the
                                     IEEE CVPR 2017 , Honolulu, USA, July 2017 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -3012,13 +2680,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3027,7 +2693,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Jelena Mirkovic, Ron Artstein, and Elsi Kaiser </i> </small> </p>
@@ -3037,7 +2702,6 @@ permalink: /Publications/
                                     Thirteenteenth Symposium on Usable Privacy and Security (SOUPS 2017), Santa Clara,
                                     USA, July 2017 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://dl.acm.org/doi/10.1145/2991079.2991107">paper</a>][<a
@@ -3048,17 +2712,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <h4 style="margin-top:40px"><b>2016</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3067,7 +2727,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Jelena Mirkovic </i> </small> </p>
@@ -3083,7 +2742,6 @@ permalink: /Publications/
                                 users use predictable word patterns and common phrases to make passphrases memorable,
                                 which in turn significantly lowers security. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.semanticscholar.org/paper/Improving-Recall-and-Security-of-Passphrases-Use-of-Woo-Mirkovic/308e48f46bdcde59f1224fe178d36bd242a542cd">paper</a>][<a
@@ -3094,13 +2752,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3109,7 +2765,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein </i> </small> </p>
@@ -3134,13 +2789,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3149,7 +2802,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Zuyao Li, and Jelena Mirkovic </i> </small> </p>
@@ -3165,7 +2817,6 @@ permalink: /Publications/
                                 widely used to verify user identity for online accounts. In our approach, we prompt
                                 users to provide a few sentences about their personal life events. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.aclweb.org/anthology/W16-6632.pdf">paper</a>][<a
@@ -3175,13 +2826,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3190,7 +2839,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Jingul Kim, Duoduo Yu, and Beomjun Kim </i> </small> </p>
@@ -3212,7 +2860,6 @@ permalink: /Publications/
                                 automated attacks. Our approach is to display CAPTCHA characters onto 3D objects to
                                 improve security. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30">paper</a>][<a
@@ -3223,19 +2870,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
-
     <h4 style="margin-top:40px"><b>2015</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3244,7 +2885,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Harsha Manjunatha </i> </small> </p>
@@ -3258,18 +2898,15 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3279,7 +2916,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Jelena Mirkovic,
                                     Aimee Tabor, <b>Simon S. Woo</b> and Portia Pusey </i> </small> </p>
@@ -3302,23 +2938,17 @@ permalink: /Publications/
                                     href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic">project
                                     page</a>] </small> </p>
                     </tr>
-
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <h4 style="margin-top:40px"><b>2014</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3327,7 +2957,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Jelena Mirkovic </i> </small> </p>
@@ -3349,7 +2978,6 @@ permalink: /Publications/
                                 performance and price, and no single provider is the best in all service categories.
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371">paper</a>][<a
@@ -3360,14 +2988,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3376,7 +3001,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Jelena Mikovic, Ron Artstein, and Elsi Kaiser </i> </small> </p>
@@ -3395,7 +3019,6 @@ permalink: /Publications/
                                 (LEPs)," which outperforms passwords and security questions, both at recall and at
                                 security. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">paper</a>][<a
@@ -3406,14 +3029,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3422,7 +3042,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, and B. Kim </i> </small> </p>
@@ -3438,7 +3057,6 @@ permalink: /Publications/
                                 automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the
                                 weaknesses of 2D CAPTCHA for a few websites. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://openreview.net/forum?id=rkWY4b-dWS">paper</a>][<a
@@ -3448,13 +3066,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3463,7 +3079,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, and B. Kim </i> </small> </p>
@@ -3478,7 +3093,6 @@ permalink: /Publications/
                                 automated machines. Recently, 3D CAPTCHA schemes have been proposed to overcome the
                                 weaknesses of 2D CAPTCHA for a few websites. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA">paper</a>][<a
@@ -3489,14 +3103,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3505,7 +3116,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Jelena Mirkovic, and Elsi Kaiser </i> </small> </p>
@@ -3514,7 +3124,6 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Network and
                                     Distributed System Security (NDSS) Symposium, Feb, 2014 </b> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">paper</a>][<a
@@ -3525,18 +3134,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <h4 style="margin-top:40px"><b>2011</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3545,7 +3149,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo*</b> </i> </small> </p>
@@ -3566,7 +3169,6 @@ permalink: /Publications/
                                 On-Wire Protocol and is capable of being adapted and integrated into CCSDS Proximity-1
                                 Space Link with minimal modifications. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/6134144">paper</a>][<a
@@ -3576,19 +3178,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
-
     <h4 style="margin-top:40px"><b>2010</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3598,7 +3194,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> E. Jennings, J.
                                     Segui, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -3614,7 +3209,6 @@ permalink: /Publications/
                                 protocols need to be designed, validated and evaluated carefully to support different
                                 mission requirements. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arc.aiaa.org/doi/10.2514/6.2010-2260">paper</a>][<a
@@ -3624,13 +3218,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3640,7 +3232,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, David Mills, and J. Gao </i> </small> </p>
@@ -3656,7 +3247,6 @@ permalink: /Publications/
                                 Protocol (NTP) designed for terrestrial networks may not work properly in space </small>
                         </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arc.aiaa.org/doi/10.2514/6.2010-2360">paper</a>][<a
@@ -3666,18 +3256,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
-
     <h4 style="margin-top:40px"><b>2009</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3687,7 +3272,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> E. Jennings, R.
                                     Borgen, C. Chevalier, E. Wesley, Sam Nguyen, John Segui, Tudor Stoenescu, Shin-Ywan
@@ -3706,7 +3290,6 @@ permalink: /Publications/
                                 missions for returning humans to the moon and beyond will include the Space Network (SN)
                                 and the Near-Earth Network (NEN). </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases">paper</a>][<a
@@ -3717,14 +3300,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3734,7 +3314,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Tudor Stoenescu </i> </small> </p>
@@ -3751,7 +3330,6 @@ permalink: /Publications/
                                 transmission and a rank based peer selection (RBPS) method for network formation.
                             </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/5073526">paper</a>][<a
@@ -3761,16 +3339,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <h4 style="margin-top:40px"><b>2008</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3780,7 +3355,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Esther H.
                                     Jennings, Sam P. Nguyen, Shin-Ywan Wang, and <b>Simon S. Woo</b> </i> </small> </p>
@@ -3798,7 +3372,6 @@ permalink: /Publications/
                                 interacting with each other over a broadband network to perform test and verification
                                 for mission scenarios. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arc.aiaa.org/doi/10.2514/6.2008-3462">paper</a>][<a
@@ -3808,14 +3381,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3824,7 +3394,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Mike Cheng </i> </small> </p>
@@ -3841,7 +3410,6 @@ permalink: /Publications/
                                 priority. In this work, we propose a simple yet constructive scheme to send high
                                 priority data reliably and efficiently using Luby transform (LT) codes. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/4558589">paper</a>][<a
@@ -3851,13 +3419,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3866,7 +3432,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b>, Esther Jennings, and Loren Clare </i> </small> </p>
@@ -3882,7 +3447,6 @@ permalink: /Publications/
                                 Collaborative Technology Alliance (ASCTA) Microsensor Network Architecture (STAMINA) to
                                 evaluate the performance of networked sensor systems. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://ieeexplore.ieee.org/document/4526447">paper</a>][<a
@@ -3892,18 +3456,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
-
     </div>
     <hr>
-
     <h4 style="margin-top:40px"><b>2007</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3912,7 +3471,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Mike Cheng,
                                     <b>Simon S. Woo</b>, Kar-Ming Cheung, Sam Dolinar, and Jon Hamkins </i> </small>
@@ -3926,7 +3484,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="">paper</a>][<a href="">project page</a>] </small> </p>
@@ -3935,17 +3492,13 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
     <h4 style="margin-top:40px"><b>2006</b></h4>
     <hr>
-
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -3954,7 +3507,6 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> <b>Simon S.
                                         Woo</b> and Jay Gao </i> </small> </p>
@@ -3969,7 +3521,6 @@ permalink: /Publications/
                                 weather-dependent Ka-band channel. The Ka-band channel condition is determined by the
                                 strength of the atmospheric noise temperature, which is weather dependent. </small> </p>
                     </tr>
-
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel">paper</a>][<a
@@ -3980,11 +3531,10 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="Publications/" style="max-height:160px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>
-
 </div>
 <!-- 
 <div class="divider"></div>
@@ -3992,52 +3542,31 @@ permalink: /Publications/
     <h5>2018</h5>
     <div class="row">
 <p> Simon S. Woo*, "Design and Evaluation of 3D CAPTCHAs", Elsevier Computers & Security, December 2018 (<b><font color='purple'>SCIE Q1 IF=3.06</font></b>) </p>
-        
 <p> Joonkyu Han and Simon S. Woo*, "Poster: Memorability and Security of Image and Text Integrated Authentication System," The 34th Annual Computer Security Applications Conference (ACSAC), Puerto Rico, USA, 2018 </p>
-
 <p> Soyoon Jeon, Jihye Woo, Ji Won Choi, Hyoungshick Kim, and Simon S. Woo*, "Evaluating and Breaking Naver’s Audio CAPTCHA using Off-the-Shelf Speech-to-text APIs," Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 </p>
-
 <p> Jihye Woo, Soyoon Jeon, Ji Won Choi, Hyoungshick Kim, and Simon S. Woo*, "Understanding Users’ Perception on Digital Certificate and Their Web Browser Usages in Korea," Conference on Information Security and Cryptography 2017 Winter (CISC-W 2018), Seoul, Korea, 2018 (Best Paper, 국보연 원장상) </p>
-
 <p> H. Choi, J. Jeong, Simon S Woo, K. Kang, and J. Hur, "Password typographical error resilience in honey encryption", Elsevier Computers & Security, October 2018 (<b><font color='purple'>SCIE Q1 IF=2.86</font></b>) </p>
-
 <p> Yimin Zhu and Simon S. Woo* "Poster: Adversarial Product Review Generation with Word Replacements," 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
-
 <p> Shahroz Tariq, Sangyup Lee, Huy Kang Kim, and Simon S. Woo* <strong>"Detecting In-Vehicle CAN Message Attacks using Heuristics and RNNs",</strong> 3rd International workshop on Information & Operational Technology (IT & OT) security systems (IOSec 2018), co-located with 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 </p>
-
 <p> Shahroz Tariq, Sangyup Lee, Youjin Shin, Ho Young Kim, and Simon S. Woo* <strong>"Detecting Both Machine and Human Created Fake Face Images In the Wild",</strong> 2nd International Workshop on Multimedia Privacy and Security (MPS 2018), co-located with 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, USA, 2018 </p>
-
 <p> Simon S. Woo* and Jelena Mirkovic "GuidedPass: Guiding users to create both more memorable and strong passwords", 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2018), Crete, Greece, Sept 2018 (<b><font color='blue'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b>). </p>
-
 <p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Poster: Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," Usenix The Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), Baltimore, USA, 2018 </p>
-
 <p> Keeyoung Kim and Simon S. Woo*, "When George Clooney is not George Clooney: Using GenAttack to Deceive Amazon’s and Naver’s Celebrity Recognition APIs", 33rd IFIP TC-11 SEC 2018 International Conference on Information Security and Privacy Protection (IFIP-SEC), Poznan, Poland, Sept 2018 (<b><font color='blue'>Acceptance Rate 36%, BK우수학회 IF=1, Best Student Paper Nominated</font></b>). </p>
-
 <p> Keeyoung Kim and Simon S. Woo*, "Generating Adversarial Images using Genetic Algorithm", The Second International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018) In conjunction with the IEEE CVPR 2018 , Salt Lake City, USA, June 2018. </p>
-
 <p> Jusop Choi, Taekkyung Oh, William Aiken, Simon S. Woo and Hyoungshick Kim, “Poster: I can’t hear this because I am human: A novel design of audio CAPTCHA system”, The 11th ACM Asia Conference on Computer and Communications Security (ACM ASIACCS), Incheon, Korea, 2018 </p>
-
 <p> Simon S. Woo*, "Benefits and Challenges of Long Term Self-Tracking to Prevent Lonely Deaths and Detect Signs of Life," A Short Workshop on Next Steps Towards Long Term Self Tracking at ACM SIG CHI2018, April, 2018, Montreal, Canada (pdf) </p>
-
 <p> Ameya Hanesamgar, Simon S. Woo*, Chris Kanich, and Jelena Mirkovic, "Leveraging Semantic Transformation to Investigate Password Habits and Their Causes," ACM SIG CHI2018, April, 2018, Montreal, Canada (<b><font color='blue'>Acceptance Rate 25.7%, BK우수학회 IF=4</font></b>)(pdf) </p>
-
 <p> Simon S. Woo*, and Jelena Mirkovic, "Memorablity and Security of Different Passphrase Generation Methods,"Review of KIISC (정보보호학회지), Feb. 2018 (pdf) </p>
-
 <p> Simon S. Woo*, Kyeong Joo Jung, and Bong Jun Choi, "Survey on Current Password Composition Policies,"Review of KIISC (정보보호학회지), Feb. 2018 (pdf) </p>
     </div>
 </div>
-
 <div class="divider"></div>
 <div class="section">
     <h5>2017</h5>
     <div class="row">
-
 <p> Pratik Musale, Duin Baek, Simon S. Woo, Bong Jun Choi, “Lightweight Authentication for IoT,” Proc. ACM CoNEXT, Seoul, South Korea, Dec. 2017. (Student Workshop) </p>
-
 <p> Simon S. Woo, Wenzhi Li, and, Hyeran Jeon, “Toward Machine Generated Passwords,” Conference on Information Security and Cryptography 2017 Winter (CISC-W), Seoul, Korea, Dec. 2017 (Best paper (우수 논문상)) </p>
-
 <p> Simon S. Woo*, "Computer Vision Attacks against 3D CAPTCHAs", The First International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2017) In conjunction with the IEEE CVPR 2017 , Honolulu, USA, July 2017 (pdf). </p>
-
 <p> Simon S. Woo, Jelena Mirkovic, Ron Artstein, and Elsi Kaiser, "Life-Experience Passwords (LEPs)", Usenix The Thirteenteenth Symposium on Usable Privacy and Security (SOUPS 2017), Santa Clara, USA, July 2017. </p>
     </div>
 </div>
@@ -4047,11 +3576,8 @@ permalink: /Publications/
     <div class="row">
 <p> Simon S. Woo* and Jelena Mirkovic. <strong> "Improving Recall and Security of Passphrases Through Use of Mnemonics" </strong>, Proceedings of the 10th International Conference on Passwords (Passwords), Bochum, Germany, 2016 <a href="../../raw/master/Publications/Improving Recall and Security of Passphrases Through Use of Mnemonics.pdf" download> (PDF) </a>
  </p>
-
 <p> Simon S. Woo, Jelena Mirkovic, Elsi Kaiser, and Ron Artstein "Life Experience Passwords (LEPs)", The 32nd Annual Computer Security Applications Conference (ACSAC), Los Angeles, 2016 (<b><font color='blue'>Acceptance Rate 22.8%, BK우수학회 IF=2</font></b>) (pdf) </p>
-
 <p> Simon S. Woo*, Zuyao Li, and Jelena Mirkovic, "Good Automatic Authentication Question Generation", The 9th SIGGEN International Natural Language Generation Conference (INLG), Edinburgh, 2016 (pdf) </p>
-
 <p> Simon S. Woo, Jingul Kim, Duoduo Yu, and Beomjun Kim, "Exploration of 3D Texture and Projection for New CAPTCHA Design", The 17th World Conference on Information Security Applications (WISA), Jeju, 2016 (Best Conference Paper) (pdf) </p>
      </div>
 </div>
@@ -4060,7 +3586,6 @@ permalink: /Publications/
     <h5>2015</h5>
     <div class="row">
 <p> Simon S. Woo and Harsha Manjunatha, "Empirical Data Analysis on User Privacy and Sentiment in Personal Blogs", 2nd ACM SIGIR Workshop on Privacy-Preserving Information Retrieval, Chilie, 2015 (pdf) </p>
-
 <p> Jelena Mirkovic, Aimee Tabor, Simon S. Woo, and Portia Pusey, "Engaging Novices in Cybersecurity Competitions: A Vision and Lessons Learned at ACM Tapia 2015", 2015 USENIX Summit on Gaming, Games, and Gamification in Security Education (3GSE), D.C, 2015 (pdf) </p>
     </div>
 </div>
@@ -4069,13 +3594,9 @@ permalink: /Publications/
     <h5>2014</h5>
     <div class="row">
 <p> Simon S. Woo and Jelena Mirkovic, "Optimal application allocation on multiple public clouds", Elsevier Computer Networks, February 2014. (<b><font color='purple'>SCIE Q1 IF=2.52</font></b>) (pdf) </p>
-
 <p> Simon S. Woo, Jelena Mikovic, Ron Artstein, and Elsi Kaiser, "Life-Experice Passwords", Who are you?! Adventures in Authentication: ACM SOUPS-WAY Workshop, 2014, Menlo Park, CA (pdf) </p>
-
 <p> Simon S. Woo, and B. Kim, "3D Object CAPTCHA", Information Sciences Institute Graduate Student Symposium (ISI-GSS), Nov, 2014 (Best Student Paper) </p>
-
 <p> Simon S. Woo*, B. Kim, W. Jun, and J. Kim, "3DOC: 3D Object CAPTCHA", 23rd International World Wide Web (WWW) Conference, 2014 (Poster) </p>
-
 <p> Simon S. Woo, Jelena Mirkovic, and Elsi Kaiser, "Life Experience-Passwords", Network and Distributed System Security (NDSS) Symposium, Feb, 2014 (Poster) </p>
     </div>
 </div>
@@ -4086,35 +3607,28 @@ permalink: /Publications/
 <p> Simon S. Woo*, "Analysis of Proximity-1 Space Link Interleaved Time Synchronization Protocol", IEEE Globecom 2011, Houston, TX (Acceptance rate: 36%) (pdf) </p>
     </div>
 </div>
-
 <div class="divider"></div>
 <div class="section">
     <h5>2010</h5>
     <div class="row">
 <p> E. Jennings, J. Segui, and Simon S. Woo*, "MACHETE: A Protocol Evaluation Tool for Space- Based Networking Architecture and Simulation", AIAA SpaceOps 2010, Huntsville, AL (pdf) </p>
-
 <p> Simon S. Woo, David Mills, and J. Gao, "Space Time Distribution and Synchronization Protocol Development for Mars Proximity Link", AIAA SpaceOps 2010 (Invited for Book Chapter) (pdf) </p>
     </div>
 </div>
-
 <div class="divider"></div>
 <div class="section">
     <h5>2009</h5>
     <div class="row">
 <p> E. Jennings, R. Borgen, C. Chevalier, E. Wesley, Sam Nguyen, John Segui, Tudor Stoenescu, Shin-Ywan Wang, and Simon S. Woo, "Space Communications and Navigation (SCaN) Network Simulation Tool Development and Its Use Cases", AIAA, Modeling and Simulation Technologies (AIAA MST) Conference, 2009 (pdf) </p>
-
 <p> Simon S. Woo* and Tudor Stoenescu, "Efficient File Sharing by multicast - P2P protocol using network coding and rank based peer selection",IEEE 69th Vehicular Technology Conference (IEEE VTC) 2009-Spring, Barcelona, Spain, April, 2009 (pdf) </p>
     </div>
 </div>
-
 <div class="divider"></div>
 <div class="section">
     <h5>2008</h5>
     <div class="row">
 <p> Esther H. Jennings, Sam P. Nguyen, Shin-Ywan Wang, and Simon S. Woo*, "Interfacing Space Communications and Navigation Network Simulation with Distributed System Integration Laboratories (DSIL)", AIAA SpaceOps 2008 (pdf) </p>
-
 <p> Simon S. Woo* and Mike Cheng, "Prioritized LT codes", IEEE Annual Conference on Information Sciences and Systems (CISS), Princeton, NJ, March 2008. (pdf) </p>
- 
 <p> Simon S. Woo, Esther Jennings, and Loren Clare, "A Simulation Tool for ASCTA Microsensor Network Architecture", IEEE Aerospace Conference, Big Sky, MT, March, 2008 (pdf) </p>
     </div>
 </div>

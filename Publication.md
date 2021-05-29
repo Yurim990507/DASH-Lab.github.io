@@ -42,7 +42,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="Publications/ijcai2021_overall_diag.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="ijcai2021_overall_diag.png" style="max-height:220px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>

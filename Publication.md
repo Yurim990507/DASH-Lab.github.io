@@ -448,7 +448,8 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arxiv.org/abs/2004.08945">paper</a>][<a
-                                    href="https://arxiv.org/abs/2004.08945">project page</a>] </small> </p>
+                                    href="https://arxiv.org/abs/2004.08945">project page</a>]  [<a
+                                    href="https://www.youtube.com/watch?v=tgQ9TQc2jdU">video</a>]</small> </p>
                     </tr>
                 </tbody>
             </table>

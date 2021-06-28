@@ -213,9 +213,38 @@ permalink: /Publications/
         </div>
     </div>
     <hr>
-
+    <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Will EU’s GDPR Act as an Effective Enforcer to Gain Consent?</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Oh, Junhyoung and Hong, Jinhyoung and Lee, Changsoo and Lee, Jemin Justin and <i><b>Simon S. Woo*</b> </i> and Lee, Kyungho </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Access</b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this study, we analyze GDPR provisions and recitals as well as relevant EU guidelines to propose quantifiable consent conditions to check whether website providers are compliant with the GDPR. We then evaluate the extent to which various popular web service providers meet these conditions.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440969">paper</a>]
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="gdpr.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+        </div>
+    </div>
+    <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
+      
 
         <div style="margin-left: 25px;margin-right:10px;">
             <table>

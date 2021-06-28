@@ -23,7 +23,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Sowon Jeon, Gilhee Lee, Hyoungshick Kim and <i><b>Simon S. Woo*</b> </i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Sowon Jeon, Gilhee Lee, Hyoungshick Kim and <i><b>Simon S. Woo*</b> </i></b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  2021 KDD Workshop on Programming Language Processing(PLP 2021)</small> </p>

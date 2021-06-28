@@ -20,6 +20,8 @@ permalink: /News/
         <img border=0 width=400 height=300 src="/img/21-1.jpg">
         <img border=0 width=400 height=300 src="/img/family.jpg">
         <img border=0 width=400 height=300 src="/img/group lunch.jpg">
+        <img border=0 width=400 height=300 src="/img/group lunch2.jpg">
+        <img border=0 width=400 height=300 src="/img/group lunch3.jpg">
         <img border=0 width=400 height=300 src="/img/graduation.jpg">
     </div>
 </div>

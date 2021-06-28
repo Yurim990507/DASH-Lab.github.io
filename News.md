@@ -14,6 +14,35 @@ permalink: /News/
 
 <br>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Group</title>
+    <link rel="stylesheet" href="./slider2.css">
+</head>
+
+<div class="slider">
+    <input type="radio" name="slide" id="slide1" checked>
+    <input type="radio" name="slide" id="slide2">
+    <input type="radio" name="slide" id="slide3">
+    <input type="radio" name="slide" id="slide4">
+    <ul id="imgholder" class="imgs">
+        <li><img src="./img/21-1.jpg"></li>
+        <li><img src="./img/family.jpg"></li>
+        <li><img src="./img/group lunch.jpg"></li>
+        <li><img src="./img/graduation.jpg"></li>
+    </ul>
+    <div class="bullets">
+        <label for="slide1">&nbsp;</label>
+        <label for="slide2">&nbsp;</label>
+        <label for="slide3">&nbsp;</label>
+        <label for="slide4">&nbsp;</label>
+    </div>
+</div>
+
+
+
 
 <div class="section">
     <div class="row">

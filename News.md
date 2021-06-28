@@ -21,7 +21,6 @@ permalink: /News/
     <link rel="stylesheet" href="./slider2.css">
 </head>
 <body>
-
 <div class="slider">
     <input type="radio" name="slide" id="slide1" checked>
     <input type="radio" name="slide" id="slide2">

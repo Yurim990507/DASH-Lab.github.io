@@ -20,10 +20,10 @@ permalink: /News/
     <input type="radio" name="slide" id="slide3">
     <input type="radio" name="slide" id="slide4">
     <ul id="imgholder" class="imgs">
-        <li><img src="./img/21-1.jpg"></li>
-        <li><img src="./img/family.jpg"></li>
-        <li><img src="./img/group lunch.jpg"></li>
-        <li><img src="./img/graduation.jpg"></li>
+        <li><img src="/img/21-1.jpg"></li>
+        <li><img src="/img/family.jpg"></li>
+        <li><img src="/img/group lunch.jpg"></li>
+        <li><img src="/img/graduation.jpg"></li>
     </ul>
     <div class="bullets">
         <label for="slide1">&nbsp;</label>

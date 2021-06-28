@@ -13,7 +13,39 @@ permalink: /Publications/
 <div style="margin-top:2vw;">
     <h4 style="margin-top:20px"><b>2021</b></h4>
     <hr>
-
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SmartConDetect: Highly Accurate Smart Contract CodeVulnerability Detection Mechanism using BERT</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Sowon Jeon, Gilhee Lee, Hyoungshick Kim and <i><b>Simon S. Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  2021 KDD Workshop on Programming Language Processing(PLP 2021)</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we propose SmartConDetect to detect security vulnerabilities in smart contracts written in Solidity, which the most popular programming language for writing smart contracts on the Ethereum platform. SmartConDetect is designed as a static analysis tool to extract code fragments from smart contracts in Solidity and analyze code patterns using a pre-trained BERT model and a bidirectional LSTM model.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://www.google.com/search?q=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&oq=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&aqs=chrome..69i57j69i58.269j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a
+                                    href="https://www.google.com/">project</a>]</small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="smartcondetect.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+        </div>
+    </div>
+    <hr>
+    
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

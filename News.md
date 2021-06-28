@@ -17,10 +17,10 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-        <img border=0 width=300 height=200 src="/img/21-1.jpg">
-        <img border=0 width=300 height=200 src="/img/family.jpg">
-        <img border=0 width=300 height=200 src="/img/group lunch.jpg">
-        <img border=0 width=300 height=200 src="/img/graduation.jpg">
+        <img border=0 width=400 height=300 src="/img/21-1.jpg">
+        <img border=0 width=400 height=300 src="/img/family.jpg">
+        <img border=0 width=400 height=300 src="/img/group lunch.jpg">
+        <img border=0 width=400 height=300 src="/img/graduation.jpg">
     </div>
 </div>
 

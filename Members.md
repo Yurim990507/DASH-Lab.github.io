@@ -34,7 +34,7 @@ permalink: /Members/
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee</a>                         
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Anomaly Detection for CPS, Deepfakes Detection</td>
+                  <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>

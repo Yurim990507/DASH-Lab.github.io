@@ -18,7 +18,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>CoReD: Generalizing Fake Media Detection with Continu-al Representation using Distillation</b></a>
+                        <a><b>CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation</b></a>
                     </tr>
                 </thead>
                 <tbody>

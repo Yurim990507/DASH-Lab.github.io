@@ -33,7 +33,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://www.google.com">paper</a>][<a
+                                    href="https://arxiv.org/abs/2107.02408">paper</a>][<a
                                     href="https://www.google.com/">project</a>]</small>
                         </p>
                     </tr>

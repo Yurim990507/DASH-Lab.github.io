@@ -28,8 +28,9 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 29th ACM International Conference on Multimedia (ACMMM '21) </b> </small> </p>
                     </tr>
+                    <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                                    <font color='blue'>BK CS IF=4</font>
+                                    <font color='blue'>BK Computer Science IF=4</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -264,7 +265,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Access</b> </small> </p>
                     </tr>
-                    
+                    <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                     <font color='purple'>SCIE Q1 IF=3.67</font>
                                 </b> </small> </p>

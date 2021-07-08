@@ -28,6 +28,10 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 29th ACM International Conference on Multimedia (ACMMM '21) </b> </small> </p>
                     </tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'>BK CS IF=4</font>
+                                </b> </small> </p>
+                    </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>in this work, we apply continuous learning to neural networks' learning dynamics, emphasizing its potential to increase data efficiency significantly. We propose Continual Representation using Distillation (CoReD) method that employs the concept of Continual Learning (CoL), Representation Learning (ReL), and Knowledge Distillation (KD). We design CoReD to perform sequential domain adaptation tasks on new deepfake and GAN-generated synthetic face datasets, while effectively minimizing the catastrophic forgetting in a teacher-student model setting. Our extensive experimental results demonstrate that our method is efficient at domain adaptation to detect low-quality deepfakes videos and GAN-generated images from several datasets, outperforming the-state-of-art baseline methods.</small> </p>
                     </tr>
@@ -259,6 +263,11 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Access</b> </small> </p>
+                    </tr>
+                    
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='purple'>SCIE Q1 IF=3.67</font>
+                                </b> </small> </p>
                     </tr>
                     
                     <tr>

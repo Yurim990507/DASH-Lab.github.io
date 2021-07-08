@@ -39,7 +39,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://arxiv.org/abs/2107.02408">paper</a>][<a
-                                    href="https://www.google.com/">project</a>]</small>
+                                    href="https://github.com/alsgkals2/CoReD">code</a>]</small>
                         </p>
                     </tr>
                 </tbody>
@@ -185,8 +185,8 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a
-                                    href="https://www.google.com/search?q=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&oq=FReTAL%3A+Generalizing+Deepfake+Detection+using+Knowledge+Distillation+and+Representation+Learning&aqs=chrome..69i57j69i58.351j0j7&sourceid=chrome&ie=UTF-8">project</a>]</small>
+                                    href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/html/Kim_FReTAL_Generalizing_Deepfake_Detection_Using_Knowledge_Distillation_and_Representation_Learning_CVPRW_2021_paper.html">paper</a>][<a
+                                    href="https://github.com/alsgkals2/FReTAL-Generalizing_Deepfakes_using_Knowledge_Distillation_and_Representation_Learning">code</a>]</small>
                         </p>
                     </tr>
 

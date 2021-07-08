@@ -306,7 +306,7 @@ permalink: /Publications/
                                 Jeon, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Arxiv</b>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>arXiv</b>
                             </small> </p>
                     </tr>
                     <tr>
@@ -594,12 +594,12 @@ permalink: /Publications/
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> ... </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Beyond detecting a single type of DF from benchmark deepfake datasets, we focus on developing a generalized approach to detect multiple types of DFs, including deepfakes from unknown generation methods such as DeepFake-in-the-Wild (DFW) videos. To better cope with unknown and unseen deepfakes, we introduce a Convolutional LSTM-based Residual Network (CLRNet), which adopts a unique model training strategy and explores spatial as well as the temporal information in a deepfakes. Through extensive experiments, we show that existing defense methods are not ready for real-world deployment. Whereas our defense method (CLRNet) achieves far better generalization when detecting various benchmark deepfake methods (97.57% on average). Furthermore, we evaluate our approach with a high-quality DeepFake-in-the-Wild dataset, collected from the Internet containing numerous videos and having more than 150,000 frames. Our CLRNet model demonstrated that it generalizes well against high-quality DFW videos by achieving 93.86% detection accuracy, outperforming existing state-of-the-art defense methods by a considerable margin. </small> </p>
                     </tr>
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="">paper</a>][<a href="">project page</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
+                                    href="https://dl.acm.org/doi/abs/10.1145/3442381.3449809">paper</a>][<a href="https://arxiv.org/abs/2105.00187#:~:text=1%20May%202021%5D-,One%20Detector%20to%20Rule%20Them%20All%3A%20Towards,General%20Deepfake%20Attack%20Detection%20Framework&text=Deep%20learning%2Dbased%20video%20manipulation,widely%20accessible%20to%20the%20masses.&text=Whereas%20our%20defense%20method%20(CLRNet,(97.57%25%20on%20average).">arXiv</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
                     </tr>
                 </tbody>
             </table>

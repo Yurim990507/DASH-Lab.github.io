@@ -45,8 +45,8 @@ permalink: /Publications/
                 </tbody>
             </table>
         </div>
-        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="acmm21_minha.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center;width: 360px;">
+            <img src="acmm21_minha.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto; /*aspect-ratio:auto;*/ width: auto;">
         </div>
     </div>
     <hr>

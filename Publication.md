@@ -599,13 +599,13 @@ permalink: /Publications/
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://dl.acm.org/doi/abs/10.1145/3442381.3449809">paper</a>][<a href="https://arxiv.org/abs/2105.00187#:~:text=1%20May%202021%5D-,One%20Detector%20to%20Rule%20Them%20All%3A%20Towards,General%20Deepfake%20Attack%20Detection%20Framework&text=Deep%20learning%2Dbased%20video%20manipulation,widely%20accessible%20to%20the%20masses.&text=Whereas%20our%20defense%20method%20(CLRNet,(97.57%25%20on%20average).">arXiv</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
+                                    href="https://dl.acm.org/doi/abs/10.1145/3442381.3449809">paper</a>][<a href="https://arxiv.org/abs/2105.00187">arXiv</a>] [<a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a>]</small> </p>
                     </tr>
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="odtr.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="odtr.png" style="max-height:200px;width: 360px; margin-bottom:10px">
         </div>
     </div>
     <hr>

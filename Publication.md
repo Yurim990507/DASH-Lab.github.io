@@ -46,7 +46,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="acmm21_minha.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;width: auto;">
+            <img src="acmm21_minha.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -78,7 +78,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="smartcondetect.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="smartcondetect.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -111,7 +111,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ijcai2021_overall_diag.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="ijcai2021_overall_diag.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -149,7 +149,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="sarod.jpg" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="sarod.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -194,7 +194,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="fretalgd.png" style="max-height:220px;width: 360px; margin-bottom:10px">
+            <img src="fretalgd.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -244,7 +244,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="nb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="nb.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     
@@ -284,7 +284,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="gdpr.PNG" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="gdpr.PNG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     
@@ -352,7 +352,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle; text-align:center">
-            <img src="airor.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="airor.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -406,7 +406,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="rsom.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="rsom.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -464,7 +464,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tgddw.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="tgddw.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -516,7 +516,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dhfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="dhfi.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -561,7 +561,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ExploringRacialBias.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="ExploringRacialBias.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -656,7 +656,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="secBlock.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="secBlock.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -710,7 +710,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="bertLoc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="bertLoc.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -760,7 +760,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="jy.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="jy.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -805,7 +805,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="pqc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="pqc.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -855,7 +855,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ctle.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="ctle.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -907,7 +907,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="itad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="itad.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -957,7 +957,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="yoon.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="yoon.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1000,7 +1000,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="bc.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="bc.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1042,7 +1042,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1086,7 +1086,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="ocvae.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1138,7 +1138,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="fepb.jpg" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="fepb.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1183,7 +1183,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="sowon1.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="sowon1.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1231,7 +1231,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tgd.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="tgd.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1278,7 +1278,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1327,7 +1327,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="canadf.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="canadf.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1369,7 +1369,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ocvae.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="ocvae.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1418,7 +1418,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1467,7 +1467,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1515,7 +1515,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1563,7 +1563,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1611,7 +1611,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1654,7 +1654,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1703,7 +1703,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cantransfer.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="cantransfer.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1749,7 +1749,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1796,7 +1796,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cgfi.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="cgfi.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1840,7 +1840,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1890,7 +1890,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1936,7 +1936,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -1972,7 +1972,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="tdfad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="tdfad.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2010,7 +2010,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="cad.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="cad.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2057,7 +2057,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dais.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="dais.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2106,7 +2106,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2154,7 +2154,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2204,7 +2204,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2252,7 +2252,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2300,7 +2300,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="ganfof.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="ganfof.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2352,7 +2352,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2392,7 +2392,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2427,7 +2427,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2463,7 +2463,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2510,7 +2510,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2553,7 +2553,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="aprg.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="aprg.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2599,7 +2599,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dican.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="dican.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2644,7 +2644,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="dbmh.png" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="dbmh.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2691,7 +2691,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
 
     </div>
@@ -2737,7 +2737,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2788,7 +2788,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2825,7 +2825,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2870,7 +2870,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2913,7 +2913,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -2961,7 +2961,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3002,7 +3002,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3043,7 +3043,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3081,7 +3081,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3116,7 +3116,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3151,7 +3151,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3187,7 +3187,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3233,7 +3233,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3273,7 +3273,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3314,7 +3314,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3362,7 +3362,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3402,7 +3402,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3446,7 +3446,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3499,7 +3499,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3545,7 +3545,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3587,7 +3587,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3628,7 +3628,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3664,7 +3664,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3715,7 +3715,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3763,7 +3763,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3805,7 +3805,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3856,7 +3856,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3900,7 +3900,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3947,7 +3947,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -3990,7 +3990,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -4031,7 +4031,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
 
     </div>
@@ -4074,7 +4074,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>
@@ -4119,7 +4119,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="" style="max-height:160px;width: 360px; margin-bottom:10px">
+            <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;mleft:auto;">
         </div>
     </div>
     <hr>

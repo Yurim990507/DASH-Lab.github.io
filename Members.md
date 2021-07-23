@@ -401,16 +401,6 @@ permalink: /Members/
                   <td>Kakao</td>
                 </tr>
                 <tr>
-                  <td>Young Rok Choi </td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td>Kakao</td>
-                </tr>
-                <tr>
-                  <td>Hyeonseong Jeon </td>
-                  <td>AI (인공지능학과)</td>
-                  <td>Hyundai AI Research Lab</td>
-                </tr>
-                <tr>
                   <td>Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
                   <td></td>

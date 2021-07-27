@@ -116,45 +116,12 @@ permalink: /Publications/
     </div>
     <hr>
     
-    <--
+    
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
 
 
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>SAROD: Efficient End-To-End Object Detection on SAR Images with Reinforcement Learning</b></a>
-                    </tr>
-                </thead>
-                <tbody>
 
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> JunHyung Kang, HyeonSeong Jeon, YoungOh Bang, and <i><b>Simon S. Woo*</b> </i></small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> The 28th IEEE International Conference on Image Processing (ICIP 2021)</b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we introduce SAROD, a novel efficient end-to-end object detection 
-                            framework on SAR images based on Reinforcement Learning (RL), to balance the trade-offs between high accuracy and efficiency.</small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://github.com/JunHyungKang/SAROD_ICIP">paper</a>][<a
-                                    href="https://github.com/JunHyungKang/SAROD_ICIP">project</a>]</small>
-                        </p>
-                    </tr>
-
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="sarod.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-        </div>
-    </div>
-    <hr>
-    -->
+    
 
 
     <div style="display: flex;flex-direction: row;justify-content: space-between;">

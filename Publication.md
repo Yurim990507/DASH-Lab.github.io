@@ -116,6 +116,7 @@ permalink: /Publications/
     </div>
     <hr>
     
+    <--
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
 
 
@@ -153,6 +154,7 @@ permalink: /Publications/
         </div>
     </div>
     <hr>
+    -->
 
 
     <div style="display: flex;flex-direction: row;justify-content: space-between;">

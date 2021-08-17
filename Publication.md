@@ -6,12 +6,44 @@ permalink: /Publications/
 
 <h1 class="page-title">Publications</h1>
 
-
-
-
-
 <div style="margin-top:2vw;">
     <h4 style="margin-top:20px"><b>2021</b></h4>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  Hassam Khalid, Shahroz Tariq and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>We propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that not only contains deepfake videos but respective synthesized cloned audios as well. We generated our dataset using recent most popular deepfake generation methods and the videos and audios are perfectly lip-synced with each other. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian and South Asian) to counter the racial bias issue.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://arxiv.org/pdf/2108.05080.pdf">paper</a>]</small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="FakeAVCelab.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -34,7 +66,7 @@ permalink: /Publications/
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>in this work, we apply continuous learning to neural networks' learning dynamics, emphasizing its potential to increase data efficiency significantly. We propose Continual Representation using Distillation (CoReD) method that employs the concept of Continual Learning (CoL), Representation Learning (ReL), and Knowledge Distillation (KD). We design CoReD to perform sequential domain adaptation tasks on new deepfake and GAN-generated synthetic face datasets, while effectively minimizing the catastrophic forgetting in a teacher-student model setting. Our extensive experimental results demonstrate that our method is efficient at domain adaptation to detect low-quality deepfakes videos and GAN-generated images from several datasets, outperforming the-state-of-art baseline methods.</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we apply continuous learning to neural networks' learning dynamics, emphasizing its potential to increase data efficiency significantly. We propose Continual Representation using Distillation (CoReD) method that employs the concept of Continual Learning (CoL), Representation Learning (ReL), and Knowledge Distillation (KD). We design CoReD to perform sequential domain adaptation tasks on new deepfake and GAN-generated synthetic face datasets, while effectively minimizing the catastrophic forgetting in a teacher-student model setting. Our extensive experimental results demonstrate that our method is efficient at domain adaptation to detect low-quality deepfakes videos and GAN-generated images from several datasets, outperforming the-state-of-art baseline methods.</small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
@@ -116,11 +148,6 @@ permalink: /Publications/
     </div>
     <hr>
     
-    
-  
-
-
-
     
 
 
@@ -216,7 +243,7 @@ permalink: /Publications/
             <img src="nb.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
-    
+
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -239,7 +266,7 @@ permalink: /Publications/
                                     <font color='purple'>SCIE Q1 IF=3.67</font>
                                 </b> </small> </p>
                     </tr>
-                    
+
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this study, we analyze GDPR provisions and recitals as well as relevant EU guidelines to propose quantifiable consent conditions to check whether website providers are compliant with the GDPR. We then evaluate the extent to which various popular web service providers meet these conditions.</small> </p>
                     </tr>
@@ -256,9 +283,9 @@ permalink: /Publications/
             <img src="gdpr.PNG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
-    
+
     <hr>
-    
+
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right:10px;">
             <table>
@@ -671,7 +698,7 @@ permalink: /Publications/
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://dl.acm.org/doi/10.1145/3412841.3441969">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3412841.3441969">project page</a>] 
+                                    href="https://dl.acm.org/doi/10.1145/3412841.3441969">paper</a>][<a href="https://dl.acm.org/doi/10.1145/3412841.3441969">project page</a>]
                                     [<a
                                     href="https://www.youtube.com/watch?v=zYsJigpb_jc">talk</a>] </small> </p>
                     </tr>

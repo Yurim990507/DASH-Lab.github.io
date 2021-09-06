@@ -14,6 +14,38 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Crew Resource Management in Industry 4.0 : focusing on human-autonomy teaming</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Sunny Yun and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>THE KOREAN JOURNAL OF AEROSPACE AND ENVIRONMENTAL MEDICINE (KJAsEM), August 2021 </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In the era of the 4th industrial revolution, the aviation industry is also growing remarkably with the development of artificial intelligence and networks, so it is necessary to study a new concept of CRM, which is required in the process of operating state-of-the-art equipment. The automation system, which has been treated only as a tool, is changing its role as a decision-making agent with the development of AI, and it is necessary to set clear standards for the role and responsibility in the safety-critical field. We present a new perspective on the automation system in the CRM program through the understanding of the autonomous system. In the future, autonomous system will develop as an agent for human pilots to cooperate, and accordingly, changes in role division and reorganization of regulations are required.</small> </p>
+                    </tr>
+                    <tr>
+                        
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake</b></a>
                     </tr>
                 </thead>

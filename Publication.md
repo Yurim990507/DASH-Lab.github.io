@@ -127,7 +127,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  Sowon Jeon, Gilhee Lee, Hyoungshick Kim and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 2021 KDD Workshop on Programming Language Processing (PLP 2021) <font color="red">Best Paper</font></b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> 2021 KDD Workshop on Programming Language Processing (PLP 2021) <font color="red"><a href="https://cs.skku.edu/ko/edures/research/view/6073">The Best Paper Award</a></font></b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we propose SmartConDetect to detect security vulnerabilities in smart contracts written in Solidity, which the most popular programming language for writing smart contracts on the Ethereum platform. SmartConDetect is designed as a static analysis tool to extract code fragments from smart contracts in Solidity and analyze code patterns using a pre-trained BERT model and a bidirectional LSTM model.</small> </p>

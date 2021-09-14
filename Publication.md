@@ -38,7 +38,6 @@ permalink: /Publications/
                 </tbody>
             </table>
         </div>
-        
     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
@@ -74,6 +73,42 @@ permalink: /Publications/
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
             <img src="FakeAVCelab.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>DLPNet: Dynamic Loss Parameter Network using Reinforcement Learning for Aerial Imagery Detection</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>JunHyung Kang and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>4th International Conference on Artificial Intelligence and Pattern Recognition, 2021 </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>We propose DLPNet, a novel RL module to enable robust and stable training while achieving high performance in practical small mini-batch size conditions. DLPNet observes input image patches and acts to select the optimal parameters of the dynamic focal loss function for the baseline detector with every mini-batch training iteration during the training phase.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://github.com/JunHyungKang/DLPNet">project</a>]</small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="dlpnet_icpr21.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
     <hr>

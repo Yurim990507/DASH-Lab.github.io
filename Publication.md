@@ -14,6 +14,41 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>EMGNet: Efficient Multi-Scale Feature Generation Adaptive Network</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Minha Kim, Minha Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>30th ACM International Conference on Information and Knowledge Management (BK=3)</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Recently, an early exit network, which dynamically adjusts the model complexity during inference time, has achieved remarkable performance. However, they were unsuccessful at resolving the performance drop of early classifiers that make predictions with insufficient high-level feature information. Consequently, the performance degradation of early classifiers had a devastating effect on the entire network performance sharing the backbone. In this paper, we propose an Efficient Multi-Scale Feature Generation Adaptive Network (EMGNet), which not only reduced the redundancy of the architecture but also generates multi-scale features to improve the performance of the early exit network.
+</small> </p>
+                    </tr>
+                    <tr>
+                       
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="cikm22_gh.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Crew Resource Management in Industry 4.0 : focusing on human-autonomy teaming</b></a>
                     </tr>
                 </thead>

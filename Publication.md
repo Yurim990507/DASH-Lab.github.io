@@ -26,7 +26,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                                    <font color='blue'>BK Computer Science IF=4</font>
+                                    <font color='blue'>BK Computer Science IF=3</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

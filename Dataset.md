@@ -7,6 +7,12 @@ permalink: /Dataset/
 <!--<p><a href="https://dash-lab.github.io/Dataset_kor.html">Kor</a></p>-->
 <p><a href="https://dash-lab.github.io/Dataset_kor/">Kor</a></p>
 
+
+<h1 class="page-title">FakeAVCeleb Dataset</h1>
+  <p>In FakeAVCeleb, we propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that contains not only deepfake videos but also respective synthesized lip-synced fake audios. Our FakeAVCeleb is generated using recent most popular deepfake generation methods. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian, and South Asian) to counter the racial bias issue. <p><br>
+<p> Dataset download: https://sites.google.com/view/fakeavcelebdash-lab/home?authuser=0</p>
+<p>GitHub: https://github.com/hasamkhalid/FakeAVCeleb</p>
+  
 <h1 class="page-title">SKKU AGC Anomaly Detection Dataset</h1>
   <p>SKKU AGC Anomaly Detection Dataset was acquired with a stationary camera mounted at an elevation, overlooking pedestrians, both day and night from various locations. Abnormal event is when a person's head touches the ground. The data was split into detection data and classification data.<p><br>
  

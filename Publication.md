@@ -475,7 +475,7 @@ permalink: /Publications/
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Young Geun Kim,
-                                    Jeong-Han Yun, Siho Han, Hyoung Chun Kimand <b>Simon S. Woo*</b> </i> </small> </p>
+                                    Jeong-Han Yun, Siho Han, Hyoung Chun Kim, and <b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>36th
@@ -1677,14 +1677,14 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>How do we Create a Fantabulous Password?</b></a>
+                        <a><b>PassTag: A Graphical-Textual Hybrid Fallback Authentication System</b></a>
                     </tr>
                 </thead>
                 <tbody>
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Joon Kuy
-                                    Han,<b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p>
+                                    Han, Xiaojun Bi, <b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p>
                     </tr>
 
                     <tr>

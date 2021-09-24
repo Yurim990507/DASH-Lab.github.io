@@ -1684,7 +1684,7 @@ permalink: /Publications/
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Joon Kuy
-                                    Han, Xiaojun Bi, <b>Simon S. Woo</b>, and Hyoungshick Kim </i> </small> </p>
+                                    Han, Xiaojun Bi, Hyoungshick Kim, and  <b>Simon S. Woo</b> </i> </small> </p>
                     </tr>
 
                     <tr>

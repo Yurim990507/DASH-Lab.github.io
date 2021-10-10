@@ -14,6 +14,44 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>IVDR: Imitation learning with Variational inference and Distributional Reinforcement learning to find Optimal Driving Strategy</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Kihyung Joo and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>20th IEEE International Conference on Machine Learning and Applications (ICMLA), Pasadena, Dec, 2021   </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Current state-of-the-art autonomous driving technology significantly advanced, leveraging reinforcement learning (RL) algorithms, because it is not easy to apply a rule-based driving method that reflects all the various traffic conditions. Indeed, reinforcement learning can produce the possible optimal driving strategy of urban, rural, and motorway roads in various environmental conditions such as speed limits and school zones. However, it is challenging to adjust the parameters of the reward mechanism in RL, because the driving style of each user is very different. And it takes a massive amount of time and resources to conduct RL by reflecting all complex traffic conditions. However, if RL imitates the driving behavior of an expert, RL algorithm can proceed more quickly. Therefore, we propose a novel imitation learning framework, which combines an expert's driving behavior with a continuous behavior of an agent. Further, a deep reinforcement learning approach is used to mimic the expert's driving behavior. Therefore, we propose imitation learning with variational inference and distributional reinforcement learning (IVDR) algorithm. Our results show that IVDR achieves 80\% better learning speed than the learning speed of other approaches and outperforms 12\% higher in average reward. Our work shows great promise of using RL for autonomous driving and real vehicle driving simulation.
+</small> </p>
+                    </tr>
+                    <tr>
+                       
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>EMGNet: Efficient Multi-Scale Feature Generation Adaptive Network</b></a>
                     </tr>
                 </thead>

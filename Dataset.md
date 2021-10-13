@@ -36,8 +36,7 @@ We ranked first in the first round of the anomalous behavior recognition track o
   <p>Images cropped only by humans. There are two classes, normal and falldown. Images are in normal_day, normal_night, falldown_night, and falldown_day folders.</p>
   <p>normal_day: 3200<br>normal_night: 1300<br>falldown_day: 3700<br>falldown_night: 900</p>
   <br>
-<p><b>Dataset Link</b></p>
-  <a href="https://drive.google.com/drive/folders/1JfEMxKb70GSEEUKMBqr62UFOsMbpPK8s?usp=sharing">SKKU AGC Anomaly Detection Dataset</a><br><br>
+
 <hr>
 <p><b>Examples of Detection data</b></p>
 <table>

@@ -12,8 +12,7 @@ permalink: /Dataset/
   <p>In FakeAVCeleb, we propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that contains not only deepfake videos but also respective synthesized lip-synced fake audios. Our FakeAVCeleb is generated using recent most popular deepfake generation methods. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian, and South Asian) to counter the racial bias issue. <p><br>
   
  <p align=center><img border=0  src="/img/teaser.png"></p> 
- <p> Dataset download: https://sites.google.com/view/fakeavcelebdash-lab/home?authuser=0</p>
- <p>GitHub: https://github.com/hasamkhalid/FakeAVCeleb</p>
+
 
 <h1 class="page-title">VFP290K dataset</h1>
   <p>Vision-based Fallen Person (VFP290K) dataset consists of 294,714 frames of fallen persons extracted from 178 videos from 49 backgrounds, composing 131 scenes. We empirically demonstrate the effectiveness of the features through extensive experiments comparing the performance shift based on object detection models. In addition, we evaluate our VFP290K dataset with properly divided datasets by measuring the performance of fallen person detecting systems.
@@ -21,8 +20,7 @@ permalink: /Dataset/
 We ranked first in the first round of the anomalous behavior recognition track of AI Grand Challenge 2020, South Korea, using our VFP290K dataset, which can further extend to other applications, such as intelligent CCTV or monitoring systems, as well. <p><br>
   
  <p align=center><img border=0  src="img/VFP.JPG"></p> 
- <p> Dataset download:https://sites.google.com/view/dash-vfp300k/home?authuser=0</p>
- <p>GitHub: https://github.com/DASH-Lab/VFP290K</p>
+
 
 
 

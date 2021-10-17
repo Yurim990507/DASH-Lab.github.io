@@ -87,7 +87,7 @@ permalink: /Members/
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
-                  <td>Deepfakes</td>
+                  <td>Aversarial Robustness, Representative Learning</td>
                   <td><i>bmle @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>

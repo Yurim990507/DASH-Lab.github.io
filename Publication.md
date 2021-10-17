@@ -14,6 +14,46 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hasam Khalid, Shahroz Tariq, Minha Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='blue'></font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>While the significant advancements have made in the generation of deepfakes using deep learning technologies, its misuse is a well-known issue now. Deepfakes can cause severe security and privacy issues as they can be used to impersonate a person's identity in a video by replacing his/her face with another person's face. Recently, a new problem of generating synthesized human voice of a person is emerging, where AI-based deep learning models can synthesize any person's voice requiring just a few seconds of audio. With the emerging threat of impersonation attacks using deepfake audios and videos, a new generation of deepfake detectors is needed to focus on both video and audio collectively. A large amount of good quality dataset is typically required to capture the real-world scenarios to develop a competent deepfake detector. Existing deepfake datasets either contain deepfake videos or audios, which are racially biased as well. Hence, there is a crucial need for creating a good video as well as audio deepfake dataset, which can be used to detect audio and video deepfake simultaneously. To fill this gap, we propose a novel Audio-Video Deepfake dataset (\SystemName) that contains not only deepfake videos but also respective synthesized lip-synced fake audios. We generate this dataset using the current most popular deepfake generation methods. We selected real YouTube videos of celebrities with four racial backgrounds (Caucasian, Black, East Asian, and South Asian) to develop a more realistic multimodal dataset that addresses racial bias, and further help develop multimodal deepfake detectors. We performed several experiments using state-of-the-art detection methods to evaluate our deepfake dataset and demonstrate the challenges and usefulness of our multimodal Audio-Video deepfake dataset.
+</small> </p>
+                    </tr>
+                    <tr>
+                       
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="fakeceleb_nips2021.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>VFP290K: A Large-Scale Benchmark Dataset for Vision-based Fallen Person Detection</b></a>
                     </tr>
                 </thead>
@@ -159,42 +199,7 @@ permalink: /Publications/
             </table>
         </div>
     </div>
-    <hr>
-    <div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>  Hassam Khalid, Shahroz Tariq and <i><b>Simon S. Woo*</b> </i> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>arXiv </b> </small> </p>
-                    </tr>
-                    <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                                    <font color='blue'></font>
-                                </b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>We propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that not only contains deepfake videos but respective synthesized cloned audios as well. We generated our dataset using recent most popular deepfake generation methods and the videos and audios are perfectly lip-synced with each other. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian and South Asian) to counter the racial bias issue.</small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://arxiv.org/pdf/2108.05080.pdf">paper</a>]</small>
-                        </p>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="FakeAVCelab.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-        </div>
-    </div>
+    
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

@@ -22,7 +22,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hasam Khalid, Shahroz Tariq, TaeSoo Kim, Jong Hwan Ko, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Neural Processing Letters </b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Neural Processing Letters <font color="blue">(SCIE IF=2.9)</font> </b> </small> </p>
                     </tr>
                     <tr>
                     </tr>

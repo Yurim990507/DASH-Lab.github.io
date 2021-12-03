@@ -22,7 +22,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>36th AAAI Conference on Artificial Intelligence, Canada, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Thirty-Sixth AAAI Conference on Artificial Intelligence, Canada, 2022</b> </small> </p>
                     </tr>
                     <tr>
                     </tr>

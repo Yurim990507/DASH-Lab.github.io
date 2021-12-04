@@ -7,8 +7,13 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 <div style="margin-top:2vw;">
-    <h4 style="margin-top:20px"><b>2021</b></h4>
+    
+    <h4 style="margin-top:40px"><b>2020</b></h4>
     <hr>
+    
+    
+    
+    
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -46,6 +51,11 @@ Because of the limited information in low-quality images, detecting low-quality 
             <img src="aaai22_binh.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+
+    <hr>
+
+    <h4 style="margin-top:20px"><b>2021</b></h4>
+
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

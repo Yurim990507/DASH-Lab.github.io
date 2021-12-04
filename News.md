@@ -29,8 +29,9 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-- 1 paper is accepted at AAAI2022. Congrats!
-- 2 papers are accepted at NIPS2021 Benchmark and Dataset Track. Congrats!
+- 1 paper is accepted at AAAI2022. Congrats! <br>
+- 2 papers are accepted at NIPS2021 Benchmark and Dataset Track. Congrats! <br>
+- IITP 2021 인공지능그랜드챌린지 4차 3단계 트랙 1 <u>1위 입상</u></a></b> <br> 
 -2021. 4월 성대신문<a href="http://www.skkuw.com/news/articleView.html?idxno=22706">딥페이크 기술, 실제와 허구의 경계에 서다.</a><br>
 Dec 25th 2020. Congrats! : <b><a href="https://ai.skku.edu/ai/community/news.do?mode=view&articleNo=109849">우사이먼교수 연구실, 이한빈, 강준형 (인공지능석사과정) IITP 2020인공지능그랜드챌린지 4차 2단계 <u>3위 입상</u></a></b> <br> 
 Sept 19th 2020. Congrats to 전현성(인공지능석사과정)/한시호(데사석사과정),  1 paper acceptance at <b>ACCV 2020 (BK IF=1)</b> <br>

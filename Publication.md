@@ -38,9 +38,13 @@ permalink: /Publications/
 Because of the limited information in low-quality images, detecting low-quality deepfake remains an important challenge. In this work, we apply frequency domain learning and optimal transport theory in knowledge distillation (KD) to specifically improve the detection of low-quality compressed deepfake images. We explore transfer learning capability in KD to enable a student network to learn discriminative features from low-quality images effectively. In particular, we propose the Attention-based Deepfake detection Distiller (ADD), which consists of two novel distillations: 1) frequency attention distillation that effectively retrieves the removed high-frequency components in the student network, and 2) multi-view attention distillation that creates multiple attention vectors by slicing the teacher’s and student’s tensors under different views to transfer the teacher tensor’s distribution to the student more efficiently. Our extensive experimental results demonstrate that our approach outperforms state-of-the-art baselines in detecting low-quality compressed deepfake images.
 </small> </p>
                     </tr>
+                
                     <tr>
-                       
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://arxiv.org/abs/2112.03553">paper</a>][<a
+                                    href="https://github.com/Leminhbinh0209/ADD">code</a>] </small> </p>
                     </tr>
+                  
                 </tbody>
             </table>
         </div>
@@ -82,7 +86,6 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
-                       
                     </tr>
                 </tbody>
             </table>
@@ -162,6 +165,10 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://openreview.net/pdf?id=y2AbfIXgBK3">paper</a>][<a
+                                    href="https://sites.google.com/view/dash-vfp300k/">project</a>]</small> </p>
+                       
                        
                     </tr>
                 </tbody>
@@ -242,6 +249,9 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://dl.acm.org/doi/abs/10.1145/3459637.3482337">paper</a>][<a
+                                    href="https://github.com/lee-gwang/EMGNet">code</a>] </small> </p>
                        
                     </tr>
                 </tbody>

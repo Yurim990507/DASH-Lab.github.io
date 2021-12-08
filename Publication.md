@@ -125,6 +125,9 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://arxiv.org/abs/2108.05080">paper</a>][<a
+                                    href="https://github.com/hasam6400/fakevaceleb">code</a>] </small> </p>
                        
                     </tr>
                 </tbody>

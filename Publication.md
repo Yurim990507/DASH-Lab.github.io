@@ -322,7 +322,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://github.com/JunHyungKang/DLPNet">project</a>]</small>
+                                    href="https://github.com/JunHyungKang/DLPNet">code</a>]</small>
                         </p>
                     </tr>
                 </tbody>

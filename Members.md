@@ -390,7 +390,7 @@ permalink: /Members/
                     <td>Naver</td>
                 </tr>
                 <tr>
-                    <td>Shiho Han </td>
+                    <td>Siho Han </td>
                     <td>Time-series Anomaly Detection</td>
                     <td>RTM</td>
                 </tr>

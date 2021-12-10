@@ -128,27 +128,6 @@ permalink: /Members/
               </thead>
               <tbody>             
                 <tr>
-                    <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                  <img src="/img/JunyaupKim.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      <a href = "https://www.linkedin.com/in/junyaup-kim-b801a2174/">&nbsp;&nbsp;&nbsp;&nbsp;Junyaup Kim</a>
-                </div>
-                </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td> Fake Image Detection,  Speech Applications</td>
-                    <td><i></i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                      <img src="/img/SihoHan.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      <a href = "https://www.linkedin.com/in/sihohan" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Siho Han</a>
-                      </div></td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td>Time-series Anomaly Detection</td>       
-                    <td><i></i></td>
-                </tr>
-                <tr>
                   <td align="center">
                   <div style="display:flex;flex-direction:column">
                       <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -404,6 +383,16 @@ permalink: /Members/
                   <td>Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
                   <td></td>
+                </tr>
+                <tr>
+                    <td>Junyaup Kim </td>
+                    <td>Fake Image Detection, Speech Applications</td>
+                    <td>Naver</td>
+                </tr>
+                <tr>
+                    <td>Shiho Han </td>
+                    <td>Time-series Anomaly Detection</td>
+                    <td>RTM</td>
                 </tr>
               </tbody>
             </table>

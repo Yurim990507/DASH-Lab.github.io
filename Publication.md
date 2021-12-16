@@ -423,7 +423,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://www.google.com/search?q=Exploring+the+Asynchronous+of+the+Frequency+Spectra+of+GAN-generated+Facial+Images&oq=Exploring+the+Asynchronous+of+the+Frequency+Spectra+of+GAN-generated+Facial+Images&aqs=chrome..69i57j69i61.257j0j7&sourceid=chrome&ie=UTF-8">paper</a>][<a
+                                    href="https://arxiv.org/abs/2112.08050">paper</a>][<a
                                     href="https://github.com/Leminhbinh0209/Asynchronous-in-Frequency-domain-of-GAN-images">project</a>]</small>
                         </p>
                     </tr>

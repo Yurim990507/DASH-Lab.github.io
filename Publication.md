@@ -41,8 +41,8 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
                 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
-                                    href="https://arxiv.org/abs/2112.03553">paper</a>][<a
-                                    href="https://github.com/Leminhbinh0209/ADD">code</a>] </small> </p>
+                                    href="https://scholar.google.com">paper</a>][<a
+                                    href="https://scholar.google.com">code</a>] </small> </p>
                     </tr>
                   
                 </tbody>
@@ -50,6 +50,7 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
         </div>
     </div>
             
+    <hr>
             
             
     <div style="display: flex;flex-direction: row;justify-content: space-between;">

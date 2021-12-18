@@ -11,6 +11,47 @@ permalink: /Publications/
     <h4 style="margin-top:40px"><b>2022</b></h4>
     <hr>
     
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>PTD: Privacy-Preserving Human Face Processing Framework using Tensor Decomposition</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeongho Kim, Shahroz Tarqi, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>ACM-SAC, Virtual, 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Training data may include personal information such as human faces, which requires anonymization to provide user privacy. However, after anonymization, the performance of the original machine learning (ML) model degrades due to the reduced or missing information. In this work, we introduce a novel privacy-preserving tensor decomposition (PTD) method to anonymize human faces. Further, we evaluate
+real vs. fake human face detection task as a practical use case scenario. Our approach achieves high performance as well as training data efficiency, where the essence of our approach is based on tensor decomposition to ensure face data privacy. In particular, we demonstrate that the core tensor of Tucker decomposition generated from the original face input can effectively represent the underlying characteristics of the original face data; that is, learning only from the core tensors is sufficient for differentiating real human face images from deepfakes. Also, we show that the original human face inputs are anonymized and cannot be recovered from the core tensors under different attacker models from the randomized HOOI algorithm. Through extensive experiments and analysis, we demonstrate that our method can result in high detection performance comparable to those of popular anonymization methods. Therefore, we show that our work strikes the balance between privacy and performance through the novel use of tensor decomposition.
+</small> </p>
+                    </tr>
+                
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://arxiv.org/abs/2112.03553">paper</a>][<a
+                                    href="https://github.com/Leminhbinh0209/ADD">code</a>] </small> </p>
+                    </tr>
+                  
+                </tbody>
+            </table>
+        </div>
+
+            
+            
+            
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

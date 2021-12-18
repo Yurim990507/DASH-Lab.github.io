@@ -48,7 +48,7 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
                 </tbody>
             </table>
         </div>
-
+    </div>
             
             
             

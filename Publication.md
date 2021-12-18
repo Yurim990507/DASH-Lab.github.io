@@ -12,7 +12,7 @@ permalink: /Publications/
     <hr>
     
     
-            <div style="display: flex;flex-direction: row;justify-content: space-between;">
+       <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -22,7 +22,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeong-Han Yun, Jonguk Kim, Won-Seok Hwang, Young Geun Kim, <b>Simon S. Woo</b> and Byung-Gil Min</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeong-Han Yun, Jonguk Kim, Won-Seok Hwang, Young Geun Kim, <b><i>Simon S. Woo</i></b> and Byung-Gil Min </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>ACM-SAC, Virtual, 2022</b> </small> </p>
@@ -38,20 +38,19 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>To be filled...
 </small> </p>
                     </tr>
-                
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://scholar.google.com">paper</a>][<a
                                     href="https://scholar.google.com">code</a>] </small> </p>
                     </tr>
-                  
                 </tbody>
             </table>
+           </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    </div>    
+    
     <hr>
     
     
@@ -92,11 +91,12 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
                   
                 </tbody>
             </table>
+            </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img src="tensor.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    </div>    
+     
     <hr>
             
             

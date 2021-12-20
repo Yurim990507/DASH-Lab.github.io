@@ -83,7 +83,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          <a href="https://www.linkedin.com/in/le-minh-binh-20122012/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
+                          <a href="https://leminhbinh0209.github.io/profile/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
                       </div>
                      </td>
                   <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>

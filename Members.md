@@ -244,6 +244,11 @@ permalink: /Members/
               </thead>
               <tbody>
                   <tr>
+                  <td>Chingis Oinar</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Representation learning</td>       
+                </tr>
+                  <tr>
                   <td>Donghoon Cha</td>
                   <td>Computer Science & Engineering</td>
                   <td>Deepfakes</td>       

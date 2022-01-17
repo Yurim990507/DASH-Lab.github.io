@@ -40,7 +40,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://scholar.google.com">paper</a>][<a
-                                    href="https://scholar.google.com">code</a>] </small> </p>
+                                    href="https://github.com/">code</a>] </small> </p>
                     </tr>
                   
                 </tbody>
@@ -83,7 +83,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://scholar.google.com">paper</a>][<a
-                                    href="https://scholar.google.com">code</a>] </small> </p>
+                                    href="https://github.com/">code</a>] </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -127,7 +127,7 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://scholar.google.com">paper</a>][<a
-                                    href="https://scholar.google.com">code</a>] </small> </p>
+                                    href="https://github.com/">code</a>] </small> </p>
                     </tr>
                   
                 </tbody>

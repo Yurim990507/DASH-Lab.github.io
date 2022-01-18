@@ -22,7 +22,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sangyup Lee, Jeaju An, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sangyup Lee, Jaeju An, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 31th Web Conference (WWW), France, April 2022</b> </small> </p>

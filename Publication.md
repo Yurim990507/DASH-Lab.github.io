@@ -279,7 +279,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeaju An, Jeongho Kim, Hanbeen Lee, Jinbeoom Kim, Junhyung Kang, Minha Kim, Saebyeol Shin, Minha Kim, Donghe Hong and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jaeeju An, Jeongho Kim, Hanbeen Lee, Jinbeoom Kim, Junhyung Kang, Minha Kim, Saebyeol Shin, Minha Kim, Donghe Hong and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track  </b> </small> </p>

@@ -9,9 +9,7 @@ permalink: /Publications/
 <div style="margin-top:2vw;">
     
     <h4 style="margin-top:40px"><b>2022</b></h4>
-    <hr>
-    
-    
+    <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -50,6 +48,7 @@ permalink: /Publications/
              <img src="www22_jaeju.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
+
      
     <hr>
     
@@ -186,7 +185,45 @@ Because of the limited information in low-quality images, detecting low-quality 
     <hr>
 
     <h4 style="margin-top:20px"><b>2021</b></h4>
+    <hr>    
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+    <div style="margin-left: 25px;margin-right: 10px;">
+        <table>
+            <thead>
+                <tr>
+                    <a><b>Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors</b></a>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hasam Khalid, Minha Kim, Shahroz Tariq, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                </tr>
+                <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Proceedings of the 1st Workshop on Synthetic Multimedia - Audiovisual Deepfake Generation and Detection</b> </small> </p>
+                </tr>
+                <tr>
+                <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                           <font color='blue'>BK Computer Science IF=4 </font>
+                            </b> </small> </p>
+                </tr>
+                <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Significant advancements made in the generation of deepfakes have caused security and privacy issues. Attackers can easily impersonate a person's identity in an image by replacing his face with the target person's face. Moreover, a new domain of cloning human voices using deep-learning technologies is also emerging. Now, an attacker can generate realistic cloned voices of humans using only a few seconds of audio of the target person. With the emerging threat of potential harm deepfakes can cause, researchers have proposed deepfake detection methods. However, they only focus on detecting a single modality, i.e., either video or audio. On the other hand, to develop a good deepfake detector that can cope with the recent advancements in deepfake generation, we need to have a detector that can detect deepfakes of multiple modalities, i.e., videos and audios. To build such a detector, we need a dataset that contains video and respective audio deepfakes. We were able to find a most recent deepfake dataset, Audio-Video Multimodal Deepfake Detection Dataset (FakeAVCeleb), that contains not only deepfake videos but synthesized fake audios as well. We used this multimodal deepfake dataset and performed detailed baseline experiments using state-of-the-art unimodal, ensemble-based, and multimodal detection methods to evaluate it. We conclude through detailed experimentation that unimodals, addressing only a single modality, video or audio, do not perform well compared to ensemble-based methods. Whereas purely multimodal-based baselines provide the worst performance.
+</small> </p>
+                </tr>
 
+                <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                href="https://dl.acm.org/doi/10.1145/3476099.3484315">paper</a>][<a
+                                href="https://github.com/">code</a>] </small> </p>
+                </tr>
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+         <img src="ADGD21_hasam.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+     </div>
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

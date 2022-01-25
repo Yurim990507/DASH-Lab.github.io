@@ -20,7 +20,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sharhoz Tariq, <i><b>Simon S. Woo*</b>, and Sowon Jeon </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Shahroz Tariq, Sowon Jeon, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 31st Web Conference (WWW), France, April 2022</b> </small> </p>

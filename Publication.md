@@ -15,6 +15,46 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sharhoz Tariq, <i><b>Simon S. Woo*</b>, and Sowon Jeon </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 31st Web Conference (WWW), France, April 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Recent advancements in web-based multimedia technologies, such as face recognition web services powered by deep learning, have been significant. However, such technologies face persistent threats, as virtually anyone with access to deepfakes can quickly launch impersonation attacks, which pose a serious threat to authentication services. Despite its gravity, deepfake abuse involving commercial web services have not been investigated. Thus, we examine the robustness of black-box commercial face recognition web APIs (Microsoft, Amazon, Naver, and Face++) and open-source tools (VGGFace and ArcFace) against Deepfake Impersonation (DI) attacks. We demonstrate the vulnerability of face recognition technologies to DI attacks, achieving respective success rates of 78.0% for targeted (TA) attacks; we also propose mitigation strategies, lowering respective attack success rates to as low as 1.26% for TA attacks with adversarial training.
+</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://scholar.google.com">paper</a>][<a
+                                    href="https://anonymous.4open.science/r/DI_Attack">code</a>] </small> </p>
+                    </tr>
+                  
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="www22_shah.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+
+     
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>BZNet: Unsupervised Multi-scale Branch Zooming Network for Detecting Low-quality Deepfake Videos</b></a>
                     </tr>
                 </thead>

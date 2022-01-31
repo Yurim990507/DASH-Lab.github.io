@@ -15,6 +15,44 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>PasswordTensor: Analyzing and Explaining Password Strength using Tensor Decomposition</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Youjin Shin and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Elsevier Computers & Security, Jan 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'> SCIE Q1 IF=4.4</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>A textual password is widely used for user authentication for a variety of applications. Passwords that are easy to remember are also easy to be guessed, while complex and long passwords that provide strong security are difficult to remember. Also, there has been limited quantitative research to understand the factors that make passwords strong. In this research, we aim to expand our understanding of passwords through the lenses of data-driven analysis by characterizing a large number of password datasets with four different hypotheses. In particular, we use the tensor decomposition method that is effective in analyzing unlabeled high dimensional data. We first obtain 362,805 passwords from four different leaked password datasets. Next, we generate syntactic and semantic features for each password, then classify it into three strength groups using a statistical guessing attack model. Finally, we construct a 3rd-order password tensor and decompose it using the PARAFAC2 algorithm to examine the main characteristics which make passwords strong. Also, we apply an orthogonal constraint to the component matrix to mitigate the uniqueness problem. For the optimal rank and constraint selection, we compare three types of constraints in terms of the computational time, reconstruction ratio, and Corcondia score. With various statistical and tensor decomposition analyses, we find dominant factors that influence on a strong password. In addition, we extend our tensor decomposition-based model for strength retrieval when a new password needs to be evaluated. This strength retrieval model can estimate the strength of the new password input quickly and provide recommendations to strengthen the password. We hope that our model based on data science perspective can validate widely accepted password composition policy and suggestion methods, and further provide insights to designing better password suggestion systems and password composition policies.
+</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://scholar.google.com">paper</a>][<a
+                                    href="https://github.com/">code</a>] </small> </p>
+                    </tr>
+                  
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="computer_security_2022_yj.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>A Survey of Deep Learning-based Object Detection Methods and Datasets for Overhead Imagery</b></a>
                     </tr>
                 </thead>

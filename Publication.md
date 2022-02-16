@@ -1050,7 +1050,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                 <thead>
                     <tr>
                         <a><b>Detecting Handcrafted Facial Image Manipulations and GAN-Generated Facial Images using
-                                ShallowNet </b></a>
+                                Shallow-FakeFaceNet </b></a>
                     </tr>
                 </thead>
                 <tbody>

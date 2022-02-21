@@ -94,6 +94,17 @@ permalink: /Members/
                   <td>Computer Vision and Deepfakes </td>
                   <td><i>mawjdgus @ g dot skku dot com</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp; Eun-Ju Park
+                      </div>
+                  </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Deepfakes </td>
+                  <td><i>cindi01@g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

@@ -60,16 +60,7 @@ permalink: /Members/
                   <td> Skip-dense layer deep learning model</td>
                   <td><i>Kykim @ sunykorea dot ac dot kr</i></td>
                 </tr>
-                  <tr>
-                   <td align="center">
-                       <div style="display:flex;flex-direction:column">
-                           <img src="/img/HassamKhalid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                           &nbsp;&nbsp;&nbsp;&nbsp;Hasam Khalid
-                   </div></td>
-                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
-                  <td> Deepfakes and Speech Applications</td>
-                  <td><i>hasam dot khalid @ g dot skku dot edu</i></td>
-                </tr>
+     
                   <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -117,27 +108,7 @@ permalink: /Members/
                     <th align="center">Contact</th>
                 </tr>
               </thead>
-              <tbody>             
-                <tr>
-                  <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                      <img src="/img/SowonJeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sowon Jeon
-                      </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Blockchain, Privacy, AI Security </td>       
-                    <td><i></i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                  <div style="display:flex;flex-direction:column">
-                      <img src="/img/JoonHyungKang.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                      &nbsp;&nbsp;&nbsp;&nbsp;JoonHyung Kang
-                      </div></td>
-                  <td>AI (인공지능학과)</td>
-                  <td>AI based Satellite Ops</td>       
-                     <td><i></i></td>
-                </tr> 
+              <tbody>     
                 <tr>
                   <td align="center">
                     <div style="display:flex;flex-direction:column">
@@ -170,18 +141,7 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Computer Vision and Deepfakes</td>       
                       <td><i>rlawkdghek @ g dot skku dot edu</i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <img src="/img/SunnyYun.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;Sunny Yun (윤선이)
-                      </div>
-                     </td>
-                  <td>Applied AI</td>
-                  <td>Anomaly Detection</td>       
-                      <td><i>capt dot yun dot a350 @ gmail dot com</i></td>
-                </tr>
+                </tr>              
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -374,6 +334,31 @@ permalink: /Members/
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> </td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection</td>
                   <td>Data61, CSIRO</td>
+                </tr>
+                <tr>
+                      <td>Minha Kim</td>
+                      <td>Deefakes and Meta Learning</td>
+                      <td></td>
+                </tr>
+                <tr>
+                      <td>Sowon Jeon</td>
+                      <td>Privacy, AI Security</td>
+                      <td></td>
+                </tr>
+                <tr>
+                      <td>JoonHyung Kang</td>
+                      <td>AI based Satellite Ops</td>
+                      <td></td>
+                </tr>
+                <tr>
+                      <td>Hasam Khalid</td>
+                      <td>Deepfakes and Speech Applications</td>
+                      <td></td>
+                </tr>
+                <tr>
+                      <td>Sunny Yun (윤선이)</td>
+                      <td>Anomaly Detection</td>
+                      <td></td>
                 </tr>
                 <tr>
                   <td>Youngoh Bang </td>

@@ -268,12 +268,7 @@ permalink: /Members/
                   <td>김유현</td>
                   <td>Computer Science & Engineering</td>
                   <td>Security and Deepfakes</td>       
-                </tr>
-                 <tr>
-                  <td>김민하</td>
-                  <td>Computer Science & Engineering 복전</td>
-                  <td>Satellite Object Detection</td>       
-                </tr>
+                </tr>           
                 <tr>
                   <td>문학준</td>
                   <td>Computer Science & Engineering</td>

@@ -222,13 +222,13 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/taejun_kim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
                       </div>
                   </td>
-                  <td></td>
-                  <td>Deepfakes</td>
-                  <td><i></i></td>
+                  <td>Computer Science & Engineering</td>
+                  <td> Computer Vision</td>
+                  <td><i>taemo @ g dot skku dot edu</i></td>
                 </tr>
               </tbody>
             </table>
@@ -348,7 +348,7 @@ permalink: /Members/
                 <tr>
                   <td>박성호</td>
                   <td>Applied Data Science (데이터사이언스)</td>
-                  <td> 롯대 Food </td>
+                  <td> 롯데 Food </td>
                   <td>Topic : 머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
                  </td>
                 </tr>

@@ -196,7 +196,40 @@ permalink: /Members/
                   <td>Convergence Security in Computer Science & Engineering (소프트웨어) </td>
                   <td>Federated Learning and Image Classification</td>
                   <td><i>anjaeju @ g dot skku dot edu</i></td>
-                </tr>                              
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Jinyong Park
+                      </div>
+                  </td>
+                  <td>Molecular Biotechnology </td>
+                  <td>Super Resolution, Multivariate Time-Series Anomaly Detection</td>
+                  <td><i>jinpark1049 @ g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Donggeun Ko
+                      </div>
+                  </td>
+                  <td></td>
+                  <td>Deepfakes</td>
+                  <td><i></i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
+                      </div>
+                  </td>
+                  <td></td>
+                  <td>Deepfakes</td>
+                  <td><i></i></td>
+                </tr>
               </tbody>
             </table>
           </div>

@@ -371,8 +371,8 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Shahroz Tariq</a> </td>
-                  <td>Computer Science & Engineering</td>
+                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> </td>
+                  <td>Time-series Anomaly Detection, Deepfake Generation & Detection</td>
                   <td>Data61, CSIRO</td>
                 </tr>
                 <tr>

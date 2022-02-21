@@ -37,16 +37,7 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <img  src="/img/ShahrozTariq.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          <a href = "https://sites.google.com/view/shahroztariq" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Shahroz Tariq</a>
-                       </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Time-series Anomaly Detection, Deepfake Generation & Detection, Super Resolution, and Neural Style Transfer </td>
-                    <td><i>shahroz @ g dot skku dot edu</i></td>
-                </tr>
+                
                   <tr>
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
@@ -379,10 +370,10 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
-                 <tr>
-                  <td>박수진 </td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td>Kakao</td>
+                <tr>
+                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Shahroz Tariq</a> </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Data61, CSIRO</td>
                 </tr>
                 <tr>
                   <td>Youngoh Bang </td>
@@ -398,6 +389,11 @@ permalink: /Members/
                     <td>Siho Han </td>
                     <td>Time-series Anomaly Detection</td>
                     <td>RTM</td>
+                </tr>
+                 <tr>
+                  <td>박수진 </td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Kakao</td>
                 </tr>
               </tbody>
             </table>

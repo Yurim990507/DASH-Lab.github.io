@@ -211,13 +211,13 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/donggeun_sean.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Donggeun Ko
                       </div>
                   </td>
-                  <td></td>
-                  <td>Deepfakes</td>
-                  <td><i></i></td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision, Applied AI in Biomedical Field, Model Compression</td>
+                  <td><i>seanko @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">

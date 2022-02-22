@@ -215,7 +215,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;Donggeun Ko
                       </div>
                   </td>
-                  <td>Computer Science & Engineering</td>
+                  <td>Applied Artificial Intelligence</td>
                   <td>Computer Vision, Applied AI in Biomedical Field, Model Compression</td>
                   <td><i>seanko @ g dot skku dot edu</i></td>
                 </tr>

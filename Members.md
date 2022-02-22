@@ -211,7 +211,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/donggeun_sean.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/donggeunsean.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Donggeun Ko
                       </div>
                   </td>

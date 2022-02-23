@@ -1291,8 +1291,6 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
     <hr>
 
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
-
-
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -1483,6 +1481,43 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
 
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>ZoomNet: Detecting Low-Quality Deepfakes In The Wild by Zooming In</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <i> Sangyup Lee, <b>Simon S. Woo</b>, Jinhwan Kim, Okyeop Jeon </i> </small> </p>
+                    </tr>
+
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Proceedings of the Korean Information Science Society Conference 2020 </b> </small> </p>
+                    </tr>
+                 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Deepfakes have become a critical social problem, and detecting them is of utmost importance. Detecting high-quality deepfake videos from widely released datasets is more straightforward to detect than low-quality ones. Most of the prior research achieve above 90% accuracy for detecting the high-quality deepfake videos from the open dataset. However, in real life, many deepfake videos that are leaked through social networks such as YouTube and instant messaging applications are highly compressed. As a result, the distributed video's resolution becomes extremely lower, making the state-of-the-art detection methods harder. In this work, we propose ZoomNet, a practical framework to detect low-quality deepfakes with high accuracy. We build ZoomNet to have the ability to zoom into low-quality images effectively and can learn to distinguish deepfakes from real videos.
+                            </small> </p>
+                    </tr>
+
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://scholar.google.com/">paper</a>][<a
+                                    href="https://github.com">code</a>] </small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="zoomnet_2020.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
 
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

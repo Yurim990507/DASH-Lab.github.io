@@ -1495,7 +1495,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
 
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Proceedings of the Korean Information Science Society Conference 2020 </b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b> Proceedings of the Korean Information Science Society Conference 2020 (한국법과학회 2020 추계학술대회) </b> </small> </p>
                     </tr>
                  
                     <tr>

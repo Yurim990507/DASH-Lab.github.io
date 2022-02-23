@@ -7,7 +7,7 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 <div style="margin-top:2vw;">
-    <h4 style="margin-left: 25px;margin-right: 10px;"><p>Since 2018, AAAI:1, KDD:1,  </p></h4> 
+    <h4 style="margin-top:40px"><p>Since 2018, AAAI:1, KDD:1,  </p></h4> 
     <h4 style="margin-top:40px"><b>2022</b></h4>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">

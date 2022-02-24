@@ -7,7 +7,7 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 <div style="margin-top:2vw;">
-    <p style="font-family: times, serif; font-size:11pt; font-style:italic">
+    <p style="font-family: times, serif; font-size:18pt; font-style:italic">
         <center>              
             <sup>Since 2018:</sup>        
             <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social" height="25">

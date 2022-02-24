@@ -9,7 +9,7 @@ permalink: /Publications/
 <div style="margin-top:2vw;">
     <p>
         <center>
-        <span style="top: -0.5em;>Since 2018:</span>
+             <sup>Since 2018:</sup>
             <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social" height="25">
             <img alt="CIKM" src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social" height="25">
             <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2-brightgreen?style=social" height="25">

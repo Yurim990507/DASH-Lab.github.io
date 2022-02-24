@@ -7,7 +7,7 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 
 <div style="margin-top:2vw;">
-    <p>Since 2018, WWW:6, CIKM:4, NeuraIPS:2, AAAI:1, KDD:1, ICML:1, ACMMM:1, CHI:1, ACSAC:1, RAID:1, SCIE:13</p> 
+    <p><center>Since 2018, WWW:6, CIKM:4, NeuraIPS:2, AAAI:1, KDD:1, ICML:1, ACMMM:1, CHI:1, ACSAC:1, RAID:1, SCIE:13</center></p> 
     <h4 style="margin-top:40px"><b>2022</b></h4>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">

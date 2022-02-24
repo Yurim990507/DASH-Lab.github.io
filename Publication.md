@@ -10,17 +10,17 @@ permalink: /Publications/
     <p style="font-family: times, serif; font-size:28pt; font-style:italic">
         <center>              
             <sup>Since 2018:</sup>        
-            <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social" height="25">&nbsp;
-            <img alt="CIKM" src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social" height="25">&nbsp;
-            <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2-brightgreen?style=social" height="25">&nbsp;
-            <img alt="AAAI" src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="KDD" src="https://img.shields.io/badge/KDD-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="ICML" src="https://img.shields.io/badge/ICML-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="ACMMM" src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="CHI" src="https://img.shields.io/badge/CHI-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="ACSAC" src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="RAID" src="https://img.shields.io/badge/RAID-1-brightgreen?style=social" height="25">&nbsp;
-            <img alt="SCIE" src="https://img.shields.io/badge/SCIE-13-brightgreen?style=social" height="25">
+            <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social&color=blue" height="20">&nbsp;
+            <img alt="CIKM" src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social" height="20">&nbsp;
+            <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2-brightgreen?style=social" height="20">&nbsp;
+            <img alt="AAAI" src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="KDD" src="https://img.shields.io/badge/KDD-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="ICML" src="https://img.shields.io/badge/ICML-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="ACMMM" src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="CHI" src="https://img.shields.io/badge/CHI-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="ACSAC" src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="RAID" src="https://img.shields.io/badge/RAID-1-brightgreen?style=social" height="20">&nbsp;
+            <img alt="SCIE" src="https://img.shields.io/badge/SCIE-13-brightgreen?style=social" height="20">
         </center>
     </p>
 <!--     <p><center>Since 2018, WWW:6, CIKM:4, NeurIPS:2, AAAI:1, KDD:1, ICML:1, ACMMM:1, CHI:1, ACSAC:1, RAID:1, SCIE:13</center></p>  -->

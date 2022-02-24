@@ -8,10 +8,8 @@ permalink: /Publications/
 
 <div style="margin-top:2vw;">
     <p>
-        <center>  
-            
-            <p style="font-family: times, serif; font-size:11pt; font-style:italic"><sup>Since 2018:</sup></p>
-             
+        <center>              
+            <p style="font-family: times, serif; font-size:11pt; font-style:italic"><sup>Since 2018:</sup></p>             
             <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social" height="25">
             <img alt="CIKM" src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social" height="25">
             <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2-brightgreen?style=social" height="25">

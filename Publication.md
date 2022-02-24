@@ -10,7 +10,7 @@ permalink: /Publications/
     <p style="font-family: times, serif; font-size:28pt; font-style:italic">
         <center>              
             <sup>Since 2018:</sup>        
-            <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social&color=blue" height="20">&nbsp;
+            <img alt="WWW" src="https://img.shields.io/badge/WWW-6-brightgreen?style=social" height="20">&nbsp;
             <img alt="CIKM" src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social" height="20">&nbsp;
             <img alt="NeurIPS" src="https://img.shields.io/badge/NeurIPS-2-brightgreen?style=social" height="20">&nbsp;
             <img alt="AAAI" src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social" height="20">&nbsp;

@@ -204,7 +204,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;Jinyong Park
                       </div>
                   </td>
-                  <td>Molecular Biotechnology </td>
+                  <td>Applied Artificial Intelligence</td>
                   <td>Super Resolution, Multivariate Time-Series Anomaly Detection</td>
                   <td><i>jinpark1049 @ g dot skku dot edu</i></td>
                 </tr>

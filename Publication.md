@@ -30,6 +30,81 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b> Deepfake Detection for Facial Images with Facemasks</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Donggeun Ko, Sangjun Lee, Jinyong Park, Saebyeol Shin, Donghee Hong, and<i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), ACM ASIACCS, 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'> SCIE Q1 IF=4.4</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyper-realistic face image generation and manipulation have givenrise to numerous unethical social issues, e.g., invasion of privacy,threat of security, and malicious political maneuvering, which re-sulted in the development of recent deepfake detection methodswith the rising demands of deepfake forensics. Proposed deepfakedetection methods to date have shown remarkable detection perfor-mance and robustness. However, none of the suggested deepfakedetection methods assessed the performance of deepfakes withthe facemask during the pandemic crisis after the outbreak of theCovid-19. In this paper, we thoroughly evaluate the performance ofstate-of-the-art deepfake detection models on the deepfakes withthe facemask. Also, we propose two approaches to enhance themasked deepfakes detection:face-patchandface-crop. The experi-mental evaluations on both methods are assessed through the base-line deepfake detection models on the various deepfake datasets.Our extensive experiments show that, among the two methods,face-cropperforms better than theface-patch, and could be a trainmethod for deepfake detection models to detect fake faces withfacemask in real world.
+ </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://scholar.google.com">paper</a>][<a
+                                    href="https://github.com/">code</a>] </small> </p>
+                    </tr>
+                  
+                </tbody>
+            </table>
+            </div>
+<!--             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="computer_security_2022_yj.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div> -->
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Zoom-DF: A dataset for Video Conferencing Deepfake</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Geonwoo Park, Eunju Park, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), ACM ASIACCS, 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'> SCIE Q1 IF=4.4</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>With the growth of deep learning studies, the technologies of generating deepfake videos have been advanced. While the manipulated videos are so sophisticated that one cannot differentiate between real and fake, one can create such videos with little effort. These technologies are likely to be abused by people with malicious intent. To address the problem, the algorithms for detecting deepfakes have been researched abundantly. The performance of the detectors, however, depends on the amount and the domain of the training data. In this paper, we introduce a new deepfake dataset generated by an algorithm changing an original image to a sequence of fake images. We evaluate existing models detecting deepfakes on the new dataset and demonstrate that the accuracy of the models degrades. Their performance is recovered when trained with the new dataset. </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
+                                    href="https://scholar.google.com">paper</a>][<a
+                                    href="https://github.com/">code</a>] </small> </p>
+                    </tr>
+                  
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="wdc22_deonwoo.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>PasswordTensor: Analyzing and Explaining Password Strength using Tensor Decomposition</b></a>
                     </tr>
                 </thead>

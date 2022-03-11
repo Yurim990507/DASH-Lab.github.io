@@ -400,7 +400,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify; margin-left: 20px;"> <small> <a
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify; margin-left: 20px;""> <small> <a
                                 href="https://link.springer.com/article/10.1007%2Fs11063-021-10695-4"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                 href="https://github.com/"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
                 </tr>
@@ -441,7 +441,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                 </tr>
 
                 <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify; margin-left: 20px;"> <small> <a
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;""> <small> <a
                                 href="https://dl.acm.org/doi/10.1145/3476099.3484315"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                 href="https://github.com/"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
                 </tr>
@@ -1198,8 +1198,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arxiv.org/abs/2004.08945"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arxiv.org/abs/2004.08945">project page</a>  <a
+                                    href="https://arxiv.org/abs/2004.08945"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
                                     href="https://www.youtube.com/watch?v=tgQ9TQc2jdU">video</a></small> </p>
                     </tr>
                 </tbody>
@@ -1294,8 +1293,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/9336711"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/9336711">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/9336711"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1347,7 +1345,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3412841.3441969"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="https://dl.acm.org/doi/10.1145/3412841.3441969">project page</a>
+                                    href="https://dl.acm.org/doi/10.1145/3412841.3441969"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; 
                                     <a
                                     href="https://www.youtube.com/watch?v=zYsJigpb_jc">talk</a> </small> </p>
                     </tr>
@@ -1541,8 +1539,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716">project page</a> </small>
+                                    href="https://dl.acm.org/doi/abs/10.1145/3340531.3412716"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -1628,8 +1625,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3340531.3412750"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3340531.3412750">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3340531.3412750"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; 
+                                    </small>
                         </p>
                     </tr>
                 </tbody>
@@ -1671,8 +1668,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/9319620"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/9319620">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/9319620"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; </small> </p>
                     </tr>
 
                 </tbody>
@@ -1714,7 +1710,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  </small> </p>
                     </tr>
 
                 </tbody>
@@ -1756,9 +1752,9 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a> &nbsp; <a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
-                                    <a href="https://fb.watch/5v0wiOGnsg/">talk</a> <a
-                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a>
+                                    <a href="https://fb.watch/5v0wiOGnsg/">talk</a>
                                 </small> </p>
                     </tr>
                 </tbody>
@@ -1856,7 +1852,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1903,8 +1899,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arxiv.org/abs/2008.04115"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arxiv.org/abs/2008.04115">project page</a> </small> </p>
+                                    href="https://arxiv.org/abs/2008.04115"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1950,8 +1945,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/9090830"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/9090830">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/9090830"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2138,8 +2133,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
+                                     </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2186,8 +2181,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380062"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380062">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3366423.3380062"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                     </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2235,8 +2230,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arxiv.org/abs/2001.01265"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arxiv.org/abs/2001.01265">project page</a> </small> </p>
+                                    href="https://arxiv.org/abs/2001.01265"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                     </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2282,8 +2277,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3366423.3380222"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                     </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2374,8 +2369,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3341105.3373868"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3341105.3373868">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3341105.3373868"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2421,8 +2416,9 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/8998513"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/8998513">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/8998513"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    
+                                     </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2467,8 +2463,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/abstract/document/9005683"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/abstract/document/9005683">project page</a>
+                                    href="https://ieeexplore.ieee.org/abstract/document/9005683"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    
                             </small> </p>
                     </tr>
                 </tbody>
@@ -2511,8 +2507,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3319535.3363264"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3319535.3363264">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3319535.3363264"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
+                                     </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2561,8 +2557,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3357384.3357803"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3357384.3357803">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3357384.3357803"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
+                                     </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2643,8 +2639,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://milets19.github.io/papers/milets19_poster_6.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://milets19.github.io/papers/milets19_poster_6.pdf">project page</a>
+                                    href="https://milets19.github.io/papers/milets19_poster_6.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    
                             </small> </p>
                     </tr>
                 </tbody>
@@ -2681,8 +2677,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3292500.3330776"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3292500.3330776">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3292500.3330776"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    </small>
                         </p>
                     </tr>
                 </tbody>
@@ -2729,7 +2725,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                     </small> </p>
                     </tr>
 
                 </tbody>
@@ -2776,8 +2773,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3321705.3329838"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3321705.3329838">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3321705.3329838"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  
+                                     </small>
                         </p>
                     </tr>
 
@@ -2826,8 +2823,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/8672772"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/8672772">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/8672772"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                     </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2875,8 +2872,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3308558.3313690"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3308558.3313690">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3308558.3313690"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"></small>
                         </p>
                     </tr>
                 </tbody>
@@ -2924,8 +2920,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3308992"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3308992">project page</a> </small> </p>
+                                    href="https://dl.acm.org/doi/10.1145/3308992"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2971,8 +2966,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3297280.3297410"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3297280.3297410">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3297280.3297410"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3065,7 +3059,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3100,7 +3094,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3136,7 +3130,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3224,8 +3218,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3243734.3278492"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3243734.3278492">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3243734.3278492"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3315,8 +3309,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3267357.3267367"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3267357.3267367">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3267357.3267367"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3408,8 +3401,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3541,8 +3533,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3196494.3201590"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3196494.3201590">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3196494.3201590"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3632,8 +3623,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/3173574.3174144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3754,7 +3744,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3789,7 +3779,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3824,7 +3814,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3858,8 +3848,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3944,8 +3933,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107">project page</a> </small>
+                                    href="https://dl.acm.org/doi/10.1145/2991079.2991107"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small>
                         </p>
                     </tr>
                 </tbody>
@@ -3986,8 +3974,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.aclweb.org/anthology/W16-6632.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.aclweb.org/anthology/W16-6632.pdf">project page</a> </small> </p>
+                                    href="https://www.aclweb.org/anthology/W16-6632.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4074,7 +4061,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>   </p>
                     </tr>
 
                 </tbody>
@@ -4259,8 +4246,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://openreview.net/forum?id=rkWY4b-dWS"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://openreview.net/forum?id=rkWY4b-dWS">project page</a> </small> </p>
+                                    href="https://openreview.net/forum?id=rkWY4b-dWS"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4387,8 +4373,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/6134144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/6134144">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/6134144"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4435,8 +4420,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2260"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2260">project page</a> </small> </p>
+                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2260"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4477,8 +4461,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2360"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2360">project page</a> </small> </p>
+                                    href="https://arc.aiaa.org/doi/10.2514/6.2010-2360"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4572,8 +4555,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/5073526"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/5073526">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/5073526"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4619,8 +4601,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2008-3462"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://arc.aiaa.org/doi/10.2514/6.2008-3462">project page</a> </small> </p>
+                                    href="https://arc.aiaa.org/doi/10.2514/6.2008-3462"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4662,8 +4643,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/4558589"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/4558589">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/4558589"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4703,8 +4683,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://ieeexplore.ieee.org/document/4526447"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://ieeexplore.ieee.org/document/4526447">project page</a> </small> </p>
+                                    href="https://ieeexplore.ieee.org/document/4526447"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4747,7 +4726,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="">project page</a> </small> </p>
+                                    href=""> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>

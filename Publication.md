@@ -1756,9 +1756,9 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a> &nbsp; <a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
-                                    <a href="https://fb.watch/5v0wiOGnsg/">talk</a>
+                                    <a href="https://fb.watch/5v0wiOGnsg/">talk</a> <a
+                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a>
                                 </small> </p>
                     </tr>
                 </tbody>

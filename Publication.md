@@ -400,7 +400,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 </small> </p>
                     </tr>
                     <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify; margin-left: 20px;"> <small> <a
                                 href="https://link.springer.com/article/10.1007%2Fs11063-021-10695-4"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                 href="https://github.com/"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
                 </tr>
@@ -441,7 +441,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                 </tr>
 
                 <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify; margin-left: 20px;"> <small> <a
                                 href="https://dl.acm.org/doi/10.1145/3476099.3484315"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                 href="https://github.com/"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
                 </tr>

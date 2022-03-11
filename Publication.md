@@ -1535,8 +1535,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://scholar.google.com/"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://github.com"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small>
+                                    href="https://scholar.google.com/"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small>
                         </p>
                     </tr>
                 </tbody>

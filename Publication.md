@@ -102,7 +102,10 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>A textual password is widely used for user authentication for a variety of applications. Passwords that are easy to remember are also easy to be guessed, while complex and long passwords that provide strong security are difficult to remember. Also, there has been limited quantitative research to understand the factors that make passwords strong. In this research, we aim to expand our understanding of passwords through the lenses of data-driven analysis by characterizing a large number of password datasets with four different hypotheses. In particular, we use the tensor decomposition method that is effective in analyzing unlabeled high dimensional data. We first obtain 362,805 passwords from four different leaked password datasets. Next, we generate syntactic and semantic features for each password, then classify it into three strength groups using a statistical guessing attack model. Finally, we construct a 3rd-order password tensor and decompose it using the PARAFAC2 algorithm to examine the main characteristics which make passwords strong. </small> </p>
                     </tr>                
-                  
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="https://www.sciencedirect.com/science/article/pii/S0167404822000335"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
+                    </tr>
                 </tbody>
             </table>
             </div>
@@ -1708,8 +1711,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a> &nbsp; <a
-                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>
+                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  &nbsp;  <a
+                                    href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a> &nbsp; 
                                     <a href="https://fb.watch/5v0wiOGnsg/">talk</a>
                                 </small> </p>
                     </tr>

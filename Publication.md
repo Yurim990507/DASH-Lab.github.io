@@ -48,7 +48,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> [<a
                                     href="https://scholar.google.com">paper</a>][<a
-                                    href="https://github.com/">code</a>] <img alt="github" src="github.svg" height="20"></small> </p>
+                                    href="https://github.com/">code</a>] <img alt="github" src="github.svg" style="right: 5px; position:relative; top:15px"></small> </p>
                     </tr>
                   
                 </tbody>

@@ -45,7 +45,7 @@ permalink: /Publications/
  </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-left: 20px; margin-top: 0px;margin-bottom: 0px;text-align: justify;">  <img href="https://scholar.google.com/" alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> &nbsp; <img href="https://github.com/" alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </p>
+                        <p style="margin-left: 20px; margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <a href="https://scholar.google.com/"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="https://github.com/"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a>  </p>
                     </tr>           
                 </tbody>
             </table>

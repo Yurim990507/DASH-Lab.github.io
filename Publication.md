@@ -751,8 +751,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.google.com/search?q=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&oq=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&aqs=chrome..69i57j69i58.269j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.google.com/">project</a></small>
+                                    href="https://www.google.com/search?q=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&oq=SmartConDetect%3A+Highly+Accurate+Smart+Contract+CodeVulnerability+Detection+Mechanism+using+BERT&aqs=chrome..69i57j69i58.269j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
                         </p>
                     </tr>
                 </tbody>
@@ -785,7 +784,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://arxiv.org/abs/2112.08050"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://github.com/Leminhbinh0209/Asynchronous-in-Frequency-domain-of-GAN-images">project</a></small>
+                                    href="https://github.com/Leminhbinh0209/Asynchronous-in-Frequency-domain-of-GAN-images"><img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"></a></small>
                         </p>
                     </tr>
                 </tbody>
@@ -880,8 +879,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404821001012"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404821001012">project</a></small>
+                                    href="https://www.sciencedirect.com/science/article/pii/S0167404821001012"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small>
                         </p>
                     </tr>
 

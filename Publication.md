@@ -1490,9 +1490,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://openaccess.thecvf.com/content/ACCV2020/html/Jeon_Compensating_for_the_Lack_of_Extra_Training_Data_by_Learning_ACCV_2020_paper.html"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://openaccess.thecvf.com/content/ACCV2020/supplemental/Jeon_Compensating_for_the_ACCV_2020_supplemental.pdf">supplementary</a> &nbsp; <a
-                                    href="https://github.com/cutz-j/ExRep">project page</a> </small> </p>
+                                    href="https://openaccess.thecvf.com/content/ACCV2020/html/Jeon_Compensating_for_the_Lack_of_Extra_Training_Data_by_Learning_ACCV_2020_paper.html"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> nbsp; <a
+                                    href="https://github.com/cutz-j/ExRep"><img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"></a> </small> </p>
                     </tr>
                 </tbody>
             </table>

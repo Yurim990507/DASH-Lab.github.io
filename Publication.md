@@ -1040,9 +1040,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.google.com/search?q=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&oq=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&aqs=chrome..69i57.216j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.google.com/search?q=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&oq=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&aqs=chrome..69i57.216j0j7&sourceid=chrome&ie=UTF-8">project
-                                    page</a> </small> </p>
+                                    href="https://www.google.com/search?q=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&oq=Revitalizing+Self-Organizing+Map%3A+Anomaly+Detection+using+Forecasting+Error+Patterns&aqs=chrome..69i57.216j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small> </p>
                     </tr>
 
                 </tbody>
@@ -1098,9 +1096,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8">project
-                                    page</a> </small> </p>
+                                    href="https://www.google.com/search?q=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&oq=Towards+a+Generalized+Framework+to+Detect+Deepfakes+using+Weakly+Supervised+Learning&aqs=chrome..69i57.941j0j7&sourceid=chrome&ie=UTF-8"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
 
                 </tbody>
@@ -1150,9 +1146,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S1568494621001794"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S1568494621001794">project
-                                    page</a> </small> </p>
+                                    href="https://www.sciencedirect.com/science/article/pii/S1568494621001794"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
 
                 </tbody>
@@ -1391,9 +1385,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="jy.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.google.com/search?q=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&oq=Image+hashing+algorithm+to+defend+FGSM+attacks+on+Neural+Network&aqs=chrome..69i57.4633j0j7&sourceid=chrome&ie=UTF-8">project
-                                    page</a> </small> </p>
+                                    href="jy.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1436,9 +1428,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="pqc.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.google.com/search?q=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&rlz=1C1YKST_koKR876KR876&oq=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+%EA%B8%B0%EB%B0%98+%EA%B2%A9%EC%9E%90+%EB%B0%A9%EC%8B%9D+PQC+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98+%EB%B6%84%EC%84%9D&aqs=chrome.0.69i59j69i60.422j0j7&sourceid=chrome&ie=UTF-8">project
-                                    page</a> </small> </p>
+                                    href="pqc.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1801,9 +1791,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/349556890_Forecasting_Error_Pattern-Based_Anomaly_Detection_in_Multivariate_Time_Series"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/349556890_Forecasting_Error_Pattern-Based_Anomaly_Detection_in_Multivariate_Time_Series">project
-                                    page</a> <a
+                                    href="https://www.researchgate.net/publication/349556890_Forecasting_Error_Pattern-Based_Anomaly_Detection_in_Multivariate_Time_Series"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  <a
                                     href="https://slideslive.com/38932309/forecasting-error-patternbased-anomaly-detection-in-multivariate-time-series?ref=speaker-39040-latest">video</a></small>
                         </p>
                     </tr>
@@ -1991,9 +1979,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach."> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach.">project
-                                    page</a> </small> </p>
+                                    href="https://www.sciencedirect.com/science/article/pii/S0167404820301292#:~:text=In%20this%20work%2C%20we%20propose,system%20for%20a%20CAN%20bus.&text=Our%20detection%20algorithm%20achieves%20accurate,CAN%20datasets%2C%20outperforming%20prior%20approach."> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2033,9 +2019,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf">project
-                                    page</a> <a href="https://fb.watch/5v0wiOGnsg/">talk</a></small> </p>
+                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> <a href="https://fb.watch/5v0wiOGnsg/">talk</a></small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2082,9 +2066,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28">project
-                                    page</a> </small> </p>
+                                    href="https://link.springer.com/chapter/10.1007/978-3-030-55304-3_28"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2318,9 +2300,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-54455-3_1"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-54455-3_1">project
-                                    page</a> </small> </p>
+                                    href="https://link.springer.com/chapter/10.1007/978-3-030-54455-3_1"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -2601,9 +2581,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/338187408_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_a_Highly_Unbalanced_Dataset"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/338187408_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_a_Highly_Unbalanced_Dataset">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/338187408_FakeTalkerDetect_Effective_and_Practical_Realistic_Neural_Talking_Head_Detection_with_a_Highly_Unbalanced_Dataset"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3015,9 +2993,8 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818301238"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818301238">project
-                                    page</a> </small> </p>
+                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818301238"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> 
+                                    </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3173,9 +3150,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818311246#:~:text=Honey%20encryption%20(HE)%20is%20a,may%20confuse%20even%20legitimate%20users."> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818311246#:~:text=Honey%20encryption%20(HE)%20is%20a,may%20confuse%20even%20legitimate%20users.">project
-                                    page</a> </small> </p>
+                                    href="https://www.sciencedirect.com/science/article/pii/S0167404818311246#:~:text=Honey%20encryption%20(HE)%20is%20a,may%20confuse%20even%20legitimate%20users."> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3262,9 +3237,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-12085-6_4"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-030-12085-6_4">project
-                                    page</a> </small> </p>
+                                    href="https://link.springer.com/chapter/10.1007/978-3-030-12085-6_4"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3353,9 +3326,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/327469039_GuidedPass_Helping_Users_to_Create_Strong_and_Memorable_Passwords_21st_International_Symposium_RAID_2018_Heraklion_Crete_Greece_September_10-12_2018_Proceedings"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3449,9 +3420,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25">project
-                                    page</a> </small> </p>
+                                    href="https://link.springer.com/chapter/10.1007/978-3-319-99828-2_25"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3486,9 +3455,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/339840424_Generating_Adversarial_Images_using_Genetic_Algorithm"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/339840424_Generating_Adversarial_Images_using_Genetic_Algorithm">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/339840424_Generating_Adversarial_Images_using_Genetic_Algorithm"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3573,9 +3540,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="http://longtermtracking.offis.de/wp-content/uploads/2018/03/Woo.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="http://longtermtracking.offis.de/wp-content/uploads/2018/03/Woo.pdf">project
-                                    page</a> </small> </p>
+                                    href="http://longtermtracking.offis.de/wp-content/uploads/2018/03/Woo.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3661,9 +3626,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399563"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399563">project
-                                    page</a> </small> </p>
+                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399563"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3702,9 +3665,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399565"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399565">project
-                                    page</a> </small> </p>
+                                    href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07399565"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -3891,9 +3852,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.semanticscholar.org/paper/Improving-Recall-and-Security-of-Passphrases-Use-of-Woo-Mirkovic/308e48f46bdcde59f1224fe178d36bd242a542cd"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.semanticscholar.org/paper/Improving-Recall-and-Security-of-Passphrases-Use-of-Woo-Mirkovic/308e48f46bdcde59f1224fe178d36bd242a542cd">project
-                                    page</a> </small> </p>
+                                    href="https://www.semanticscholar.org/paper/Improving-Recall-and-Security-of-Passphrases-Use-of-Woo-Mirkovic/308e48f46bdcde59f1224fe178d36bd242a542cd"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4018,9 +3977,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30">project
-                                    page</a> </small> </p>
+                                    href="https://link.springer.com/chapter/10.1007/978-3-319-56549-1_30"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4101,9 +4058,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic">project
-                                    page</a> </small> </p>
+                                    href="https://www.usenix.org/conference/3gse15/summit-program/presentation/mirkovic"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
 
                 </tbody>
@@ -4155,9 +4110,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371">project
-                                    page</a> </small> </p>
+                                    href="https://www.sciencedirect.com/science/article/abs/pii/S1389128614000371"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4201,9 +4154,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">project
-                                    page</a> </small> </p>
+                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4283,9 +4234,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/261961424_3DOC_3D_object_CAPTCHA"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4319,9 +4268,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf">project
-                                    page</a> </small> </p>
+                                    href="https://cups.cs.cmu.edu/soups/2014/workshops/papers/lep_woo_12.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4508,9 +4455,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/268556870_Space_Communications_and_Navigation_SCaN_Network_Simulation_Tool_Development_and_Its_Use_Cases"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -4767,9 +4712,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
-                                    href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel">project
-                                    page</a> </small> </p>
+                                    href="https://www.researchgate.net/publication/255624199_CFDP_Performance_over_Weather-Dependent_Ka-band_Channel"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  </small> </p>
                     </tr>
                 </tbody>
             </table>

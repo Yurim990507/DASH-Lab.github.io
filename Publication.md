@@ -1186,7 +1186,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://arxiv.org/abs/2004.08945"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
-                                    href="https://www.youtube.com/watch?v=tgQ9TQc2jdU">video</a></small> </p>
+                                    href="https://www.youtube.com/watch?v=tgQ9TQc2jdU"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a></small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1334,7 +1334,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://dl.acm.org/doi/10.1145/3412841.3441969"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; 
                                     <a
-                                    href="https://www.youtube.com/watch?v=zYsJigpb_jc">talk</a> </small> </p>
+                                    href="https://www.youtube.com/watch?v=zYsJigpb_jc"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a> </small> </p>
                     </tr>
                 </tbody>
             </table>
@@ -1736,7 +1736,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  &nbsp;  <a
                                     href="http://ieee-biometrics.org/images/pdf/Vol35-Newsletter.pdf">letter</a> &nbsp; 
-                                    <a href="https://fb.watch/5v0wiOGnsg/">talk</a>
+                                    <a href="https://fb.watch/5v0wiOGnsg/"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a>
                                 </small> </p>
                     </tr>
                 </tbody>
@@ -1786,7 +1786,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://www.researchgate.net/publication/349556890_Forecasting_Error_Pattern-Based_Anomaly_Detection_in_Multivariate_Time_Series"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a>  <a
-                                    href="https://slideslive.com/38932309/forecasting-error-patternbased-anomaly-detection-in-multivariate-time-series?ref=speaker-39040-latest">video</a></small>
+                                    href="https://slideslive.com/38932309/forecasting-error-patternbased-anomaly-detection-in-multivariate-time-series?ref=speaker-39040-latest"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a></small>
                         </p>
                     </tr>
                 </tbody>
@@ -2014,7 +2014,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> <a href="https://fb.watch/5v0wiOGnsg/">talk</a></small> </p>
+                                    href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> <a href="https://fb.watch/5v0wiOGnsg/"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a></small> </p>
                     </tr>
                 </tbody>
             </table>

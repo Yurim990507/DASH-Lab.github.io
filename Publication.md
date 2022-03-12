@@ -1230,7 +1230,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://dl.acm.org/doi/abs/10.1145/3442381.3449809"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="https://arxiv.org/abs/2105.00187">arXiv</a> <a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws">video</a></small> </p>
+                                    href="https://dl.acm.org/doi/abs/10.1145/3442381.3449809"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a href="https://www.youtube.com/watch?v=RV_jA5lS7Ws"><img  alt="video" src="talk.svg" style="right: 15px; position:relative; top:5px; width: 20px; height: 18px;"></a></small> </p>
                     </tr>
                 </tbody>
             </table>

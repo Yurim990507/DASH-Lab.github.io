@@ -393,27 +393,27 @@ permalink: /Members/
                 <tr>
                       <td>Sowon Jeon</td>
                       <td>Privacy, AI Security</td>
-                      <td></td>
+                      <td>KPMG Korea</td>
                 </tr>
                 <tr>
                       <td>JoonHyung Kang</td>
                       <td>AI based Satellite Ops</td>
-                      <td></td>
+                      <td>SK C&C</td>
                 </tr>
                 <tr>
                       <td>Hasam Khalid</td>
                       <td>Deepfakes and Speech Applications</td>
-                      <td></td>
+                      <td>Veev.inc</td>
                 </tr>
                 <tr>
                       <td>Sunny Yun (윤선이)</td>
                       <td>Anomaly Detection</td>
-                      <td></td>
+                      <td>Asiana Air</td>
                 </tr>
                 <tr>
                   <td>Youngoh Bang </td>
                   <td>AI (인공지능학과)</td>
-                  <td></td>
+                  <td>TMaxSoft</td>
                 </tr>
                 <tr>
                     <td>Junyaup Kim </td>

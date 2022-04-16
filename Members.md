@@ -200,7 +200,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Kishor Kumar Bhaumik
                       </div>
                   </td>

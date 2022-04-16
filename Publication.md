@@ -24,6 +24,34 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2022</b></h4>
+    
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Negative Adversarial Example Generation Against Naver’s Celebrity Recognition API</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Keeyoung Kim and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Workshop on the security implications of Deepfakes and Cheapfakes (WDC), ACM ASIACCS, 2022</b> </small> </p>
+                    </tr>                 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Deep Neural Networks (DNNs) are very effective in image classification, detection and recognition due to a large number of available data. However, they can be easily fooled by adversarial examples and produce incorrect results, which can cause problems for many applications. In this work, we focus on generating adversarial images and exploring and assessing possible negative impacts caused by these examples. As a case study, we create adversarial images against Naver’s celebrity recognition (NCR) API, as Naver is the leading machine learning APIs service provider in South Korea. We demonstrate that it is extremely easy to fool the online DNN-based APIs using adversarial examples and discuss possibe negative impacts resulting from these adversarial examples.
+ </small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="wdc_kim.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

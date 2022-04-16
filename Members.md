@@ -200,6 +200,17 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Kishor Kumar Bhaumik
+                      </div>
+                  </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Time-Series</td>
+                  <td><i></i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
                         <img src="/img/jinyong_park.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Jinyong Park
                       </div>

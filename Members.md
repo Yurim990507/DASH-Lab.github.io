@@ -201,7 +201,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/kishor_photo.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Kishor Kumar Bhaumik
+                          Kishor Kumar Bhaumik
                       </div>
                   </td>
                   <td>Computer Science & Engineering</td>

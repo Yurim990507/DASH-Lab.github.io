@@ -20,7 +20,8 @@ permalink: /Publications/
             <img alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
             <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;
-            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-13-brightgreen?style=social"     height="20">
+            <img alt="ICPR"     src="https://img.shields.io/badge/ICPR-1-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-14-brightgreen?style=social"     height="20">
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2022</b></h4>

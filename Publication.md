@@ -24,6 +24,34 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2022</b></h4>
+    
+        <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Evading Deepfake Detectors via High-Quality Face Pre-Processing Metohds</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Taejune Kim, JeongHo Kim, Jeonghyeon Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International Conference on Pattern Recognition, Montreal Quebec, 2022</b> </small> </p>
+                    </tr>                 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Today, various multimedia content can be accessed and shared from any location via the Internet. In addition to normal content, there is an extensive amount of manipulated multimedia that can raise various social issues and concerns. Among the various types of manipulated media, deepfakes can be abused in impersonation or spreading fake information. Therefore, numerous studies have been performed to detect deepfakes to alleviate these concerns, and studies such as FaceForensics++ (FF++) and DeepFake Detection Challenge (DFDC) have sparked these studies by providing deepfake datasets. The deepfake datasets were utilized for supervised learning in conjunction with developing sophisticated neural networks and showed a high detection performance. Since powerful neural networks can learn even subtle details about an image, they must be trained on realistic deepfakes created by advanced deepfake generation technologies to improve the robustness of existing detectors. In order to boost the performance of deepfake detection models, we propose an approach to creating more realistic deepfake images by removing ``detectable'' artifacts from existing deepfake datasets' images \hl{including GAN-based images}. By applying the proposed method to the original deepfake dataset, we demonstrate that our technique can significantly reduce the detection performance of existing deepfake detectors. Our experimental results show the vulnerability of deployed detectors and pave the way for further improvement. </small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="ICPR_2022_Evading_deepfake.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

@@ -20,8 +20,8 @@ permalink: /Publications/
             <img alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
             <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;
-            <img alt="ICPR"     src="https://img.shields.io/badge/ICPR-1-brightgreen?style=social"      height="20">&nbsp;
-            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-14-brightgreen?style=social"     height="20">
+            <img alt="ICPR"     src="https://img.shields.io/badge/ICPR-2-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-15-brightgreen?style=social"     height="20">
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2022</b></h4>
@@ -32,7 +32,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>Evading Deepfake Detectors via High-Quality Face Pre-Processing Metohds</b></a>
+                        <a><b>Evading Deepfake Detectors via High-Quality Face Pre-Processing Methods</b></a>
                     </tr>
                 </thead>
                 <tbody>
@@ -43,7 +43,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International Conference on Pattern Recognition, Montreal Quebec, 2022</b> </small> </p>
                     </tr>                 
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Today, various multimedia content can be accessed and shared from any location via the Internet. In addition to normal content, there is an extensive amount of manipulated multimedia that can raise various social issues and concerns. Among the various types of manipulated media, deepfakes can be abused in impersonation or spreading fake information. Therefore, numerous studies have been performed to detect deepfakes to alleviate these concerns, and studies such as FaceForensics++ (FF++) and DeepFake Detection Challenge (DFDC) have sparked these studies by providing deepfake datasets. The deepfake datasets were utilized for supervised learning in conjunction with developing sophisticated neural networks and showed a high detection performance. Since powerful neural networks can learn even subtle details about an image, they must be trained on realistic deepfakes created by advanced deepfake generation technologies to improve the robustness of existing detectors. In order to boost the performance of deepfake detection models, we propose an approach to creating more realistic deepfake images by removing ``detectable'' artifacts from existing deepfake datasets' images \hl{including GAN-based images}. By applying the proposed method to the original deepfake dataset, we demonstrate that our technique can significantly reduce the detection performance of existing deepfake detectors. Our experimental results show the vulnerability of deployed detectors and pave the way for further improvement. </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Today, various multimedia content can be accessed and shared from any location via the Internet. In addition to normal content, there is an extensive amount of manipulated multimedia that can raise various social issues and concerns. Among the various types of manipulated media, deepfakes can be abused in impersonation or spreading fake information. Therefore, numerous studies have been performed to detect deepfakes to alleviate these concerns, and studies such as FaceForensics++ (FF++) and DeepFake Detection Challenge (DFDC) have sparked these studies by providing deepfake datasets. The deepfake datasets were utilized for supervised learning in conjunction with developing sophisticated neural networks and showed a high detection performance. Since powerful neural networks can learn even subtle details about an image, they must be trained on realistic deepfakes created by advanced deepfake generation technologies to improve the robustness of existing detectors. In order to boost the performance of deepfake detection models, we propose an approach to creating more realistic deepfake images by removing "detectable" artifacts from existing deepfake datasets' images. By applying the proposed method to the original deepfake dataset, we demonstrate that our technique can significantly reduce the detection performance of existing deepfake detectors. Our experimental results show the vulnerability of deployed detectors and pave the way for further improvement. </small> </p>
                     </tr>                             
                 </tbody>
             </table>

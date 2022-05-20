@@ -32,7 +32,7 @@ permalink: /News/
 
 May 2022. One paper is accepted at KDD2022. Congrats! <br>        
         
-April 2022. Won the grant from IITP "개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 인공지능 기술 개발" (5년간 100억)<br>
+April 2022. Won the grant from IITP "개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 인공지능 기술 개발" (PI: 연구비 5년간 100억)<br>
         
 Feb 2022. Two papers are accepted at WWW2022. Congrats! <br>
         

@@ -583,7 +583,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                                    <font color='blue'>BK Computer Science IF=4</font>
+                                    <font color='blue'></font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -627,7 +627,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                                    <font color='blue'>BK Computer Science IF=4</font>
+                                    <font color='blue'></font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

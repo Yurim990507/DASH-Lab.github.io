@@ -30,6 +30,9 @@ permalink: /News/
 <div class="section">
     <div class="row">
 
+May 2022. Congrats Keeyoung Kim and Youjin Shin for passing the final PhD defense ! Now, 3 PhDs graduated from our lab! Well deserved! Best of luck !<br>
+        
+        
 May 2022. One paper is accepted at  <b>KDD 2022 (BK+ CS IF=4) </b> Congrats! <br>        
         
 April 2022. Won the grant from IITP "개인정보보호 관련 정책 변화를 유연하게 반영하여 준수하는 인공지능 기술 개발" (PI: 연구비 5년간 100억)<br>

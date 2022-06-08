@@ -7,10 +7,10 @@ permalink: /News/
 <h1 class="page-title">{{ page.title | escape }}</h1>
 <b>우리 연구실은 단순 성균관대 졸업장이 아니라, 좋은 연구를 하고, 좋은 논문을 쓰고 싶은 highly motivated한 석사/박사, 포닥분들 모집, who want to make a difference in the field and future!</b>
 <br>
---><a href="https://swb.skku.edu/security2020/index.do" target="_blank">CS 석/박사지원 융합보안대학원</a> <br>
---><a href="https://ai.skku.edu" target="_blank">인공지능학과 석/박사지원</a> <br>
---><a href="https://skb.skku.edu/skkuaai/index.do" target="_blank">인공지능융합학과 석/박사지원</a> <br>
--->학석연계 email me<br> 
+&rarr;<a href="https://swb.skku.edu/security2020/index.do" target="_blank">CS 석/박사지원 융합보안대학원</a> <br>
+&rarr;<a href="https://ai.skku.edu" target="_blank">인공지능학과 석/박사지원</a> <br>
+&rarr;<a href="https://skb.skku.edu/skkuaai/index.do" target="_blank">인공지능융합학과 석/박사지원</a> <br>
+&rarr;학석연계 email me<br> 
 
 <br>
 

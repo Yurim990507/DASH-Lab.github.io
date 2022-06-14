@@ -10,7 +10,7 @@ permalink: /Publications/
     <p style="font-family: times, serif; font-size:30pt; font-style:italic">
         <center>              
             <sup>Since 2018:</sup>        
-            <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  onmouseover="this.height='40'" onmouseout="this.height='20'">&nbsp;
+            <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="40"  >&nbsp;
             <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social"      height="20">&nbsp;
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;

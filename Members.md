@@ -129,18 +129,7 @@ permalink: /Members/
                     <th align="center">Contact</th>
                 </tr>
               </thead>
-              <tbody>     
-                <tr>
-                  <td align="center">
-                    <div style="display:flex;flex-direction:column">
-                      <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanbin Lee
-                      </div>
-                    </td>
-                  <td>AI (인공지능학과)</td>
-                  <td>Object Detection, Deepfakes</td>       
-                    <td><i></i></td>
-                </tr>
+              <tbody>                 
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -365,6 +354,11 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td>Hanbin Lee</td>
+                  <td>Object Detection, Deepfakes</td>
+                  <td></td>
+                </tr>
                  <tr>
                   <td>Youjin Shin</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>

@@ -255,7 +255,7 @@ permalink: /Members/
                 </tr> 
                   <tr>
                   <td>Shin Sebeol</td>
-                  <td>Computer Science & Engineering</td>
+                  <td></td>
                   <td>Computer Vision</td>       
                 </tr>  
                   <tr>

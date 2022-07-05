@@ -252,7 +252,17 @@ permalink: /Members/
                   <td>Chingis Oinar</td>
                   <td>Computer Science & Engineering</td>
                   <td>Representation learning</td>       
-                </tr>        
+                </tr> 
+                  <tr>
+                  <td>Shin Sebeol</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision</td>       
+                </tr>  
+                  <tr>
+                  <td>Jin Songchan</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision</td>       
+                </tr>  
               </tbody>
             </table>
           </div>

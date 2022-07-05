@@ -36,8 +36,7 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
-                </tr>
-                
+                </tr>                
                   <tr>
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
@@ -366,6 +365,16 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td><a>Youjin Shin</a> </td>
+                  <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td><a>Keeyoung Kim</a> </td>
+                  <td>Skip-dense layer deep learning model</td>
+                  <td></td>
+                </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> </td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection</td>

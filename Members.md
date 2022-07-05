@@ -264,32 +264,7 @@ permalink: /Members/
                   <td>Chingis Oinar</td>
                   <td>Computer Science & Engineering</td>
                   <td>Representation learning</td>       
-                </tr>
-                  <tr>
-                  <td>Donghoon Cha</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Deepfakes</td>       
-                </tr>
-                 <tr>
-                  <td>Gunwoo Park</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Security and Deepfakes</td>       
-                </tr>
-                <tr>
-                  <td>김유현</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Security and Deepfakes</td>       
-                </tr>           
-                <tr>
-                  <td>문학준</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Satellite Object Detection</td>       
-                </tr>
-                <tr>
-                  <td>이동준</td>
-                  <td>Computer Science & Engineering 복전</td>
-                  <td>딥러닝/Anomaly Detection</td>       
-                </tr>              
+                </tr>        
               </tbody>
             </table>
           </div>

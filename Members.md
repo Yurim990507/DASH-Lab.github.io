@@ -37,7 +37,7 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>                
-                  <tr>
+<!--                   <tr>
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
                           <img src="/img/youjinshin.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -58,7 +58,7 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td> Skip-dense layer deep learning model</td>
                   <td><i>Kykim @ sunykorea dot ac dot kr</i></td>
-                </tr>
+                </tr> -->
      
                   <tr>
                   <td align="center">

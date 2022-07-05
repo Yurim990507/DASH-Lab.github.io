@@ -263,6 +263,11 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Computer Vision</td>       
                 </tr>  
+                  <tr>
+                  <td>Ahn Hyunjun</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision</td>       
+                </tr>  
               </tbody>
             </table>
           </div>

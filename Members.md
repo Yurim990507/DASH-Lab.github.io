@@ -366,12 +366,12 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
-                  <td><a>Youjin Shin</a> </td>
+                  <td>Youjin Shin</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
                   <td></td>
                 </tr>
                 <tr>
-                  <td><a>Keeyoung Kim</a> </td>
+                  <td>Keeyoung Kim</td>
                   <td>Skip-dense layer deep learning model</td>
                   <td></td>
                 </tr>

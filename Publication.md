@@ -55,7 +55,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="kdd22_sean.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="sowon.JPG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
 

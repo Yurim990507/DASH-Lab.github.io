@@ -37,7 +37,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Younho Jang\u2020,  Wheemyung Shin\u2020, Joonbeom Kim, <i><b> Simon Woo* and Sung-Ho Bae*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Younho Jang&dagger,  Wheemyung Shin&dagger, Joonbeom Kim, <i><b> Simon Woo* and Sung-Ho Bae*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>European Conference on Computer Vision (ECCV), Tel Aviv, Oct., 2022</b> </small> </p>

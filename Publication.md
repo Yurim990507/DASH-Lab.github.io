@@ -37,7 +37,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Younho Jang<sup>&dagger;<\sup>,  Wheemyung Shin<sup>&dagger;<\sup>, Joonbeom Kim, <i><b> Simon Woo* and Sung-Ho Bae*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Younho Jang<sup>&dagger;</sup>,  Wheemyung Shin<sup>&dagger;</sup>, Joonbeom Kim, <i><b> Simon Woo* and Sung-Ho Bae*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>European Conference on Computer Vision (ECCV), Tel Aviv, Oct., 2022</b> </small> </p>
@@ -189,7 +189,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>JeongHo Kim*, Taejune Kim*, Jeonghyeon Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>JeongHo Kim<sup>&dagger;</sup>, Taejune Kim<sup>&dagger;</sup>, Jeonghyeon Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International Conference on Pattern Recognition, Montreal Quebec, 2022</b> </small> </p>

@@ -102,7 +102,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>한국컴퓨터종합학술대회 (KCC), 2022, 우수논문상 (Top 7%)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>한국컴퓨터종합학술대회 (KCC), 2022</b> </small> </p>
                     </tr>
                     <tr>
               

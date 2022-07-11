@@ -26,7 +26,7 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2022</b></h4>
-        
+    
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -49,7 +49,7 @@ permalink: /Publications/
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Smart contracts are self-executing programs stored and executed on a blockchain platform. However, previous studies demonstrated that developing secure smart contracts is not easy. Unfortunately, the use of insecure smart contracts results in a significant financial loss for service providers or customers. Therefore, identifying security vulnerabilities in smart contracts would be essential in blockchain platforms using smart contracts. In this paper, we present <i>SmartConDetect</i> as a tool for detecting security vulnerabilities in Solidity smart contracts. <i>SmartConDetect</i> is a static analysis tool that extracts code fragments from Solidity smart contracts and uses a pre-trained BERT model to find susceptible code patterns. To demonstrate the performance of <i>SmartConDetect</i>, we use two public datasets, and our dataset (SmartConDataset) collected from the real-world Ethereum blockchain network. Our experimental results show that <i>SmartConDetect</i> significantly outperforms all state-of-the-art methods, achieving 90.9\% F1-score when using our own dataset. Specifically, <i>SmartConDetect</i> is about 2 times faster than SmartCheck in detection. Furthermore, we conduct a real-world case study to analyze the distribution of detected vulnerabilities. </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> Smart contracts are self-executing programs stored and executed on a blockchain platform. However, previous studies demonstrated that developing secure smart contracts is not easy. Unfortunately, the use of insecure smart contracts results in a significant financial loss for service providers or customers. Therefore, identifying security vulnerabilities in smart contracts would be essential in blockchain platforms using smart contracts. In this paper, we present <i>SmartConDetect</i> as a tool for detecting security vulnerabilities in Solidity smart contracts. <i>SmartConDetect</i> is a static analysis tool that extracts code fragments from Solidity smart contracts and uses a pre-trained BERT model to find susceptible code patterns. To demonstrate the performance of <i>SmartConDetect</i>, we use two public datasets, and our dataset (SmartConDataset) collected from the real-world Ethereum blockchain network. Our experimental results show that <i>SmartConDetect</i> significantly outperforms all state-of-the-art methods, achieving 90.9\% F1-score when using our own dataset. Specifically, <i>SmartConDetect</i> is about 2 times faster than SmartCheck in detection. Furthermore, we conduct a real-world case study to analyze the distribution of detected vulnerabilities. </p>
                     </tr>                             
                 </tbody>
             </table>
@@ -58,10 +58,30 @@ permalink: /Publications/
              <img src="sowon.JPG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-
-    
-    
-    
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>이미지 전처리 방법을 통한 딥페이크 탐지 회피 연구</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeongho Kim, Jeonghyun Kim, Taejune Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>한국컴퓨터종합학술대회 (KCC), 2022, 우수논문상 (Top 7%)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>오늘날 국제사회에서 딥페이크(Deepfake) 기술에 대한 우려가 점점 커지고 있다. 딥페이크는 여러 종류의 이미지, 영상들의 얼굴을 짧은 시간 만에 바꿀 수 있는 기술로, 손쉽게 왜곡된 정보를 전파할 수 있기 때문이다. 이에따라딥페이크이미지,영상에대응하기위한탐지기술연구및시도가이뤄졌다. 그러나,탐지기술연구를 가능케 만들어 줄 수 있는 고품질의 데이터셋(dataset)을 생성하는 연구는 더디게 이뤄졌다. 본 논문에서는 딥페 이크 탐지 기술 발전에 필수 불가결한 요소인 고품질 데이터 생성에 대한 새로운 방법론을 제시하고 이를 통해 딥페이크 탐지 기술의 한계 및 발전 방향성에 대해 살펴보고자 한다.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

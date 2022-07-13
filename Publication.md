@@ -133,7 +133,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hajin Kim, Chingis Oinar, UiHyeon Shin, <b>Woo Simon S</b>, and Moon-Young Kim </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>제29회 대한기초의학 학술대회, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>제29회 대한기초의학 학술대회 (대한법의학회), 2022 <font color="blue">우수포스터상 </font></b> </b> </small> </p>
                     </tr>
                     <tr>
               

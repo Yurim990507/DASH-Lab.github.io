@@ -254,7 +254,7 @@ permalink: /Members/
                   <td>Representation learning</td>       
                 </tr> 
                   <tr>
-                  <td>Shin Sebeol</td>
+                  <td>Shin Saebyeol</td>
                   <td></td>
                   <td>Computer Vision</td>       
                 </tr>  

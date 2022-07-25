@@ -247,12 +247,7 @@ permalink: /Members/
                     <th>Research Interests</th>
                 </tr>
               </thead>
-              <tbody>
-                  <tr>
-                  <td>Chingis Oinar</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Representation learning</td>       
-                </tr> 
+              <tbody>                  
                   <tr>
                   <td>Shin Saebyeol</td>
                   <td></td>
@@ -369,6 +364,12 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td>Chingis Oinar</td>
+                  <td>Representation learning</td>
+                  <td></td>
+                 </tr>
+                 <tr>
                  <tr>
                   <td>Jaeju An</td>
                   <td>ML Fairness</td>

@@ -396,7 +396,7 @@ permalink: /Members/
                 </tr>
                 <tr>
                       <td>Minha Kim</td>
-                      <td>Deefakes and Meta Learning</td>
+                      <td>Deefakes and Continual Learning</td>
                       <td></td>
                 </tr>
                 <tr>

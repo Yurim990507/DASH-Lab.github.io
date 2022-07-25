@@ -174,7 +174,7 @@ permalink: /Members/
                   <td>Object detection and Knowledge Distillation</td>
                   <td><i>kjinb1212 @ g dot skku dot edu</i></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/Jaeju.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -184,7 +184,7 @@ permalink: /Members/
                   <td>Convergence Security in Computer Science & Engineering (소프트웨어) </td>
                   <td>Federated Learning and Image Classification</td>
                   <td><i>anjaeju @ g dot skku dot edu</i></td>
-                </tr>
+                </tr> -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -370,10 +370,15 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
+                  <td>Jaeju An</td>
+                  <td>ML Fairness</td>
+                  <td></td>
+                 </tr>
+                 <tr>
                   <td>Hanbin Lee</td>
                   <td>Object Detection, Deepfakes</td>
                   <td></td>
-                </tr>
+                 </tr>
 <!--                  <tr>
                   <td>Youjin Shin</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>

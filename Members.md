@@ -370,7 +370,6 @@ permalink: /Members/
                   <td></td>
                  </tr>
                  <tr>
-                 <tr>
                   <td>Jaeju An</td>
                   <td>ML Fairness</td>
                   <td></td>

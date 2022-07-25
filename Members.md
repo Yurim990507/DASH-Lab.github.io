@@ -376,7 +376,7 @@ permalink: /Members/
                  </tr>
                  <tr>
                   <td>Hanbin Lee</td>
-                  <td>Object Detection, Deepfakes</td>
+                  <td>Object Detection, Knowledge distillation</td>
                   <td></td>
                  </tr>
 <!--                  <tr>

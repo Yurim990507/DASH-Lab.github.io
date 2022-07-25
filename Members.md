@@ -160,7 +160,7 @@ permalink: /Members/
                       </div>
                      </td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Deefakes and Meta Learning</td>       
+                  <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
                 </tr>
                 <tr>

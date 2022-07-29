@@ -636,7 +636,7 @@ Because of the limited information in low-quality images, detecting low-quality 
                 
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://arxiv.org/abs/2112.03553"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
+                                    href="https://ojs.aaai.org/index.php/AAAI/article/view/19886"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                     href="https://github.com/Leminhbinh0209/ADD"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
                     </tr>
                   

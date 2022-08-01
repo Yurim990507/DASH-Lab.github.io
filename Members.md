@@ -277,61 +277,61 @@ permalink: /Members/
                   <td>Seunghwa Song</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Citi Bank</td>
-                  <td>Topic : Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
+                  <td>Optimizing NBA Basketball Point-Spread Betting Using Machine Learning Techniques</td>
                 </tr>
                 <tr>
                   <td>SoonYoung Kwon</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Tiger Team</td>
-                  <td>Topic : Deep Learning based Phishing Website Detection using Source Code</td>
+                  <td>Deep Learning based Phishing Website Detection using Source Code</td>
                 </tr>
                 <tr>
                   <td>서수량</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>서울대학교 병원</td>
-                  <td>Topic : 전자의무기록 임상 노트와 ClinicalBERT로 Transfer Learning을 이용한 장기재원 여부 예측 
+                  <td>전자의무기록 임상 노트와 ClinicalBERT로 Transfer Learning을 이용한 장기재원 여부 예측 
                  </td>
                 </tr>
                 <tr>
                   <td>김진석</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> </td>
-                  <td>Topic : AutoML을 활용한 지역적 특성을 반영한 공유자전거 대여/반납 수량 예측
+                  <td>AutoML을 활용한 지역적 특성을 반영한 공유자전거 대여/반납 수량 예측
                  </td>
                 </tr>
                 <tr>
                   <td>이준형</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> </td>
-                  <td>Topic : 오토인코더 기반의 특성추출을 활용한 신용카드 사기탐지 분류성능 개선
+                  <td>오토인코더 기반의 특성추출을 활용한 신용카드 사기탐지 분류성능 개선
                   </td>
                 </tr>
                  <tr>
                   <td>윤대영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> 배달의 민족 </td>
-                  <td>Topic : Inverse Reinforcement Learning based Novelty Detection
+                  <td>Inverse Reinforcement Learning based Novelty Detection
                  </td>
                 </tr>
                 <tr>
                   <td>박성호</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> 롯데 Food </td>
-                  <td>Topic : 머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
+                  <td>머신러닝 기반 식용 작물별 생산량 예측 연구 및 변수별 생산량에 끼치는 영향력 파악 연구 진행
                  </td>
                 </tr>
                 <tr>
                  <td>천세영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> NC Soft </td>
-                  <td>Topic : 텐서 분해를 이용한 에어비앤비 추천시스템 연구
+                  <td>텐서 분해를 이용한 에어비앤비 추천시스템 연구
                  </td>
                 </tr>
                 <tr>
                  <td>이지은</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td> 롯대 </td>
-                  <td>Topic : 면세점 웹로그 데이터를 활용한 개인화 추천 시스템 연구
+                  <td>면세점 웹로그 데이터를 활용한 개인화 추천 시스템 연구
                  </td>
                 </tr>
               </tbody>

@@ -81,18 +81,7 @@ permalink: /Members/
                   <td>Combined MS & PhD in AI (인공지능학과) </td>
                   <td>Model compression,Time Series </td>
                   <td><i>icanlgh0016 @ gmail dot com</i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/jeonghyeon.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Jeonghyeon Kim
-                      </div>
-                  </td>
-                  <td>Combined MS & PhD in AI (인공지능학과) </td>
-                  <td>Computer Vision and Deepfakes </td>
-                  <td><i>mawjdgus @ g dot skku dot com</i></td>
-                </tr>
+                </tr>               
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -364,6 +353,11 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td>Jeonghyeon Kim</td>
+                  <td>Deepfake detection</td>
+                  <td></td>
+                 </tr>
                  <tr>
                   <td>Chingis Oinar</td>
                   <td>Representation learning</td>

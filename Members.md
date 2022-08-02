@@ -37,28 +37,8 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
                 </tr>                
-                   <tr>
-                    <td align="center">
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/youjinshin.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Youjin Shin
-                        </div>
-                    </td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes </td>
-                  <td><i>youjin dot shin dot 1 @ stonybrook dot edu</i></td>
-                </tr>
-                  <tr>
-                    <td align="center">
-                        <div style="display:flex;flex-direction:column">
-                          <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            &nbsp;&nbsp;&nbsp;&nbsp;Keeyoung Kim
-                        </div>
-                    </td>
-                  <td>Computer Science & Engineering</td>
-                  <td> Skip-dense layer deep learning model</td>
-                  <td><i>Kykim @ sunykorea dot ac dot kr</i></td>
-                </tr>
+
+
      
                   <tr>
                   <td align="center">

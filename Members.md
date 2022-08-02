@@ -51,18 +51,7 @@ permalink: /Members/
                   <td>Adversarial Robustness, Representation Learning</td>
                   <td><i>bmle @ g dot skku dot edu</i></td>
                 </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Gwanghan Lee
-                      </div>
-                  </td>
-                  <td>Combined MS & PhD in AI (인공지능학과) </td>
-                  <td>Model compression,Time Series </td>
-                  <td><i>icanlgh0016 @ gmail dot com</i></td>
-                </tr>               
-                <tr>
+
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -143,17 +132,7 @@ permalink: /Members/
                   <td>Object detection and Knowledge Distillation</td>
                   <td><i>kjinb1212 @ g dot skku dot edu</i></td>
                 </tr>
-<!--                 <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/Jaeju.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Jaeju An
-                      </div>
-                  </td>
-                  <td>Convergence Security in Computer Science & Engineering (소프트웨어) </td>
-                  <td>Federated Learning and Image Classification</td>
-                  <td><i>anjaeju @ g dot skku dot edu</i></td>
-                </tr> -->
+
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -198,6 +177,21 @@ permalink: /Members/
                   <td> Computer Vision</td>
                   <td><i>taemo @ g dot skku dot edu</i></td>
                 </tr>
+                  
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Gwanghan Lee
+                      </div>
+                  </td>
+                  <td> AI (인공지능학과)  </td>
+                  <td>Model compression</td>
+                  <td><i>icanlgh0016 @ gmail dot com</i></td>
+                </tr>               
+                
+                    
+                    
               </tbody>
             </table>
           </div>

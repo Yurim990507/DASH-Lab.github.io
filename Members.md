@@ -51,7 +51,7 @@ permalink: /Members/
                   <td>Adversarial Robustness, Representation Learning</td>
                   <td><i>bmle @ g dot skku dot edu</i></td>
                 </tr>
-
+                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>

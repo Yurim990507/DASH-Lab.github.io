@@ -328,22 +328,22 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
-                  <td>Keeyoung Kim (Ph.D.)</td>
+                  <td>Keeyoung Kim (Ph.D.) 2022</td>
                   <td>Computer Vision and Anomaly Detection</td>
                   <td>Ingenio AI</td>
                  </tr>
                  <tr>
-                  <td>Youjin Shin (Ph.D.)</td>
+                  <td>Youjin Shin (Ph.D.) 2022</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
                   <td>Post Doctoral Researcher</td>
                  </tr>
                  <tr>
-                  <td>Chingis Oinar (BS)</td>
+                  <td>Chingis Oinar (BS) 2022</td>
                   <td>Representation learning</td>
                   <td></td>
                  </tr>
                  <tr>
-                  <td>Hanbin Lee (MS)</td>
+                  <td>Hanbin Lee (MS) 2022</td>
                   <td>Object Detection, Knowledge distillation</td>
                   <td></td>
                  </tr>
@@ -353,47 +353,47 @@ permalink: /Members/
                   <td><a href = "https://data61.csiro.au" target = "_blank"> Data61, CSIRO </a></td>
                 </tr>
                 <tr>
-                      <td>Minha Kim (MS)</td>
+                      <td>Minha Kim (MS) 2022</td>
                       <td>Deefakes and Continual Learning</td>
                       <td></td>
                 </tr>
                 <tr>
-                      <td>Sowon Jeon (MS)</td>
+                      <td>Sowon Jeon (MS) 2021</td>
                       <td>Privacy, AI Security</td>
                       <td>KPMG Korea</td>
                 </tr>
                 <tr>
-                      <td>JoonHyung Kang (MS)</td>
+                      <td>JoonHyung Kang (MS) 2021</td>
                       <td>AI based Satellite Ops</td>
                       <td>SK C&C</td>
                 </tr>
                 <tr>
-                      <td>Hasam Khalid (MS)</td>
+                      <td>Hasam Khalid (MS) 2021</td>
                       <td>Deepfakes and Speech Applications</td>
                       <td>Veev.inc</td>
                 </tr>
                 <tr>
-                      <td>Sunny Yun (윤선이) (MS)</td>
+                      <td>Sunny Yun (윤선이) (MS) 2021</td>
                       <td>Anomaly Detection</td>
                       <td>Asiana Air</td>
                 </tr>
                 <tr>
-                  <td>Youngoh Bang (MS)</td>
+                  <td>Youngoh Bang (MS) 2020</td>
                   <td>AI (인공지능학과)</td>
                   <td>TMaxSoft</td>
                 </tr>
                 <tr>
-                    <td>Junyaup Kim (MS) </td>
+                    <td>Junyaup Kim (MS) 2021</td>
                     <td>Fake Image Detection, Speech Applications</td>
                     <td>Naver</td>
                 </tr>
                 <tr>
-                    <td>Siho Han (MS)</td>
+                    <td>Siho Han (MS) 2021</td>
                     <td>Time-series Anomaly Detection</td>
                     <td>RTM</td>
                 </tr>
                  <tr>
-                  <td>박수진 (MS)</td>
+                  <td>박수진 (MS) 2020</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Kakao</td>
                 </tr>

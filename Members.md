@@ -334,7 +334,7 @@ permalink: /Members/
                   <td></td>
                  </tr>
                 <tr>
-                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> (Ph.D.) </td>
+                  <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> (Ph.D.) 2022</td>
                   <td>Time-series Anomaly Detection, Deepfake Generation & Detection</td>
                   <td><a href = "https://data61.csiro.au" target = "_blank"> Data61, CSIRO </a></td>
                 </tr>

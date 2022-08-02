@@ -266,20 +266,6 @@ permalink: /Members/
                   <td>전자의무기록 임상 노트와 ClinicalBERT로 Transfer Learning을 이용한 장기재원 여부 예측 
                  </td>
                 </tr>
-                <tr>
-                  <td>김진석</td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td> </td>
-                  <td>AutoML을 활용한 지역적 특성을 반영한 공유자전거 대여/반납 수량 예측
-                 </td>
-                </tr>
-                <tr>
-                  <td>이준형</td>
-                  <td>Applied Data Science (데이터사이언스)</td>
-                  <td> </td>
-                  <td>오토인코더 기반의 특성추출을 활용한 신용카드 사기탐지 분류성능 개선
-                  </td>
-                </tr>
                  <tr>
                   <td>윤대영</td>
                   <td>Applied Data Science (데이터사이언스)</td>

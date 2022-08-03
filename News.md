@@ -29,7 +29,7 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-August 2022.Five papers are accepted at <b>CIKM 2022 (BK+ CS IF=3) </b>.<br>
+August 2022.Five papers are accepted at <b>CIKM 2022 (BK IF=3) </b>.<br>
         
 May 2022. Congrats Keeyoung Kim and Youjin Shin for passing the final PhD defense ! Now, 3 PhDs graduated from our lab! Well deserved! Best of luck !<br>
   

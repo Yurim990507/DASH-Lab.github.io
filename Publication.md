@@ -10,9 +10,9 @@ permalink: /Publications/
     <p style="font-family: times, serif; font-size:30pt; font-style:italic">
         <center>    
 <!--              How: Change the number after the Conference Name to indicate # of paper accepted -->
-            <sup>Since 2018:</sup>        
-            <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;
-            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-4-brightgreen?style=social"      height="20">&nbsp;
+            <sup>Since 2018:</sup>   
+            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-9-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
             <img alt="AAAI"     src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social"      height="20">&nbsp;            

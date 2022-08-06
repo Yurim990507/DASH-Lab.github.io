@@ -328,7 +328,7 @@ permalink: /Members/
                  <tr>
                   <td>Hanbin Lee (MS) 2022</td>
                   <td>Object Detection, Knowledge distillation</td>
-                  <td></td>
+                  <td>Naver Z</td>
                  </tr>
                 <tr>
                   <td><a href = "https://sites.google.com/view/shahroztariq" target = "_blank">Shahroz Tariq</a> (Ph.D.) 2022</td>

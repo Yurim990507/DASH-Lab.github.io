@@ -337,7 +337,7 @@ permalink: /Members/
                 </tr>
                 <tr>
                       <td>Minha Kim (MS) 2022</td>
-                      <td>Deefakes and Continual Learning</td>
+                      <td>Deepfakes and Continual Learning</td>
                       <td></td>
                 </tr>
                 <tr>

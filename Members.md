@@ -189,9 +189,6 @@ permalink: /Members/
                   <td>Model compression</td>
                   <td><i>icanlgh0016 @ gmail dot com</i></td>
                 </tr>               
-                
-                    
-                    
               </tbody>
             </table>
           </div>
@@ -212,9 +209,9 @@ permalink: /Members/
               </thead>
               <tbody>                  
                   <tr>
-                  <td>Shin Saebyeol</td>
-                  <td></td>
-                  <td>Computer Vision</td>       
+                  <td>Saebyeol Shin</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Model Compression</td>       
                 </tr>  
                   <tr>
                   <td>Jin Songchan</td>

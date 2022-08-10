@@ -47,7 +47,7 @@ permalink: /Members/
                           <a href="https://leminhbinh0209.github.io/profile/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
                       </div>
                      </td>
-                  <td>Combined MS & PhD in Computer Science & Engineering (소프트웨어)</td>
+                  <td>Computer Science & Engineering</td>
                   <td>Adversarial Robustness, Representation Learning</td>
                   <td><i>bmle @ g dot skku dot edu</i></td>
                 </tr>

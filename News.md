@@ -29,7 +29,7 @@ permalink: /News/
 
 <div class="section">
     <div class="row">
-August 2022. Five full conference papers are accepted at <b>CIKM 2022 (BK IF=3) </b>. Congrats to Everyone!!! <br>
+        August 2022. <b>Five full conference papers</b> are accepted at <b>CIKM 2022 (BK IF=3) </b>. Congrats to Everyone!!! <br>
         
 May 2022. Congrats Keeyoung Kim and Youjin Shin for passing the final PhD defense ! Now, 3 PhDs graduated from our lab! Well deserved! Best of luck !<br>
   

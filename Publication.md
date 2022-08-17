@@ -15,6 +15,7 @@ permalink: /Publications/
             <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
+            <img alt="WACV"     src="https://img.shields.io/badge/WACV-1-brightgreen?style=social"      height="20">&nbsp; 
             <img alt="AAAI"     src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
             <img alt="ACMMM"    src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social"     height="20">&nbsp;

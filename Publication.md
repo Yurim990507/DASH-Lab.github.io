@@ -41,7 +41,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>F.F. Niloy, Kishor Bhaumik, and <i><b> Simon Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" href="https://wacv2023.thecvf.com/home"> <small> <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2023</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2023.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2023</b>  </a> </small> </p>
                     </tr>
 <!--                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

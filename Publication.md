@@ -15,14 +15,14 @@ permalink: /Publications/
             <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
-            <img alt="WACV"     src="https://img.shields.io/badge/WACV-1-brightgreen?style=social"      height="20">&nbsp; 
             <img alt="AAAI"     src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
             <img alt="ACMMM"    src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social"     height="20">&nbsp;
             <img alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
-            <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ECCV"     src="https://img.shields.io/badge/ECCV-1-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="WACV"     src="https://img.shields.io/badge/WACV-1-brightgreen?style=social"      height="20">&nbsp; 
             <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-16-brightgreen?style=social"     height="20">
         </center>
     </p>
@@ -43,11 +43,11 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2023), Waikoloa, Hawaii, 2022</b> </small> </p>
                     </tr>
-                    <tr>
+<!--                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                <font color='blue'>BK Computer Science IF=4</font>
                                 </b> </small> </p>
-                    </tr>
+                    </tr> -->
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Conventional forgery localizing methods usually rely on different forgery footprints such as JPEG artifacts, edge inconsistency, camera noise, etc., with cross-entropy loss to locate manipulated regions. However, these methods have the disadvantage of over-fitting and focusing on only a few specific forgery footprints. On the other hand, real-life manipulated images are generated via a wide variety of forgery operations and thus, leave behind a wide variety of forgery footprints. Therefore, we need a more general approach for image forgery localization that can work well on a variety of forgery conditions. A key assumption in underlying forged region localization is that there remains a difference of feature distribution between untampered and manipulated regions in each forged image sample, irrespective of the forgery type. In this paper, we aim to leverage this difference of feature distribution to aid in image forgery localization. Specifically, we use contrastive loss to learn mapping into a feature space where the features between untampered and manipulated regions are well-separated for each image. Also, our method has the advantage of localizing manipulated region without requiring any prior knowledge or assumption about the forgery type. We demonstrate that our work outperforms several existing methods on three benchmark image manipulation datasets. </small> </p>
                     </tr>                             

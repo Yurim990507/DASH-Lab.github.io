@@ -72,7 +72,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, and <i><b> Simon Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -103,7 +103,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le, Rajat Tandon, Chingis Oinar, Jeffrey Liu, Uma Durairaj, Jiani Guo, Spencer Zahabizadeh,<br>  Sanjana Ilango, Jeremy Tang, Fred Morstatter, <i><b> Simon Woo*</b></i>, and Jelena Mirkovic*</small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -138,7 +138,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Shahroz Tariq, Binh M. Le , and <i><b> Simon Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -173,7 +173,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hanbeen Lee, Jeongho Kim, and <i><b> Simon Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -204,7 +204,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Youjin Shin, Eun-Ju Park, and <i><b> Simon Woo*</b></i>, Okchul Jung and Daewon Chung</small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>31st ACM International Conference on Information & Knowledge Management (CIKM), Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -236,7 +236,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Younho Jang<sup>&dagger;</sup>,  Wheemyung Shin<sup>&dagger;</sup>, Jinbeom Kim, <i><b> Simon Woo*</b> </i>, and Sung-Ho Bae*</small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>European Conference on Computer Vision (ECCV), Tel Aviv, Oct., 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://eccv2022.ecva.net/"><b>European Conference on Computer Vision (ECCV), Tel Aviv, Oct., 2022</b>  </a> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

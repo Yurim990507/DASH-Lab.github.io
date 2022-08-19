@@ -318,7 +318,7 @@ permalink: /Members/
                  <tr>
                   <td>Youjin Shin (Ph.D.) 2022</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
-                  <td>Post Doctoral Researcher</td>
+                  <td>Sejong University</td>
                  </tr>
                  <tr>
                   <td>Chingis Oinar (BS) 2022</td>

@@ -749,10 +749,14 @@ Through this study, it was found that only the currently developed artificial in
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>To Be Updated ...
-</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Unsupervised anomaly detection is commonly performed by identifying unusual data samples (or anomalies) from the residual size produced by machine learning algorithms based on normal data (e.g., the residuals of regression models or reconstruction errors of autoencoder models), assuming that anomalies cause large residuals. Unfortunately, anomalies do not always cause large residuals. Anomaly detection algorithms based on residual size can miss anomalies that cause only small or noisy residuals for each variable in a multivariate time-series. To overcome this issue, we propose "neighbors to residuals" (N2RE), a novel anomaly scoring function based on residual similarity using nearest neighbor distance (NND). Even if residuals of anomalies are small, they show patterns that are different from those of residuals of normal data. Using N2RE can improve anomaly detection performance and reduce the variation in anomaly detection performance due to threshold changes. Experiments with various models on three cyber-physical system datasets verify that N2RE can achieve 19% higher anomaly detection performance than previous approaches without changes to the models.
+</small> </p>       
+                        
                     </tr>
-                    
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="https://dl.acm.org/doi/10.1145/3477314.3506990"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
+                    </tr>
                 </tbody>
             </table>
            </div>
@@ -791,6 +795,10 @@ Through this study, it was found that only the currently developed artificial in
 real vs. fake human face detection task as a practical use case scenario. Our approach achieves high performance as well as training data efficiency, where the essence of our approach is based on tensor decomposition to ensure face data privacy. In particular, we demonstrate that the core tensor of Tucker decomposition generated from the original face input can effectively represent the underlying characteristics of the original face data; that is, learning only from the core tensors is sufficient for differentiating real human face images from deepfakes. Also, we show that the original human face inputs are anonymized and cannot be recovered from the core tensors under different attacker models from the randomized HOOI algorithm. Through extensive experiments and analysis, we demonstrate that our method can result in high detection performance comparable to those of popular anonymization methods. Therefore, we show that our work strikes the balance between privacy and performance through the novel use of tensor decomposition.
 </small> </p>
                     </tr> 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="https://dl.acm.org/doi/10.1145/3477314.3507036"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
+                    </tr>
                 </tbody>
             </table>
             </div>

@@ -44,7 +44,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/BinhMLe.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          <a href="https://sites.google.com/view/binhminhle/home" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
+                          <a href="https://sites.google.com/view/binhminhle/home" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
                       </div>
                      </td>
                   <td>Computer Science & Engineering</td>

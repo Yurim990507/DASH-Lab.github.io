@@ -30,7 +30,7 @@ permalink: /Members/
                 <tr>
                    <td align="center">
                        <div style="display:flex;flex-direction:column">                         
-                            <img src="/img/SangyupLee.jpg" alt="" height="auto" width="128" style="border-radius:50%"/><br>
+                            <img src="/img/SangyupLee.jpg" alt="" height="auto" width="128" style="border-radius:50%"  href = "https://sites.google.com/view/sangyuplee/" ><br>
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee</a>                         
                        </div></td>
                   <td>Computer Science & Engineering (소프트웨어)</td>
@@ -43,7 +43,7 @@ permalink: /Members/
                   <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img src="/img/BinhMLe.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          <img src="/img/BinhMLe.jpg" alt="Photo" height="auto" width="128" style="border-radius:50%"  href="https://sites.google.com/view/binhminhle/home"><br>
                           <a href="https://sites.google.com/view/binhminhle/home" target = "_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le</a>
                       </div>
                      </td>

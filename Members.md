@@ -31,7 +31,7 @@ permalink: /Members/
                    <td align="center">
                        <div style="display:flex;flex-direction:column">  
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">
-                                <img src="/img/SangyupLee.jpg" alt="" height="auto" width="128" style="border-radius:50%"  ><br>
+                                <img src="/img/SangyupLee.jpg" alt="" height="auto" width="128" style="border-radius:30%"  ><br>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee
                            </a>                         
                        </div></td>
@@ -43,7 +43,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <a href="https://sites.google.com/view/binhminhle/home" target = "_blank">
-                              <img src="/img/BinhMLe.jpg" alt="Photo" height="auto" width="128" style="border-radius:50%" ><br>
+                              <img src="/img/BinhMLe.jpg" alt="Photo" height="auto" width="128" style="border-radius:30%" ><br>
                               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binh M. Le
                           </a>
                       </div>
@@ -55,7 +55,7 @@ permalink: /Members/
                  <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:30%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp; Eun-Ju Park
                       </div>
                   </td>
@@ -66,7 +66,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/JuhunLee.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img src="/img/JuhunLee.jpg" alt="" height="auto" width="128" style="border-radius:30%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp; Juhun Lee
                       </div>
                   </td>

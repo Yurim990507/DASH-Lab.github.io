@@ -61,7 +61,7 @@ permalink: /Members/
                   </td>
                   <td>Computer Science & Engineering</td>
                   <td>Deepfakes </td>
-                  <td><i>cindi01@g dot skku dot edu</i></td>
+                  <td><i>cindi01 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -72,7 +72,18 @@ permalink: /Members/
                   </td>
                   <td>Artificial Intelligence</td>
                   <td>Computer Vision </td>
-                  <td><i>josejhlee@g dot skku dot edu</i></td>
+                  <td><i>josejhlee @ g dot skku dot edu</i></td>
+                </tr>
+                 <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/SeungHooHong.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp; SeungHoo Hong
+                      </div>
+                  </td>
+                  <td>Artificial Intelligence</td>
+                  <td>Multi-model, Deepfake detection, Representation learning </td>
+                  <td><i>hoo0681 @ g dot skku dot edu</i></td>
                 </tr>
               </tbody>
             </table>

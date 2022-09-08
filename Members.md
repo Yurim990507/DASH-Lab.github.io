@@ -63,6 +63,17 @@ permalink: /Members/
                   <td>Deepfakes </td>
                   <td><i>cindi01@g dot skku dot edu</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/JuhunLee.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp; Juhun Lee
+                      </div>
+                  </td>
+                  <td>AI</td>
+                  <td>Computer Vision </td>
+                  <td><i>josejhlee@g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

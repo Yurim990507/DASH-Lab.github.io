@@ -70,7 +70,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp; Juhun Lee
                       </div>
                   </td>
-                  <td>AI</td>
+                  <td>Artificial Intelligence</td>
                   <td>Computer Vision </td>
                   <td><i>josejhlee@g dot skku dot edu</i></td>
                 </tr>

@@ -45,7 +45,11 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Information has exploded on the Internet and mobile with the advent of the big data era. In particular, recommendation systems are widely used to help consumers who struggle to select the best products among such a large amount of information. However, recommendation systems are vulnerable to malicious user biases, such as fake reviews to promote or demote specific products and attacks that steal personal information. Such biases and attacks compromise the fairness of the recommendation model and infringe the privacy of users and systems by distorting data. Recently, deep-learning collaborative filtering recommendation systems have shown to be more vulnerable to this bias. In this position paper, we examine the effects of bias that cause various ethical and social issues and discuss the need for designing a robust recommendation system for fairness and stability. </small> </p>
-                    </tr>                             
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="https://drive.google.com/file/d/1GCFC0AcXI38fX7tec-s0U1AYIG-A8yOL/view?usp=sharing"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
+                    </tr>
                 </tbody>
             </table>
             </div>

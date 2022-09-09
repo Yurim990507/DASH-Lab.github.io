@@ -33,6 +33,29 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Discussion about Attacks and Defenses  for Fair and Robust Recommendation System Design</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Mirae Kim and <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a><b>FAccTRec 2022: The 5th Workshop on Responsible Recommendation, in Sixteenth ACM Conference on Recommender Systems (RecSys)</b>  </a> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Information has exploded on the Internet and mobile with the advent of the big data era. In particular, recommendation systems are widely used to help consumers who struggle to select the best products among such a large amount of information. However, recommendation systems are vulnerable to malicious user biases, such as fake reviews to promote or demote specific products and attacks that steal personal information. Such biases and attacks compromise the fairness of the recommendation model and infringe the privacy of users and systems by distorting data. Recently, deep-learning collaborative filtering recommendation systems have shown to be more vulnerable to this bias. In this position paper, we examine the effects of bias that cause various ethical and social issues and discuss the need for designing a robust recommendation system for fairness and stability. </small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="facctrec_mirae22.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
+                <thead>
+                    <tr>
                         <a><b>CFL-Net: Image Forgery Localization Using Contrastive Learning</b></a>
                     </tr>
                 </thead>
@@ -43,11 +66,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2023.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2023</b>  </a> </small> </p>
                     </tr>
-<!--                     <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=4</font>
-                                </b> </small> </p>
-                    </tr> -->
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Conventional forgery localizing methods usually rely on different forgery footprints such as JPEG artifacts, edge inconsistency, camera noise, etc., with cross-entropy loss to locate manipulated regions. However, these methods have the disadvantage of over-fitting and focusing on only a few specific forgery footprints. On the other hand, real-life manipulated images are generated via a wide variety of forgery operations and thus, leave behind a wide variety of forgery footprints. Therefore, we need a more general approach for image forgery localization that can work well on a variety of forgery conditions. A key assumption in underlying forged region localization is that there remains a difference of feature distribution between untampered and manipulated regions in each forged image sample, irrespective of the forgery type. In this paper, we aim to leverage this difference of feature distribution to aid in image forgery localization. Specifically, we use contrastive loss to learn mapping into a feature space where the features between untampered and manipulated regions are well-separated for each image. Also, our method has the advantage of localizing manipulated region without requiring any prior knowledge or assumption about the forgery type. We demonstrate that our work outperforms several existing methods on three benchmark image manipulation datasets. </small> </p>
                     </tr>                             

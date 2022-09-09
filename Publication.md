@@ -54,6 +54,9 @@ permalink: /Publications/
             </div>
          </div>
     <hr>
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
                 <thead>
                     <tr>
                         <a><b>CFL-Net: Image Forgery Localization Using Contrastive Learning</b></a>

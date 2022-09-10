@@ -48,7 +48,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-                                    href="https://drive.google.com/file/d/1GCFC0AcXI38fX7tec-s0U1AYIG-A8yOL/view?usp=sharing"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
+                                    href="https://www.researchgate.net/publication/363432484_Discussion_about_Attacks_and_Defenses_for_Fair_and_Robust_Recommendation_System_Design"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
                     </tr>
                 </tbody>
             </table>

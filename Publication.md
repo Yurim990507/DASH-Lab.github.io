@@ -43,7 +43,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://www.cikm2022.org/"> <b>CIKM22-PAS: The 1st International Workshop on Privacy Algorithms in Systems @ CIKM'22, Georgia, USA, 2022</b>  </a> </small> </p>
                     </tr>
-           
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>As time series data is collected and used in a variety of fields, the importance of preserving privacy on time series is also on the increase. This paper is a preliminary study of the Differential Privacy (DP) algorithm specially designed to provide privacy to time series data by integrating the time series decomposition technique. In particular, this study extends the Fourier Perturbation Algorithm (FPA) with Seasonal and Trend decomposition using LOESS (STL). In this work, we propose STL-DP, which first performs STL decomposition to the original data. Then we apply the FPA only to the core part of the time series, particularly trend or seasonal components, to provide privacy. In this preliminary study, we show that our approach consistently outperforms other baselines in terms of utility according to the experimental results.</small> </p>
                     </tr>

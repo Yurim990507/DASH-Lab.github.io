@@ -26,18 +26,6 @@ permalink: /News/
     </div>
 </div>
 
-<div class="row">
-<div class="section">
-    <div class="col s12 m4" style="border-radius: 15px 50px 30px 5px; border: thin solid black">
-        <div class="icon-block">
-            <h2 class="center light-blue-text"><img width="360" height="249" src="/img/21-1.jpg" alt="retreat2021" class="image"></h2>
-            <h5 class="center">Retreat 2021</h5>
-        </div>
-    </div>
-</div>
-</div>
-
-
 
 <div class="section">
     <div class="row">

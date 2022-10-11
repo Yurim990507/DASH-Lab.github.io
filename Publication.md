@@ -33,6 +33,37 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>A<sup>2</sup>: Adaptive Augmentation for Mitigating Dataset Bias</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jaeju An, Taejun Kim, Donggeun Ko, Sangyup Lee, and <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a href="https://accv2022.org/en/"> <b>The 16th Asian Conference on Computer Vision (ACCV2022), Macau SAR, China, 2022</b>  </a> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>The trained networks can often suffer from overfitting issues due to the unintended bias in a dataset causing inaccurate, unreliable, and untrustworthy results. To tackle this problem, we propose a novel augmentation framework, Adaptive Augmentation (A^2), based on a generative model and few-shot adaptation for augmenting bias-conflict samples that help classifiers learn debiased representations without any prior knowledge about bias types. Our framework consists of three steps: 1) extracting bias-conflict samples from a biased dataset in an unsupervised manner, 2) training a generative model with the biased dataset and adapting biased distribution from the generative model to the extracted bias-conflict samples' distribution, and 3) augmenting bias-conflict samples by translating bias-align samples with the trained generative model. Therefore, our classifier can effectively learn the debiased representation without human supervision.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="accv22_jaeju.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>STL-DP: Differentially Private Time Series Exploring Decomposition and Compression Methods</b></a>
                     </tr>
                 </thead>

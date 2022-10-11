@@ -25,6 +25,19 @@ permalink: /News/
         <img border=0 width=400 height=300 src="/img/graduation.jpg">
     </div>
 </div>
+ <div class="container">
+    <div class="section">
+        
+        <div class="col s12 m4" style="border-radius: 15px 50px 30px 5px; border: thin solid black">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><img width="116" height="84" src="/img/21-1.jpg" alt="retreat2021" class="image"></h2>
+            <h5 class="center">Retreat 2021</h5>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
 
 
 <div class="section">

@@ -33,6 +33,33 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>RCRL: Replay-based Continual Representation Learning in Multi-task Super-Resolution</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jinyong Park, Minha Kim, and <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>AVSS: Advanced Video and Signal-Based Surveillance</b>  </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Super-resolution (SR) aims to recover the highresolution (HR) images from low-resolution (LR) images. Recently, various attempts, e.g., unsupervised SR models and domain-specific SR have achieved outstanding performance for various real-world applications. However, they significantly suffer from low generalization performance when trained on another domain dataset. Furthermore, they often exhibit performance degradation when the model continually learns multiple tasks; so-called catastrophic forgetting degrades the SR performance. In this paper, we are the first to propose a novel approach for continual multi-task SR named Replay-based Continual Representation Learning framework that can be applicable to GAN-based SR models, which utilizes feature memory for preserving the learned features from the previous task. Our experimental results demonstrate the effectiveness of RCRL in continual multi-task SR at improving generalization performance and alleviating catastrophic forgetting.</small> </p>
+                    </tr>
+                   
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jinyong_rcrl.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>STL-DP: Differentially Private Time Series Exploring Decomposition and Compression Methods</b></a>
                     </tr>
                 </thead>

@@ -361,7 +361,7 @@ permalink: /Members/
                 <tr>
                       <td>Minha Kim (MS) 2022</td>
                       <td>Deepfakes and Continual Learning</td>
-                      <td></td>
+                      <td>Naver 클로바</td>
                 </tr>
                 <tr>
                       <td>Sowon Jeon (MS) 2021</td>
@@ -391,7 +391,7 @@ permalink: /Members/
                 <tr>
                     <td>Junyaup Kim (MS) 2021</td>
                     <td>Fake Image Detection, Speech Applications</td>
-                    <td>Naver</td>
+                    <td>한화시스템즈</td>
                 </tr>
                 <tr>
                     <td>Siho Han (MS) 2021</td>

@@ -346,7 +346,7 @@ permalink: /Members/
                  <tr>
                   <td>Chingis Oinar (BS) 2022</td>
                   <td>Representation learning</td>
-                  <td></td>
+                     <td><a href="https://jp.mercari.com/">Mercari, Japan</a></td>
                  </tr>
                  <tr>
                   <td>Hanbin Lee (MS) 2022</td>

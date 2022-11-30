@@ -193,7 +193,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/taejun_kim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
                       </div>
                   </td>
                   <td>Computer Science & Engineering</td>
@@ -217,7 +217,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Mira Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mira Lee
                       </div>
                   </td>
                   <td> Electrical and Computer Engineering  </td>

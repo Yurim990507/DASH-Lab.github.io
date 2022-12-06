@@ -7,3 +7,18 @@
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script> -->
 <!-- <script async src="https://srv1.weatherwidget.org/js/?id=ww_5dcd957e6984e"></script> -->
+<!--Script for the Pop-up advertisement-->
+<script type="text/javascript">
+	window.addEventListener("load", function(){
+		setTimeout(
+			function open(event){
+				document.querySelector(".popup").style.display = "block";
+			},
+			1000 
+		)
+	});
+
+	document.querySelector("#close").addEventListener("click", function(){
+		document.querySelector(".popup").style.display = "none";
+	});
+</script>

@@ -65,6 +65,33 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Analysis of Obfuscation of Deepfake Images in Differential Privacy Settings</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and **Simon S. Woo**</i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> 2022 추계 공동학술대회</b>  </a>   </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>소셜 미디어나 감시 시스템에서 매일 수많은 얼굴 사진과 개인 정보가 수집된다. 얼굴 정보를 포함한 소셜 미디어 사용자의 개인 정보는 간단한 거래나 공항 출입국 절차의 간소화와 같은 이점이 있지만 이러한 이점은 항상 개인 정보 보호 문제를 수반한다. 위와 같은 민감한 정보들은 잠재적으로 유해한 목적으로 사용될 위험이 있기때문에 공격자에게 취약하다고 할 수 있다. 이러한 정보를 보호하기 위해 이미지의 프라이버시를 강화하는 솔루션인 DP(Differential Privacy)를 사용하여 높은 수준의 프라이버시를 제공한다. DP(Differential Privacy)를 통해 이미지의 프라이버시가 증가할 수 있지만 이상적인 epsilon-DP를 달성하기 위해서 유틸리티와 프라이버시 사이에는 필연적인 trade-off가 있다. 따라서 난독화 이미지의 최적 매개변수를 선택하는 것이 개인정보 보호의 핵심이며 본 논문에서는 이미지의 프라이버시를 강화하기 위해 각각 DP-Pix, DP-SVD, Snow라는 3가지 DP(Differential Privacy) 난독화 방법을 제시한다. 또한 딥 러닝 모델의 견고성을 평가하는 딥페이크 이미지 데이터셋에서 DP 방법을 구현하는 다양한 방법을 시연한다. 실험의 결과는 훈련 단계에서 데이터 세트 증대가 epsilon-DP(Differential Privacy를 사용하여 딥페이크를 탐지할 때 모델의 성능을 쉽게 향상시킬 수 있음을 나타낸다.</small> </p>
+                    </tr>
+                     
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jeong_prl.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Evaluation of Deepfakes with Generated Facemasks</b></a>
                     </tr>
                 </thead>
@@ -76,7 +103,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2022 추계 공동학술대회</b>  </a>   </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>With the recent advancements of face image generation techniques such as deepfakes, society has raised numerous concerns. Thus, various deepfakes detection models have been proposed with state-of-the-art performance. However, none of the suggested models focused on detecting deepfakes with facemask during the pandemic crisis. Since the important face landmarks are hidden with facemask, deepfakes detection with facemask is much more challenging and vulnerable. Therefore, attackers may catch people and systems off guard using fake facial images with facemask. To address this issue, we propose two simple approaches for masked deepfakes detection, 1) mask-erase, which trains the model with erased facemask area on a face, and 2) face-crop, which trains the model with cropped images above the facemask. In addition, we evaluate the performance of a baseline model with our approach, and other state-of-the-art deepfake detection models with the facial images with facemask for comparative analysis. The experimental results demonstrate that these methods are effective to distinguish fake face images with facemask..</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> With the recent advancements of face image generation techniques such as deepfakes, society has raised numerous concerns. Thus, various deepfakes detection models have been proposed with state-of-the-art performance. However, none of the suggested models focused on detecting deepfakes with facemask during the pandemic crisis. Since the important face landmarks are hidden with facemask, deepfakes detection with facemask is much more challenging and vulnerable. Therefore, attackers may catch people and systems off guard using fake facial images with facemask. To address this issue, we propose two simple approaches for masked deepfakes detection, 1) mask-erase, which trains the model with erased facemask area on a face, and 2) face-crop, which trains the model with cropped images above the facemask. In addition, we evaluate the performance of a baseline model with our approach, and other state-of-the-art deepfake detection models with the facial images with facemask for comparative analysis. The experimental results demonstrate that these methods are effective to distinguish fake face images with facemask.</small> </p>
                     </tr>
                      
                 </tbody>

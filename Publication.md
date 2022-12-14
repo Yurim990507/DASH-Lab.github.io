@@ -41,7 +41,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Jeongho Kim<sup>&dagger;</sup>, Yungyoo Lee<sup>&dagger;</sup>, Donggeun Ko, Taejun Kim, Sooyoun Ham, and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing,
 Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>

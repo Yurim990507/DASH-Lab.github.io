@@ -33,6 +33,33 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>MGCMA: Multi-scale Generator with Channel-wise Mask Attention for Synthetic Contrast-enhanced Chest Computed Tomography Generation with Medical Doctors</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Jeongho Kim*, Yungyoo Lee*, Donggeun Ko, Taejun Kim, Sooyoun Ham, and <b>Simon Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing
+Tallinn, Estonia, March, 2023</b></a></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Medical images, including computed tomography (CT) assist doctors and physicians in diagnosing anatomic structures and various internal pathologies. In CT, intravenous contrast media is often applied, which are chemicals developed to aid in the characterization of pathology by enhancing the capabilities of an imaging modality to differentiate between different biological tissues. Especially, with the use of contrast media, thorough examinations of the patients can be possible. However, contrast media can have severe adverse and side effects such as hypersensitive reaction to generalized seizures. Yet, without contrast media, it is difficult to diagnose patients that have disorders in the internal organs. With the help of DNN models, especially generative adversarial network (GAN), contrast-enhanced CT (CECT) images can be synthetically generated from non-contrast CT (NCCT) images. GANs or autoencoder-based models have been proposed to generate contrast-enhanced CT images; however, the synthesized image does not fully reflect and have crucial spots where contrast has not been synthesized. Thus, in order to enhance the quality of the CECT image, we propose MGCMA, a multi-scale generator with a channel-wise mask attention module for generating synthetic CECT images from NCCT images. Our extensive experiments demonstrate that our model outperforms other baseline models in various metrics such as SSIM and LPIPS. Also, generated images from our approach achieve plausible outcomes from the domain experts' (e.g., physicians and radiologists) evaluations.</small> </p>
+                    </tr>                    
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jho_sac23.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>An overhead-free region-based JPEG framework for task-driven image compression</b></a>
                     </tr>
                 </thead>

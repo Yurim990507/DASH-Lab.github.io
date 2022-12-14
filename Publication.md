@@ -26,6 +26,38 @@ permalink: /Publications/
             <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-16-brightgreen?style=social"     height="20">
         </center>
     </p>
+    <h4 style="margin-top:40px"><b>2023</b></h4>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>An overhead-free region-based JPEG framework for task-driven image compression</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seonghye Jeong, Seongmoon Jeong, **Simon S.Woo**, and Jong HwanKo</i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>Pattern Recognition Letters</b>  </a>   </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>An increasing amount of captured images are streamed to a remote server or stored in a device for deep neural network (DNN) inference. In most cases, raw images are compressed with encoding algorithms such as JPEG to cope with resource limitations. However, the standard JPEG optimized for human visual systems may induce significant accuracy loss in DNN inference tasks. In addition, the standard JPEG compresses all regions in an image at the same quality level, while some areas may not contain valuable information for the target task. In this paper, we propose a target-driven JPEG compression framework that performs region-adaptive quantization of the DCT coefficients. The region-based quality map is generated from an end-to-end trainable neural network. In addition, we present a deep learning approach to remove the requirement of storing the overhead information induced by the region-based encoding process. Our framework can be easily implemented on devices with commonly used JPEG and also produce images that achieve a higher compression rate with minimum degradation of the classification accuracy.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="https://www.sciencedirect.com/science/article/pii/S016786552200349X"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
+                                    href="https://github.com/jshye/qf-map-generator"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jeong_prl.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
     <h4 style="margin-top:40px"><b>2022</b></h4>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">

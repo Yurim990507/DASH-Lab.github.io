@@ -38,7 +38,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Seonghye Jeong, Seongmoon Jeong, **Simon S.Woo**, and Jong HwanKo</i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Seonghye Jeong, Seongmoon Jeong, <b>Simon Woo*</b>, and Jong HwanKo</i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>Pattern Recognition Letters</b>  </a>   </small> </p>
@@ -70,7 +70,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and **Simon S. Woo**</i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> 2022 추계 공동학술대회</b>  </a>   </small> </p>
@@ -97,7 +97,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and **Simon S. Woo**</i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2022 추계 공동학술대회</b>  </a>   </small> </p>

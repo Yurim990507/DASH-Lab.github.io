@@ -65,6 +65,30 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Effective Deepfake Detection using Mask Attention</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Saebyeol Shin and <b>Simon Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> 2022 추계 공동학술대회</b>  </a>   </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>다양한 딥페이크 데이터셋에 대한 최신 딥페이크 탐지 모델은 놀라운 성능을 달성했습니다. 그러나 대부분의 접근 방식은 각 딥페이크 입력 이미지가 서로다른 지역적인 부분에서 구별되는 특징을 가지고 있다는 사실을 활용하지 않습니다. 따라서 본 논문은 입력 이미지의 서로 다른 세부적인 부분에 동적으로 초점을 맞추고 실제 이미지와 딥페이크 이미지의 미묘하고 세부적인 차이를 이용하는 효과적인 딥페이크 탐지 방법인 MaskDF를 제안합니다. 특히 중요하지 않은 특성을 제거하여 입력의 귀중한 정보를 보존할 수 있는 학습 가능한 어텐션 마스크를 제안합니다. 입력 피쳐는 제안된 게이팅 함수를 통과하여 어텐션 마스크 벡터를 생성하므로 딥페이크 탐지에 영향을 미치는 중요한 특징을 결정할 수 있습니다. 우리의 방법은 입력 정보의 절반만 사용하여 DFDC 및 FaceForensics++ 데이터 세트에서 다른 기본 모델보다 더 나은 성능을 보여주었습니다.</small> </p>
+                    </tr>
+                     
+                </tbody>
+            </table>
+            </div>            
+         </div>
+    <hr>     
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Analysis of Obfuscation of Deepfake Images in Differential Privacy Settings</b></a>
                     </tr>
                 </thead>

@@ -38,7 +38,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seonghye Jeong, Seongmoon Jeong, **Simon S.Woo**, and Jong HwanKo</i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Seonghye Jeong, Seongmoon Jeong, **Simon S.Woo**, and Jong HwanKo</i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>Pattern Recognition Letters</b>  </a>   </small> </p>
@@ -59,6 +59,33 @@ permalink: /Publications/
          </div>
     <hr>
     <h4 style="margin-top:40px"><b>2022</b></h4>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Evaluation of Deepfakes with Generated Facemasks</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Donggeun Ko and **Simon S. Woo**</i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2022 추계 공동학술대회</b>  </a>   </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>With the recent advancements of face image generation techniques such as deepfakes, society has raised numerous concerns. Thus, various deepfakes detection models have been proposed with state-of-the-art performance. However, none of the suggested models focused on detecting deepfakes with facemask during the pandemic crisis. Since the important face landmarks are hidden with facemask, deepfakes detection with facemask is much more challenging and vulnerable. Therefore, attackers may catch people and systems off guard using fake facial images with facemask. To address this issue, we propose two simple approaches for masked deepfakes detection, 1) mask-erase, which trains the model with erased facemask area on a face, and 2) face-crop, which trains the model with cropped images above the facemask. In addition, we evaluate the performance of a baseline model with our approach, and other state-of-the-art deepfake detection models with the facial images with facemask for comparative analysis. The experimental results demonstrate that these methods are effective to distinguish fake face images with facemask..</small> </p>
+                    </tr>
+                     
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jeong_prl.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

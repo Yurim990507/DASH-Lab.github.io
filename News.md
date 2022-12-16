@@ -28,8 +28,9 @@ permalink: /News/
 
 
 <div class="section">
-    <div class="row">
-        August 2022. <b>Five full conference papers</b> are accepted at <b>CIKM 2022 (BK IF=3) </b>. Congrats to Everyone!!! <br>
+<div class="row">
+Dec 2022. <b>Three full conference papers</b> are accepted at <b>ACM SAC 2023 (BK IF=1) </b>.<br>
+August 2022. <b>Five full conference papers</b> are accepted at <b>CIKM 2022 (BK IF=3) </b>. Congrats to Everyone!!! <br>
         
 May 2022. Congrats Keeyoung Kim and Youjin Shin for passing the final PhD defense ! Now, 3 PhDs graduated from our lab! Well deserved! Best of luck !<br>
   
@@ -80,5 +81,5 @@ Sept.2017. Finance Chair for <a href="https://conferences2.sigcomm.org/co-next/2
 Aug. 2016. gave a talk at Korea University, Seoul, Korea <br>
 Aug.2016. ETNews on <b> 3D CAPTCHAs, AI로 위기에 빠진 캡차...3D로 막는다, 전자신문</b>, 2016 [<a href="https://www.etnews.com/20160826000204?m=1">media</a>] <br> 
 Aug. 2016. Our paper "3D CAPTCHAs" was selected as the best paper at WISA 2016 <br>
-    </div>
+</div>
 </div>

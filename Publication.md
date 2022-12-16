@@ -77,9 +77,9 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                 </tbody>
             </table>
             </div>
-<!--             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="jho_sac23.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div> -->
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="jb_sac23.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
          </div>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">

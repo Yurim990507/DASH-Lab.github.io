@@ -33,7 +33,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>MGCMA: Multi-scale Generator with Channel-wise Mask Attention for Synthetic Contrast-enhanced Chest Computed Tomography Generation with Medical Doctors</b></a>
+                        <a><b>MGCMA: Multi-scale Generator with Channel-wise Mask Attention for Synthetic Contrast-enhanced Chest Computed Tomography Generation</b></a>
                     </tr>
                 </thead>
                 <tbody>

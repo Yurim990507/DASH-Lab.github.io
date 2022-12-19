@@ -77,6 +77,13 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing,
 Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
+                    
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1</font>
+                                </b> </small> </p>
+                    </tr>
+                    
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Oriented object detection in aerial images is a challenging task due to the highly complex backgrounds and objects with arbitrary oriented and usually densely arranged. Existing oriented object detection methods adopt CNN-based methods, and they can be divided into three types: two-stage, one-stage, and anchor-free methods. All of them require non-maximum suppression (NMS) to eliminate the duplicated predictions. Recently, object detectors based on the transformer remove hand-designed components by directly solving set prediction problems via performing bipartite matching, and achieve state-of-the-art performances in general object detection. Motivated by this research, we propose a transformer-based oriented object detector named  Rotated DETR with oriented bounding boxes (OBBs) labeling. We embed the scoring network to reduce the tokens corresponding to the background. In addition, we apply a proposal generator and iterative proposal refinement in order to provide proposals with angle information to the transformer decoder. Rotated DETR achieves state-of-the-art performance on the single-stage and anchor-free oriented object detectors on DOTA, UCAS-AOD, and DIOR-R datasets with only 10\% feature tokens. In the experiment, we show the effectiveness of the scoring network and iterative proposal refinement.</small> </p>
                     </tr>                    

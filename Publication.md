@@ -140,7 +140,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Jinbeom Kim, Giljun Lee, Taejune Kim, and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> 2022 추계 공동학술대회</b>  </a>   </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> 2022 추계 공동학술대회 (<font color="blue">우수논문상</font>)</b>  </a>   </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>매우 복잡한 배경과 임의로 회전 되어있고 조밀하게 배열되어 잇는 객체로 인해 항공 이미지에서 회전된 객체를 탐지하는 것은 매우 어려운 작업이다. 기존의 회전 객체 탐지 기법들은 CNN 기반 방법론을 채택하고 있으며, 이들은 세가지 카테고리 two-stage, one-stage, 그리고 anchor-free로 분류할 수 있다. 이들 모두 중복된 예측을 제거하기 위해 비최대 억제(NMS)가 필요하다. 최근 transformer를 기반으로 한 객체 탐지 모델은 이분 매칭을 통해 set prediction proble을 직접 해결하여 수작업으로 설계된 구성 요소들을 제거하면서 일반적인 객체 탐지 분야에서 최첨단 성능을 달성하였다. 이 연구에 자극을 받아, 우리는 방향 경계 상자(OBB) 라벨을 사용하는 transformer 기반 모델인 Rotated DETR를 제안한다.또한 우리는 proposal generator와 iterative proposal refinement를 적용하여 transformer decoder에 각도 정보를 제공한다. Rotated DETR은 10%의 feature token 만으로 DOTA 데이터 세트의 one-stage와 anchor-free 모델들에서 최첨단 성능을 달성한다. 우리는 실험을 통해 scoring network와 iterative proposal refinement의 효과를 보여준다.</small> </p>

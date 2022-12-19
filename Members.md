@@ -181,17 +181,6 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/donggeunsean.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Donggeun Ko
-                      </div>
-                  </td>
-                  <td>Applied Artificial Intelligence</td>
-                  <td>Computer Vision, Applied AI in Biomedical Field, Model Compression</td>
-                  <td><i>seanko @ g dot skku dot edu</i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
                         <img src="/img/taejun_kim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
                       </div>

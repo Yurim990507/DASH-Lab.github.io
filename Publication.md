@@ -33,6 +33,39 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>S-ViT: Sparse Vision Transformer for Accurate Face Recognition</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Geunsu Kim, Gyudo Park, Soohyeok Kang, and <b>Simon Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing,
+Tallinn, Estonia, March, 2023</b></a></small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1</font>
+                                </b> </small> </p>
+                    </tr>
+                    
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Most of the existing face recognition applications using deep learning models have leveraged CNN-based architectures as the feature extractor. However, recent studies have shown that in computer vision tasks, vision transformer-based models often outperform CNN-based models. Therefore, in this work, we propose a Sparse Vision Transformer (S-ViT) based on the Vision Transformer (ViT) architecture to improve the face recognition tasks. After the model is trained, S-ViT tends to have a sparse distribution of weights compared to ViT, so we named it according to these characteristics. Unlike the conventional ViT, our proposed S-ViT adopts image Relative Positional Encoding (iRPE) method for positional encoding. Also, S-ViT has been modified so that all token embeddings, not just class token, participate in the decoding process. Through extensive experiment, we showed that S-ViT achieves better performance in closed-set than the other baseline models, and showed better performance than the baseline ViT-based models. For example, when using ArcFace as the loss function in the identification protocol, S-ViT achieved up to 3.27\% higher accuracy than ResNet50. We also show that the use of ArcFace loss functions yields greater performance gains in S-ViT than in baseline models. In addition, S-ViT has an advantage in cost-performance trade-off because it tends to be more robust to the pruning technique than the underlying model, ViT. Therefore, S-ViT offers the additional advantage, which can be applied more flexibly in the target devices with limited resources.</small> </p>
+                    </tr>                    
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="kim_sac23.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>MGCMA: Multi-scale Generator with Channel-wise Mask Attention for Synthetic Contrast-enhanced Chest Computed Tomography Generation</b></a>
                     </tr>
                 </thead>

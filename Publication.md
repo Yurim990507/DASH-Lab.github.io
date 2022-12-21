@@ -155,7 +155,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="jb_sac23.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="jb_sac23.png" style="max-height: 225px;max-width: 460px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>    
@@ -185,7 +185,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="jeong_prl.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="jeong_prl.jpg" style="max-height: 225px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>
@@ -211,7 +211,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="wacv22_kishor.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="wacv22_kishor.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>
@@ -1094,7 +1094,7 @@ Through this study, it was found that only the currently developed artificial in
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="www22_jaeju.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="www22_jaeju.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
 
@@ -1348,7 +1348,7 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="fakeceleb_nips2021.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img src="fakeceleb_nips2021.png" style="max-height: 225px;max-width: 470px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
     <hr>

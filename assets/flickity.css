@@ -144,7 +144,7 @@ https://flickity.metafizzy.co
   /* MODIFICATION  */
 .carousel {
 	width: 66%;
-	background: rgba(32, 37, 107, 0.315);
+	background: rgba(33, 40, 131, 0.466);
 	height: 40px;
 	opacity: 1;
 	
@@ -185,4 +185,40 @@ https://flickity.metafizzy.co
 
 .flickity-page-dots .dot.is-selected {
 	opacity: 1;
+}
+
+
+.pannel {
+	position: relative;
+	z-index: 1;
+	border-radius:  8px;
+	background-color: rgb(255, 255, 255); 
+	transition: all 0.2s ease-in-out;
+    /* border: 2px solid green;
+    box-shadow: 0 0 10px green; */
+    
+  }
+.pannel:hover {
+	z-index: 100;
+	transform: scale(1.2);
+	animation: neon_ani 0.5s ease-in-out infinite alternate;
+  }
+.pannel:hover h5 {
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #1E4C83;
+	text-stroke-width: 1px;
+	text-stroke-color: #1E4C83;
+  }
+  
+.pannel:not(:hover) {
+	z-index: 1;
+	transform: scale(1)
+  }
+  @keyframes neon_ani {
+    from {
+      box-shadow: 0 0 8px rgb(1, 47, 255);
+    }
+    to {
+      box-shadow: 0 0 18px rgb(61, 88, 243);
+    }
 }

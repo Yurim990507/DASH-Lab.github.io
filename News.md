@@ -59,7 +59,9 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
-Dec 2022. Invited to serve as a reviewer for <b>CVPR2023, ICML 2023, IJCAI 2023, and KDD 2023</b> 
+Jan 2023. Invited to participate in the prestigious seminar at <b> Schloss Dagstuhl (Leibniz Center for Informatics) https://www.dagstuhl.de/en/seminars/seminar-calendar (닥스툴 세미나) on <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23021">23021 Media Forensics and the Challenge of Big Data</a></b> <br>
+	
+Dec 2022. Invited to serve as a reviewer for <b>CVPR2023, ICML 2023, IJCAI 2023, and KDD 2023</b>  <br> 
 	
 Dec 2022. <b>Three full conference papers</b> are accepted at <b>ACM SAC 2023 (BK IF=1) </b> <br>
         

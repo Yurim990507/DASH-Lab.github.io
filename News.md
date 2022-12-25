@@ -30,11 +30,11 @@ permalink: /News/
 				<p>Annual retreat</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch2.jpg"/>
+				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch3.jpg"/>
 				<p>Annual retreat</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch3.jpg"/>
+				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch4.jpg"/>
 				<p>Annual retreat</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

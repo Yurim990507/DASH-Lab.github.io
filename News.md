@@ -61,7 +61,7 @@ permalink: /News/
 
 - Jan 2023. Invited to participate in the prestigious seminar at <b> <a href="https://en.wikipedia.org/wiki/Dagstuhl">Schloss Dagstuhl (Leibniz Center for Informatics)</a>  (<a href="https://www.dagstuhl.de/en/seminars/seminar-calendar">닥스툴 세미나</a>) on <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23021">23021 Media Forensics and the Challenge of Big Data</a></b> <br>
 	
-(독일 <a href="https://en.wikipedia.org/wiki/Dagstuhl">Schloss Dagstuhl (Leibniz Center for Informatics)</a>의 초정으로 <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=닥스툴+&oquery=닥스툴+세미나&tqi=hIA0XdprvxZssSn7iblssssssDR-274958"><u>닥스툴 세미나</u></a>에 초청 받음)	
+(독일 <a href="https://en.wikipedia.org/wiki/Dagstuhl">Schloss Dagstuhl (Leibniz Center for Informatics)</a>의 초정으로 <a href="https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=닥스툴+&oquery=닥스툴+세미나&tqi=hIA0XdprvxZssSn7iblssssssDR-274958"><u>닥스툴 세미나 (네이버 링크 참고)</u></a>에 초청 받음)	
 <br>	
 <br>
 <br>

@@ -3,9 +3,7 @@ layout: page
 title: Members
 permalink: /Members/
 ---
-
 <h1 class="page-title">{{ page.title | escape }}</h1>
-
 <div class="section">
     <b>I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br> <i>— Simon S. Woo</i><br>
     <h5>Ph.D.</h5> 
@@ -155,7 +153,6 @@ permalink: /Members/
                   <td>Object detection and Knowledge Distillation</td>
                   <td><i>kjinb1212 @ g dot skku dot edu</i></td>
                 </tr>
-
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -188,8 +185,7 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td> Computer Vision</td>
                   <td><i>taemo @ g dot skku dot edu</i></td>
-                </tr>
-                  
+                </tr>                  
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -200,8 +196,7 @@ permalink: /Members/
                   <td> AI (인공지능학과)  </td>
                   <td>Model compression</td>
                   <td><i>icanlgh0016 @ gmail dot com</i></td>
-                </tr>
-                
+                </tr>                
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

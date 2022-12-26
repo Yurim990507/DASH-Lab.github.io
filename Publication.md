@@ -27,6 +27,37 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+	<hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Design and Evaluation of Highly Accurate Smart Contract Code Vulnerability Detection Framework</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sowon Jeon, Gilhee Lee, Hyoungshick Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Data Mining and Knowledge Discovery</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Accepted, SCIE IF = 3.67 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Smart contracts are self-executing programs stored and executed on a blockchain platform. However, previous studies demonstrated that developing secure smart contracts is not easy. Unfortunately, the use of insecure smart contracts results in a significant financial loss for service providers or customers. Therefore, identifying security vulnerabilities in smart contracts would be essential in blockchain platforms using smart contracts. In this paper, we present <i>SmartConDetect</i> as a tool for detecting security vulnerabilities in Solidity smart contracts. <i>SmartConDetect</i> is a static analysis tool that extracts code fragments from Solidity smart contracts and uses a pre-trained BERT model to find susceptible code patterns. To demonstrate the performance of <i>SmartConDetect</i>, we use two public datasets, and our dataset (SmartConDataset) collected from the real-world Ethereum blockchain network. Our experimental results show that <i>SmartConDetect</i> significantly outperforms all state-of-the-art methods, achieving 90.9\% F1-score when using our own dataset. Specifically, <i>SmartConDetect</i> is about 2 times faster than SmartCheck in detection. Furthermore, we conduct a real-world case study to analyze the distribution of detected vulnerabilities.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="sowon.JPG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -625,37 +656,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
              <img src="jinpum_eccv22.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    <hr>    
-        <div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>Design and Evaluation of Highly Accurate Smart Contract Code Vulnerability Detection Framework</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sowon Jeon, Gilhee Lee, Hyoungshick Kim, and <i><b>Simon S. Woo*</b> </i> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Data Mining and Knowledge Discovery</b> </small> </p>
-                    </tr>
-                    <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Accepted, SCIE IF = 3.67 </font>
-                                </b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Smart contracts are self-executing programs stored and executed on a blockchain platform. However, previous studies demonstrated that developing secure smart contracts is not easy. Unfortunately, the use of insecure smart contracts results in a significant financial loss for service providers or customers. Therefore, identifying security vulnerabilities in smart contracts would be essential in blockchain platforms using smart contracts. In this paper, we present <i>SmartConDetect</i> as a tool for detecting security vulnerabilities in Solidity smart contracts. <i>SmartConDetect</i> is a static analysis tool that extracts code fragments from Solidity smart contracts and uses a pre-trained BERT model to find susceptible code patterns. To demonstrate the performance of <i>SmartConDetect</i>, we use two public datasets, and our dataset (SmartConDataset) collected from the real-world Ethereum blockchain network. Our experimental results show that <i>SmartConDetect</i> significantly outperforms all state-of-the-art methods, achieving 90.9\% F1-score when using our own dataset. Specifically, <i>SmartConDetect</i> is about 2 times faster than SmartCheck in detection. Furthermore, we conduct a real-world case study to analyze the distribution of detected vulnerabilities.</small> </p>
-                    </tr>                             
-                </tbody>
-            </table>
-            </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="sowon.JPG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div>
-         </div>
+    
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

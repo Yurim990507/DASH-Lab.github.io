@@ -20,6 +20,10 @@ permalink: /News/
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/21-1.jpg"/>
 				<p>Lab members (2021)</p>			
+			</div>			
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/dinner1.jpg"/>
+				<p>Lab dinner</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/family.jpg"/>
@@ -31,10 +35,6 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch3.jpg"/>
-				<p>Annual retreat</p>	
-			</div>
-			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch4.jpg"/>
 				<p>Annual retreat</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

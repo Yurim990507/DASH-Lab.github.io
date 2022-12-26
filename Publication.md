@@ -33,6 +33,37 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>KappaFace: Adaptive Additive Angular Margin Loss for Deep Face Recognition</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Chingis Oinar<sup>&dagger;</sup>, Binh M. Le<sup>&dagger;</sup>, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Transactions on Image Processing</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Under Major Revision, SCIE IF = 10.86 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Feature learning is a widely used method for a large-scale face recognition task. Recently, large-margin softmax loss methods have demonstrated significant improvements on deep face recognition. These methods propose fixed positive margins in order to enforce intra-class compactness and inter-class diversity. However, the majority of the proposed methods do not consider imbalanced learning issue, which is a major challenge in practice for developing deep face recognition models. Imbalanced learning might include both classes having different learning difficulties or different numbers of available training samples. We hypothesize that it significantly affects the generalization ability of the deep face models. Inspired by this, we introduce a novel adaptive strategy, called KappaFace, to modulate the relative importance based on class learning difficulty and its imbalance. Due to the von Mises-Fisher distribution, our proposed KappaFace loss can intensify margins for difficult-to-learn or under-represent classes while relaxing that of counter classes. Experiments conducted on popular facial benchmarks demonstrate that our proposed method achieves superior performance to the state-of-the-art methods.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="sowon.JPG" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+	<hr>    
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Design and Evaluation of Highly Accurate Smart Contract Code Vulnerability Detection Framework</b></a>
                     </tr>
                 </thead>

@@ -50,6 +50,9 @@ permalink: /Publications/
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Feature learning is a widely used method for a large-scale face recognition task. Recently, large-margin softmax loss methods have demonstrated significant improvements on deep face recognition. These methods propose fixed positive margins in order to enforce intra-class compactness and inter-class diversity. However, the majority of the proposed methods do not consider imbalanced learning issue, which is a major challenge in practice for developing deep face recognition models. Imbalanced learning might include both classes having different learning difficulties or different numbers of available training samples. We hypothesize that it significantly affects the generalization ability of the deep face models. Inspired by this, we introduce a novel adaptive strategy, called KappaFace, to modulate the relative importance based on class learning difficulty and its imbalance. Due to the von Mises-Fisher distribution, our proposed KappaFace loss can intensify margins for difficult-to-learn or under-represent classes while relaxing that of counter classes. Experiments conducted on popular facial benchmarks demonstrate that our proposed method achieves superior performance to the state-of-the-art methods.</small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="https://arxiv.org/pdf/2201.07394.pdf"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; </small> </p>
                     </tr>                             
                 </tbody>
             </table>

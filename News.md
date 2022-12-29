@@ -21,7 +21,7 @@ permalink: /News/
 				<p>Lab members (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=300 height=420  style=" border-radius: 8px;" src="/img/grad_student_22.jpg"/>
+				<img class="carousel-cell" border=0 width=280 height=420  style=" border-radius: 8px;" src="/img/grad_student_22.jpg"/>
 				<p>Ph.D. students (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

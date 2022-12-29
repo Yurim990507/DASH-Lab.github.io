@@ -34,11 +34,11 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_2022.jpg"/>
-				<p>ACG 2022</p>			
+				<p>AGC 2022</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_1_2022.jpg"/>
-				<p>ACG 2022</p>			
+				<p>AGC 2022</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/cikm_dinner.jpg"/>

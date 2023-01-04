@@ -27,7 +27,38 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
-	<hr>    
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Evaluating Racial Bias in Face Recognition APIs using Deepfakes</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Shahroz Tariq,  Sowon Jeon, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Computer Magazine</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>SCIE IF = 3.56 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Deep learning algorithms enable rapid growth in web-based services such as natural language processing, speech recognition, and facial recognition. Simultaneously, online fairness and trust remain unresolved. For example, racial bias in web-based face recognition services can lead to inaccurate results, causing severe technical and social issues and widespread distrust in AI-based systems. Deepfake on social media has posed several credibility issues. We evaluate the racial bias in face recognition APIs using real and deepfake celebrity images. We use deepfake generation methods to introduce small, imperceptible changes to the real images to shift the racial class of predictions. As a result, we show how deepfake images exacerbated racial bias in Amazon, Microsoft, and Naver web-based face recognition APIs. The findings are significant because they reveal similar vulnerabilities to those previously discovered through adversarial attacks but through a significantly different method.</small> </p>
+                    </tr>		                                
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="shahroz_ieee_computer.png" style="max-height: 175px;max-width: 490px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+	<hr>
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

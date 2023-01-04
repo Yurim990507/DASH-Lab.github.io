@@ -25,7 +25,7 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
-                <tr>
+<!--                 <tr>
                    <td align="center">
                        <div style="display:flex;flex-direction:column">  
                            	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">
@@ -36,8 +36,8 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                     <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
-                </tr>                
-                  <tr>
+                </tr>                 -->
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <a href="https://sites.google.com/view/binhminhle/home" target = "_blank">
@@ -50,7 +50,7 @@ permalink: /Members/
                   <td>Adversarial Robustness, Representation Learning</td>
                   <td><i>bmle @ g dot skku dot edu</i></td>
                 </tr>
-                 <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
@@ -330,6 +330,11 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                  <tr>
+                  <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a> (Ph.D.) 2022</td>
+                  <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
+                  <td>Hyundai Mobis</td>
+                 </tr>
                  <tr>
                   <td>Keeyoung Kim (Ph.D.) 2022</td>
                   <td>Computer Vision and Anomaly Detection</td>

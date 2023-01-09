@@ -41,7 +41,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Siwon Huh, Myungkyu Shim, Jihwan Lee, <b><i>Simon S. Woo</i></b>, Hyoungshick Kim, and Hojoon Lee </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Transactions on Dependable and Secure Computing</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

@@ -331,7 +331,7 @@ permalink: /Members/
               </thead>
               <tbody>
                   <tr>
-                  <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a> (Ph.D.) 2022</td>
+                  <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a> (Ph.D.) 2023</td>
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
                   <td>Hyundai Mobis</td>
                  </tr>

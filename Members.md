@@ -88,7 +88,6 @@ permalink: /Members/
           </div>
     </div>
 </div>
-
 <div class="section">
     <h5>Masters</h5> 
     <div class="row">
@@ -142,7 +141,7 @@ permalink: /Members/
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -152,7 +151,7 @@ permalink: /Members/
                   <td>AI (인공지능학과)</td>
                   <td>Object detection and Knowledge Distillation</td>
                   <td><i>kjinb1212 @ g dot skku dot edu</i></td>
-                </tr>
+                </tr> -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -164,7 +163,7 @@ permalink: /Members/
                   <td>Time-Series</td>
                   <td><i></i></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/jinyong_park.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -174,7 +173,7 @@ permalink: /Members/
                   <td>Applied Artificial Intelligence</td>
                   <td>Super Resolution, Multivariate Time-Series Anomaly Detection</td>
                   <td><i>jinpark1049 @ g dot skku dot edu</i></td>
-                </tr>
+                </tr> -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -186,7 +185,7 @@ permalink: /Members/
                   <td> Computer Vision</td>
                   <td><i>taemo @ g dot skku dot edu</i></td>
                 </tr>                  
-                <tr>
+<!--                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -196,7 +195,7 @@ permalink: /Members/
                   <td> AI (인공지능학과)  </td>
                   <td>Model compression</td>
                   <td><i>icanlgh0016 @ gmail dot com</i></td>
-                </tr>                
+                </tr>                 -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -227,12 +226,7 @@ permalink: /Members/
                     <th>Research Interests</th>
                 </tr>
               </thead>
-              <tbody>                  
-                  <tr>
-                  <td>Saebyeol Shin</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Model Compression</td>       
-                </tr>  
+              <tbody> 
                   <tr>
                   <td>Jin Songchan</td>
                   <td>Computer Science & Engineering</td>
@@ -330,6 +324,21 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                  <tr>
+                  <td>Gwanghan Lee (MS) 2023</td>
+                  <td>Model compression</td>
+                  <td>TBU</td>
+                 </tr>
+                  <tr>
+                  <td>Jinbeom Kim (MS) 2023</td>
+                  <td>Object detection and Knowledge Distillation</td>
+                  <td>TBU</td>
+                 </tr>
+                 <tr>
+                  <td>Saebyeol Shin (BS)</td>
+                  <td>Model compression</td>
+                  <td>TBU</td>
+                 </tr>
                   <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a> (Ph.D.) 2023</td>
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>

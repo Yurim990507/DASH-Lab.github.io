@@ -23,10 +23,41 @@ permalink: /Publications/
             <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ECCV"     src="https://img.shields.io/badge/ECCV-1-brightgreen?style=social"      height="20">&nbsp;
             <img alt="WACV"     src="https://img.shields.io/badge/WACV-1-brightgreen?style=social"      height="20">&nbsp; 
-            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-20-brightgreen?style=social"     height="20">
+            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-21-brightgreen?style=social"     height="20">
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+	<hr>
+	        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Distance adaptive graph convolutional gated network-based smart air quality monitoring and health risk prediction in sensor-devoid urban areas</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Shahzeb Tariq, Shahroz Tariq, SangYoun Kim, <b><i>Simon S. Woo</i></b>, and Chang Kyoo Yoo</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Journal of Sustainable Cities and Society</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>(Accepted) SCIE IF = 10.696 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Rapid urbanization and economic growth have increased air pollution, threatening human health and life expectancy, especially in developing nations. Strong air quality early warning systems for city sustainability have recently garnered attention. The present early warning frameworks in urban environments can only forecast air quality where sufficient sensor data is available. We propose a spatiotemporal sensor fusion-based distance adaptive graph convolutional gated network that predicts primary pollutants at multiple megacity locations and temporal horizons. Our remotely forecasted concentrations at a sensorless site matched city air quality distribution. The framework also solves critical problems of early warning systems related to long-term sensor failure and prediction at a new location in the city. </small> </p>
+                    </tr>		                               
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img src="tariq_civil.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
 	<hr>
 	        <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

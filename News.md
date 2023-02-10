@@ -18,7 +18,7 @@ permalink: /News/
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/lab_dinner2023.jpg"/>
-				<p>Lab members (2022)</p>			
+				<p>Lab dinner (Feb 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/lab_mem2022.jpg"/>

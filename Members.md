@@ -25,18 +25,6 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
-<!--                 <tr>
-                   <td align="center">
-                       <div style="display:flex;flex-direction:column">  
-                           	<a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">
-                                <img src="/img/SangyupLee.jpg" alt="" height="auto" width="128" style="border-radius:45%"  ><br>
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sangyup Lee
-                           </a>                         
-                       </div></td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
-                  <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
-                    <td><i>sangyup dot lee @ g dot skku dot edu</i></td>
-                </tr>                 -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -119,7 +107,7 @@ permalink: /Members/
                   <td> Anomaly Detection</td>    
                      <td><i></i></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img src="/img/JunghoKim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -129,7 +117,7 @@ permalink: /Members/
                   <td> CS/수학 (인공지능학과 학석연계)</td>
                   <td> Computer Vision and Deepfakes</td>       
                       <td><i>rlawkdghek @ g dot skku dot edu</i></td>
-                </tr>              
+                </tr>               -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -324,6 +312,10 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                  <tr>
+                  <td>Jungho Kim (MS) 2023</td>
+                  <td>Knowledge distillation</td>
+                  <td>KAIST</td>
                   <tr>
                   <td>Gwanghan Lee (MS) 2023</td>
                   <td>Model compression</td>

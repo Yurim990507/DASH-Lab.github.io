@@ -152,7 +152,29 @@ permalink: /Members/
                   <td> Electrical and Computer Engineering  </td>
                   <td>Time series and security</td>
                   <td><i>olmizr @ g dot skku dot edu</i></td>
-                </tr>            
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/Spike.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cho Beomsang
+                      </div>
+                  </td>
+                  <td>Computer Science & Engineering </td>
+                  <td>Anomaly Detection</td>
+                  <td><i>gababsang @ skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/Sangyong.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Sangyong
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Differential privacy </td>
+                  <td><i>sang8961 @ g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

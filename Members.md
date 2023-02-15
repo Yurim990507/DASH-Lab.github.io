@@ -219,8 +219,6 @@ permalink: /Members/
           </div>
     </div>
 </div>
-
-
 <div class="section">
     <h5>Master Thesis/Capstone Project Supervision</h5> 
     <div class="row">
@@ -287,7 +285,6 @@ permalink: /Members/
           </div>
     </div>
 </div>
-
 <div class="section">
     <h5>Alumni</h5> 
     <div class="row">

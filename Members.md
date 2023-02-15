@@ -168,7 +168,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/Sangyong.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Sangyong
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lee Sangyong
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>

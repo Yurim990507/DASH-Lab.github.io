@@ -107,17 +107,6 @@ permalink: /Members/
                   <td> Anomaly Detection</td>    
                      <td><i></i></td>
                 </tr>
-<!--                 <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <img src="/img/JunghoKim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;JungHo Kim
-                      </div>
-                     </td>
-                  <td> CS/수학 (인공지능학과 학석연계)</td>
-                  <td> Computer Vision and Deepfakes</td>       
-                      <td><i>rlawkdghek @ g dot skku dot edu</i></td>
-                </tr>               -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -129,39 +118,19 @@ permalink: /Members/
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
                 </tr>
-<!--                 <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Jinbeom Kim
-                      </div>
-                  </td>
-                  <td>AI (인공지능학과)</td>
-                  <td>Object detection and Knowledge Distillation</td>
-                  <td><i>kjinb1212 @ g dot skku dot edu</i></td>
-                </tr> -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img src="/img/kishor_photo.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          Kishor Kumar Bhaumik
+                          <a href="https://kishor-bhaumik.github.io/" target = "_blank">
+                            <img src="/img/kishor_photo.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            Kishor Kumar Bhaumik
+                          </a>
                       </div>
                   </td>
                   <td>Computer Science & Engineering</td>
-                  <td>Time-Series</td>
-                  <td><i></i></td>
+                  <td>Image Manipulation Detection, Deepfake, Time Series</td>
+                  <td><i>kishor25 @ g dot skku dot edu</i></td>
                 </tr>
-<!--                 <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/jinyong_park.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Jinyong Park
-                      </div>
-                  </td>
-                  <td>Applied Artificial Intelligence</td>
-                  <td>Super Resolution, Multivariate Time-Series Anomaly Detection</td>
-                  <td><i>jinpark1049 @ g dot skku dot edu</i></td>
-                </tr> -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -173,17 +142,6 @@ permalink: /Members/
                   <td> Computer Vision</td>
                   <td><i>taemo @ g dot skku dot edu</i></td>
                 </tr>                  
-<!--                 <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Gwanghan Lee
-                      </div>
-                  </td>
-                  <td> AI (인공지능학과)  </td>
-                  <td>Model compression</td>
-                  <td><i>icanlgh0016 @ gmail dot com</i></td>
-                </tr>                 -->
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -194,14 +152,12 @@ permalink: /Members/
                   <td> Electrical and Computer Engineering  </td>
                   <td>Time series and security</td>
                   <td><i>olmizr @ g dot skku dot edu</i></td>
-                </tr> 
-                  
+                </tr>            
               </tbody>
             </table>
           </div>
     </div>
 </div>
-
 <div class="section">
     <h5>Undergraduate</h5> 
     <div class="row">

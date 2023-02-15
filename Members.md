@@ -71,6 +71,17 @@ permalink: /Members/
                   <td>Multi-model, Deepfake detection, Representation learning </td>
                   <td><i>hoo0681 @ g dot skku dot edu</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/KangjunLee.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Kangjun Lee
+                      </div>
+                  </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Time-Series Anomaly Detection & Forecasting</td>
+                  <td><i>gkdl677 @ g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>
@@ -168,13 +179,13 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/Sangyong.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lee Sangyong
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lee SangYong
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>
                   <td> Differential privacy </td>
                   <td><i>sang8961 @ g dot skku dot edu</i></td>
-                </tr>
+                </tr>                
               </tbody>
             </table>
           </div>

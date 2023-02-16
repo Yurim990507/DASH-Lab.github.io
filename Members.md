@@ -185,7 +185,29 @@ permalink: /Members/
                   <td> Arificial Intelligence </td>
                   <td> Differential privacy </td>
                   <td><i>sang8961 @ g dot skku dot edu</i></td>
-                </tr>                
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiwon Kim
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Computer Vision & Multi-modal </td>
+                  <td><i>jiwon.merily.kim @ gmail dot com</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/songeonho.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Son GeonHo
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Multi-Modal, Super Resolution </td>
+                  <td><i> sohn1029 @ g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

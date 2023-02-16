@@ -200,6 +200,17 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seungyeon Back 
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Computer Vision </td>
+                  <td><i>syon1203 @ g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
                         <img src="/img/songeonho.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Son GeonHo
                       </div>

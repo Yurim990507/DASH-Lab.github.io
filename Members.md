@@ -219,6 +219,17 @@ permalink: /Members/
                   <td> Multi-Modal, Super Resolution </td>
                   <td><i> sohn1029 @ g dot skku dot edu</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/mahim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;Syed Amin Al Mahim
+                      </div>
+                  </td>
+                  <td> Computer Science & Engineering  </td>
+                  <td>Computer Vision, Time Series, Deepfake</td>
+                  <td><i> hasibmahim @ g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

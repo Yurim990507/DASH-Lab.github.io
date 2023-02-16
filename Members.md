@@ -363,7 +363,7 @@ permalink: /Members/
                  <tr>
                   <td>Youjin Shin (Ph.D.) 2022</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
-                  <td>Catholic University in Seoul</td>
+                  <td>Department of Data Science, The Catholic University of Korea</td>
                  </tr>
                  <tr>
                   <td>Chingis Oinar (BS) 2022</td>

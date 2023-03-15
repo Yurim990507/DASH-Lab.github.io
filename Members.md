@@ -82,6 +82,19 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting</td>
                   <td><i>gkdl677 @ g dot skku dot edu</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <a href="#" target = "_blank">
+                              <img src="/img/Eric.jpg" alt="Photo" height="auto" width="128" style="border-radius:45%" ><br>
+                              &nbsp;&nbsp;&nbsp;&nbsp; Erkinboy Botirov
+                          </a>
+                      </div>
+                     </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision, Deepfake</td>
+                  <td><i>erkinboy dot botirov @ g dot skku dot edu</i></td>
+                </tr>
               </tbody>
             </table>
           </div>

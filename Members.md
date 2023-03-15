@@ -42,7 +42,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp; Eun-Ju Park
+                          &nbsp;&nbsp;&nbsp;&nbsp;Eun-Ju Park
                       </div>
                   </td>
                   <td>Computer Science & Engineering</td>
@@ -53,7 +53,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/JuhunLee.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp; Juhun Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juhun Lee
                       </div>
                   </td>
                   <td>Artificial Intelligence</td>
@@ -64,7 +64,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/SeungHooHong.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp; SeungHoo Hong
+                          &nbsp;&nbsp;&nbsp;&nbsp;SeungHoo Hong
                       </div>
                   </td>
                   <td>Artificial Intelligence</td>
@@ -75,7 +75,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/KangjunLee.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Kangjun Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kangjun Lee
                       </div>
                   </td>
                   <td>Computer Science & Engineering</td>
@@ -85,10 +85,8 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <a href="#" target = "_blank">
-                              <img src="/img/Eric.jpg" alt="Photo" height="auto" width="128" style="border-radius:45%" ><br>
-                              &nbsp;&nbsp;&nbsp;&nbsp; Erkinboy Botirov
-                          </a>
+                          <img src="/img/Eric.jpg" alt="Photo" height="auto" width="128" style="border-radius:45%" ><br>
+                          &nbsp;&nbsp;&nbsp; Erkinboy Botirov
                       </div>
                      </td>
                   <td>Computer Science & Engineering</td>
@@ -170,7 +168,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mira Lee
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mira Lee
                       </div>
                   </td>
                   <td> Electrical and Computer Engineering  </td>
@@ -203,7 +201,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiwon Kim
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jiwon Kim
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>
@@ -236,7 +234,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/mahim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;Syed Amin Al Mahim
+                          &nbsp;&nbsp;Syed Amin Al Mahim
                       </div>
                   </td>
                   <td> Computer Science & Engineering  </td>

@@ -913,7 +913,11 @@ Through this study, it was found that only the currently developed artificial in
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Anomaly detection in high-dimensional time series is typically tackled using either reconstruction- or forecasting-based deep learning algorithms. Both streams of approach have seen enormous success in terms of detection accuracy due to their abilities to learn compressed data representations and model temporal dependencies, respectively. However, most existing methods disregard the relationships between features, information that would be extremely useful when incorporated into the model. How can we effectively combine the best of reconstruction and forecasting models while also capturing feature interdependencies? In this work, we introduce Fused Sparse Autoencoder and Graph Net (FuSAGNet), which jointly optimizes reconstruction and forecasting while explicitly modeling the relationships within multivariate time series. Our approach combines Sparse Autoencoder and Graph Neural Network, the latter of which predicts future time series behavior from sparse latent representations learned by the former as well as graph structures learned through recurrent feature embedding. Experimenting on three real-world cyber-physical system datasets, we empirically demonstrate that the proposed method enhances the overall anomaly detection performance, outperforming baseline approaches. Moreover, we show that mining sparse latent patterns from high-dimensional time series improves the robustness of the graph-based forecasting model. Lastly, we conduct visual analyses to investigate the interpretability of both recurrent feature embedding vectors and sparse latent representations. </small> </p>
-                    </tr>                             
+                    </tr> 
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539117"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
+                                    href="https://github.com/sihohan/FuSAGNet"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                    </tr>
                 </tbody>
             </table>
             </div>

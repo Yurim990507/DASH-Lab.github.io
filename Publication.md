@@ -46,7 +46,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>F.F Nioy, Kishor Bhaumik, and <b><i>Simon S. Woo</i></b></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 2nd Workshop on the security implications of Deepfakes and Cheapfakes (DWC'23)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 2nd Workshop on the security implications of Deepfakes and Cheapfakes (WDC'23)</b> </small> </p>
                     </tr>                    
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Deepfake videos are mostly generated in a frame-by-frame manner, which leaves visible object-level inconsistencies in both temporal and spatial dimensions. In this paper, we propose a novel deepfake video detection method that exploits this important clue. Specifically, we extract object representations using vision transformers from video frames and then model the object-level coherence in both intra-frame and inter-frame manner. We experiment on benchmark dataset to show that our method outperforms several existing methods in deepfake video detection. </small> </p>
@@ -72,7 +72,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh Le, Shahroz Tariq, Alsharif Abuadbba, Kristen Moore, and <b><i>Simon S. Woo</i></b></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 2nd Workshop on the security implications of Deepfakes and Cheapfakes (DWC'23)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 2nd Workshop on the security implications of Deepfakes and Cheapfakes (WDC'23)</b> </small> </p>
                     </tr>                    
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Recent rapid advancements in deepfake technology have allowed the creation of highly realistic fake media, such as video, image, and audio. These materials pose significant challenges to human authentication, such as impersonation, misinformation, or even a threat to national security. To keep pace with these rapid advancements, several deepfake detection algorithms have been proposed, leading to an ongoing arms race between deepfake creators and deepfake detectors. Nevertheless, these detectors are often unreliable and frequently fail to detect deepfakes. This study highlights the challenges they face in detecting deepfakes, including (1) the pre-processing pipeline of artifacts and (2) the fact that generators of new, unseen deepfake samples have not been considered when building the defense models. Our work sheds light on the need for further research and development in this field to create more robust and reliable detectors.

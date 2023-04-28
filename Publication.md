@@ -22,7 +22,7 @@ permalink: /Publications/
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
             <img alt="AAAI"     src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
-	    	<img alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-1-brightgreen?style=social"     height="20">&nbsp;	
+	    <img alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-1-brightgreen?style=social"     height="20">&nbsp;	
             <img alt="ACMMM"    src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social"     height="20">&nbsp;
             <img alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
@@ -33,38 +33,6 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
-	<hr>
-	<div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>IMF: Integrating Matched Features using Attentive Logit in Knowledge Distillation</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeongho Kim, Hanbeen Lee,  and <b><i>Simon S. Woo</i></b></small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 32nd International Joint Conference on Artificial Intelligence, IJCAI2023 (Acceptance rate: 15%)</b> </small> </p>
-                    </tr>
-					<tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK IF=4 </font>
-                                </b> </small> </p>
-                    </tr>                    
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Knowledge distillation (KD) is an effective method for transferring the knowledge of a teacher model to a student model, that aims to improve the latter's performance efficiently.Although generic knowledge distillation methods such as softmax representation distillation and intermediate feature matching have demonstrated improvements with various tasks, only marginal improvements are shown in student networks due to their limited model capacity.In this work, to address the student model's limitation, we propose a novel flexible KD framework, Integrating Matched Features using Attentive Logit in Knowledge Distillation (IMF). Our approach introduces an intermediate feature distiller (IFD) to improve the overall performance of the student model by directly distilling the teacher's knowledge into branches of student models.The generated output of IFD, which is trained by the teacher model, is effectively combined by attentive logit. We use only a few blocks of the student and the trained IFD during inference, requiring an equal or less number of parameters.Through extensive experiments, we demonstrate that IMF consistently outperforms other state-of-the-art methods with a large margin over the various datasets in different tasks without extra computation.
-						</small> </p>
-                    </tr>		                               
-                </tbody>
-            </table>
-            </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="imf_ijcai.png" style="max-height: 225px;max-width: 225px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div>
-         </div>	
 	<hr>
 	        <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -359,7 +327,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=1</font>
+			    <font color='blue'>BK Computer Science IF=1 (<b><a href="https://cs.skku.edu/ko/edures/research/view/7141">Best Paper Award</a></b>)</font>
                                 </b> </small> </p>
                     </tr>                    
                     <tr>

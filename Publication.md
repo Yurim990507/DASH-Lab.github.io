@@ -7,19 +7,19 @@ permalink: /Publications/
 <h1 class="page-title">Publications</h1>
 <center>
 <a href="https://github.com/DASH-Lab/deepfakeResearch" target="_blank"> 
-<img alt="deepfakes"     src="https://img.shields.io/badge/Deepfakes Research-Visit-brightgreen"      height="25">
+<img alt="deepfakes"     src="https://img.shields.io/badge/Deepfakes Research-Visit-brightgreen"      height="22">
 </a>
 	
 <a href="https://github.com/DASH-Lab/anomaly_detection_research" target="_blank"> 
-<img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-Visit-brightgreen"      height="25">
+<img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-Visit-brightgreen"      height="22">
 </a>
 
 <a href="#" target="_blank"> 
-<img alt="privacyResearch"   src="https://img.shields.io/badge/ML Privacy Research-Visit-brightgreen"      height="25">
+<img alt="privacyResearch"   src="https://img.shields.io/badge/ML Privacy Research-Visit-brightgreen"      height="22">
 </a>
 
 <a href="#" target="_blank"> 
-<img alt="FaceRecovery"   src="https://img.shields.io/badge/Face Recog Recovery-Visit-brightgreen"      height="25">
+<img alt="FaceRecovery"   src="https://img.shields.io/badge/Face Recog Recovery-Visit-brightgreen"      height="22">
 </a>	
 	
 	

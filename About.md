@@ -10,6 +10,7 @@ permalink: /About/
 
 <div class="section">
     <h5>About me</h5> 
+        ◼ SKKU Fellowship Professor 2023 (<a href="https://cs.skku.edu/ko/edures/education/view/7054">News</a>)<br>
         ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
         ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
         ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>

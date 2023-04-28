@@ -22,6 +22,7 @@ permalink: /Publications/
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
             <img alt="AAAI"     src="https://img.shields.io/badge/AAAI-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
+	    <img alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-1-brightgreen?style=social"     height="20">&nbsp;	
             <img alt="ACMMM"    src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social"     height="20">&nbsp;
             <img alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
@@ -59,7 +60,7 @@ permalink: /Publications/
             </div>
          </div>
 	<hr>
-	        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>

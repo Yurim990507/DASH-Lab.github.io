@@ -169,7 +169,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) SCIE IF = 3.56 </font>
+                               <font color='blue'>SCIE IF = 3.56 (2023 May)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -196,7 +196,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Chingis Oinar<sup>&dagger;</sup>, Binh M. Le<sup>&dagger;</sup>, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Transactions on Image Processing</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Under submission </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

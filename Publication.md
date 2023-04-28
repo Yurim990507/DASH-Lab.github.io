@@ -14,11 +14,11 @@ permalink: /Publications/
 <img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-Visit-brightgreen"      height="22">
 </a>
 
-<a href="#" target="_blank"> 
+<a href="https://github.com/DASH-Lab/ML_privacy_research" target="_blank"> 
 <img alt="privacyResearch"   src="https://img.shields.io/badge/ML Privacy Research-Visit-brightgreen"      height="22">
 </a>
 
-<a href="#" target="_blank"> 
+<a href="https://github.com/DASH-Lab/FaceRecogRecovery" target="_blank"> 
 <img alt="FaceRecovery"   src="https://img.shields.io/badge/Face Recog Recovery-Visit-brightgreen"      height="22">
 </a>	
 	

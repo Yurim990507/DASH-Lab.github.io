@@ -135,7 +135,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) SCIE IF = 7.32 </font>
+                               <font color='blue'>SCIE IF = 7.32 (Jan 2023) </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

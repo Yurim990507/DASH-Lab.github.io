@@ -10,11 +10,11 @@ permalink: /Publications/
 <img alt="deepfakes"     src="https://img.shields.io/badge/Deepfakes Research-visit-brightgreen"      height="25">
 </a>
 	
-<a href="#"> 
+<a href="#" target="_blank"> 
 <img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-visit-brightgreen"      height="25">
 </a>
 
-<a href="#"> 
+<a href="#" target="_blank"> 
 <img alt="privacyResearch"   src="https://img.shields.io/badge/ML Privacy Research-visit-brightgreen"      height="25">
 </a>
 

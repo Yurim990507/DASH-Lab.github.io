@@ -15,7 +15,7 @@ permalink: /Publications/
 </a>
 
 <a href=#> 
-<img alt="privacyResearch"   src="https://img.shields.io/badge/MLPrivacy Research-visit-brightgreen"      height="25">
+<img alt="privacyResearch"   src="https://img.shields.io/badge/ML Privacy Research-visit-brightgreen"      height="25">
 </a>
 
 	

@@ -9,6 +9,12 @@ permalink: /Publications/
 <a href="https://github.com/DASH-Lab/deepfakeResearch"> 
 <img alt="deepfakes"     src="https://img.shields.io/badge/Deepfakes Research-visit-brightgreen"      height="25">
 </a>
+	
+<a href=#> 
+<img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-visit-brightgreen"      height="25">
+</a>
+	
+	
 </center>
 
 <div style="margin-top:2vw;">

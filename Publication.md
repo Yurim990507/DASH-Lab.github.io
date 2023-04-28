@@ -19,7 +19,7 @@ permalink: /Publications/
 </a>
 
 <a href="#" target="_blank"> 
-<img alt="FaceRecovery"   src="https://img.shields.io/badge/Face Recovery-Visit-brightgreen"      height="25">
+<img alt="FaceRecovery"   src="https://img.shields.io/badge/Face Recog Recovery-Visit-brightgreen"      height="25">
 </a>	
 	
 	

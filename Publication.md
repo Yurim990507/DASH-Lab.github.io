@@ -13,6 +13,11 @@ permalink: /Publications/
 <a href=#> 
 <img alt="anomaly"   src="https://img.shields.io/badge/Anomaly Detection-visit-brightgreen"      height="25">
 </a>
+
+<a href=#> 
+<img alt="privacyResearch"   src="https://img.shields.io/badge/MLPrivacy Research-visit-brightgreen"      height="25">
+</a>
+
 	
 	
 </center>

@@ -6,7 +6,7 @@ permalink: /Publications/
 
 <h1 class="page-title">Publications</h1>
 <center>
-<a href="https://github.com/DASH-Lab/deepfakeResearch"> 
+<a href="https://github.com/DASH-Lab/deepfakeResearch" target="_blank"> 
 <img alt="deepfakes"     src="https://img.shields.io/badge/Deepfakes Research-visit-brightgreen"      height="25">
 </a>
 	

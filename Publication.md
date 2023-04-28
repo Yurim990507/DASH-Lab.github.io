@@ -47,7 +47,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Jeongho Kim, Hanbeen Lee, and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 32nd International Joint Conference on Artificial Intelligence, August 2023</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 32nd International Joint Conference on Artificial Intelligence, Macao, August 2023</b></a></small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -61,7 +61,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img src="imf_ijcai.png" style="max-height: 175px;max-width: 380px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img src="imf_ijcai.png" style="max-height: 175px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
 	<hr>

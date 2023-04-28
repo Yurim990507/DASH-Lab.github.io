@@ -200,7 +200,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Under Submission) https://arxiv.org/abs/2201.07394</font>
+			    <font color='blue'><a href="https://arxiv.org/abs/2201.07394">aXiv</a></font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

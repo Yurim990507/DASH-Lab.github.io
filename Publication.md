@@ -43,7 +43,7 @@ permalink: /Publications/
             <img alt="RAID"     src="https://img.shields.io/badge/RAID-1-brightgreen?style=social"      height="20">&nbsp;            
             <img alt="ECCV"     src="https://img.shields.io/badge/ECCV-1-brightgreen?style=social"      height="20">&nbsp;
             <img alt="WACV"     src="https://img.shields.io/badge/WACV-1-brightgreen?style=social"      height="20">&nbsp; 
-            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-21-brightgreen?style=social"     height="20">
+            <img alt="SCIE"     src="https://img.shields.io/badge/SCIE-22-brightgreen?style=social"     height="20">
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>

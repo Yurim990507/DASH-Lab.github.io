@@ -47,6 +47,42 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+	<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Expectation-Maximization via Pretext-Invariant Representations</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chingis Oinar, Binh M. Le, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>ww
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Access</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                                    <font color='purple'>SCIE Q1 IF=3.47</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Contrastive learning methods have been widely adopted in numerous unsupervised and self-supervised visual representation learning methods. Such algorithms aim to maximize the cosine similarity between two positive samples while minimizing that of the negative samples. Recently, Grill <i>et al.</i> propose an algorithm, BYOL, to utilize only positive samples, completely giving up on negative ones, by introducing a Siamese-like asymmetric architecture. Although many recent SOTA methods adopt the architecture, most of them simply introduce the additional neural network, the predictor, without much exploration of the asymmetrical architecture. In contrast, He  <i>et al.</i> propose SimSiam, a simple Siamese architecture relying on the stop-gradient operation instead of the momentum encoder and describe the framework from the perspective of Expectation-Maximization. We argue that BYOL-like algorithms attain suboptimal performance due to representation inconsistency during training. In this work, we explain and propose a novel self-supervised objective, Expectation-Maximization via Pretext-Invariant Representations (Empir), which enhances Expectation-Maximization-based optimization in BYOL-like algorithms by enforcing augmentation invariance within a local region of k nearest neighbors, resulting in consistent representation learning. In other words, we propose Expectation-Maximization as a core task of asymmetric architectures. We show that it consistently outperforms other SOTA algorithms by a decent margin. We also demonstrate its transfer learning capabilities on downstream image recognition tasks.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
+                                    href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440969"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a></small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="empir_overall.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 	<hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -1984,7 +2020,6 @@ SEX-92, synthesized LibriSpeech and NOISEX-92, and a Publicly Recorded dataset),
             <img src="nb.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
-
     <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

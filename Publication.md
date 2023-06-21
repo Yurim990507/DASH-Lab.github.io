@@ -60,7 +60,7 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chingis Oinar, Binh M. Le, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
-                    <tr>ww
+                    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>IEEE Access</b> </small> </p>
                     </tr>
                     <tr>

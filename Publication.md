@@ -80,7 +80,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="empir_overall.png" style="max-height: 190px;max-width: 250px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img src="empir_overall.png" style="max-height: 190px;max-width: 290px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>    

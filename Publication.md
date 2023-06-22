@@ -47,7 +47,34 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
-	<hr>
+<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>HRFNet: High-Resolution Forgery Network for Localizing Satellite Image Manipulation</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Fahim Faisal Niloy, Kishor Kumar Bhaumik, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>IEEE International Conference on Image Processing, Kuala Lumpur, Oct. 2023</b></a></small> </p>
+                    </tr>			                
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Existing high-resolution satellite image forgery localization methods rely on patch-based or downsampling-based training. Both of the training methods have major drawbacks, such as, inaccurate boundary between pristine and forged region, generation of unwanted artifacts, etc. To tackle aforementioned challenges, inspired from the high-resolution image segmentation literature, we propose a novel model called \textit{HRFNet} to effectively enable satellite image forgery localization. Specifically, equipped with shallow and deep branches, our model can successfully integrate RGB and resampling features in both global and local manner to localize forgery more accurately. We experiment on popular satellite image manipulation dataset to demonstrate that our method achieves the best performance, while the memory requirement and processing speed are not compromised compared to existing methods.</small> </p>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="hrfnet_arch.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+<hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -81,7 +108,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="empir_arch.png" style="max-height: 225px;max-width: 600px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img src="empir_arch.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>    

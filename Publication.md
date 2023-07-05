@@ -69,6 +69,9 @@ permalink: /Publications/
                 </tbody>
             </table>
         </div>
+	    <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="songchan_hanconf23.png" style="max-height: 180px;max-width: 420px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        	</div>
     </div>
 <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">

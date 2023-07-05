@@ -269,6 +269,11 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Computer Vision</td>       
                 </tr>  
+                  <tr>
+                  <td>Moon Hakjun</td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Computer Vision</td>       
+                </tr>  
               </tbody>
             </table>
           </div>

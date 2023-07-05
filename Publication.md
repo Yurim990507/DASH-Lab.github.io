@@ -53,6 +53,29 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Selective unlearning for DNN based model</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Song-Chan Jin and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2023 한국정보보호학회 하계학술대회</b></a></small> </p>
+                    </tr>			                
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>본 논문에서 제안하는 선택적 망각이란 딥러닝 모델이 일부 지식을 선택적으로 잊어버리는 것을 의미하며, 개인정보 보호를 위해 도입되었다. 이를 위해 데이터 재수정 및 모델 재학습 등의 방법이 있지만, 이러한 방법들은 일반적으로 계산량이 많거나 모델의 성능을 크게 저하시키는 문제가 있어서 이에 대한 대안으로 작은 데이터셋으로 다른 데이터들에 대한 지식은 유지한 채 특정 데이터들에 대한 지식만 잊는 경사 상승법을 소개하고 있다. 본 논문에서는 경사 상승법을 통하여 기존 재학습 기법 대비 9배 적은 계산량으로 선택적 망각을 수행할 수 있다는 결과를 얻었다.</small> </p>
+                    </tr>                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>HRFNet: High-Resolution Forgery Network for Localizing Satellite Image Manipulation</b></a>
                     </tr>
                 </thead>

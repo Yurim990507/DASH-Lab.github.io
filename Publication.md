@@ -48,6 +48,33 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
 <hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Manipulated ID Card Classification using Deep Neural Networks</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hakjun Moon, Eunju Park, Jeongho Kim, Kwansik Yoon, Yeonah Seo, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2023 한국정보보호학회 하계학술대회</b></a></small> </p>
+                    </tr>			                
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>2023 한국정보보호학화 하계학술대회
+딥러닝 기반 신원 인증 시스템에 대해 제시하였으며, 비대면 상황에서 주민등록증이나 운전면허증과 같은 신분증의 진위를 확인하는 문제에 집중하였다. 딥러닝과 특징 추출 기법을 이용하여 신분증 이미지가 실물인지, 혹은 디지털 방식으로 조작되었는지 판별하도록 모델을 학습하였으며, 최대 96.6%의 높은 분류 정확도를 보였다. 이런 결과는 신원 인증과 보안의 중요성이 갈수록 부각되는 현재 사회에서 중요한 의미를 가진다.</small> </p>
+                    </tr>                    
+                </tbody>
+            </table>
+        </div>
+	    <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="moon_hanconf23.png" style="max-height: 180px;max-width: 420px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+	</div>
+    </div>
+<hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

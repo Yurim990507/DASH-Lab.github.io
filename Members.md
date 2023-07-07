@@ -82,7 +82,6 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting</td>
                   <td><i>gkdl677 @ g dot skku dot edu</i></td>
                 </tr>
-
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -90,11 +89,10 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;이현근
                       </div>
                   </td>
-                  <td>Applied AI</td>
+                  <td>Applied Artificial Intelligence</td>
                   <td>Anomaly Detection </td>
                   <td><i></i></td>
                 </tr>
-
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

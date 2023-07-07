@@ -306,6 +306,18 @@ permalink: /Members/
                   <td>Anomaly Detection</td>
                 </tr>
                 <tr>
+                  <td>김근수 ('22)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Hyndai Kefico --> Applied Materials</td>
+                  <td>Model Compression</td>
+                </tr>
+                <tr>
+                  <td>주기형 ('21)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>현대자동차 연구소</td>
+                  <td>강화학습n</td>
+                </tr>
+                <tr>
                   <td>Seunghwa Song</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Citi Bank</td>

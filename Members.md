@@ -294,9 +294,9 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
-                  <td>인정현 ('23)</td>
+                  <td>경윤영</td>
                   <td>Applied Data Science (데이터사이언스)</td>
-                  <td>Samsung Display AI Research Center</td>
+                  <td>Samsung Display AI팀</td>
                   <td>Anomaly Detection</td>
                 </tr>
                   <tr>
@@ -316,6 +316,12 @@ permalink: /Members/
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Hyndai Kefico --> Applied Materials</td>
                   <td>Model Compression</td>
+                </tr>
+                <tr>
+                  <td>하민성 ('22)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Samsung Elec</td>
+                  <td>Anomaly Detection</td>
                 </tr>
                 <tr>
                   <td>주기형 ('21)</td>

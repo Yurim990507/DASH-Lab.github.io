@@ -273,7 +273,7 @@ permalink: /Members/
                       </div>
                      </td>
                   <td>Applied AI</td>
-                  <td>Top Secret Project</td>    
+                  <td>Top Secret AI Project</td>    
                      <td><i></i></td>
                 </tr>
                   

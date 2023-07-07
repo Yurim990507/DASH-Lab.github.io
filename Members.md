@@ -294,6 +294,18 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
+                  <td>변규백 ('23)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Samsung Elec</td>
+                  <td>Self-Supervised Learning</td>
+                </tr>
+                <tr>
+                  <td>인정현 ('23)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Samsung Display AI Research Center</td>
+                  <td>Anomaly Detection</td>
+                </tr>
+                <tr>
                   <td>Seunghwa Song</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Citi Bank</td>

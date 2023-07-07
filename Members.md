@@ -372,11 +372,6 @@ permalink: /Members/
                   <td>Object detection and Knowledge Distillation</td>
                   <td>LIG 넥스원</td>
                  </tr>
-                 <tr>
-                  <td>Saebyeol Shin (BS)</td>
-                  <td>Model compression</td>
-                  <td>TBU</td>
-                 </tr>
                   <tr>
                   <td><a href = "https://sites.google.com/view/sangyuplee/" target = "_blank">Sangyup Lee</a> (Ph.D.) 2023</td>
                   <td>Time-Series Anomaly Detection & Forecasting, Deepfakes Detection, Multi-media Forensics</td>
@@ -413,6 +408,11 @@ permalink: /Members/
                       <td>Naver 클로바</td>
                 </tr>
                 <tr>
+                  <td>이상원 (MS) 2020</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Ernest & Young --> Amazon AWS, Korea</td>
+                </tr>
+                <tr>
                       <td>Sowon Jeon (MS) 2021</td>
                       <td>Privacy, AI Security</td>
                       <td>KPMG Korea</td>
@@ -433,11 +433,6 @@ permalink: /Members/
                       <td>Asiana Air</td>
                 </tr>
                 <tr>
-                  <td>Youngoh Bang (MS) 2020</td>
-                  <td>AI (인공지능학과)</td>
-                  <td>TMaxSoft</td>
-                </tr>
-                <tr>
                     <td>Junyaup Kim (MS) 2021</td>
                     <td>Fake Image Detection, Speech Applications</td>
                     <td>한화시스템즈</td>
@@ -446,6 +441,11 @@ permalink: /Members/
                     <td>Siho Han (MS) 2021</td>
                     <td>Time-series Anomaly Detection</td>
                     <td>RTM</td>
+                </tr>
+                <tr>
+                  <td>Youngoh Bang (MS) 2020</td>
+                  <td>AI (인공지능학과)</td>
+                  <td>TMaxSoft</td>
                 </tr>
                  <tr>
                   <td>박수진 (MS) 2020</td>

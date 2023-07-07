@@ -517,7 +517,7 @@ permalink: /Members/
                 </tr>
                 <tr>
                   <td>Youngoh Bang (MS) 2020</td>
-                  <td>AI (인공지능학과)</td>
+                  <td>AI</td>
                   <td>TMaxSoft</td>
                 </tr>
                  <tr>

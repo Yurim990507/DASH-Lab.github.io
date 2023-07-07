@@ -294,6 +294,12 @@ permalink: /Members/
               </thead>
               <tbody>
                 <tr>
+                  <td>인정현 ('23)</td>
+                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>Samsung Display AI Research Center</td>
+                  <td>Anomaly Detection</td>
+                </tr>
+                  <tr>
                   <td>변규백 ('23)</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>Samsung Elec</td>
@@ -302,7 +308,7 @@ permalink: /Members/
                 <tr>
                   <td>인정현 ('23)</td>
                   <td>Applied Data Science (데이터사이언스)</td>
-                  <td>Samsung Display AI Research Center</td>
+                  <td>LG에너지 솔루션</td>
                   <td>Anomaly Detection</td>
                 </tr>
                 <tr>

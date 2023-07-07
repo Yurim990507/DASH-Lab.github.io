@@ -82,6 +82,32 @@ permalink: /Members/
                   <td>Time-Series Anomaly Detection & Forecasting</td>
                   <td><i>gkdl677 @ g dot skku dot edu</i></td>
                 </tr>
+
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;이현근
+                      </div>
+                  </td>
+                  <td>Applied AI</td>
+                  <td>Anomaly Detection </td>
+                  <td><i></i></td>
+                </tr>
+
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;박미래
+                      </div>
+                  </td>
+                  <td>Artificial Intelligence</td>
+                  <td>Robustness</td>
+                  <td><i></i></td>
+                </tr>
+                
+                
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

@@ -369,6 +369,7 @@ permalink: /Members/
           </div>
     </div>
 </div>
+
 <div class="section">
     <h5>Alumni</h5> 
     <div class="row">

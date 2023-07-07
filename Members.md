@@ -101,7 +101,7 @@ permalink: /Members/
                       </div>
                   </td>
                   <td>Artificial Intelligence</td>
-                  <td>Robustness</td>
+                  <td>ML Robustness</td>
                   <td><i></i></td>
                 </tr>
                 

@@ -408,8 +408,8 @@ permalink: /Members/
                       <td>Naver 클로바</td>
                 </tr>
                 <tr>
-                  <td>이상원 (MS) 2020</td>
-                  <td>Applied Data Science (데이터사이언스)</td>
+                  <td>이상원 (MS) 2021</td>
+                  <td>Big Data</td>
                   <td>Ernest & Young --> Amazon AWS, Korea</td>
                 </tr>
                 <tr>

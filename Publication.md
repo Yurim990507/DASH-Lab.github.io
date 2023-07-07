@@ -61,7 +61,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hakjun Moon, Eunju Park, Jeongho Kim, Kwansik Yoon, Yeonah Seo, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
 			<tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2023 한국정보보호학회 하계학술대회</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>2023 한국정보보호학회 하계학술대회 (우수논문상 <a href="https://sw.skku.edu/sw/news.do?mode=view&articleNo=159174&article.offset=0&articleLimit=10">Link</a>)</b></a></small> </p>
                     </tr>			                
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>2023 한국정보보호학화 하계학술대회

@@ -97,7 +97,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;박미래
+                          &nbsp;&nbsp;&nbsp;&nbsp;김미래
                       </div>
                   </td>
                   <td>Artificial Intelligence</td>

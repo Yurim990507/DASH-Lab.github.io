@@ -272,7 +272,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;김현준
                       </div>
                      </td>
-                  <td>Applied AI</td>
+                  <td>데이터사이언스</td>
                   <td>Top Secret AI Project</td>    
                      <td><i></i></td>
                 </tr>

@@ -151,7 +151,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Fahim Faisal Niloy, Kishor Kumar Bhaumik, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
 			<tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>IEEE International Conference on Image Processing, Kuala Lumpur, Oct. 2023</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Oct. 2023</b></a></small> </p>
                     </tr>			                
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Existing high-resolution satellite image forgery localization methods rely on patch-based or downsampling-based training. Both of the training methods have major drawbacks, such as, inaccurate boundary between pristine and forged region, generation of unwanted artifacts, etc. To tackle aforementioned challenges, inspired from the high-resolution image segmentation literature, we propose a novel model called <i>HRFNet</i> to effectively enable satellite image forgery localization. Specifically, equipped with shallow and deep branches, our model can successfully integrate RGB and resampling features in both global and local manner to localize forgery more accurately. We experiment on popular satellite image manipulation dataset to demonstrate that our method achieves the best performance, while the memory requirement and processing speed are not compromised compared to existing methods.</small> </p>

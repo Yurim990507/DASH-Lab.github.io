@@ -58,7 +58,7 @@ permalink: /Publications/
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>pub
+                    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
 			<tr>

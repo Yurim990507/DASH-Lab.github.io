@@ -106,17 +106,7 @@ permalink: /Members/
                 </tr>
                 
                 
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <img src="/img/Eric.jpg" alt="Photo" height="auto" width="128" style="border-radius:45%" ><br>
-                          &nbsp;&nbsp;&nbsp; Erkinboy Botirov
-                      </div>
-                     </td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Computer Vision, Deepfake</td>
-                  <td><i>erkinboy dot botirov @ g dot skku dot edu</i></td>
-                </tr>
+                
               </tbody>
             </table>
           </div>

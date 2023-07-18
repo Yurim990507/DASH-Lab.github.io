@@ -122,6 +122,10 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
+July 2023. We are organizing <b>The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (<a href="https://sites.google.com/view/ansd23/submission?authuser=0">ANSD '23</a>)</b>, co-located with CIKM 2023<br>
+
+July 2023. One paper is accepted at <b>ICCV 2023 (BK IF=4). </b><br>
+
 Apr 2023. One paper is accepted at <b>IJCAI 2023 (BK IF=4) </b> (Acceptance rate: 15%).<br>
 
 Jan 2023. Invited to participate in the prestigious seminar at <b> <a href="https://en.wikipedia.org/wiki/Dagstuhl">Schloss Dagstuhl (Leibniz Center for Informatics)</a>  (<a href="https://www.dagstuhl.de/en/seminars/seminar-calendar">닥스툴 세미나</a>) on <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23021">23021 Media Forensics and the Challenge of Big Data</a></b> <br>

@@ -62,7 +62,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
 			<tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>International Conference on Computer Vision (ICCV), Paris, France, 2023</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>IEEE/CVF International Conference on Computer Vision (ICCV), Paris, France, 2023</b></a></small> </p>
                     </tr>
 			<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

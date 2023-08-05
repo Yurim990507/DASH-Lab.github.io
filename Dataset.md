@@ -7,7 +7,11 @@ permalink: /Dataset/
 <!--<p><a href="https://dash-lab.github.io/Dataset_kor.html">Kor</a></p>-->
 <p><a href="https://dash-lab.github.io/Dataset_kor/">Kor</a></p>
 
-
+<h1 class="page-title">RWDF-23 Dataset</h1>
+  <p>The RWDF-23 is collected from the wild, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content.  <p><br>
+  
+ <p align=center><img border=0  src="/Publications/rwdf23_cikm23.png" width="980"></p> 
+ 
 <h1 class="page-title">FakeAVCeleb Dataset</h1>
   <p>In FakeAVCeleb, we propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that contains not only deepfake videos but also respective synthesized lip-synced fake audios. Our FakeAVCeleb is generated using recent most popular deepfake generation methods. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian, and South Asian) to counter the racial bias issue. <p><br>
   

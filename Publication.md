@@ -30,7 +30,7 @@ permalink: /Publications/
         <center>    
 <!--              How: Change the number after the Conference Name to indicate # of paper accepted -->
             <sup>Since 2018:</sup>   
-            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-9-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-9-brightgreen?style=social"      height="21">&nbsp;
             <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
@@ -48,6 +48,41 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Towards Understanding of Deepfake Videos in the Wild</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Beomsang Cho<sup>&dagger;</sup>, Binh M. Le<sup>&dagger;</sup>, Jiwon Kim,<i><b>Simon S. Woo*</b> </i>, Shahroz Tariq, Alsharif Abuadbba, and Kristen Moore</small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
+                    </tr>
+			<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=3</font>
+                                </b> </small> </p>
+                    </tr>	
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Deepfakes have become a growing concern in recent years, prompting researchers to develop benchmark datasets and detection algorithms to tackle the issue. However, existing datasets suffer from significant drawbacks that hamper their effectiveness. Notably, these datasets fail to encompass the latest deepfake videos produced by state-of-the-art methods that are being shared across various platforms.  This limitation impedes the ability to keep pace with the rapid evolution of generative AI techniques employed in real-world deepfake production. Our contributions in this IRB-approved study are to bridge this knowledge gap from current real-world deepfakes by providing in-depth analysis.We first present the largest and most diverse and recent deepfake dataset (RWDF-23) collected from the wild to date, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content. By considering this rich contextual information, we aim to provide a holistic understanding of the evolving deepfake phenomenon and its impact on online platforms.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> </small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="rwdf23_cikm23.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

@@ -37,6 +37,7 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
+          ◼ Generative AI Model <br>
           ◼ AI Security <br>
           ◼ Deepfake Detection and Generation <br>
           ◼ Time Series Analysis/Anomlay Detection <br>

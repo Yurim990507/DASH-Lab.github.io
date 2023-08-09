@@ -37,7 +37,7 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
-          ◼ Generative AI Model <br>
+          ◼ Generative AI Model (<a href="https://www.joongang.co.kr/article/25140582#home" target="_blank">중앙일보</a>, <a href="https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202306220218003&sec_id=540201&pt=nv" target="_blank">경향신문</a>) <br>
           ◼ AI Security <br>
           ◼ Deepfake Detection and Generation <br>
           ◼ Time Series Analysis/Anomlay Detection <br>

@@ -30,7 +30,7 @@ permalink: /Publications/
         <center>    
 <!--              How: Change the number after the Conference Name to indicate # of paper accepted -->
             <sup>Since 2018:</sup>   
-            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-10-brightgreen?style=social"      height="20">&nbsp;
+            <img alt="CIKM"     src="https://img.shields.io/badge/CIKM-11-brightgreen?style=social"      height="20">&nbsp;
             <img alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
@@ -48,6 +48,43 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Juho Jung, Chaewon Kang, Jeewoo Yoon, Simon S. Woo, and Jinyoung Han</small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
+                    </tr>
+			<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=3</font>
+                                </b> </small> </p>
+                    </tr>	
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>This paper proposes a novel sequential attentive face
+embedding, SAFE, that can capture facial dynamics in a deepfake video. The proposed SAFE can effectively integrate global and local dynamics of facial features revealed in a video sequence using contrastive learning. Through a comprehensive comparison with the state-of-the-art methods on the DFDC (Deepfake Detection
+Challenge) dataset and the FaceForensic++ benchmark, we show that our model achieves the highest accuracy in detecting deepfake videos on both datasets.</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> </small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="safe_cikm2023.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 <hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

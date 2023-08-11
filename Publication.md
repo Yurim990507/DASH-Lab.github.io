@@ -117,7 +117,7 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img src="safe_cikm2023.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img src="safe_cikm23.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 <hr>

@@ -49,7 +49,7 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2023</b></h4>
 <hr>
-<!--     <div style="display: flex;flex-direction: row;justify-content: space-between;">
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
                 <thead>
@@ -70,7 +70,7 @@ permalink: /Publications/
                                 </b> </small> </p>
                     </tr>	
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we propose a novel two-step unlearning approach UNDO. First, we selectively disrupt the decision boundary of forgetting data at the coarse-grained level. However, this can also inadvertently affect the decision boundary of other remaining data, lowering the overall performance of classification task. Hence, we subsequently repair and refining the decision boundary for each class at the fine-grained level by introducing a loss for maintain the overall performance, while completely removing the class. We conducted extensive experiments with SOTA models over two datasets, and demonstrated the effectiveness and efficiency of our approach for unlearning, compared to other methods.</small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> </small>
@@ -83,7 +83,7 @@ permalink: /Publications/
             <img src="undo_cikm23.jpg" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
-<hr> -->
+<hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

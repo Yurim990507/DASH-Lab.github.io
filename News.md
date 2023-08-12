@@ -121,7 +121,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-
+August 2023. Three papers are accepted at <b>CIKM 2023 (BK IF=3).<br>
+	
 July 2023. We are organizing <b>The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (<a href="https://sites.google.com/view/ansd23/submission?authuser=0">ANSD '23</a>)</b>, co-located with CIKM 2023.<br>
 
 July 2023. One paper is accepted at <b>ICCV 2023 (BK IF=4). </b><br>

@@ -66,7 +66,7 @@ permalink: /Publications/
                     </tr>
 			<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Resource Track</font>
+                               <font color='blue'>Resource Paper</font>
                                 </b> </small> </p>
                     </tr>	
                     <tr>

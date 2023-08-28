@@ -59,14 +59,14 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eun-Ju Park, Seung-Yeon Back, Jeongho Kim, and Simon S. Woo</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eun-Ju Park, Seung-Yeon Back, Jeongho Kim, and <b></bSimon S. Woo*</b></small> </p>
                     </tr>
 			<tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
                     </tr>
 			<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=3</font>
+                               <font color='blue'>Resouce Track</font>
                                 </b> </small> </p>
                     </tr>	
                     <tr>
@@ -94,14 +94,14 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sangyong Lee and Simon S. Woo</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sangyong Lee and <b>Simon S. Woo*</b></small> </p>
                     </tr>
 			<tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
                     </tr>
 			<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=3</font>
+                               <font color='blue'>BK Computer Science IF=2 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>	
                     <tr>
@@ -129,14 +129,14 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Juho Jung, Chaewon Kang, Jeewoo Yoon, Simon S. Woo, and Jinyoung Han</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Juho Jung, Chaewon Kang, Jeewoo Yoon, <b>Simon S. Woo</b>, and Jinyoung Han</small> </p>
                     </tr>
 			<tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
                     </tr>
 			<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=3</font>
+                               <font color='blue'>BK Computer Science IF=2 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>	
                     <tr>

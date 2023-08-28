@@ -59,7 +59,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eun-Ju Park, Seung-Yeon Back, Jeongho Kim, and <b></bSimon S. Woo*</b></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eun-Ju Park, Seung-Yeon Back, Jeongho Kim, and <b>Simon S. Woo*</b></small> </p>
                     </tr>
 			<tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>

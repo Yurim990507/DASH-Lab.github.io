@@ -54,6 +54,41 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Anomaly and Novelty detection for Satellite and Drone systems (ANSD ’23)</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Shahroz Tariq, Daewon Chung, <b>Simon S. Woo*</b> and Youjin Shin </small> </p>
+                    </tr>
+			<tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> Workshop in Proceedings 32nd ACM International Conference on Information & Knowledge Management (CIKM), UK, 2023</b></a></small> </p>
+                    </tr>
+			<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Workshop Paper</font>
+                                </b> </small> </p>
+                    </tr>	
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In recent times, there has been a notable surge in the amount of vision and sensing/time-series data obtained from drones and satellites. This data can be utilized in various fields, such as precision agriculture, disaster management, environmental monitoring, and others. However, the analysis of such data poses significant challenges due to its complexity, heterogeneity, and scale. Furthermore, it is critical to identify anomalies and maintain/monitor the health of drones and satellite systems to enable the aforementioned applications and sciences. This workshop presents an excellent opportunity to explore solutions that specifically target the detection of anomalies and novel occurrences in drones and satellite systems and their data. For more information, visit our website at \href{https://sites.google.com/view/ansd23}{https://sites.google.com/view/ansd23}. </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> </small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img src="Call For Papers.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>KID34K: A Dataset for Online Identity Card Fraud Detection</b></a>
                     </tr>
                 </thead>

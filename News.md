@@ -17,6 +17,10 @@ permalink: /News/
 	<!-- Flickity HTML init -->
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
+				<p>Having David Crandall visit our lab (Aug 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img class="carousel-cell" border=0 width=420 height=420  style=" border-radius: 8px;" src="/img/grad_2023.jpeg"/>
 				<p>Jeongho & Sam's graduation (Feb 2023)</p>			
 			</div>

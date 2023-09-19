@@ -24,10 +24,11 @@ permalink: /About/
 <div class="section">
     <h5>Work Experience</h5> 
         ◼ Currently, Associate Professor at SKKU affliated with <br> 
-        - <a href="https://sci-cube.skku.edu/sci-cube/index.do" target="_blank">Applied Data Science (데이터사이언스) </a><br>
+        - Applied Data Science (데이터사이언스) <br>
         - <a href="https://swb.skku.edu/security2020/index.do" target="_blank"> CSE (소프트웨어/융합보안대학원) </a> <br> 
         - <a href="https://skb.skku.edu/skkuaai/index.do" target="_blank"> Applied AI Dept.(인공지능융합학과)  </a> <br>
-        - <a href="https://ai.skku.edu" target="_blank">AI (인공지능학과)</a> <br> 
+        - <a href="https://ai.skku.edu" target="_blank">AI (인공지능학과)</a> <br>
+        - <a href="https://intelligentsw.skku.edu/intelligentsw/index.do" target="_blank"> 지능형소프트웨어학과 </a> <br>  
         ◼ NASA Jet Propulsion Lab (JPL), Pasadena, CA, 2005-2014 <br>
         ◼ Verisign Research Lab, Reston, VA, 2016 <br>
         ◼ Intel Corp 2001, 2002 (Co-op Intern) <br>

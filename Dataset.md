@@ -10,12 +10,12 @@ permalink: /Dataset/
 <h1 class="page-title">RWDF-23 Dataset</h1>
   <p>The RWDF-23 is collected from the wild, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content.  <p><br>
   
- <p align=center><img border=0  src="/Publications/rwdf23_cikm23.png" width="780"></p> 
+ <p align=center><img  loading="lazy" border=0  src="/Publications/rwdf23_cikm23.png" width="780"></p> 
  
 <h1 class="page-title">FakeAVCeleb Dataset</h1>
   <p>In FakeAVCeleb, we propose a novel Audio-Video Deepfake dataset (FakeAVCeleb) that contains not only deepfake videos but also respective synthesized lip-synced fake audios. Our FakeAVCeleb is generated using recent most popular deepfake generation methods. To generate a more realistic dataset, we selected real YouTube videos of celebrities having four racial backgrounds (Caucasian, Black, East Asian, and South Asian) to counter the racial bias issue. <p><br>
   
- <p align=center><img border=0  src="/img/teaser.png" width="1080"></p> 
+ <p align=center><img  loading="lazy" border=0  src="/img/teaser.png" width="1080"></p> 
 
 
 <h1 class="page-title">VFP290K dataset</h1>
@@ -23,7 +23,7 @@ permalink: /Dataset/
 
 We ranked first in the first round of the anomalous behavior recognition track of AI Grand Challenge 2020, South Korea, using our VFP290K dataset, which can further extend to other applications, such as intelligent CCTV or monitoring systems, as well. <p><br>
   
- <p align=center><img border=0  src="/img/VFP.JPG"  width="1080"></p> 
+ <p align=center><img  loading="lazy" border=0  src="/img/VFP.JPG"  width="1080"></p> 
 
 
 
@@ -46,24 +46,24 @@ We ranked first in the first round of the anomalous behavior recognition track o
 <table>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection3.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection3.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection4.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection4.jpg"></p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection1.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection1.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection2.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection2.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0 width=240 height=135 src="/img/AGC_detection5.jpg"></p>
+      <p align=center><img  loading="lazy" border=0 width=240 height=135 src="/img/AGC_detection5.jpg"></p>
     </td>
   </tr>
 </table>
@@ -73,24 +73,24 @@ We ranked first in the first round of the anomalous behavior recognition track o
 <table>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification1.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification1.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification2.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification2.jpg"></p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification3.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification3.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification4.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification4.jpg"></p>
     </td>
     <td width="33%" valign=top>
-      <p align=center><img border=0  src="/img/AGC_classification5.jpg"></p>
+      <p align=center><img  loading="lazy" border=0  src="/img/AGC_classification5.jpg"></p>
     </td>
   </tr>
 </table>

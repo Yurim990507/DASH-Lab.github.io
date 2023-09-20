@@ -17,94 +17,94 @@ permalink: /News/
 	<!-- Flickity HTML init -->
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
 				<p>Having David Crandall visit our lab (Aug 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=420 height=420  style=" border-radius: 8px;" src="/img/grad_2023.jpeg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=420 height=420  style=" border-radius: 8px;" src="/img/grad_2023.jpeg"/>
 				<p>Jeongho & Sam's graduation (Feb 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/lab_dinner2023.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/lab_dinner2023.jpg"/>
 				<p>Lab dinner (Feb 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=340  style=" border-radius: 8px;" src="/img/lab_mem2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=340  style=" border-radius: 8px;" src="/img/lab_mem2022.jpg"/>
 				<p>Lab members (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=280 height=420  style=" border-radius: 8px;" src="/img/grad_student_22.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=280 height=420  style=" border-radius: 8px;" src="/img/grad_student_22.jpg"/>
 				<p>Ph.D. students (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=300 height=420  style=" border-radius: 8px;" src="/img/grad_student_1_22.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=300 height=420  style=" border-radius: 8px;" src="/img/grad_student_1_22.jpg"/>
 				<p>Ph.D. students (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/prof_meet.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/prof_meet.jpg"/>
 				<p></p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_2022.jpg"/>
 				<p>AGC 2022</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_1_2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=360  style=" border-radius: 8px;" src="/img/agc_1_2022.jpg"/>
 				<p>AGC 2022</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/cikm_dinner.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/cikm_dinner.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div><div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/minha_cikm2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/minha_cikm2022.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/jho_cikm_2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/jho_cikm_2022.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/jho_1_cikm2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/jho_1_cikm2022.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/binh_cikm2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/binh_cikm2022.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/seabyoel_cikm2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/seabyoel_cikm2022.jpg"/>
 				<p>CIKM 2022, Atlanta</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/prof_at_skku.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/prof_at_skku.jpg"/>
 				<p> </p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/lab_dinner_2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/lab_dinner_2022.jpg"/>
 				<p>Lab dinner</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/21-1.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/21-1.jpg"/>
 				<p>Lab members (2021)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/family.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/family.jpg"/>
 				<p>Annual retreat (2021)</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch.jpg"/>
 				<p>Annual retreat (2021)</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch2.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch2.jpg"/>
 				<p>Annual retreat (2021)</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch3.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch3.jpg"/>
 				<p>Annual retreat (2021)</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/graduation.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/graduation.jpg"/>
 				<p>MS students (2021)</p>	
 			</div>
 	</div>

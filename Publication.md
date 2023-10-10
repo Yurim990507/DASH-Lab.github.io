@@ -76,7 +76,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="seungyeon_llm.png" style="max-height: 360px;max-width: 960px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="seungyeon_llm.png" style="max-height: 166px;max-width: 520px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 <hr>

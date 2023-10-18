@@ -283,7 +283,7 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
                     </tr>
                     <tr>
 			<p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-				    href="https://arxiv.org/abs/2309.05911"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
+				    href="https://openaccess.thecvf.com/content/ICCV2023/html/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.html"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
 			</p>
                     </tr>
                 </tbody>

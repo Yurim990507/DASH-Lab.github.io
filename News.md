@@ -16,15 +16,15 @@ permalink: /News/
 <div  class="row center">
 	<!-- Flickity HTML init -->
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=420 height=420   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=420   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
 				<p>Visit Dr. Chan at University of Malaya (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=420 height=420  style=" border-radius: 8px;" src="/img/icip23_UM.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=420  style=" border-radius: 8px;" src="/img/icip23_UM.jpg"/>
 				<p>Visit research group at University of Malaya (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=420  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
 				<p>With Session Chair at ICIP23 (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

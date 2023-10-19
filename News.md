@@ -25,7 +25,15 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
-				<p>With Session Chair at ICIP23 (Oct 2023)</p>			
+				<p>With Session Chair @ICIP23 (Oct 2023)</p>			
+			</div>			
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/poster_iccv23.jpg"/>
+				<p>Lab's poster @ICCV23 (Oct 2023)</p>			
+			</div>
+   			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/dr_sonvu_iccv23.jpg"/>
+				<p>With Dr. Son (CY Cergy Paris University) @ICCV23 (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>

@@ -28,11 +28,11 @@ permalink: /News/
 				<p>With Session Chair @ICIP23 (Oct 2023)</p>			
 			</div>			
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/poster_iccv23.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=380  style=" border-radius: 8px;" src="/img/poster_iccv23.jpg"/>
 				<p>Lab's poster @ICCV23 (Oct 2023)</p>			
 			</div>
    			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/dr_sonvu_iccv23.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=370  style=" border-radius: 8px;" src="/img/dr_sonvu_iccv23.jpg"/>
 				<p>With Dr. Son (CY Cergy Paris University) @ICCV23 (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

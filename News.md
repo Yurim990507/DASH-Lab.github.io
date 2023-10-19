@@ -37,7 +37,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
-				<p>Having David Crandall visit our lab (Aug 2023)</p>			
+				<p>Having David Crandall (Indiana University) visit our lab (Aug 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=420 height=420  style=" border-radius: 8px;" src="/img/grad_2023.jpeg"/>

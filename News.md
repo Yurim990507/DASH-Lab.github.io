@@ -14,8 +14,12 @@ permalink: /News/
 
 <br>
 <div  class="row center">
-	<!-- Flickity HTML init -->
+	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_01.jpg"/>
+				<p>DASH lab group @CIKM23 (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
 				<p>Visit Dr. Chan at University of Malaya (Oct 2023)</p>			
 			</div>

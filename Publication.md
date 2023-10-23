@@ -247,7 +247,7 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
                     </tr>
 			<tr>
 			<p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
-				    href="https://arxiv.org/abs/2309.01919"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
+				    href="https://dl.acm.org/doi/10.1145/3583780.3614729"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small>
 			</p>
                     </tr>
                 </tbody>

@@ -17,27 +17,27 @@ permalink: /News/
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_01.jpg"/>
-				<p>DASH lab group @CIKM23 (Oct 2023)</p>			
+				<p>DASH lab group @CIKM23 (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
-				<p>Visit Dr. Chan at University of Malaya (Oct 2023)</p>			
+				<p>Visit Dr. Chan at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390  style=" border-radius: 8px;" src="/img/icip23_UM.jpg"/>
-				<p>Visit research group at University of Malaya (Oct 2023)</p>			
+				<p>Visit research group at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
-				<p>With Session Chair @ICIP23 (Oct 2023)</p>			
+				<p>With Session Chair @ICIP23 (Malaysia - Oct 2023)</p>			
 			</div>			
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=380  style=" border-radius: 8px;" src="/img/poster_iccv23.jpg"/>
-				<p>Lab's poster @ICCV23 (Oct 2023)</p>			
+				<p>Lab's poster @ICCV23 (France - Oct 2023)</p>			
 			</div>
    			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=370  style=" border-radius: 8px;" src="/img/dr_sonvu_iccv23.jpg"/>
-				<p>With Dr. Son (CY Cergy Paris University) @ICCV23 (Oct 2023)</p>			
+				<p>With Dr. Son (CY Cergy Paris University) @ICCV23 (France - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
@@ -77,26 +77,26 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/cikm_dinner.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>DASH Lab group @CIKM22 (USA - Oct 2022) </p>			
 			</div><div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/minha_cikm2022.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>Lab's presentation @CIKM22 (USA - Oct 2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/jho_cikm_2022.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>Lab's poster @CIKM22 (USA - Oct 2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/jho_1_cikm2022.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>Lab's presentation @CIKM22 (USA - Oct 2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/binh_cikm2022.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>Lab's presentation @CIKM22 (USA - Oct 2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/seabyoel_cikm2022.jpg"/>
-				<p>CIKM 2022, Atlanta</p>			
+				<p>Lab's presentation @CIKM22 (USA - Oct 2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/prof_at_skku.jpg"/>

@@ -20,6 +20,22 @@ permalink: /News/
 				<p>DASH lab group @CIKM23 (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_02.jpg"/>
+				<p>Group dinner at Birmingham (UK - Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_03.jpg"/>
+				<p>ANSD Workshop @CIKM23 (UK - Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_04.jpg"/>
+				<p>With Hassam Khalid (MS alumni) at Oxford University</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_05.jpg"/>
+				<p>Session @CIKM23 (UK - Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
 				<p>Visit Dr. Chan at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>

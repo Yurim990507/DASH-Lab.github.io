@@ -28,11 +28,11 @@ permalink: /News/
 				<p>ANSD Workshop @CIKM23 (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/cikm23_04.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=355   style=" border-radius: 8px;" src="/img/cikm23_04.jpg"/>
 				<p>With Hassam Khalid (MS alumni) at Oxford University</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/cikm23_05.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=355   style=" border-radius: 8px;" src="/img/cikm23_05.jpg"/>
 				<p>Session @CIKM23 (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

@@ -17,11 +17,35 @@ permalink: /News/
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/ai_workshop_01.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_01.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_02.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>				
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=380    style=" border-radius: 8px;" src="/img/univ_glasgow_03.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_04.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_05.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_06.jpg"/>
+				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/ai_workshop_01.jpg"/>
 				<p>AI workshop (Nov 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/ai_workshop_02.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/ai_workshop_02.jpg"/>
 				<p>AI workshop (Nov 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

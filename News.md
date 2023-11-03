@@ -16,7 +16,16 @@ permalink: /News/
 <div  class="row center">
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_01.jpg"/>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/ai_workshop_01.jpg"/>
+				<p>AI workshop (Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/ai_workshop_02.jpg"/>
+				<p>AI workshop (Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/cikm23_01.jpg"/>
 				<p>DASH lab group @CIKM23 (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

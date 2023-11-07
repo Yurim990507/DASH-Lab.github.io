@@ -56,6 +56,10 @@ permalink: /News/
 				<p>Group dinner at Birmingham (UK - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0 width=400 height=420  style=" border-radius: 8px;" src="/img/sangyong_cikm23.jpg"/>
+				<p>Lab's poster @CIKM23 (UK - Oct 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=440 height=370   style=" border-radius: 8px;" src="/img/cikm23_03.jpg"/>
 				<p>ANSD Workshop @CIKM23 (UK - Oct 2023)</p>			
 			</div>

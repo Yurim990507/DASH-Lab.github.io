@@ -16,6 +16,7 @@ permalink: /About/
         ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
         ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
         ◼ Lynnwood High School, Lynnwood, WA, USA <br>
+        (Fluent in Korean and English)
       
  
 </div>
@@ -40,7 +41,7 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Research Interests</h5> 
-          ◼ Generative AI Model (<a href="https://www.joongang.co.kr/article/25140582#home" target="_blank">중앙일보</a>, <a href="https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202306220218003&sec_id=540201&pt=nv" target="_blank">경향신문</a>, <a href="https://www.arirang.com/tv/37/archive?board=147&id=28137&sort=episode" target="_blank">아리랑TV</a>) <br>
+          ◼ Generative AI Model (Media Coverage: <a href="https://www.joongang.co.kr/article/25140582#home" target="_blank">중앙일보</a>, <a href="https://sports.khan.co.kr/entertainment/sk_index.html?art_id=202306220218003&sec_id=540201&pt=nv" target="_blank">경향신문</a>, <a href="https://www.arirang.com/tv/37/archive?board=147&id=28137&sort=episode" target="_blank">아리랑TV</a>) <br>
           ◼ AI Security <br>
           ◼ Deepfake Detection and Generation <br>
           ◼ Time Series Analysis/Anomlay Detection <br>
@@ -51,7 +52,7 @@ permalink: /About/
 <img src="/img/WooDF.jpg" alt="" width="700" />
 </div>
 <div class="section">
-    <h5>TPC/Reviewer Service</h5> 
+    <h5>Services</h5> 
           ◼ Conference/Workshop Charing: ACM CoNext Finance Chair (2017),  EAI CyDiP Technical Program Committee Chair (2021)<br>
           ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020), ACCV (2021), BMVC (2022), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022), AAAI (2022), KDD (2022, 2023), IJCAI (2022, 2023), WACV (2021, 2022), ICML (2023), CVPR (2023) <br>
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>

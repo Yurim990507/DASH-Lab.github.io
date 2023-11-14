@@ -9,9 +9,8 @@ permalink: /Projects/
 <h1 class="page-title">Research Projects</h1>
 
 <div class="section">
-    <h5>Deepfake Detection and Generation reserch  
-        ◼  Unified Deepfake Detection Methods <br>
-        ◼  Deepfake Generation <br>
+    <h5>Computer Vision</h5>
+        ◼  Deepfake Detection and Generation <br>
         ◼  딥페이크관련 정책 및 대응방안 연구 <br>    
 <!--    
         <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>

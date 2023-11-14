@@ -81,7 +81,7 @@ permalink: /About/
 
 
 <h5>Contact me</h5>     
-        Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in security and privacy, HCI, AI/machine learning, and Satellite systems/networking.<br>
+        Openings for Post-Doc, Ph.D./M.S students, and highly motivated undergrads, interested in vision, time-series, anomaly detection, security and privacy, and Satellite systems/networking.<br>
         Email me for a chat(swoo @ g dot skku dot edu)
         <br>
 우리 연구실은 단순 성균관대 졸업장이 아니라, 좋은 연구를 하고, 좋은 논문을 쓰고 싶은 highly motivated한 석사/박사, 포닥분들 모집, who want to make a difference in the field and future!

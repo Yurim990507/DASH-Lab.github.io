@@ -255,6 +255,17 @@ permalink: /Members/
                   <td>Top Secret AI Project</td>    
                      <td><i></i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;문학준
+                      </div>
+                     </td>
+                  <td>CSE</td>
+                  <td>Vision</td>    
+                     <td><i></i></td>
+                </tr>  
               </tbody>
             </table>
           </div>

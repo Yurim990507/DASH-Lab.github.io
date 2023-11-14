@@ -255,45 +255,12 @@ permalink: /Members/
                   <td>Top Secret AI Project</td>    
                      <td><i></i></td>
                 </tr>
-                  
               </tbody>
             </table>
           </div>
     </div>
 </div>
-<div class="section">
-    <h5>Undergraduate</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table>
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Major</th>
-                    <th>Research Interests</th>
-                </tr>
-              </thead>
-              <tbody> 
-                  <tr>
-                  <td>Jin Songchan</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Computer Vision</td>       
-                </tr>  
-                  <tr>
-                  <td>Ahn Hyunjun</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Computer Vision</td>       
-                </tr>  
-                  <tr>
-                  <td>Moon Hakjun</td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Computer Vision</td>       
-                </tr>  
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
+
 <div class="section">
     <h5>Master Thesis/Capstone Project Supervision</h5> 
     <div class="row">

@@ -14,15 +14,15 @@ permalink: /About/
 
 1. I would like to train students to get out of their comfort zone, and challenge themselves to become better persons not necessarily technically, but also be mindful and open to differences 
 
---> (우물 안 개구리, 좁은 시아에서 벗어나 좀 더 다른 시각으로 세상 및 문제를 보기를 바라고, 정해진 사고 및 stereotype에서 벗어나 새로운 시도를 하기를 희망합니다 ).
+(우물 안 개구리, 좁은 시아에서 벗어나 좀 더 다른 시각으로 세상 및 문제를 보기를 바라고, 정해진 사고 및 stereotype에서 벗어나 새로운 시도를 하기를 희망합니다 ).
 
 2. I want my students to aim higher, to be open, competitive, cooperative, and recognized globally on the things that they are working on or good at (Either being the best at SKKU or Korea is not our goal. We look beyond…).
 
---> (또한, 글로벌사회에서 전혀 뒤쳐지지 않는, 오히려 경쟁력이 있는 인재가 되게 도울것이며 , 한국에서 정형화된 frame에 안주하지 않고, 국제적으로도 능력 있는 인재가 되길 희망합니다. )
+(또한, 글로벌사회에서 전혀 뒤쳐지지 않는, 오히려 경쟁력이 있는 인재가 되게 도울것이며 , 한국에서 정형화된 frame에 안주하지 않고, 국제적으로도 능력 있는 인재가 되길 희망합니다. )
 
 3. Last but not least, I strive to create the positive synergy and impact between Korean and International students/scholars. And, I believe in that different people can help each other. 
 
---> (다름이 어려움일 수 도 있지만, 자신을 성장시킬 수 있는 기회가 되기도 합니다. 20년간 minority이민자로써의 생활을 통해 , 다양성과 상호존중에서 오는 긍정적인 파워를 경험하였고, diversity가 학생들의 궁극적인 성장에 도움이 된다는 것을 보여주고 싶습니다).     
+(다름이 어려움일 수 도 있지만, 자신을 성장시킬 수 있는 기회가 되기도 합니다. 20년간 minority이민자로써의 생활을 통해 , 다양성과 상호존중에서 오는 긍정적인 파워를 경험하였고, diversity가 학생들의 궁극적인 성장에 도움이 된다는 것을 보여주고 싶습니다).     
 
 
 

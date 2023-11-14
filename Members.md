@@ -410,7 +410,7 @@ permalink: /Members/
                  <tr>
                   <td>Keeyoung Kim (Ph.D.) 2022</td>
                   <td>Computer Vision and Anomaly Detection</td>
-                  <td>Ingenio AI</td>
+                  <td>Ingenio AI (Start-Up)</td>
                  </tr>
                  <tr>
                   <td>Youjin Shin (Ph.D.) 2022</td>

@@ -68,7 +68,7 @@ permalink: /Members/
                       </div>
                   </td>
                   <td>Artificial Intelligence</td>
-                  <td>Multi-model, Deepfake detection, Representation learning </td>
+                  <td>Multi-modal, Deepfake detection, Representation learning </td>
                   <td><i>hoo0681 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>

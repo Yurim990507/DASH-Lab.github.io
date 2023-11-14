@@ -10,7 +10,7 @@ permalink: /About/
 
 <div class="section">
 
-<h5>DASH Lab's Mission Statements</h5>
+<h5>DASH Lab's Mission Statements (Not about Research)</h5>
 
 <p> 1. I would like to train students to get out of their comfort zone, and challenge themselves to become better persons not necessarily technically, but also be mindful and open to differences (우물 안 개구리, 좁은 시아에서 벗어나 좀 더 다른 시각으로 세상 및 문제를 보기를 바라고, 정해진 사고 및 stereotype에서 벗어나 새로운 시도를 하기를 희망합니다.)
 </p>

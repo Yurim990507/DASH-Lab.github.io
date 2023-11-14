@@ -11,13 +11,9 @@ permalink: /Projects/
 <div class="section">
     <h5>Computer Vision</h5>
         ◼  (IITP) Deepfake Detection and Generation <br>
-    
-    <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
+            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
     
         ◼  (보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업   <br>    
-<!--    
-        <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
-        --> 
     
 </div>
 

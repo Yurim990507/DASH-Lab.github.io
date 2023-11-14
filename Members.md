@@ -309,7 +309,7 @@ permalink: /Members/
                   <td>주기형 ('21)</td>
                   <td>Applied Data Science (데이터사이언스)</td>
                   <td>현대자동차 연구소</td>
-                  <td>강화학습n</td>
+                  <td>강화학습</td>
                 </tr>
                 <tr>
                   <td>Seunghwa Song</td>

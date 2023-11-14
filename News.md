@@ -19,27 +19,27 @@ permalink: /News/
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_01.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_02.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>				
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>				
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=380    style=" border-radius: 8px;" src="/img/univ_glasgow_03.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_04.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_05.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_06.jpg"/>
-				<p>Visit and meeting at University of Glasgow (Oct 2023)</p>			
+				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/ai_workshop_01.jpg"/>
@@ -75,11 +75,11 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390   style=" border-radius: 8px;" src="/img/icip23_dr_chan.jpg"/>
-				<p>Visit Dr. Chan at University of Malaya (Malaysia - Oct 2023)</p>			
+				<p>Visiting Dr. Chan at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=390  style=" border-radius: 8px;" src="/img/icip23_UM.jpg"/>
-				<p>Visit research group at University of Malaya (Malaysia - Oct 2023)</p>			
+				<p>Visiting research group at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
@@ -95,7 +95,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=520 height=420  style=" border-radius: 8px;" src="/img/david08.jpeg"/>
-				<p>Having David Crandall (Indiana University) visit our lab (Aug 2023)</p>			
+				<p>Having David Crandall (Indiana University) Visiting our lab (Aug 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=420 height=420  style=" border-radius: 8px;" src="/img/grad_2023.jpeg"/>
@@ -170,10 +170,6 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch.jpg"/>
-				<p>Annual retreat (2021)</p>	
-			</div>
-			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=600 height=420  style=" border-radius: 8px;" src="/img/group lunch2.jpg"/>
 				<p>Annual retreat (2021)</p>	
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

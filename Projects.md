@@ -17,7 +17,22 @@ permalink: /Projects/
             <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
 
         ◼  (IITP)  Stable Diffusion 생성 기법 연구   <br>    
-            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>    
+            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
+
+        ◼  (호주 CSIRO Data61) Deepfake Research   <br>    
+            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
+</div>
+
+<div class="section">
+    <h5>Time Series Data</h5>
+        ◼  (항공우주연구원) AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구 <br>
+            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
+    
+        ◼  (현대케피코) EV smart regenerative braking system to train driving patterns   <br>    
+            <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
+
+
+
 </div>
 
 

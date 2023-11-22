@@ -17,7 +17,12 @@ permalink: /News/
 <br>
 <div  class="row center">
 	<!-- Flickity HTML init --> 
-	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	<div class="gallery-cell" style="margin: auto; padding:0">
+	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>	
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof_01.jpeg"/>
+				<p>Deliver Speech at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_01.jpg"/>
 				<p>Visiting and meeting at University of Glasgow (Oct 2023)</p>			
 			</div>

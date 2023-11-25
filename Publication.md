@@ -62,7 +62,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, Taeyoung Na and <i><b> Simon Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2023.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2024</b>  </a> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2024.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2024</b>  </a> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Recently, the vision transformer (ViT) has achieved remarkable performance in computer vision tasks and has been actively utilized in colorization. Vision transformer
@@ -79,6 +79,26 @@ uses multi-head self attention to effectively propagate user hints to distant re
              <img  loading="lazy" src="Screen Shot 2023-11-25 at 2.52.37 PM.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
+	<hr>  
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>EAE-GAN: Emotion-Aware Emoji Generative Adversarial Network for Computationally Modeling Diverse and Fine-Grained Human Emotions</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E. and <b>Woo, S. S.*</b> </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems, 2024</b></a></small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
     <hr>
     <h4 style="margin-top:40px"><b>2023</b></h4>
     <hr>  

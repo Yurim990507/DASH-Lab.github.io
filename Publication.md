@@ -47,8 +47,41 @@ permalink: /Publications/
             <img  loading="lazy" alt="SCIE"     src="https://img.shields.io/badge/SCIE-22-brightgreen?style=social"     height="20">
         </center>
     </p>
-    <h4 style="margin-top:40px"><b>2023</b></h4>
+    <h4 style="margin-top:40px"><b>2024</b></h4>
 <hr>
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Real-Time User-guided Adaptive Colorization with Vision Transformer</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, Taeyoung Na and <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2023.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2024</b>  </a> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Recently, the vision transformer (ViT) has achieved remarkable performance in computer vision tasks and has been actively utilized in colorization. Vision transformer
+uses multi-head self attention to effectively propagate user hints to distant relevant areas in the image. However, despite the success of vision transformers in colorizing the image, heavy underlying ViT architecture and the large computational cost hinder active real-time user interaction for colorization applications. Several research removed redundant image patches to reduce the computational cost of ViT in image classification tasks. However, the existing efficient ViT methods cause severe performance degradation in colorization task since it completely removes the redundant patches. Thus, we propose a novel efficient ViT architecture for real-time interactive colorization, AdaColViT determines which redundant image patches and layers to reduce in the ViT. Unlike existing methods, our novel pruning method alleviates performance drop and flexibly allocates computational resources of input samples, effectively achieving actual acceleration. In addition, we demonstrate through extensive experiments on ImageNet-ctest10k, Oxford 102flowers, and CUB-200 datasets that our method outperforms the baseline methods. </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
+                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                 </tr>
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="Screen Shot 2023-11-25 at 2.52.37 PM.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
+    <h4 style="margin-top:40px"><b>2023</b></h4>
+    <hr>  
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

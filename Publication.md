@@ -90,10 +90,10 @@ uses multi-head self attention to effectively propagate user hints to distant re
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E. and <b>Woo, S. S.*</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E.* and <b>Woo, S. S.</b> </small> </p>
                     </tr>
 		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems, 2024</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems (SCIE, IF=5.0, Q1), 2024</b></a></small> </p>
                     </tr>
                 </tbody>
             </table>

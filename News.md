@@ -23,8 +23,36 @@ permalink: /News/
 				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=280 height=360   style=" border-radius: 8px;" src="/img/asvspoof_03.jpg"/>
+				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=280 height=360   style=" border-radius: 8px;" src="/img/asvspoof_04.jpg"/>
+				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=280 height=360   style=" border-radius: 8px;" src="/img/asvspoof_05.jpg"/>
+				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof_06.jpg"/>
+				<p>Diner at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof_07.jpg"/>
+				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof_08.jpg"/>
+				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof_01.jpeg"/>
 				<p>Deliver Speech at ASVSpoof workshop (Japan - Nov 2023)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=280 height=360   style=" border-radius: 8px;" src="/img/son_inc.jpg"/>
+				<p> </p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/univ_glasgow_01.jpg"/>

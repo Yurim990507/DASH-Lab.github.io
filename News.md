@@ -143,7 +143,7 @@ permalink: /News/
 				<p>Lab dinner (Feb 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=430 height=330   style=" border-radius: 8px;" src="/img/lab_mem2022.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=430 height=290   style=" border-radius: 8px;" src="/img/lab_mem2022.jpg"/>
 				<p>Lab members (2022)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

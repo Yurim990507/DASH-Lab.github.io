@@ -54,6 +54,66 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>RAAD: Reinforced Adversarial Anomaly Detector</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Daeyoung Yoon, Yuseung Gim, and Eunseok Park, <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://www.sigapp.org/sac/sac2024/"><b>The 39th ACM/SIGAPP Symposium On Applied Computing (SAC), Avila, Spain, 2024</b>  </a> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Developing a highly accurate anomaly detection system for realtime IT-based data management systems or Cyber-Physical system (CPS) is challenging in the presence of unseen new malicious attacks and limited amounts of attack datasets to train. Especially, anomalous or attack samples can be very few compare to the entire data, and it generally becomes data mining in a highly imbalanced timeseries dataset. To address aforementioned challenges, we propose a novel framework called Reinforced Adversarial Anomaly Detector (RAAD) based on Reinforcement Learning to mine and detect anomalies or attacks in the presence of very few attack or anomaly patterns in time-series. Our approach uses two adversarial agents, where one agent acts as an attacker and the other as a defender. The attacker agent learns a policy to disturb the defender agent by effectively sampling the defender’s worst-performing trajectories from synthetically generated states provided by the environment, while the defender agent learns a policy that can distinguish between the normal and abnormal (attack) states. Upon successful training of two adversarial policies, the defender agent can effectively evaluate whether a new observation follows the distribution of normal states. In particular, RAAD overcomes the inherent overfitting issue, which other approaches have, through adversarial training and Reinforcement Learning. Using multiple real-world anomaly and attack detection datasets, we demonstrate that RAAD outperforms the several other baseline approaches in identifying abnormal patterns. </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
+                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                 </tr>
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="RAAD.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+<hr>
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Action Attention GRU: A Data-Driven Approach for Enhancing Purchase Predictions in Digital Marketing</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, and <i><b> Simon Woo*</b> </i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://www.sigapp.org/sac/sac2024/"><b>The 39th ACM/SIGAPP Symposium On Applied Computing (SAC), Avila, Spain, 2024</b>  </a> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Modeling user activities and behaviors is critical in digital marketing. Agencies often operate with logs defined by advertising IDs (ADID). However, datasets that consist of ADIDs from digital marketing firms often lack rich user profiles and detailed item information. Addressing this challenge, we present a data-driven model, the Action Attention bidirectional Gated Recurrent Unit (AAGRU) to effectively learn sequences of user behaviors without explicit knowledge of the actors or targets for conversion prediction. Tailored to predict impending purchases based on ADID’s customer journey, AAGRU leverages two pivotal components: the Action Block and the Interval Block. The former adeptly captures salient actions in the journey through attention mechanisms, while the latter discerns temporal nuances, such as impulse and deliberate buying tendencies. This tailored approach enables digital marketing agencies to identify latent customers primed for purchase, thus optimizing targeted advertising and conversion strategies. Our experimental results affirm AAGRU’s superiority over extant deep learning models. Significantly, in simulations, AAGRU demonstrated impressive performance against our company’s best audience group. Over two days, the model achieved elevated conversion rates (CVRs) of 14.24% and 15.79%, with stable click-through rates (CTRs) of 1.50% and 1.68% respectively. These CVRs reflect significant enhancements of approximately 137% and 176% over the comparison group’s metrics, underscoring the model’s potential in refining marketing efficacy. </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
+                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                 </tr>
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="AAGRU.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+<hr>
+        <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Real-Time User-guided Adaptive Colorization with Vision Transformer</b></a>
                     </tr>
                 </thead>

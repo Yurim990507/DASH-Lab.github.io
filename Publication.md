@@ -65,6 +65,14 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://www.sigapp.org/sac/sac2024/"><b>The 39th ACM/SIGAPP Symposium On Applied Computing (SAC), Avila, Spain, 2024</b>  </a> </small> </p>
                     </tr>
+
+   		   <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 </font>
+                                </b> </small> </p>
+                    </tr>	
+
+   
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Developing a highly accurate anomaly detection system for realtime IT-based data management systems or Cyber-Physical system (CPS) is challenging in the presence of unseen new malicious attacks and limited amounts of attack datasets to train. Especially, anomalous or attack samples can be very few compare to the entire data, and it generally becomes data mining in a highly imbalanced timeseries dataset. To address aforementioned challenges, we propose a novel framework called Reinforced Adversarial Anomaly Detector (RAAD) based on Reinforcement Learning to mine and detect anomalies or attacks in the presence of very few attack or anomaly patterns in time-series. Our approach uses two adversarial agents, where one agent acts as an attacker and the other as a defender. The attacker agent learns a policy to disturb the defender agent by effectively sampling the defender’s worst-performing trajectories from synthetically generated states provided by the environment, while the defender agent learns a policy that can distinguish between the normal and abnormal (attack) states. Upon successful training of two adversarial policies, the defender agent can effectively evaluate whether a new observation follows the distribution of normal states. In particular, RAAD overcomes the inherent overfitting issue, which other approaches have, through adversarial training and Reinforcement Learning. Using multiple real-world anomaly and attack detection datasets, we demonstrate that RAAD outperforms the several other baseline approaches in identifying abnormal patterns. </small> </p>
                     </tr>

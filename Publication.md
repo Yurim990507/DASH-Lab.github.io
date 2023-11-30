@@ -183,7 +183,7 @@ uses multi-head self attention to effectively propagate user hints to distant re
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chingis Oinar, Binh M. Le, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chingis Oinar<sup>&dagger;</sup>, Binh M. Le<sup>&dagger;</sup>, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
 			<tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>IEEE Access</b></a></small> </p>

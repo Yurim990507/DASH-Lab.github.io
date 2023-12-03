@@ -87,7 +87,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Tamer, A., and <b>*Woo, S. S.</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Tamer, A., and <b>Woo, S. S.*</b> </small> </p>
                     </tr>
 		    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Dependable and Secure Computing <font color="blue">(SCIE, IF=6.8, Q1)</font>, 2024</b></a></small> </p>

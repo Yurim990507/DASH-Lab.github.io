@@ -7,6 +7,11 @@ permalink: /Dataset/
 <!-- <p><a href="https://dash-lab.github.io/Dataset_kor.html">Kor</a></p> -->
 <p><a href="../Dataset_kor/">Kor</a></p>
 
+<h1 class="page-title">Satellite Forgery Image Dataset</h1>
+  <p>We used DeepGlop dataset (<a>http://deepglobe.org/</a>) to create Satellite Forgery images by following the method proposed in Deep Belief networks (<a>https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf</a>) . A total of 293 orthorectified images with an image resolution of 1000×1000 pixels were collected. We use 100 of the 293 orthorectified images to create manipulated images. 19 different objects are spliced into the 100 images generating a total of 500 manipulated images with their corresponding manipulation ground truth masks. The 19 objects include rockets, planes, and drone images. The figure shown below illustrates some examples from the manipulated dataset.<p><br>
+  
+ <p align=center><img  loading="lazy" border=0  src="/Publications/satellite_forgery.png" width="780"></p> 
+
 <h1 class="page-title">RWDF-23 Dataset</h1>
   <p>The RWDF-23 is collected from the wild, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content.  <p><br>
   

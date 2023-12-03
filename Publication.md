@@ -55,33 +55,6 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>Satellite Forgery Image Dataset</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i><b> Simon Woo*</b> </i></small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>We used DeepGlop dataset (<a>http://deepglobe.org/</a>) to create Satellite Forgery images by following the method proposed in Deep Belief networks (<a>https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf</a>) . A total of 293 orthorectified images with an image resolution of 1000×1000 pixels were collected. We use 100 of the 293 orthorectified images to create manipulated images. 19 different objects are spliced into the 100 images generating a total of 500 manipulated images with their corresponding manipulation ground truth masks. The 19 objects include rockets, planes, and drone images. The figure shown below illustrates some examples from the manipulated dataset.  </small> </p>
-                    </tr>
-		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
-                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                 </tr>
-                </tbody>
-            </table>
-            </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="satellite_forgery.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div>
-         </div>
-	<hr>
-	<div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
                         <a><b>Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses</b></a>
                     </tr>
                 </thead>

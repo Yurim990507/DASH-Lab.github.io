@@ -50,6 +50,26 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Tamer, A., and <b>*Woo, S. S.</b> </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Dependable and Secure Computing <font color="blue">(SCIE, IF=6.8, Q1)</font>, 2024</b></a></small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+	<hr>
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -164,7 +184,7 @@ uses multi-head self attention to effectively propagate user hints to distant re
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E.* and <b>Woo, S. S.</b> </small> </p>
                     </tr>
 		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems <font color="blue">(SCIE, IF=5.0, Q1)</font>font>, 2024</b></a></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems <font color="blue">(SCIE, IF=5.0, Q1)</font>, 2024</b></a></small> </p>
                     </tr>
                 </tbody>
             </table>

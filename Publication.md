@@ -172,6 +172,38 @@ uses multi-head self attention to effectively propagate user hints to distant re
     </div>
     <hr>
     <h4 style="margin-top:40px"><b>2023</b></h4>
+    <hr>  
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Extreme Environment Rotated Object Detection Network</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Giljun Lee, Junyaup Kim, Gwanghan Lee and <b>Simon S. Woo*</b> </small> </p>
+                    </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> Journal of KIISE</b></a></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> With the advancement of object detection models, it is possible to efficiently infer synthetic aperture radar (SAR) and electro-optical (EO) satellite images. However, conventional object detection models using horizontal bounding boxes (HBB) struggle to detect small and densely grouped
+objects in satellite images. To address this issue, this paper proposes E^2RDet. This algorithm effectively modifies the structure of the Yolov7 object detection model, enabling it to accurately detect objects represented by oriented bounding boxes (OBB) in SAR images. This algorithm improves the object detection model architecture and loss function to facilitate learning of an object's dynamic (orientation) posture. Using various training datasets, E^2RDet demonstrates performance improvements across three benchmark SAR datasets. This indicates that existing HBB object detection models can train and perform object detection on objects represented by OBBs.
+ </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> </small>
+                        </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="E^2RDet.png" style="max-height: 166px;max-width: 520px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
     <hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
 	        <div style="margin-left: 25px;margin-right: 10px;">

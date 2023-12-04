@@ -93,10 +93,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> We propose a novel framework called Reinforced Adversarial Anomaly Detector (RAAD) based on Reinforcement Learning to mine and detect anomalies or attacks in the presence of very few attack or anomaly patterns in time-series. Our approach uses two adversarial agents, where one agent acts as an attacker and the other as a defender. The attacker agent learns a policy to disturb the defender agent by effectively sampling the defender’s worst-performing trajectories from synthetically generated states provided by the environment, while the defender agent learns a policy that can distinguish between the normal and abnormal (attack) states. Upon successful training of two adversarial policies, the defender agent can effectively evaluate whether a new observation follows the distribution of normal states. In particular, RAAD overcomes the inherent overfitting issue, which other approaches have, through adversarial training and Reinforcement Learning. Using multiple real-world anomaly and attack detection datasets, we demonstrate that RAAD outperforms the several other baseline approaches in identifying abnormal patterns. </small> </p>
                     </tr>
-		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
-                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                 </tr>
                 </tbody>
             </table>
             </div>
@@ -128,10 +124,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>We present a data-driven model, the Action Attention bidirectional Gated Recurrent Unit (AAGRU) to effectively learn sequences of user behaviors without explicit knowledge of the actors or targets for conversion prediction. Tailored to predict impending purchases based on ADID’s customer journey, AAGRU leverages two pivotal components: the Action Block and the Interval Block. The former adeptly captures salient actions in the journey through attention mechanisms, while the latter discerns temporal nuances, such as impulse and deliberate buying tendencies. This tailored approach enables digital marketing agencies to identify latent customers primed for purchase, thus optimizing targeted advertising and conversion strategies. Our experimental results affirm AAGRU’s superiority over extant deep learning models. Significantly, in simulations, AAGRU demonstrated impressive performance against our company’s best audience group.   </small> </p>
                     </tr>
-		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
-                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                 </tr>
                 </tbody>
             </table>
             </div>
@@ -158,10 +150,6 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>We propose a novel efficient ViT architecture for real-time interactive colorization, AdaColViT determines which redundant image patches and layers to reduce in the ViT. Unlike existing methods, our novel pruning method alleviates performance drop and flexibly allocates computational resources of input samples, effectively achieving actual acceleration. In addition, we demonstrate through extensive experiments on ImageNet-ctest10k, Oxford 102flowers, and CUB-200 datasets that our method outperforms the baseline methods. </small> </p>
                     </tr>
-		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small><a href="upcoming"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp;  <a
-                                    href="upcoming"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                 </tr>
                 </tbody>
             </table>
             </div>

@@ -60,7 +60,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eldor Abdukhamidov, Mohammed Abuhamad, <b>Simon S. Woo*</b>, Eric Chan-Tin, and Tamer ABUHMED</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eldor Abdukhamidov, Mohammed Abuhamad, <b>Simon S. Woo</b>, Eric Chan-Tin, and Tamer ABUHMED</small> </p>
                     </tr>
 		    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Dependable and Secure Computing <font color="blue">(SCIE, IF=6.8, Q1)</font>, 2024</b></a></small> </p>

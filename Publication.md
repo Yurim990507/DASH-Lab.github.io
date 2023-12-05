@@ -60,14 +60,20 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Tamer, A., and <b>Woo, S. S.*</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Eldor Abdukhamidov, Mohammed Abuhamad, <b>Simon S. Woo*</b>, Eric Chan-Tin, and Tamer ABUHMED</small> </p>
                     </tr>
 		    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Dependable and Secure Computing <font color="blue">(SCIE, IF=6.8, Q1)</font>, 2024</b></a></small> </p>
                     </tr>
+		    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Deep learning methods have gained increasing atten- tion in various applications due to their outstanding performance. For exploring how this high performance relates to the proper use of data artifacts and the accurate problem formulation of a given task, interpretation models have become a crucial component in developing deep learning-based systems. Interpretation models enable the understanding of the inner workings of deep learning models and offer a sense of security in detecting the misuse of artifacts in the input data. Similar to prediction models, interpretation models are also susceptible to adversarial inputs. This work introduces two attacks, AdvEdge and AdvEdge+, which deceive both the target deep learning model and the coupled interpretation model. We assess the effectiveness of proposed attacks against four deep learning model architectures coupled with four interpretation models that represent different categories of interpretation models. Our experiments include the implementation of attacks using various attack frameworks. We also explore the attack resilience against three general defense mechanisms and potential countermeasures. Our analysis shows the effectiveness of our attacks in terms of deceiving the deep learning models and their interpreters, and highlights insights to improve and circumvent the attacks. </small> </p>
+                    </tr>
                 </tbody>
             </table>
         </div>
+	 <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="Hardening Interpretable.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
     </div>
 	<hr>
         <div style="display: flex;flex-direction: row;justify-content: space-between;">

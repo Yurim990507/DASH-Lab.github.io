@@ -86,7 +86,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Daeyoung Yoon, Yuseung Gim, and Eunseok Park, <i><b> Simon Woo*</b> </i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Daeyoung Yoon, Yuseung Gim, and Eunseok Park, <i><b> Simon S. Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://www.sigapp.org/sac/sac2024/"><b>The 39th ACM/SIGAPP Symposium On Applied Computing (SAC), Avila, Spain, 2024</b>  </a> </small> </p>
@@ -117,7 +117,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, and <i><b> Simon Woo*</b> </i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, and <i><b> Simon S. Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://www.sigapp.org/sac/sac2024/"><b>The 39th ACM/SIGAPP Symposium On Applied Computing (SAC), Avila, Spain, 2024</b>  </a> </small> </p>
@@ -148,7 +148,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, Taeyoung Na and <i><b> Simon Woo*</b> </i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Gwanghan Lee, Saebyeol Shin, Taeyoung Na and <i><b> Simon S. Woo*</b> </i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;" > <small> <a href="https://wacv2024.thecvf.com/home"><b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Waikoloa, Hawaii, 2024</b>  </a> </small> </p>
@@ -174,7 +174,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E.* and <b>Woo, S. S.</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Lee, S., Kim, S., Chu, Y. Choi, J., Park, E.* and <b>Simon S. Woo</b> </small> </p>
                     </tr>
 		    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems <font color="blue">(SCIE, IF=5.0, Q1)</font>, 2024</b></a></small> </p>

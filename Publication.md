@@ -63,7 +63,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seunghoo Hong<sup>&dagger;</sup>, Juhun Lee<sup>&dagger;</sup>,  and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2022</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2024</b> </small> </p>
                     </tr>
                     <tr>
                     </tr>

@@ -179,11 +179,17 @@ permalink: /Publications/
 		    <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b> IEEE Transactions on Computational Social Systems <font color="blue">(SCIE, IF=5.0, Q1)</font>, 2024</b></a></small> </p>
                     </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> With the growing ubiquity and broad usage, emojis are widely used as a universal visual language, which complements the intentions and emotions beyond the textual data. Despite the critical role of representing emotion, existing emojis neglect the subtle and complex properties of human emotion in that only countable and finite face emojis exist in a categorical manner. In this article, we propose a novel approach to facial emoji generation, which can control the emotional degree of generated emojis for more complex and detailed usage on online conversations. In other words, we develop a new emotion aware emoji generative adversarial network, which is capable of generating an emoji that expresses a given emotion distribution. In this way, our approach aims to map fine grained emotions to expressive emojis. Both quantitative and qualitative evaluation demonstrate that our approach can successfully generate high quality emoji like images by representing a wide range of emo tions. To the best of our knowledge, this is the first approach to use the deep generative model from the standpoint of the emoji’s emotional role, which can further promote more interactive and effective online communication. </small> </p>
+                    </tr>
                 </tbody>
             </table>
-        </div>
-    </div>
-    <hr>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="TCS.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+	<hr>
     <h4 style="margin-top:40px"><b>2023</b></h4>
     <hr>  
     <div style="display: flex;flex-direction: row;justify-content: space-between;">

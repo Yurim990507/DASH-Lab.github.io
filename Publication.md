@@ -63,13 +63,13 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seunghoo Hong<sup>&dagger;</sup>, Juhun Lee<sup>&dagger;</sup>,  and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2024</a></b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2024 </a></b> </small> </p>
                     </tr>
                     <tr>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=4 (Acceptance Rate ~ 24%)</font>
+                               <font color='blue'>BK Computer Science IF=4 (SRRAI Special Track, Acceptance Rate ~ 21.3%)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -103,7 +103,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=4 (Acceptance Rate ~ 24%)</font>
+                               <font color='blue'>BK Computer Science IF=4 ((SRRAI Special Track, Acceptance Rate ~ 21.3%)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -116,7 +116,7 @@ called layer attack unlearning, which is highly accurate and fast compared to ex
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="kim_aaai23.jpg" style="max-height: 225px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="kim_aaai23.jpg" style="max-height: 200px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
     <hr>

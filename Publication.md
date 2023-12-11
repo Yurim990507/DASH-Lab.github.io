@@ -55,6 +55,113 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seunghoo Hong<sup>&dagger;</sup>, Juhun Lee<sup>&dagger;</sup>,  and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2022</b> </small> </p>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4 (Acceptance Rate ~ 24%)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we present a new approach that solves all of these challenges. We take inspiration from the concept of classifier guidance and propose a surgical update on the classifier guidance term while constraining the unconditional score term. Furthermore, our algorithm empowers the user to select an alternative to the erasing concept, allowing for more controllability. Our experimental results show that our algorithm not only erases the target concept effectively but also preserves the model’s generation capability. </small> </p>
+                    </tr>
+ 
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="joseph_aaai23.jpg" style="max-height: 225px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer Level Attack and Knowledge Distillation</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyunjune Kim, Sangyong Lee, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 38th Annual AAAI Conference on Artificial Intelligence, Canada, 2024</b> </small> </p>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4 (Acceptance Rate ~ 24%)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we propose a fast and novel machine unlearning paradigm at the layer level
+called layer attack unlearning, which is highly accurate and fast compared to existing machine unlearning algorithms. We introduce the Partial-PGD algorithm to locate the samples to forget efficiently. In addition, we only use the last layer of the model inspired by the Forward-Forward algorithm for unlearning process. Lastly, we use Knowledge Distillation (KD) to reliably learn the decision boundaries from the teacher using soft label information to improve accuracy performance. We conducted extensive experiments with SOTA machine unlearning models and demonstrated the effectiveness of our approach for accuracy and end-to-end unlearning performance. </small> </p>
+                    </tr>
+                
+                   
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="kim_aaai23.jpg" style="max-height: 225px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Blind-Touch: Homomorphic Encryption-Based Distributed Neural Network Inference for Privacy-Preserving Fingerprint Authentication</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hyunmin Choi and <i><b>Simon S. Woo*</b> </i>, and Hyoungshick Kim </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 38th Annual AAAI Conference on Artificial Intelligence, Canada, 2024</b> </small> </p>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4 (Acceptance Rate ~ 24%)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>This paper introduces Blind-Touch, a novel machine learning-based fingerprint authentication system that leverages homomorphic encryption to address these privacy concerns. Homomorphic encryption allows for computations on encrypted data without decrypting it. Therefore, Blind-Touch can keep fingerprint data encrypted on the server while performing machine learning operations. Blind-Touch integrates three techniques to address the computational challenges of using homomorphic encryption for machine learning: (1) A distributed machine learning architecture that divides inference tasks between the client and server, thereby reducing encrypted computations on the server; (2) A data compression method that reduces client-server communication costs; and (3) A cluster architecture that improves scalability with the number of registered users. Blind-Touch achieves high accuracy on two benchmark fingerprint datasets, with a 93.6% F1-score for the PolyU dataset and a 98.2% F1-score for the SOKOTO dataset. Moreover, Blind-Touch can match a fingerprint among 5,000 in about 0.65 seconds.With its privacyfocused design, high accuracy, and efficiency, Blind-Touch is a promising alternative to conventional fingerprint authentication
+for web and cloud applications.
+</small> </p>
+                    </tr>
+ 
+                  
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="choi_aaai23.jpg" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+    <hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses</b></a>
                     </tr>
                 </thead>

@@ -80,7 +80,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="joseph_aaai23.jpg" style="max-height: 225px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="joseph_aaai23.jpg" style="max-height: 196px;max-width: 461px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
     <hr>
@@ -116,7 +116,7 @@ called layer attack unlearning, which is highly accurate and fast compared to ex
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="kim_aaai23.jpg" style="max-height: 200px;max-width: 410px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="kim_aaai23.jpg" style="max-height: 204px;max-width: 446px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
     <hr>

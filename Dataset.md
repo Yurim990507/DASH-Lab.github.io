@@ -10,7 +10,7 @@ permalink: /Dataset/
 <h1 class="page-title">COCO spliced datasets</h1>
   <p>We utilized the <a href="https://cocodataset.org/#home">COCO dataset</a> to generate a manipulated dataset. Given that the dataset comes with provided labels (masks), we initially identified the desired portions in the original images by applying the mask to them. Subsequently, we used these specific regions to manipulate other images. Each image was altered with approximately 8 to 10 objects, resulting in a total of around 900k manipulated images.<p><br>
   
- <p align=center><img  loading="lazy" border=0  src="/Publications/COCO_spliced.png" width="780"></p> 
+ <p align=center><img  loading="lazy" border=0  src="/Publications/Screen Shot 2023-12-11 at 2.15.08 PM.png" width="780"></p> 
 
 <h1 class="page-title">Satellite Forgery Image Dataset</h1>
   <p>We used <a href="http://deepglobe.org/">DeepGlop dataset</a> to create Satellite Forgery images by following the method proposed in <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf">Deep Belief networks</a>. A total of 293 orthorectified images with an image resolution of 1000×1000 pixels were collected. We use 100 of the 293 orthorectified images to create manipulated images. 19 different objects are spliced into the 100 images generating a total of 500 manipulated images with their corresponding manipulation ground truth masks. The 19 objects include rockets, planes, and drone images. The figure shown below illustrates some examples from the manipulated dataset.<p><br>

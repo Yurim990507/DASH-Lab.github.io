@@ -235,7 +235,7 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-	
+Dec 2023. Three papers are accepted at <b>AAAI 2024. </b> (Acceptance rate: 24%)
 August 2023. Four papers are accepted at <b>CIKM 2023. </b><br>
 	
 July 2023. We are organizing <b>The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (<a href="https://sites.google.com/view/ansd23/submission?authuser=0">ANSD '23</a>)</b>, co-located with CIKM 2023.<br>

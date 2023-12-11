@@ -130,7 +130,7 @@ called layer attack unlearning, which is highly accurate and fast compared to ex
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hyunmin Choi and <i><b>Simon S. Woo*</b> </i>, and Hyoungshick Kim </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hyunmin Choi, <i><b>Simon S. Woo*</b> </i>, and Hyoungshick Kim </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">The 38th Annual AAAI Conference on Artificial Intelligence,  Canada, 2024</a></b> </small> </p>

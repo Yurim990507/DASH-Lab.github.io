@@ -569,7 +569,7 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="rwdf23_cikm23.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="rwdf23_cikm23.png" style="max-height: 245px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 <hr>
@@ -605,7 +605,7 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="qad_iccv23_arch.png" style="max-height: 180px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="qad_iccv23_arch.png" style="max-height: 206px;max-width: 480px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 <hr>

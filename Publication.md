@@ -60,7 +60,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Fahim Faisal Niloy, Kishor Kumar Bhaumik, <i><b>Simon S. Woo</b> </i>, and Hyoungshick Kim* </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Fahim Faisal Niloy, Kishor Kumar Bhaumik, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://2024.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Korea, 2024</a></b> </small> </p>

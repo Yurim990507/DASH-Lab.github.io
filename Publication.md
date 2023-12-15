@@ -50,6 +50,33 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 	<hr>
+    <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Source-free Online Domain Adaptive Semantic Segmentation of Satellite Images under Image Degradation</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Fahim Faisal Niloy, Kishor Kumar Bhaumik, <i><b>Simon S. Woo</b> </i>, and Hyoungshick Kim* </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://2024.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Korea, 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we address source-free and online domain adaptation, i.e., test-time adaptation (TTA), for satellite im- ages subject to various forms of image degradation. Towards achieving this goal, we propose a novel TTA approach involv- ing two effective strategies. First, we progressively estimate the global Batch Normalization (BN) statistics of the target distribution with incoming data stream. Leveraging these statistics during inference has the ability to effectively reduce domain gap. Furthermore, we enhance prediction quality by refining the predicted masks using global class centers. Both strategies employ dynamic momentum for fast and stable convergence. Notably, our method is back-propagation-free and hence fast and lightweight, making it highly suitable for on-the-fly adaptation to new domain. Through comprehen- sive experiments across various domain adaptation scenarios, we demonstrate the robust performance of our method.
+</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="kishor_icassp24.jpg" style="max-height: 260px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

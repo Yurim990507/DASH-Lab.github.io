@@ -14,7 +14,7 @@ permalink: /Projects/
             <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
     
         ◼  (보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업   <br>    
-            
+            <p><a href="../Heroface_restoration/"> 보훈부 Project Page </a></p>
 
         ◼  (IITP)  Stable Diffusion 생성 기법 연구   <br>    
 

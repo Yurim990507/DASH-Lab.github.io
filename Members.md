@@ -103,10 +103,18 @@ permalink: /Members/
                   <td>Artificial Intelligence</td>
                   <td>ML Robustness</td>
                   <td><i></i></td>
+                </tr> 
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp; Inzamamul Alam
+                      </div>
+                  </td>
+                  <td>CSE</td>
+                  <td>Deepfake</td>
+                  <td><i></i></td>
                 </tr>
-                
-                
-                
               </tbody>
             </table>
           </div>
@@ -153,19 +161,6 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <a href="https://kishor-bhaumik.github.io/" target = "_blank">
-                            <img  loading="lazy" src="/img/kishor_photo.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                            Kishor Kumar Bhaumik
-                          </a>
-                      </div>
-                  </td>
-                  <td>Computer Science & Engineering</td>
-                  <td>Image Manipulation Detection, Deepfake, Time Series</td>
-                  <td><i>kishor25 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -265,7 +260,18 @@ permalink: /Members/
                   <td>CSE</td>
                   <td>Vision</td>    
                      <td><i></i></td>
-                </tr>  
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Razaib Tariq
+                      </div>
+                     </td>
+                  <td>CSE</td>
+                  <td>Deepfake</td>    
+                     <td><i></i></td>
+                </tr>
               </tbody>
             </table>
           </div>
@@ -388,10 +394,16 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                <tr>
+                  <td><a href="https://kishor-bhaumik.github.io/" target = "_blank">Kishor Kumar Bhaumik</a> (MS) 2023</td>
+                  <td>Image Manipulation Detection, Time Series</td>
+                  <td>TBU</td>
+                  </tr>
                   <tr>
                   <td>Jungho Kim (MS) 2023</td>
                   <td>Knowledge distillation</td>
                   <td>KAIST</td>
+                  </tr>
                   <tr>
                   <td>Gwanghan Lee (MS) 2023</td>
                   <td>Model compression</td>

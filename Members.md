@@ -477,7 +477,7 @@ permalink: /Members/
                 <tr>
                     <td>Junyaup Kim (MS) 2021</td>
                     <td>Fake Image Detection, Speech Applications</td>
-                    <td>한화시스템즈</td>
+                    <td>IBM Korea</td>
                 </tr>
                 <tr>
                     <td>Siho Han (MS) 2021</td>

@@ -275,7 +275,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                        <img  loading="lazy" src="/img/MinsunJeon.jpg " alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minsun Jeon 
                       </div>
                   </td>

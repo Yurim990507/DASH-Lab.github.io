@@ -268,10 +268,32 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;Razaib Tariq
                       </div>
                      </td>
-                  <td>CSE</td>
+                  <td>Computer Science & Engineering</td>
                   <td>Deepfake</td>    
-                     <td><i></i></td>
+                     <td>razaibtariq@g dot skku dot edu<i></i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minsun Jeon 
+                      </div>
+                  </td>
+                  <td> Computer Science & Engineering </td>
+                  <td> Computer Vision & Multi-modal </td>
+                  <td><i>minsun9602@g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Hohyun Na
+                      </div>
+                     </td>
+                  <td>Intelligent Software</td>
+                  <td>Computer Vision, Multi-modal</td>    
+                     <td>skghgus9@g dot skku dot edu<i></i></td>
+                </tr>                  
               </tbody>
             </table>
           </div>

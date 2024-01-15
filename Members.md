@@ -270,7 +270,7 @@ permalink: /Members/
                      </td>
                   <td>Computer Science & Engineering</td>
                   <td>Deepfake</td>    
-                     <td>razaibtariq@g dot skku dot edu<i></i></td>
+                     <td><i>razaibtariq@g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -292,7 +292,7 @@ permalink: /Members/
                      </td>
                   <td>Intelligent Software</td>
                   <td>Computer Vision, Multi-modal</td>    
-                     <td>skghgus9@g dot skku dot edu<i></i></td>
+                     <td><i>skghgus9@g dot skku dot edu</i></td>
                 </tr>                  
               </tbody>
             </table>

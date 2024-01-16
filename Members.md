@@ -236,7 +236,7 @@ permalink: /Members/
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>
-                  <td> Multi-Modal, Super Resolution </td>
+                  <td> Multi-modal & Super Resolution </td>
                   <td><i> sohn1029 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
@@ -286,14 +286,58 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/dummy_female.png " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minji Heo 
+                      </div>
+                  </td>
+                  <td> Artificial Intelligence </td>
+                  <td> Computer Vision </td>
+                  <td><i>minji.h0224@g dot skku dot edu</i></td>
+                </tr>                  
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;SangJun Chung
+                      </div>
+                     </td>
+                  <td>Artificial Intelligence</td>
+                  <td>Computer Vision & Multi-modal</td>    
+                     <td><i>hyjk826@g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Hohyun Na
                       </div>
                      </td>
-                  <td>Intelligent Software</td>
-                  <td>Computer Vision, Multi-modal</td>    
+                  <td>Artificial Intelligence</td>
+                  <td>Computer Vision & Multi-modal</td>    
                      <td><i>skghgus9@g dot skku dot edu</i></td>
-                </tr>                  
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Hyeongjun Choi
+                      </div>
+                     </td>
+                  <td>Artificial Intelligence</td>
+                  <td>Computer Vision</td>    
+                     <td><i>junhjun@g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Park Chan
+                      </div>
+                     </td>
+                  <td>Artificial Intelligence</td>
+                  <td>Multi-modal</td>    
+                     <td><i>pchan1018@g dot skku dot edu</i></td>
+                </tr>                   
               </tbody>
             </table>
           </div>

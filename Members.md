@@ -270,7 +270,7 @@ permalink: /Members/
                      </td>
                   <td>Computer Science & Engineering</td>
                   <td>Deepfake</td>    
-                     <td><i>razaibtariq@g dot skku dot edu</i></td>
+                     <td><i>razaibtariq @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -281,7 +281,7 @@ permalink: /Members/
                   </td>
                   <td> Computer Science & Engineering </td>
                   <td> Computer Vision & Multi-modal </td>
-                  <td><i>minsun9602@g dot skku dot edu</i></td>
+                  <td><i>minsun9602 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -292,7 +292,7 @@ permalink: /Members/
                   </td>
                   <td> Artificial Intelligence </td>
                   <td> Computer Vision </td>
-                  <td><i>minji.h0224@g dot skku dot edu</i></td>
+                  <td><i>minji.h0224 @ g dot skku dot edu</i></td>
                 </tr>                  
                 <tr>
                   <td align="center">
@@ -303,7 +303,7 @@ permalink: /Members/
                      </td>
                   <td>Artificial Intelligence</td>
                   <td>Computer Vision & Multi-modal</td>    
-                     <td><i>hyjk826@g dot skku dot edu</i></td>
+                     <td><i>hyjk826 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -314,7 +314,7 @@ permalink: /Members/
                      </td>
                   <td>Artificial Intelligence</td>
                   <td>Computer Vision & Multi-modal</td>    
-                     <td><i>skghgus9@g dot skku dot edu</i></td>
+                     <td><i>skghgus9 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -325,7 +325,7 @@ permalink: /Members/
                      </td>
                   <td>Artificial Intelligence</td>
                   <td>Computer Vision</td>    
-                     <td><i>junhjun@g dot skku dot edu</i></td>
+                     <td><i>junhjun @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -336,7 +336,7 @@ permalink: /Members/
                      </td>
                   <td>Artificial Intelligence</td>
                   <td>Multi-modal</td>    
-                     <td><i>pchan1018@g dot skku dot edu</i></td>
+                     <td><i>pchan1018 @ g dot skku dot edu</i></td>
                 </tr>                   
               </tbody>
             </table>

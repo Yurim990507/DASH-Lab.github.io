@@ -57,6 +57,10 @@
 	document.querySelector("#close1").addEventListener("click", function(){
 		document.querySelector("#popup1").style.transform='scale(0)';
 		document.querySelector("#popup1").style.display = "none";
+
+		// Move the second popup to the position of the first popup
+        document.querySelector("#popup2").style.top = document.querySelector("#popup1").style.top;
+        document.querySelector("#popup2").style.margin = document.querySelector("#popup1").style.margin;
 	});
 
 	document.querySelector("#close2").addEventListener("click", function(){

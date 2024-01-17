@@ -235,6 +235,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+January 2024. We are organizing <b>The 3rd Workshop on the security implications of Deepfakes and Cheapfakes (<a href="https://sites.google.com/view/wdc-2024/">WDC '24</a>)</b>, co-located with ACM ASIACCS 2024.<br>
+	
 December 2023. Three papers are accepted at <b>AAAI 2024. </b> (Acceptance rate: 24%)<br>
 	
 August 2023. Four papers are accepted at <b>CIKM 2023. </b><br>

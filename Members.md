@@ -337,7 +337,18 @@ permalink: /Members/
                   <td>Artificial Intelligence</td>
                   <td>Multi-modal</td>    
                      <td><i>pchan1018 @ g dot skku dot edu</i></td>
-                </tr>                   
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Hyeonsu Hwang 
+                      </div>
+                     </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Anomaly Detection & Representation Learning </td>    
+                     <td><i>hhs4366 @ g dot skku dot edu</i></td>
+                </tr>                    
               </tbody>
             </table>
           </div>

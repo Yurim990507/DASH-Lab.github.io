@@ -72,7 +72,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="binhle_kdd2024.png" style="max-height: 260px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="binhle_pakdd2024.png" style="max-height: 260px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -81,7 +81,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>SEE: Spherical Embedding Expansion for Improving Deep Metric Learning</b></a>
+                        <a><b>Relation-Aware Label Smoothing for Self-KD</b></a>
                     </tr>
                 </thead>
                 <tbody>

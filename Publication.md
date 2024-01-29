@@ -50,6 +50,58 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SEE: Spherical Embedding Expansion for Improving Deep Metric Learning</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining,  Taiwan, 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The primary goal of deep metric learning is to construct a comprehensive embedding space that can effectively represent samples originating from both intra- and inter-classes. Although extensive prior work has explored diverse metric functions and innovative training strategies, much of this work relies on default training data. Consequently, the potential variations inherent within this data remain largely unexplored, constraining the model's robustness to unseen images.In this context, we introduce the Spherical Embedding Expansion (dubbed SEE) method. SEE aims to uncover the latent semantic variations in training data. Especially, our method augments the embedding space with synthetic representations based on Max-Mahalanobis distribution (MMD) centers, which maximize the dispersion of these synthetic features without increasing computational costs.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="binhle_kdd2024.png" style="max-height: 260px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SEE: Spherical Embedding Expansion for Improving Deep Metric Learning</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Jeongho Kim and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining,  Taiwan, 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Although self-knowledge distillation shows remarkable performance improvement with fewer resources than conventional teacher-student based KD approaches, existing self-KD methods still require additional time and memory for training. We propose Relation-Aware Label Smoothing for Self-Knowledge Distillation (\sysname) that regularizes the student model itself by utilizing the inter-class relationships between class representative vectors with a light-weight auxiliary classifier. Compared to existing self-KD methods that only consider the instance-level knowledge, we show that proposed global-level knowledge is sufficient to achieve competitive performance while being extremely efficient training cost. Also, we achieve extra performance improvement through instance-level supervision.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="jeongho_kdd2024.jpg" style="max-height: 260px;max-width: 450px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -66,8 +118,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://2024.ieeeicassp.org/">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),  Korea, 2024</a></b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we address source-free and online domain adaptation, i.e., test-time adaptation (TTA), for satellite im- ages subject to various forms of image degradation. Towards achieving this goal, we propose a novel TTA approach involv- ing two effective strategies. First, we progressively estimate the global Batch Normalization (BN) statistics of the target distribution with incoming data stream. Leveraging these statistics during inference has the ability to effectively reduce domain gap. Furthermore, we enhance prediction quality by refining the predicted masks using global class centers. Both strategies employ dynamic momentum for fast and stable convergence. Notably, our method is back-propagation-free and hence fast and lightweight, making it highly suitable for on-the-fly adaptation to new domain. Through comprehen- sive experiments across various domain adaptation scenarios, we demonstrate the robust performance of our method.
-</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we address source-free and online domain adaptation, i.e., test-time adaptation (TTA), for satellite im- ages subject to various forms of image degradation. Towards achieving this goal, we propose a novel TTA approach involv- ing two effective strategies. First, we progressively estimate the global Batch Normalization (BN) statistics of the target distribution with incoming data stream. Leveraging these statistics during inference has the ability to effectively reduce domain gap. Furthermore, we enhance prediction quality by refining the predicted masks using global class centers. Both strategies employ dynamic momentum for fast and stable convergence. Notably, our method is back-propagation-free and hence fast and lightweight, making it highly suitable for on-the-fly adaptation to new domain. Through comprehen- sive experiments across various domain adaptation scenarios, we demonstrate the robust performance of our method.</small> </p>
                     </tr>
                 </tbody>
             </table>

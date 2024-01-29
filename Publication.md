@@ -81,7 +81,7 @@ anomaly score to differentiate anomalies. We evaluate our model using the real-w
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="sam_pakdd2024.png" style="max-height: 260px;max-width: 470px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="sam_pakdd2024.png" style="max-height: 195px;max-width: 548px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -112,7 +112,7 @@ anomaly score to differentiate anomalies. We evaluate our model using the real-w
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="binhle_pakdd2024.png" style="max-height: 260px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="binhle_pakdd2024.png" style="max-height: 190px;max-width: 433px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -143,7 +143,7 @@ anomaly score to differentiate anomalies. We evaluate our model using the real-w
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="jeongho_kdd2024.jpg" style="max-height: 260px;max-width: 460px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="jeongho_kdd2024.jpg" style="max-height: 228px;max-width: 460px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -175,7 +175,7 @@ a novel traffic forecasting model for predicting traffic flow accurately. Specif
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="kishor_pakdd2024.png" style="max-height: 260px;max-width: 430px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="kishor_pakdd2024.png" style="max-height: 190px;max-width: 650px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>

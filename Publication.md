@@ -261,9 +261,7 @@ a novel traffic forecasting model for predicting traffic flow accurately. Specif
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this work, we propose a fast and novel machine unlearning paradigm at the layer level
 called layer attack unlearning, which is highly accurate and fast compared to existing machine unlearning algorithms. We introduce the Partial-PGD algorithm to locate the samples to forget efficiently. In addition, we only use the last layer of the model inspired by the Forward-Forward algorithm for unlearning process. Lastly, we use Knowledge Distillation (KD) to reliably learn the decision boundaries from the teacher using soft label information to improve accuracy performance. We conducted extensive experiments with SOTA machine unlearning models and demonstrated the effectiveness of our approach for accuracy and end-to-end unlearning performance. </small> </p>
-                    </tr>
-                
-                   
+                    </tr>   
                 </tbody>
             </table>
         </div>
@@ -298,9 +296,7 @@ called layer attack unlearning, which is highly accurate and fast compared to ex
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>This paper introduces Blind-Touch, a novel machine learning-based fingerprint authentication system that leverages homomorphic encryption to address these privacy concerns. Homomorphic encryption allows for computations on encrypted data without decrypting it. Therefore, Blind-Touch can keep fingerprint data encrypted on the server while performing machine learning operations. Blind-Touch integrates three techniques to address the computational challenges of using homomorphic encryption for machine learning: (1) A distributed machine learning architecture that divides inference tasks between the client and server, thereby reducing encrypted computations on the server; (2) A data compression method that reduces client-server communication costs; and (3) A cluster architecture that improves scalability with the number of registered users. Blind-Touch achieves high accuracy on two benchmark fingerprint datasets, with a 93.6% F1-score for the PolyU dataset and a 98.2% F1-score for the SOKOTO dataset. Moreover, Blind-Touch can match a fingerprint among 5,000 in about 0.65 seconds.With its privacyfocused design, high accuracy, and efficiency, Blind-Touch is a promising alternative to conventional fingerprint authentication
 for web and cloud applications.
 </small> </p>
-                    </tr>
- 
-                  
+                    </tr>                  
                 </tbody>
             </table>
         </div>
@@ -761,7 +757,6 @@ Challenge) dataset and the FaceForensic++ benchmark, we show that our model achi
         </div>
     </div>
 <hr>
-
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -1195,16 +1190,14 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i>Jinbeom Kim<sup>&dagger;</sup>, Giljun Lee<sup>&dagger;</sup>, Taejun Kim, and <b>Simon Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a>  <b>The 38th ACM/SIGAPP Symposium On Applied Computing,
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <a><b>The 38th ACM/SIGAPP Symposium On Applied Computing,
 Tallinn, Estonia, March, 2023</b></a></small> </p>
-                    </tr>
-                    
+                    </tr>  
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                <font color='blue'>BK Computer Science IF=1</font>
                                 </b> </small> </p>
-                    </tr>
-                    
+                    </tr>                    
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> Oriented object detection in aerial images is a challenging task due to the highly complex backgrounds and objects with arbitrary oriented and usually densely arranged. Existing oriented object detection methods adopt CNN-based methods, and they can be divided into three types: two-stage, one-stage, and anchor-free methods. All of them require non-maximum suppression (NMS) to eliminate the duplicated predictions. Recently, object detectors based on the transformer remove hand-designed components by directly solving set prediction problems via performing bipartite matching, and achieve state-of-the-art performances in general object detection. Motivated by this research, we propose a transformer-based oriented object detector named  Rotated DETR with oriented bounding boxes (OBBs) labeling. We embed the scoring network to reduce the tokens corresponding to the background. In addition, we apply a proposal generator and iterative proposal refinement in order to provide proposals with angle information to the transformer decoder. Rotated DETR achieves state-of-the-art performance on the single-stage and anchor-free oriented object detectors on DOTA, UCAS-AOD, and DIOR-R datasets with only 10\% feature tokens. In the experiment, we show the effectiveness of the scoring network and iterative proposal refinement.</small> </p>
                     </tr>                    
@@ -1295,8 +1288,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>매우 복잡한 배경과 임의로 회전 되어있고 조밀하게 배열되어 잇는 객체로 인해 항공 이미지에서 회전된 객체를 탐지하는 것은 매우 어려운 작업이다. 기존의 회전 객체 탐지 기법들은 CNN 기반 방법론을 채택하고 있으며, 이들은 세가지 카테고리 two-stage, one-stage, 그리고 anchor-free로 분류할 수 있다. 이들 모두 중복된 예측을 제거하기 위해 비최대 억제(NMS)가 필요하다. 최근 transformer를 기반으로 한 객체 탐지 모델은 이분 매칭을 통해 set prediction proble을 직접 해결하여 수작업으로 설계된 구성 요소들을 제거하면서 일반적인 객체 탐지 분야에서 최첨단 성능을 달성하였다. 이 연구에 자극을 받아, 우리는 방향 경계 상자(OBB) 라벨을 사용하는 transformer 기반 모델인 Rotated DETR를 제안한다.또한 우리는 proposal generator와 iterative proposal refinement를 적용하여 transformer decoder에 각도 정보를 제공한다. Rotated DETR은 10%의 feature token 만으로 DOTA 데이터 세트의 one-stage와 anchor-free 모델들에서 최첨단 성능을 달성한다. 우리는 실험을 통해 scoring network와 iterative proposal refinement의 효과를 보여준다.</small> </p>
-                    </tr>
-                     
+                    </tr>                     
                 </tbody>
             </table>
             </div>            
@@ -1319,8 +1311,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>다양한 딥페이크 데이터셋에 대한 최신 딥페이크 탐지 모델은 놀라운 성능을 달성했습니다. 그러나 대부분의 접근 방식은 각 딥페이크 입력 이미지가 서로다른 지역적인 부분에서 구별되는 특징을 가지고 있다는 사실을 활용하지 않습니다. 따라서 본 논문은 입력 이미지의 서로 다른 세부적인 부분에 동적으로 초점을 맞추고 실제 이미지와 딥페이크 이미지의 미묘하고 세부적인 차이를 이용하는 효과적인 딥페이크 탐지 방법인 MaskDF를 제안합니다. 특히 중요하지 않은 특성을 제거하여 입력의 귀중한 정보를 보존할 수 있는 학습 가능한 어텐션 마스크를 제안합니다. 입력 피쳐는 제안된 게이팅 함수를 통과하여 어텐션 마스크 벡터를 생성하므로 딥페이크 탐지에 영향을 미치는 중요한 특징을 결정할 수 있습니다. 우리의 방법은 입력 정보의 절반만 사용하여 DFDC 및 FaceForensics++ 데이터 세트에서 다른 기본 모델보다 더 나은 성능을 보여주었습니다.</small> </p>
-                    </tr>
-                     
+                    </tr>                     
                 </tbody>
             </table>
             </div>            
@@ -1343,8 +1334,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>소셜 미디어나 감시 시스템에서 매일 수많은 얼굴 사진과 개인 정보가 수집된다. 얼굴 정보를 포함한 소셜 미디어 사용자의 개인 정보는 간단한 거래나 공항 출입국 절차의 간소화와 같은 이점이 있지만 이러한 이점은 항상 개인 정보 보호 문제를 수반한다. 위와 같은 민감한 정보들은 잠재적으로 유해한 목적으로 사용될 위험이 있기때문에 공격자에게 취약하다고 할 수 있다. 이러한 정보를 보호하기 위해 이미지의 프라이버시를 강화하는 솔루션인 DP(Differential Privacy)를 사용하여 높은 수준의 프라이버시를 제공한다. DP(Differential Privacy)를 통해 이미지의 프라이버시가 증가할 수 있지만 이상적인 epsilon-DP를 달성하기 위해서 유틸리티와 프라이버시 사이에는 필연적인 trade-off가 있다. 따라서 난독화 이미지의 최적 매개변수를 선택하는 것이 개인정보 보호의 핵심이며 본 논문에서는 이미지의 프라이버시를 강화하기 위해 각각 DP-Pix, DP-SVD, Snow라는 3가지 DP(Differential Privacy) 난독화 방법을 제시한다. 또한 딥 러닝 모델의 견고성을 평가하는 딥페이크 이미지 데이터셋에서 DP 방법을 구현하는 다양한 방법을 시연한다. 실험의 결과는 훈련 단계에서 데이터 세트 증대가 epsilon-DP(Differential Privacy를 사용하여 딥페이크를 탐지할 때 모델의 성능을 쉽게 향상시킬 수 있음을 나타낸다.</small> </p>
-                    </tr>
-                     
+                    </tr>                     
                 </tbody>
             </table>
             </div>            
@@ -1367,8 +1357,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 최근들어 딥페이크(Deepfake) 기술의 발전으로 인해 국제사회의 우려가 점점 커지고 있다. 딥페이크 기술은 이미지나 영상 속 얼굴을 손쉽게 생성, 조작하여 왜곡된 정보를 전파할 수 있기 때문이다. 이에 따라 최첨단 성능을 갖춘 다양한 딥페이크 탐지 모델이 제안되어 왔다. 그러나 지금까지 제안된 딥페이크 탐지 모델은 펜데믹 위기 동안 발생했을 마스크가 착용된 얼굴에 대한 정보는 고려하지 않고 있다. 마스크가 착용된 얼굴 이미지의 경우 얼굴의 중요한 랜드마크가 마스크 속에 숨겨져 있기 때문에 딥페이크 탐지기의 성능을 보장하기 어렵다. 따라서 본 논문에서는 이러한 문제를 해결할 수 있는 두 가지 간단한 방법론을 제시하고 기존 방법론들과의 비교실험을 통해 마스크가 착용된 얼굴 이미지와 마스크가 착용되지 않은 얼굴 이미지 사이에서 나타날 수 있는 딥페이크 탐지 모델의 문제점과 제시된 방법론의 효과를 살펴보고자 한다. </small> </p>
-                    </tr>
-                     
+                    </tr>                     
                 </tbody>
             </table>
             </div>
@@ -1393,8 +1382,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                <font color='blue'>BK Computer Science IF=1 (BKCSA149)</font>
                                 </b> </small> </p>
-                    </tr>
-                    
+                    </tr>                    
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Super-resolution (SR) aims to recover the highresolution (HR) images from low-resolution (LR) images. Recently, various attempts, e.g., unsupervised SR models and domain-specific SR have achieved outstanding performance for various real-world applications. However, they significantly suffer from low generalization performance when trained on another domain dataset. Furthermore, they often exhibit performance degradation when the model continually learns multiple tasks; so-called catastrophic forgetting degrades the SR performance. In this paper, we are the first to propose a novel approach for continual multi-task SR named Replay-based Continual Representation Learning framework that can be applicable to GAN-based SR models, which utilizes feature memory for preserving the learned features from the previous task. Our experimental results demonstrate the effectiveness of RCRL in continual multi-task SR at improving generalization performance and alleviating catastrophic forgetting.</small> </p>
                     </tr>               
@@ -1657,8 +1645,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img  loading="lazy" src="cikm22_youjin.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
-         </div>
-    
+         </div>    
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -1689,8 +1676,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img  loading="lazy" src="jinpum_eccv22.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
-         </div>
-    
+         </div>    
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -1707,8 +1693,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>한국컴퓨터종합학술대회 (KCC), 2022</b> </small> </p>
                     </tr>
-                    <tr>
-              
+                    <tr>              
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>조기 종료 네트워크(early-exit network)는 추론 시 동적으로 모델 복잡도를 낮춤으로써 신경망의 효율성을 높인다. 기존 연구들은 입력 샘플이나 모델 구조의 중복성(redundancy)을 줄이는 데 집중하였으나 고차원 특징 정보가 부족한 초기 분류기들이 전체 네트워크 성능에 치명적인 영향을 끼치는 문제를 해결하지 못했다. 본 연구는 중복성을 줄이는 것뿐만 아니라 합성곱 커널(convolution kernel) 중앙에서 가중치들을 공유하면서 효율적으로 다중 스케일(multi-scale) 특징을 생성하여 조기 종료 네트워크의 성능을 향상시킨다. 또한 이 논문의 게이팅 네트워크(gating network)는 네트워크의 서로 다른 위치에 있는 각 합성곱 레이어에 따라 최적의 다중 스케일 특징 비율을 결정하도록 학습된다.</small> </p>
@@ -1716,8 +1701,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                 </tbody>
             </table>
             </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">             
             </div>
          </div>
         <hr> 
@@ -1747,8 +1731,7 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
             </div>
          </div>
-    <hr>    
-    
+    <hr>        
             <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -1765,17 +1748,14 @@ Tallinn, Estonia, March, 2023</b></a></small> </p>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>제29회 대한기초의학 학술대회 (대한법의학회), 2022 <font color="blue">우수포스터상 </font></b> </small> </p>
                     </tr>
-                    <tr>
-              
+                    <tr>              
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>As the number of lonely deaths increases due to the aging population and the increase in single-person households, the frequency of discovery of decomposed corpses in death cases is gradually increasing. In the wake of the strengthening of on-site guidelines by the National Police Agency and the adjustment of the prosecution and police investigation rights, the need for identification and autopsy at the scene is being emphasized. Although the existing forensic face restoration technology using face bones has accumulated a number of previous studies, there is a limitation in that the restoration results may vary due to many factors such as the thickness and nature of facial soft tissue, shape of eyes or nose, and distribution of body hair. Based on the fact that facial recognition technology using facial landmarks is becoming common all over the world, this study aims to help quickly and accurately identify the faces of corrupt bodies that expand due to postmortem-change.
 In this study, living data such as ID cards and post-mortem data were collected for bodies identified with fingerprints, and compared pairs were formed, and face recognition technology used the MTCNN model, which is currently widely used in the field. The artificial intelligence model, which determines whether live data and post-data match, selected and analyzed Arcface, which is the same among a total of seven open-source models (VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, ArcFace, Dlib).
 The performance of the artificial intelligence model (Arcface) was evaluated by comparing the results of the judgment of the expert group, the general public group, and the entire human group. As a result of comparison using 107 pairs of original data, the same person judgment rate was found to be 51.4% in the expert group, 22.4% in the general population, and 29.0% in the total human group, and the artificial intelligence model was 47.7%. As a result of reviewing the original data, it was determined that changes in skin color due to decomposition could affect the performance of artificial intelligence models According to this judgment, when the original data were preprocessed in gray scale, the judgment rate of the same person as the artificial intelligence model was 50.5%, which showed an improvement in performance of about 3%. 
-Through this study, it was found that only the currently developed artificial intelligence model showed facial recognition performance close to that of a group of experts. It is expected that face recognition performance can be further improved if various pretreatment technologies reflecting the characteristics of the postmortem change are developed and applied in the future. 
-                            
-                            <br>
-                            
+Through this study, it was found that only the currently developed artificial intelligence model showed facial recognition performance close to that of a group of experts. It is expected that face recognition performance can be further improved if various pretreatment technologies reflecting the characteristics of the postmortem change are developed and applied in the future.                             
+                            <br>                            
                             인구 고령화 및 1인 가구의 증가는 고독사의 증가로 이어져 변사사건에서 부패 시신이 발견되는 빈도가 점차 높아지고 있다. 경찰청의 현장 지침 강화 및 검경 수사권 조정 등을 계기로 현장에서는 신원 확인 및 부검의 필요성이 강조되고 있다. 얼굴뼈를 활용한 기존의 법의학적 얼굴 복원 기술은 다수의 선행연구 결과가 축적되어 있지만, 얼굴 연부조직의 두께나 성상, 눈이나 코의 형태, 체모의 분포 등의 고려 요소가 많아 복원 결과가 달라질 수 있다는 한계가 존재한다. 본 연구는 얼굴의 특징점(face landmark)을 활용하는 얼굴 인식 기술이 전세계적으로 보편화되고 있다는 점에 착안하여, 사후변화로 인해 연부조직이 팽창된 부패 시신의 얼굴을 복원하거나 생전의 사진과 비교하여 동일인 여부를 판정함으로써 신속하고 정확한 신원확인에 도움을 주고자 한다. 
  본 연구에서는 지문 등으로 신원이 확인된 시신을 대상으로 신분증 등의 생전 데이터와 검안 또는 부검 당시 촬영된 사후데이터를 수집한 뒤 각각 짝을 지어 비교쌍을 구성하였으며, 얼굴 인식 기술은 현재 해당 분야에서 많이 활용되고 있는 MTCNN 모델을 활용하였다. 생전데이터와 사후데이터의 일치 여부를 판단하는 인공지능모델은 총 7개의 open source 모델(VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, ArcFace, Dlib) 중 가장 동일인 판정률의 빈도가 가장 높게 나타난 Arcface를 선정하여 분석하였다.
  인공지능모델(Arcface)의 성능은 전문가집단과 일반인 집단, 전체 사람 집단의 판정 결과와 비교하여 평가하였다. 원본 데이터 107쌍을 이용한 비교 결과, 동일인 판정률은 전문가집단 51.4%, 일반인 22.4%, 전체 사람 집단 29.0%로 조사되었으며, 인공지능모델은 47.7%로 나타났다. 원본 데이터를 검토한 결과, 부패로 인한 피부색의 변화가 인공지능모델의 성능에 영향을 줄 가능성이 있다고 판단되었다. 이러한 판단에 따라 원본 데이터를 회색조(gray scale)로 전처리하였을 때 인공지능모델의 동일인 판정률은 50.5%로, 약 3%의 성능이 향상되는 것을 볼 수 있었다. 
@@ -1825,8 +1805,7 @@ Through this study, it was found that only the currently developed artificial in
              <img  loading="lazy" src="kdd22_sean.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    
-        <hr>    
+            <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -1857,7 +1836,6 @@ Through this study, it was found that only the currently developed artificial in
              <img  loading="lazy" src="ICPR_2022_Evading_deepfake.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -2051,8 +2029,7 @@ Through this study, it was found that only the currently developed artificial in
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://ieeexplore.ieee.org/abstract/document/9703336"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> </small> </p>
-                    </tr>
-                  
+                    </tr>                  
                 </tbody>
             </table>
             </div>
@@ -2089,17 +2066,14 @@ Through this study, it was found that only the currently developed artificial in
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
                                     href="https://arxiv.org/abs/2103.00847"> <img  alt="paper" src="paper_grey.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;"> </a> &nbsp; <a
                                     href="https://anonymous.4open.science/r/DI_Attack"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                    </tr>
-                  
+                    </tr>                  
                 </tbody>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img  loading="lazy" src="www22_shah.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
-         </div>
-
-     
+         </div>     
     <hr>    
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -2131,12 +2105,8 @@ Through this study, it was found that only the currently developed artificial in
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img  loading="lazy" src="www22_jaeju.png" style="max-height: 225px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
-         </div>
-
-     
-    <hr>
-    
-    
+         </div>    
+    <hr>    
        <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -2161,8 +2131,7 @@ Through this study, it was found that only the currently developed artificial in
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Unsupervised anomaly detection is commonly performed by identifying unusual data samples (or anomalies) from the residual size produced by machine learning algorithms based on normal data (e.g., the residuals of regression models or reconstruction errors of autoencoder models), assuming that anomalies cause large residuals. Unfortunately, anomalies do not always cause large residuals. Anomaly detection algorithms based on residual size can miss anomalies that cause only small or noisy residuals for each variable in a multivariate time-series. To overcome this issue, we propose "neighbors to residuals" (N2RE), a novel anomaly scoring function based on residual similarity using nearest neighbor distance (NND). Even if residuals of anomalies are small, they show patterns that are different from those of residuals of normal data. Using N2RE can improve anomaly detection performance and reduce the variation in anomaly detection performance due to threshold changes. Experiments with various models on three cyber-physical system datasets verify that N2RE can achieve 19% higher anomaly detection performance than previous approaches without changes to the models.
-</small> </p>       
-                        
+</small> </p>                         
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small> <a
@@ -2174,11 +2143,8 @@ Through this study, it was found that only the currently developed artificial in
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
              <img  loading="lazy" src="" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
-         </div>
-    
-    <hr>
-    
-    
+         </div>    
+    <hr> 
         <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -2217,10 +2183,7 @@ real vs. fake human face detection task as a practical use case scenario. Our ap
              <img  loading="lazy" src="tensor.png" style="max-height: 225px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-     
     <hr>
-            
-            
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

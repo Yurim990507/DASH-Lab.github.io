@@ -55,6 +55,41 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Saliency-aware Time Series Anomaly Detection for Space Applications</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Sangup Lee and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),  Taiwan, 2024</a></b> </small> </p>
+                    </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 (Oral Talk)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Our proposed method utilizes saliency detection,
+similar to anomaly detection, to identify the most significant region and effectively detect abnormal data. In this work, We propose a novel
+framework, Saliency-aware Anomaly Detection (SalAD), for detecting anomalies in multivariate time series data. SalAD comprises three main
+components: 1) a saliency detection module to remove redundant data, 2) an unsupervised saliency-aware forecasting model, and 3) a saliencyaware
+anomaly score to differentiate anomalies. We evaluate our model using the real-world Korea Aerospace Research Institute (KARI) orbital element dataset, which includes six orbital elements and unexpected disturbances from satellites, as well as conducting extensive experiments on four benchmark datasets to demonstrate its effectiveness and superiority over other baselines. The SalAD framework has been deployed on the K3A and K5 satellites.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="sam_pakdd2024.png" style="max-height: 260px;max-width: 470px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>SEE: Spherical Embedding Expansion for Improving Deep Metric Learning</b></a>
                     </tr>
                 </thead>
@@ -65,6 +100,11 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),  Taiwan, 2024</a></b> </small> </p>
                     </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 (Oral Talk)</font>
+                                </b> </small> </p>
+                    </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The primary goal of deep metric learning is to construct a comprehensive embedding space that can effectively represent samples originating from both intra- and inter-classes. Although extensive prior work has explored diverse metric functions and innovative training strategies, much of this work relies on default training data. Consequently, the potential variations inherent within this data remain largely unexplored, constraining the model's robustness to unseen images.In this context, we introduce the Spherical Embedding Expansion (dubbed SEE) method. SEE aims to uncover the latent semantic variations in training data. Especially, our method augments the embedding space with synthetic representations based on Max-Mahalanobis distribution (MMD) centers, which maximize the dispersion of these synthetic features without increasing computational costs.</small> </p>
                     </tr>
@@ -72,7 +112,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="binhle_pakdd2024.png" style="max-height: 260px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="binhle_pakdd2024.png" style="max-height: 260px;max-width: 390px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -91,6 +131,11 @@ permalink: /Publications/
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),  Taiwan, 2024</a></b> </small> </p>
                     </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 (Oral Talk)</font>
+                                </b> </small> </p>
+                    </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Although self-knowledge distillation shows remarkable performance improvement with fewer resources than conventional teacher-student based KD approaches, existing self-KD methods still require additional time and memory for training. We propose Relation-Aware Label Smoothing for Self-Knowledge Distillation (RAS-KD) that regularizes the student model itself by utilizing the inter-class relationships between class representative vectors with a light-weight auxiliary classifier. Compared to existing self-KD methods that only consider the instance-level knowledge, we show that proposed global-level knowledge is sufficient to achieve competitive performance while being extremely efficient training cost. Also, we achieve extra performance improvement through instance-level supervision.</small> </p>
                     </tr>
@@ -98,7 +143,39 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="jeongho_kdd2024.jpg" style="max-height: 260px;max-width: 450px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="jeongho_kdd2024.jpg" style="max-height: 260px;max-width: 460px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b> STLGRU: Spatio-Temporal Lightweight Graph GRU for Traffic Flow Prediction</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Kishor Kumar Bhaumik, Fahim Faisal Niloy, Saif Mahmud, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://pakdd2024.org/">The 28th Pasific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD),  Taiwan, 2024</a></b> </small> </p>
+                    </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=1 (Oral Talk)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>We propose Spatio-Temporal Lightweight Graph GRU, namely STLGRU,
+a novel traffic forecasting model for predicting traffic flow accurately. Specifically, our proposed STLGRU can effectively capture dynamic local and global spatial-temporal relations of traffic networks using memory-augmented attention and gating mechanism in a continuously synchronized manner. Moreover, instead of employing separate temporal and spatial components, we show that our memory module and gated unit can successfully learn the spatial-temporal dependencies, with reduced memory usage and fewer parameters. Extensive experimental results on three real-world public traffic datasets demonstrate that our method can not only achieve state-of-the-art performance but also exhibit competitive computational efficiency.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="kishor_pakdd2024.png" style="max-height: 260px;max-width: 430px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>
@@ -144,16 +221,13 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://aaai.org/aaai-conference/aaai-24-call-for-proposals/">The 38th Annual AAAI Conference on Artificial Intelligence (AAAI),  Canada, 2024 </a></b> </small> </p>
                     </tr>
                     <tr>
-                    </tr>
-                    <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
                                <font color='blue'>BK Computer Science IF=4 </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Text-to-Image models such as Stable Diffusion have shown impressive image generation synthesis, thanks to the utilization of large-scale datasets. However, these datasets may contain sexually explicit, copyrighted, or undesirable content, which allows the model to directly generate them. Given that retraining these large models on individual concept deletion requests is infeasible, fine-tuning algorithms have been developed to tackle concept erasing in diffusion models. While these algorithms yield good concept erasure, they all present one of the following issues: 1) the semantics of the prompts change over time, 2) long and inefficient training exposes the model to more harm, and 3) the spatial structure distribution of each generated image is not preserved after fine-tuning. These issues severely degrade the original utility of generative models. In this work, we present a new approach that solves all of these challenges. We take inspiration from the concept of classifier guidance and propose a surgical update on the classifier guidance term while constraining the unconditional score term. Furthermore, our algorithm empowers the user to select an alternative to the erasing concept, allowing for more controllability. Our experimental results show that our algorithm not only erases the target concept effectively but also preserves the model’s generation capability. </small> </p>
-                    </tr>
- 
+                    </tr> 
                 </tbody>
             </table>
         </div>

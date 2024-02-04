@@ -10,7 +10,8 @@
     <meta http-equiv='pragma' content='no-cache'>
 
     <title>DASH LAB</title>
-    <link rel="icon" type="image/png" href="../img/lab_icon.png">
+    <link rel="icon" type="image/png" href="../img/lab_icon.png"> 
+	
     <meta name="description" content="Developing Usable and Secure Technology after Better Understanding Data, Machines, and Humans" />
 
 	<!-- flickity courasel -->
@@ -36,6 +37,8 @@
         <a id="logo-container" class="brand-logo" href="/">
             <a  href="https://dash-lab.github.io/">
                 <img width="213" height="58" src="../img/lab_logo_text.png" alt="data" class="image" style="margin:24px">
+ 
+                
             </a>
             
         </a>
@@ -73,6 +76,9 @@
                     
                     
                     <li><a href="/News/" style="font-size:17px">News</a></li>
+                    
+                
+                    
                     
                 
                     
@@ -131,6 +137,9 @@
                     
                     
                     <li><a href="/News/">News</a></li>
+                    
+                
+                    
                     
                 
                     
@@ -227,13 +236,13 @@
 <script src="/js/init.js"></script>
 <script async src="https://static1.sharpweather.com/widgetjs/?id=id3241554892540"></script>
 <!--Script for the Pop-up advertisement-->
-<script>
+<!-- <script>
 	setTimeout(function() {
 		document.querySelector(".popup").style.opacity = '1';
 		document.querySelector(".popup").style.transform='scale(1)';
 		document.querySelector(".popup").style.left = 0;
 	}, 10);
-</script>
+</script> 
 <script type="text/javascript">
 	
 	window.addEventListener("load", function(){
@@ -249,7 +258,49 @@
 		document.querySelector(".popup").style.transform='scale(0)';
 		document.querySelector(".popup").style.display = "none";
 	});
+</script> -->
+<!-- This is the code for 2 pop-up windows. Remove this after the Workshop over -->
+<script>
+    setTimeout(function() {
+        // Show the first popup
+        document.querySelector("#popup1").style.opacity = '1';
+        document.querySelector("#popup1").style.transform='scale(1)';
+        document.querySelector("#popup1").style.left = 0;
+
+        // Add a delay before showing the second popup
+        setTimeout(function() {
+            document.querySelector("#popup2").style.opacity = '1';
+            document.querySelector("#popup2").style.transform='scale(1)';
+            document.querySelector("#popup2").style.left = 0;
+        }, 1500);  // Delay in milliseconds
+    }, 10);
 </script>
+<script type="text/javascript">
+	
+	window.addEventListener("load", function(){
+		setTimeout(function openFirstPopup(){
+			document.querySelector("#popup1").style.display = "block";
+		}, 1000);
+		setTimeout(function openSecondPopup(){
+			document.querySelector("#popup2").style.display = "block";
+		}, 2000);
+	});
+
+	document.querySelector("#close1").addEventListener("click", function(){
+		document.querySelector("#popup1").style.transform='scale(0)';
+		document.querySelector("#popup1").style.display = "none";
+
+		// Move the second popup to the position of the first popup
+        document.querySelector("#popup2").style.top = document.querySelector("#popup1").style.top;
+        document.querySelector("#popup2").style.margin = document.querySelector("#popup1").style.margin;
+	});
+
+	document.querySelector("#close2").addEventListener("click", function(){
+		document.querySelector("#popup2").style.transform='scale(0)';
+		document.querySelector("#popup2").style.display = "none";
+	});
+</script>
+
 <!-- Script for randomly choose an thumbnail image on home page -->
 <script>
 	// Array of image URLs

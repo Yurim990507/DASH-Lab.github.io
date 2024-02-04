@@ -96,17 +96,6 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;김미래
-                      </div>
-                  </td>
-                  <td>Artificial Intelligence</td>
-                  <td>ML Robustness</td>
-                  <td><i></i></td>
-                </tr> 
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp; Inzamamul Alam
                       </div>
@@ -143,17 +132,6 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;HyunJae Lee
-                      </div>
-                     </td>
-                  <td>Statistics (통계학과)</td>
-                  <td> Anomaly Detection</td>    
-                     <td><i></i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minha Kim
                       </div>
@@ -161,17 +139,6 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/taejun_kim.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taejun Kim
-                      </div>
-                  </td>
-                  <td>Computer Science & Engineering</td>
-                  <td> Computer Vision</td>
-                  <td><i>taemo @ g dot skku dot edu</i></td>
                 </tr>                  
                 <tr>
                   <td align="center">
@@ -271,6 +238,17 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Deepfake</td>    
                      <td><i>razaibtariq @ g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/InhoJung.jpg " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inho Jung
+                      </div>
+                  </td>
+                  <td> Computer Science & Engineering </td>
+                  <td> Representation Learning, XAI </td>
+                  <td><i>inhovation97 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -471,7 +449,12 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
-                <tr>
+                 <tr>
+                  <td> Taejune Kim (MS) 2024 </td>
+                  <td> Anomaly Detection, Computer Vision </td>
+                  <td> Robotics Lab, Hyundai Motor </td>
+                 </tr>
+                 <tr>
                   <td><a href="https://kishor-bhaumik.github.io/" target = "_blank">Kishor Kumar Bhaumik</a> (MS) 2023</td>
                   <td>Image Manipulation Detection, Time Series</td>
                   <td>TBU</td>

@@ -10,7 +10,8 @@
     <meta http-equiv='pragma' content='no-cache'>
 
     <title>Dataset</title>
-    <link rel="icon" type="image/png" href="../img/lab_icon.png">
+    <link rel="icon" type="image/png" href="../img/lab_icon.png"> 
+	
     <meta name="description" content="Developing Usable and Secure Technology after Better Understanding Data, Machines, and Humans" />
 
 	<!-- flickity courasel -->
@@ -36,6 +37,8 @@
         <a id="logo-container" class="brand-logo" href="/">
             <a  href="https://dash-lab.github.io/">
                 <img width="213" height="58" src="../img/lab_logo_text.png" alt="data" class="image" style="margin:24px">
+ 
+                
             </a>
             
         </a>
@@ -73,6 +76,9 @@
                     
                     
                     <li><a href="/News/" style="font-size:17px">News</a></li>
+                    
+                
+                    
                     
                 
                     
@@ -138,6 +144,9 @@
                 
                     
                     
+                
+                    
+                    
                     <li><a href="/Projects/">Projects</a></li>
                     
                 
@@ -180,7 +189,7 @@
  <p align="center"><img loading="lazy" border="0" src="/Publications/satellite_forgery.png" width="780" /></p> 
 
 <h1 class="page-title">RWDF-23 Dataset</h1>
-  <p>The RWDF-23 is collected from the wild, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content.  <p><br />
+  <p>The RWDF-23 is collected from the wild, consisting of 2,000 deepfake videos collected from 4 platforms targeting 4 different languages span created from 21 countries: Reddit, YouTube, TikTok, and Bilibili. By expanding the dataset's scope beyond the previous research, we capture a broader range of real-world deepfake content, reflecting the ever-evolving landscape of online platforms. Also, we conduct a comprehensive analysis encompassing various aspects of deepfakes, including creators, manipulation strategies, purposes, and real-world content production methods. This allows us to gain valuable insights into the nuances and characteristics of deepfakes in different contexts. Lastly, in addition to the video content, we also collect viewer comments and interactions, enabling us to explore the engagements of internet users with deepfake content. To obtain the dataset, please fill out the form <a href="https://docs.google.com/forms/d/e/1FAIpQLScsxskSEI0LkmUdI7ClAqs-xslyviDNoKHhiZC3FsBqFG4NJA/viewform">HERE</a>.  </p><br />
   
  <p align="center"><img loading="lazy" border="0" src="/Publications/rwdf23_cikm23.png" width="780" /></p> 
  
@@ -266,7 +275,7 @@ We ranked first in the first round of the anomalous behavior recognition track o
     </td>
   </tr>
 </table>
-</p></p></p></p></p></p></p></p></p></p></p></p>
+</p></p></p></p></p></p></p></p></p></p>
 
 
 </div>
@@ -326,13 +335,13 @@ We ranked first in the first round of the anomalous behavior recognition track o
 <script src="/js/init.js"></script>
 <script async src="https://static1.sharpweather.com/widgetjs/?id=id3241554892540"></script>
 <!--Script for the Pop-up advertisement-->
-<script>
+<!-- <script>
 	setTimeout(function() {
 		document.querySelector(".popup").style.opacity = '1';
 		document.querySelector(".popup").style.transform='scale(1)';
 		document.querySelector(".popup").style.left = 0;
 	}, 10);
-</script>
+</script> 
 <script type="text/javascript">
 	
 	window.addEventListener("load", function(){
@@ -348,7 +357,49 @@ We ranked first in the first round of the anomalous behavior recognition track o
 		document.querySelector(".popup").style.transform='scale(0)';
 		document.querySelector(".popup").style.display = "none";
 	});
+</script> -->
+<!-- This is the code for 2 pop-up windows. Remove this after the Workshop over -->
+<script>
+    setTimeout(function() {
+        // Show the first popup
+        document.querySelector("#popup1").style.opacity = '1';
+        document.querySelector("#popup1").style.transform='scale(1)';
+        document.querySelector("#popup1").style.left = 0;
+
+        // Add a delay before showing the second popup
+        setTimeout(function() {
+            document.querySelector("#popup2").style.opacity = '1';
+            document.querySelector("#popup2").style.transform='scale(1)';
+            document.querySelector("#popup2").style.left = 0;
+        }, 1500);  // Delay in milliseconds
+    }, 10);
 </script>
+<script type="text/javascript">
+	
+	window.addEventListener("load", function(){
+		setTimeout(function openFirstPopup(){
+			document.querySelector("#popup1").style.display = "block";
+		}, 1000);
+		setTimeout(function openSecondPopup(){
+			document.querySelector("#popup2").style.display = "block";
+		}, 2000);
+	});
+
+	document.querySelector("#close1").addEventListener("click", function(){
+		document.querySelector("#popup1").style.transform='scale(0)';
+		document.querySelector("#popup1").style.display = "none";
+
+		// Move the second popup to the position of the first popup
+        document.querySelector("#popup2").style.top = document.querySelector("#popup1").style.top;
+        document.querySelector("#popup2").style.margin = document.querySelector("#popup1").style.margin;
+	});
+
+	document.querySelector("#close2").addEventListener("click", function(){
+		document.querySelector("#popup2").style.transform='scale(0)';
+		document.querySelector("#popup2").style.display = "none";
+	});
+</script>
+
 <!-- Script for randomly choose an thumbnail image on home page -->
 <script>
 	// Array of image URLs

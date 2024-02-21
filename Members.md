@@ -236,7 +236,7 @@ permalink: /Members/
                       </div>
                      </td>
                   <td>Computer Science & Engineering</td>
-                  <td>Deepfake</td>    
+                  <td>Deepfake Detection</td>    
                      <td><i>razaibtariq @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
@@ -290,7 +290,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;Hohyun Na
                       </div>
                      </td>
-                  <td>Artificial Intelligence</td>
+                  <td>Intelligent Software</td>
                   <td>Computer Vision & Multi-modal</td>    
                      <td><i>skghgus9 @ g dot skku dot edu</i></td>
                 </tr>
@@ -326,7 +326,18 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Anomaly Detection & Representation Learning </td>    
                      <td><i>hhs4366 @ g dot skku dot edu</i></td>
-                </tr>                    
+                </tr> 
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Noh Yong-cheol 
+                      </div>
+                     </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Anomaly Detection </td>    
+                     <td><i>nyc0421 @ g dot skku dot edu</i></td>
+                </tr>      
               </tbody>
             </table>
           </div>

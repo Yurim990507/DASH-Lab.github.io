@@ -240,7 +240,7 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
-January 2024. Four papers are accepted at <b>PAKDD 2024. </b>
+January 2024. Four papers are accepted at <b>PAKDD 2024. </b><br>
 
 January 2024. We are organizing <b>The 3rd Workshop on the security implications of Deepfakes and Cheapfakes (<a href="https://sites.google.com/view/wdc-2024/">WDC '24</a>)</b>, co-located with ACM ASIACCS 2024.<br>
 	

@@ -282,8 +282,7 @@ permalink: /Members/
                   <td> Artificial Intelligence </td>
                   <td> Diffusion model & Dataset </td>
                   <td><i>jyl8755 @ g dot skku dot edu</i></td>
-                </tr>                  
-                <tr>  
+                </tr>                    
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

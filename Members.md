@@ -271,7 +271,19 @@ permalink: /Members/
                   <td> Artificial Intelligence </td>
                   <td> Computer Vision </td>
                   <td><i>minji.h0224 @ g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/YurimJang.jpg " alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yurim Jang 
+                      </div>
+                  </td>
+                  <td> Artificial Intelligence </td>
+                  <td> Diffusion model & Dataset </td>
+                  <td><i>jyl8755 @ g dot skku dot edu</i></td>
                 </tr>                  
+                <tr>  
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

@@ -479,7 +479,7 @@ permalink: /Members/
                  <tr>
                   <td><a href="https://kishor-bhaumik.github.io/" target = "_blank">Kishor Kumar Bhaumik</a> (MS) 2023</td>
                   <td>Image Manipulation Detection, Time Series</td>
-                  <td>TBU</td>
+                  <td><a href="https://ccds.ai/">CCDS, Bangladesh</a></td>
                   </tr>
                   <tr>
                   <td>Jungho Kim (MS) 2023</td>
@@ -489,7 +489,7 @@ permalink: /Members/
                   <tr>
                   <td>Gwanghan Lee (MS) 2023</td>
                   <td>Model compression</td>
-                  <td>TBU</td>
+                  <td>Upstage</td>
                  </tr>
                   <tr>
                   <td>Jinbeom Kim (MS) 2023</td>

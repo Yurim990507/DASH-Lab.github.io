@@ -87,6 +87,37 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Revisiting 30 years of the Network Time Protocol</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+		    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>(Short paper)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a >The Web Conference (WWW), Singapore, 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Since the inception of the Internet and WWW, providing the time among multiple nodes on the Internet has been one of the most critical challenges. David Mills is the pioneer to provide time on the Internet, inventing the Network Time Protocol (NTP), and synchronizing the clocks in computer systems. Now, the NTP is predominantly used on the Internet and WWW. In this paper, we revisit the NTP, and present the overview of the NTP. And, we highlight the advanced research effort, the SpaceNTP, to synchronize the clocks among space assets, which is the fundamental medium to provide the web services in space. </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="simon_theweb24.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>	
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Saliency-aware Time Series Anomaly Detection for Space Applications</b></a>
                     </tr>
                 </thead>

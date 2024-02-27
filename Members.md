@@ -150,18 +150,7 @@ permalink: /Members/
                   <td> Electrical and Computer Engineering  </td>
                   <td>Time series and security</td>
                   <td><i>olmizr @ g dot skku dot edu</i></td>
-                </tr>
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/Spike.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cho Beomsang
-                      </div>
-                  </td>
-                  <td>Computer Science & Engineering </td>
-                  <td>Anomaly Detection</td>
-                  <td><i>gababsang @ skku dot edu</i></td>
-                </tr>
+                </tr>                
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -475,6 +464,11 @@ permalink: /Members/
                   <td> Taejune Kim (MS) 2024 </td>
                   <td> Anomaly Detection, Computer Vision </td>
                   <td> Robotics Lab, Hyundai Motor </td>
+                 </tr>
+                 <tr>
+                  <td> Cho Beomsang </td>
+                  <td>Computer Vision</td>
+                  <td> TBU </td>
                  </tr>
                  <tr>
                   <td><a href="https://kishor-bhaumik.github.io/" target = "_blank">Kishor Kumar Bhaumik</a> (MS) 2023</td>

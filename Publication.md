@@ -35,6 +35,7 @@ permalink: /Publications/
             <img  loading="lazy" alt="AAAI"     src="https://img.shields.io/badge/AAAI-4-brightgreen?style=social"      height="20">&nbsp;      
             <img  loading="lazy" alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img  loading="lazy" alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
+	    <img  loading="lazy" alt="CVPR"     src="https://img.shields.io/badge/CVPR-1-brightgreen?style=social"      height="20">&nbsp;
 	    <img  loading="lazy" alt="ICCV"     src="https://img.shields.io/badge/ICCV-1-brightgreen?style=social"      height="20">&nbsp;       
             <img  loading="lazy" alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
 	    	<img  loading="lazy" alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-1-brightgreen?style=social"     height="20">&nbsp;	
@@ -49,6 +50,37 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Gradient Alignment for Cross-Domain Face Anti-Spoofing</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Binh M. Le and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cvpr.thecvf.com/">The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),  Seattle, 2024</a></b> </small> </p>
+                    </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we introduce GAC-FAS, a novel learning objective that encourages the model to converge towards an optimal flat minimum without necessitating additional learning modules. Unlike conventional sharpness-aware minimizers, GAC-FAS identifies ascending points for each domain and regulates the generalization gradient updates at these points to align coherently with empirical risk minimization (ERM) gradient updates. This unique approach specifically guides the model to be robust against domain shifts. We demonstrate the efficacy of GAC-FAS through rigorous testing on challenging cross-domain FAS datasets, where it establishes state-of-the-art performance. </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="binh_cvpr24.png"  style="max-height: 228px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

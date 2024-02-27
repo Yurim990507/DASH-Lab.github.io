@@ -20,19 +20,23 @@ permalink: /News/
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skku@aaai_1.jpg"/>
-				<p>Lab's poster @AAAI (Feb 2024)</p>			
+				<p>Lab's poster @AAAI (Cananda, Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=440   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
-				<p>Lab's poster @AAAI (Feb 2024)</p>			
+				<p>Lab's poster @AAAI (Cananda, Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skku@aaai_3.jpg"/>
-				<p>Lab's poster @AAAI (Feb 2024)</p>			
+				<p>Lab's poster @AAAI (Cananda, Feb 2024)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/dash@aaai24.jpg"/>
+				<p>DASH group @AAAI (Cananda, Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=380 height=440   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
-				<p>SKKU@AAAI (Feb 2024)</p>			
+				<p>SKKU@AAAI (Cananda, Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad.jpg"/>
@@ -47,7 +51,7 @@ permalink: /News/
 				<p>Taejun's graduation (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=400   style=" border-radius: 8px;" src="/img/taejun_grad_03.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=400   style=" border-radius: 8px;" src="/img/taejun_grad_03.jpg"/>
 				<p>Taejun's graduation (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

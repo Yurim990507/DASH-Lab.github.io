@@ -199,7 +199,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp김현준
+                          &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 김현준
                       </div>
                      </td>
                   <td>데이터사이언스</td>
@@ -210,7 +210,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp문학준
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 문학준
                       </div>
                      </td>
                   <td>CSE</td>

@@ -23,7 +23,7 @@ permalink: /News/
 				<p>Lab's poster @AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=400 height=440   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=440   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
 				<p>Lab's poster @AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

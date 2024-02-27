@@ -72,13 +72,13 @@ permalink: /Publications/
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In this paper, we introduce GAC-FAS, a novel learning objective that encourages the model to converge towards an optimal flat minimum without necessitating additional learning modules. Unlike conventional sharpness-aware minimizers, GAC-FAS identifies ascending points for each domain and regulates the generalization gradient updates at these points to align coherently with empirical risk minimization (ERM) gradient updates. This unique approach specifically guides the model to be robust against domain shifts. We demonstrate the efficacy of GAC-FAS through rigorous testing on challenging cross-domain FAS datasets, where it establishes state-of-the-art performance. </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Recent advancements in domain generalization (DG) for face anti-spoofing (FAS) have garnered considerable attention. Traditional methods have focused on designing learning objectives and additional modules to isolate domain-specific features while retaining domain-invariant characteristics in their representations. In this paper, we introduce GAC-FAS, a novel learning objective that encourages the model to converge towards an optimal flat minimum without necessitating additional learning modules. Unlike conventional sharpness-aware minimizers, GAC-FAS identifies ascending points for each domain and regulates the generalization gradient updates at these points to align coherently with empirical risk minimization (ERM) gradient updates. This unique approach specifically guides the model to be robust against domain shifts. We demonstrate the efficacy of GAC-FAS through rigorous testing on challenging cross-domain FAS datasets, where it establishes state-of-the-art performance. </small> </p>
                     </tr>
                 </tbody>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="binh_cvpr24.png"  style="max-height: 228px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="binh_cvpr24.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
 	<hr>

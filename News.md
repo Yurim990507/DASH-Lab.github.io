@@ -31,7 +31,7 @@ permalink: /News/
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=450 height=430   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=450 height=440   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

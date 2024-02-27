@@ -39,6 +39,18 @@ permalink: /News/
 				<p>Taejun's graduation (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad_01.jpg"/>
+				<p>Taejun's graduation (Feb 2024)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad_02.jpg"/>
+				<p>Taejun's graduation (Feb 2024)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=400   style=" border-radius: 8px;" src="/img/taejun_grad_03.jpg"/>
+				<p>Taejun's graduation (Feb 2024)</p>			
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof23_02.jpeg"/>
 				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
 			</div>

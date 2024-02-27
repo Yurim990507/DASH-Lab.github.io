@@ -31,7 +31,7 @@ permalink: /News/
 				<p>Lab's poster @AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=400 height=440   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=380 height=440   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
@@ -262,7 +262,7 @@ January 2024. Four papers are accepted at <b>PAKDD 2024. </b><br>
 
 January 2024. We are organizing <b>The 3rd Workshop on the security implications of Deepfakes and Cheapfakes (<a href="https://sites.google.com/view/wdc-2024/">WDC '24</a>)</b>, co-located with ACM ASIACCS 2024.<br>
 	
-December 2023. Three papers are accepted at <b>AAAI 2024. </b> (Acceptance rate: 24%)<br>
+December 2023. Three papers are accepted at <b>AAAI 2024 (BK IF=4). </b> (Acceptance rate: 24%)<br>
 	
 August 2023. Four papers are accepted at <b>CIKM 2023. </b><br>
 	

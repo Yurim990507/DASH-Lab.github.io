@@ -23,7 +23,7 @@ permalink: /News/
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=450 height=430   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
@@ -31,7 +31,7 @@ permalink: /News/
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=450 height=430   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
 				<p>SKKU@AAAI (Feb 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

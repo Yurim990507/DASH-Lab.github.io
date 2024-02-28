@@ -463,7 +463,7 @@ permalink: /Members/
                  <tr>
                   <td> Taejune Kim (MS) 2024 </td>
                   <td> Anomaly Detection, Computer Vision </td>
-                  <td> Robotics Lab, Hyundai Motor </td>
+                  <td> Robotics Lab, Hyundai Motor Company </td>
                  </tr>
                  <tr>
                   <td> Cho Beomsang </td>

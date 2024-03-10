@@ -95,7 +95,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>		    
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a >The Web Conference (WWW), Singapore, 2024</a></b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a >The Web Conference (WWW), History of the Web Session, Singapore, 2024</a></b> </small> </p>
                     </tr>
 		    <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

@@ -76,6 +76,7 @@ permalink: /Publications/
             <img  loading="lazy" src="minha_EVS37.png" style="max-height: 195px;max-width: 548px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

@@ -50,32 +50,7 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
-	<hr>
-	<div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>Development of Deep Learning-based Algorithm for Extracting Abnormal Deceleration Patterns</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Minha Kim, Kangjun Lee, <i><b>Simon S. Woo*</b> </i>, and Youngho Jun</small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><b>The 37th International Electric Vehicle Symposium & Exhibition (EVS37), Korea, 2024</b> </small> </p>
-                    </tr>					
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The smart regenerative braking system for EV can reduce unnecessary brake operation by assisting in braking of the vehicle according to the driving situation, road slope, and driver’s preference. This system maintains the distance between the ego and front vehicles without controlling the brake pedal. Since the strength of regenerative braking is generally determined based on calibration data determined during the vehicle development process, some driver could suffer inconvenience when the regenerative braking is activated differently from their driving habits. In order to solve this problem, various deep learning-based algorithms are developed to provide driving stability by learning the driving data. Among those artificial intelligence algorithms, anomaly detection algorithms can successfully separate the deceleration data in abnormal driving situations, and the resulting refined deceleration data can be used to train the regression model to achieve better driving stability. In this study, we extensively compare and evaluate the performance of clustering and anomaly detection methods. </small> </p>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="minha_EVS37.png" style="max-height: 195px;max-width: 548px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-        </div>
-    </div>
+
 	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -270,6 +245,35 @@ a novel traffic forecasting model for predicting traffic flow accurately. Specif
             <img  loading="lazy" src="kishor_pakdd2024.png" style="max-height: 190px;max-width: 650px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+
+    	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Development of Deep Learning-based Algorithm for Extracting Abnormal Deceleration Patterns</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Minha Kim, Kangjun Lee, <i><b>Simon S. Woo*</b> </i>, and Youngho Jun</small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small><b>The 37th International Electric Vehicle Symposium & Exhibition (EVS37), Korea, 2024</b> </small> </p>
+                    </tr>					
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The smart regenerative braking system for EV can reduce unnecessary brake operation by assisting in braking of the vehicle according to the driving situation, road slope, and driver’s preference. This system maintains the distance between the ego and front vehicles without controlling the brake pedal. Since the strength of regenerative braking is generally determined based on calibration data determined during the vehicle development process, some driver could suffer inconvenience when the regenerative braking is activated differently from their driving habits. In order to solve this problem, various deep learning-based algorithms are developed to provide driving stability by learning the driving data. Among those artificial intelligence algorithms, anomaly detection algorithms can successfully separate the deceleration data in abnormal driving situations, and the resulting refined deceleration data can be used to train the regression model to achieve better driving stability. In this study, we extensively compare and evaluate the performance of clustering and anomaly detection methods. </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="minha_EVS37.png" style="max-height: 195px;max-width: 548px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+
+    
 	<hr>
     <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

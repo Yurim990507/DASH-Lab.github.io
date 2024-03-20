@@ -501,7 +501,7 @@ permalink: /Members/
                   <td>Ingenio AI (Start-Up)</td>
                  </tr>
                  <tr>
-                  <td>Youjin Shin (Ph.D.) 2022</td>
+                  <td><a href = "https://sites.google.com/view/adslab0/members?authuser=0" target = "_blank">Youjin Shin</a> (Ph.D.) 2022</td>
                   <td>Tensor methods for Anomaly Detection and Deep learning, and Deepfakes</td>
                   <td>Tenured Track Assistant Professor, Department of Data Science, The Catholic University of Korea, Seoul</td>
                  </tr>

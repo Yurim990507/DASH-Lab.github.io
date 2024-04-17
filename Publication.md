@@ -61,7 +61,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Juhun Lee, Son GeonHo, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Geonho Son<sup>&dagger;</sup>, Juhun Lee<sup>&dagger;</sup>, and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://ijcai24.org/">The 33rd International Joint Conference on Artificial Intelligence (IJCAI), Jeju, 2024</a></b> </small> </p>

@@ -35,10 +35,10 @@ permalink: /Publications/
             <img  loading="lazy" alt="AAAI"     src="https://img.shields.io/badge/AAAI-4-brightgreen?style=social"      height="20">&nbsp;      
             <img  loading="lazy" alt="NeurIPSDataset"  src="https://img.shields.io/badge/NeurIPSDataset-2-brightgreen?style=social"   height="20">&nbsp;
             <img  loading="lazy" alt="KDD"      src="https://img.shields.io/badge/KDD-2-brightgreen?style=social"       height="20">&nbsp;
+	    <img  loading="lazy" alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-2-brightgreen?style=social"     height="20">&nbsp;	
 	    <img  loading="lazy" alt="CVPR"     src="https://img.shields.io/badge/CVPR-1-brightgreen?style=social"      height="20">&nbsp;
 	    <img  loading="lazy" alt="ICCV"     src="https://img.shields.io/badge/ICCV-1-brightgreen?style=social"      height="20">&nbsp;       
             <img  loading="lazy" alt="ICML"     src="https://img.shields.io/badge/ICML-1-brightgreen?style=social"      height="20">&nbsp;
-	    	<img  loading="lazy" alt="IJCAI"    src="https://img.shields.io/badge/IJCAI-1-brightgreen?style=social"     height="20">&nbsp;	
             <img  loading="lazy" alt="ACMMM"    src="https://img.shields.io/badge/ACMMM-1-brightgreen?style=social"     height="20">&nbsp;
             <img  loading="lazy" alt="CHI"      src="https://img.shields.io/badge/CHI-1-brightgreen?style=social"       height="20">&nbsp;
             <img  loading="lazy" alt="ACSAC"    src="https://img.shields.io/badge/ACSAC-1-brightgreen?style=social"     height="20">&nbsp;
@@ -50,7 +50,40 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
-
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Disrupting Diffusion-based Inpainters with Semantic Digression</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Juhun Lee, Son GeonHo, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://ijcai24.org/">The 33rd International Joint Conference on Artificial Intelligence (IJCAI), Jeju, 2024</a></b> </small> </p>
+                    </tr>
+					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The fabrication of visual misinformation on the web and social media has increased exponentially with the advent of foundational text-to-image diffusion
+models. Namely, Stable Diffusion inpainters allow the synthesis of maliciously inpainted images of personal and private figures, and copyrighted contents, also known as deepfakes. To combat such generations, a disruption framework, namely Photoguard, has been proposed, where it adds adversarial noise to the context image to disrupt their inpainting synthesis. While their framework suggested a diffusion-based approach, the disruption is not sufficiently strong and it requires a significant amount of GPU and time to immunize the context image. In our work, we re-examine both the minimal and favorable conditions for a successful inpainting disruption, proposing DDD, a “Digression guided Diffusion Disruption” framework. Firstly, we identify the most adversarially vulnerable diffusion 
+ imestep range with respect to the hidden space. Within this scope of noised manifold, we pose the problem as a semantic digression optimization. We maximize the distance between the inpainting instance’s hidden states and a semantic-aware hidden state centroid, calibrated both by Monte Carlo sampling of hidden states and a discretely projected optimization in the token space. Effectively, our approach achieves stronger disruption and a higher success rate than Photoguard while lowering the GPU memory requirement,
+and speeding the optimization up to three times faster.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="ijcai24_joseph.jpg"  style="max-height: 195px;max-width: 530px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

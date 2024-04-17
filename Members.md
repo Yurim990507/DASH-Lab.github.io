@@ -461,7 +461,7 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
-                  <td><a href="https://tae-mo.github.io/" target = "_blank"> Taejune Kim </a>a> (MS) 2024 </td>
+                  <td><a href="https://tae-mo.github.io/" target = "_blank"> Taejune Kim </a> (MS) 2024 </td>
                   <td> Anomaly Detection, Computer Vision </td>
                   <td> Robotics Lab, Hyundai Motor Company </td>
                  </tr>

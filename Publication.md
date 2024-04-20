@@ -115,6 +115,31 @@ and speeding the optimization up to three times faster.</small> </p>
             <img  loading="lazy" src="binh_cvpr24.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+		<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Beyond the Screen: Evaluating Deepfake Detectors under Moir ́e Pattern Effects</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Razaib Tariq, Minji Heo, <i><b>Simon S. Woo*</b> and Shahroz Tariq </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://sites.google.com/view/wmf2024/">WORKSHOP ON MEDIA FORENSICS (CVPR), Seattle, 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>The detection of deepfakes is crucial for mitigating the societal impact of falsified video content. Despite the development of various algorithms for this purpose, challenges arise for detectors in real-world scenarios, especially when users capture deepfake content from screens and upload it online or when detectors operate on external devices like smartphones, requiring the capture of potential deepfakes through the camera for evaluation. A significant challenge in these scenarios is the presence of Moir ́e patterns, which degrade image quality and complicate conventional classification methods, notably deep neural networks (DNNs). However, the impact of Moir ́e patterns on the effectiveness of deepfake detection systems has not been adequately explored. This study aims to investigate how capturing deepfake videos via digital screen cameras affects the accuracy of detection mechanisms. We introduced the Moir ́e patterns by capturing the display of a monitor using a smartphone camera and conducted empirical evaluations using four widely recognized datasets: CelebDF, DFD, DFDC, and FF++. We compare the performance of twelve SOTA detectors on deepfake videos captured under the influence of Moir ́e patterns. Our findings reveal a performance decrease of up to 33.1 and 31.3 percentage points for image and video-based detectors. Therefore, highlighting the challenges posed by Moir ́e patterns and other naturally induced artifacts is critical for improving the effectiveness of real-world deepfake detection effort. </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="Moire_CVPR_Workshop.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

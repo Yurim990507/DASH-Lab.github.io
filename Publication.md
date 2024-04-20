@@ -126,7 +126,7 @@ and speeding the optimization up to three times faster.</small> </p>
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Razaib Tariq, Minji Heo, <i><b>Simon S. Woo*</b> and Shahroz Tariq </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Razaib Tariq, Minji Heo, <i><b>Simon S. Woo*</b></i> and Shahroz Tariq  </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://sites.google.com/view/wmf2024/">WORKSHOP ON MEDIA FORENSICS (CVPR), Seattle, 2024</a></b> </small> </p>

@@ -115,6 +115,7 @@ and speeding the optimization up to three times faster.</small> </p>
             <img  loading="lazy" src="binh_cvpr24.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+	<hr>
 		<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

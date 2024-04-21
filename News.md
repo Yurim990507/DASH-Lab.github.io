@@ -271,8 +271,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-
-April 2024. One paper is accepted at <b> WMF CVPR 2024. </b><br>
+<!--
+April 2024. One paper is accepted at <b> WMF CVPR 2024. </b><br> -->
 
 February 2024. One paper is accepted at <b>CVPR 2024 (BK IF=4). </b><br>
 

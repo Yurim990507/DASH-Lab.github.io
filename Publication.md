@@ -90,6 +90,32 @@ and speeding the optimization up to three times faster.</small> </p>
             <table>
                 <thead>
                     <tr>
+                        <a><b>iFakeDetector: Real Time Integrated Web-based Deepfake Detection System</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Kangjun Lee, Inho Jung, and <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://ijcai24.org/">The 33rd International Joint Conference on Artificial Intelligence (IJCAI), Jeju, 2024 (Demonstrations Track)</a></b> </small> </p>
+                    </tr>	 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Deepfake detection research has been actively conducted in the past. While many deepfake detectors have been proposed, validating the practicality of such systems against real-world settings has not been explored much. Indeed, there might be gaps and disparities when they are applied in the real world. In this work, we developed a real time integrated web-based deepfake detection system, iFakeDetector, which incorporates the recent high performing deepfake detectors, and enables easy access for non-expert users to evaluate deepfake videos. Our system takes a deepfake video as input, allowing users to upload videos and select different detectors, and provides detection results on whether the uploaded video is a deepfake or not. Furthermore, we provide an analysis tool that enables the video to be analyzed on a frame-by-frame basis with the probability of each frame being manipulated. Finally, we tested and deployed iFakeDetector in a real-world scenario to verify its practicality and feasibility.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="kangjun_ijcai24.png"  style="max-height: 195px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Gradient Alignment for Cross-Domain Face Anti-Spoofing</b></a>
                     </tr>
                 </thead>

@@ -57,6 +57,37 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>DynaPP: A Dynamic Resolution Model with Patch Packing for Fast Online Video Detection</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Changrok So, <i><b>Simon S. Woo*</b> </i>, and Jong Hwan Ko </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://ijcai24.org/">International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024</a></b> </small> </p>
+                    </tr>
+<!-- 					<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4</font>
+                                </b> </small> </p>
+                    </tr> -->
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Online video detection becomes more challenging with higher resolution as computational costs increase proportionally with increasing resolution. To address this issue, we present a novel approach, DynaPP, which arranges object candidate regions into a compact form. DynaPP performs resource intensive whole-image inference only on sparse key frames, employing reduced resolutions for inference on other frames. Additionally, we propose transforming a 1-stage detector into a dynamic resolution model to facilitate frame inference at reduced resolutions. Here, the dynamic resolution model signifies a model capable of inferring all resolutions, distinguishing itself from typical models by not having restricted inferable resolutions. Unlike prior studies introducing new model structures for multi-resolution models, our work demonstrates that slight modifications to existing models can convert them to dynamic resolution models. DynaPP showcases substantial acceleration in video detection across four representative video datasets: AUAIR (5.5×), UAVDT (3.67×), VisDrone (2.73×), and ImageNet VID (3.69×), while maintaining a mean average precision with a small loss (≤2.2). Furthermore, we observed that our method achieves a detection acceleration of up to 8.84×, depending on the video clip.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="ijcnn.png"  style="max-height: 195px;max-width: 530px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
+	<hr>
+	<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Disrupting Diffusion-based Inpainters with Semantic Digression</b></a>
                     </tr>
                 </thead>

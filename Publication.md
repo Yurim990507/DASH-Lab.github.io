@@ -62,7 +62,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Changrok So, <i><b>Simon S. Woo*</b> </i>, and Jong Hwan Ko </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Changrok So, <i><b>Simon S. Woo</b> </i>, and Jong Hwan Ko </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://www.inns.org/ijcnn-home">International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024</a></b> </small> </p>

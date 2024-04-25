@@ -73,10 +73,12 @@ permalink: /About/
           ◼ CIKM 2024 Senior PC on Resource/Demo Track <br>
           ◼ IJCAI 2024 Web Chair <br>
           ◼ Conference/Workshop Charing: ACM CoNext Finance Chair (2017),  EAI CyDiP Technical Program Committee Chair (2021)<br>
-          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020), ACCV (2021), BMVC (2022), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022), AAAI (2022), KDD (2022, 2023), IJCAI (2022, 2023), WACV (2021, 2022), ICML (2023), CVPR (2023) <br>
+          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022, 2024), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020, 2024), ACCV (2021, 2024), BMVC (2022), ICCV, (2023), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022, 2023, 2024), AAAI (2022, 2023, 2024), KDD (2022, 2023, 2024), IJCAI (2022, 2023, 2024), WACV (2021, 2022, 2024), ICML (2023, 2024), CVPR (2023, 2024), ICPR (2024), SDM (2024) <br>
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
           ◼ Session Chair: ACM SAC MLA (2021), TheWebConf (2021), ACM CCS (2021)<br>
-          ◼ Workshop Organizer: ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (2022, 2023, 2024)<br>
+          ◼ Workshop Organizers: <br>
+    ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (2022, 2023, 2024)<br>
+    The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD) at CIKM 2034 <br>      
 
 </div>
 <div class="divider"></div>

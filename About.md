@@ -69,7 +69,7 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>Awards</h5>
-          ◼ ACM Applied Soft Computing (SAC) 2023, <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award</a><br>
+          ◼ ACM Applied Soft Computing (SAC) 2023, <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a><br>
     
     <h5>Services</h5> 
           ◼ KDD 2024 Research Track Chair <br>

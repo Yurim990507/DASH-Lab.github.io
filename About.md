@@ -77,8 +77,9 @@ permalink: /About/
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
           ◼ Session Chair: ACM SAC MLA (2021), TheWebConf (2021), ACM CCS (2021), PAKDD (2024)<br>
           ◼ Workshop Organizers: <br>
-    ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (2022, 2023, 2024)<br>
-    The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD) at CIKM 2034 <br>      
+    ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (<a href="https://sites.google.com/view/wdc-2022/">2022</a>, <a href="https://sites.google.com/view/wdc-2023/">2023</a>, <a href="https://sites.google.com/view/wdc-2024/">2024</a>)<br>
+    <a href="https://sites.google.com/view/ansd23?pli=1">The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD)<a/> at <a href="https://uobevents.eventsair.com/cikm2023/">CIKM 2023</a>, Birmingham UK <br>
+    The First International Workshop on AI-Driven Modeling and Management of Data (AIMM 2024) at <a href="https://insights.sei.cmu.edu/news/international-conference-on-conceptual-modeling-er-2024-opens-call-for-papers/">International Conference on Conceptual Modeling (ER) 2024</a>, Carnegie Mellon University, PA, USA<br> 
 
 </div>
 <div class="divider"></div>

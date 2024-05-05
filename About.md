@@ -69,7 +69,7 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>International Awards</h5>
-          ◼ ACM Applied Soft Computing (SAC) 2023, <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a> (<a href="https://www.acm.org/conferences/best-paper-awards"  target="_blank">ACM Best Paper Awards Archive</a>)<br>
+          ◼ The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a> (<a href="https://www.acm.org/conferences/best-paper-awards"  target="_blank">ACM Best Paper Awards Archive</a>)<br>
 </div>
 
 <div class="section">    

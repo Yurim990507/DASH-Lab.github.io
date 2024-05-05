@@ -68,7 +68,10 @@ permalink: /About/
 <img src="/img/WooDF.jpg" alt="" width="700" />
 </div>
 <div class="section">
-    <h5>Services and Awards</h5> 
+    <h5>Awards</h5>
+          ◼ ACM Applied Soft Computing (SAC) 2023, <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award</a><br>
+    
+    <h5>Services</h5> 
           ◼ KDD 2024 Research Track Chair <br>
           ◼ CIKM 2024 Senior PC on Resource/Demo Track <br>
           ◼ IJCAI 2024 Web Chair <br>

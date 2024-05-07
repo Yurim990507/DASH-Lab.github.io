@@ -71,6 +71,7 @@ permalink: /About/
     <h5>International Honors and Awards</h5>
           ◼ 2023 The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a> (<a href="https://www.acm.org/conferences/best-paper-awards"  target="_blank">ACM Best Paper Awards Archive</a>)<br>
           ◼ 2021 PLP 2021: Workshop on Programming Language Processing, <a href="https://sw.skku.edu/sw/news.do?mode=view&articleNo=150622&article.offset=10&articleLimit=10&srSearchVal=우사이먼">Best Paper Award</a>, 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) <br>
+          ◼ 2016 The 17th World Conference on Information Security Applications (WISA), Best Paper Award, Korea <br>    
           ◼ 2003 Mary Gates Scholar, University of Washington, Seattle <br>
 </div>
 <hr>
@@ -81,7 +82,7 @@ permalink: /About/
           ◼ CIKM 2024 Senior PC on Resource/Demo Track <br>
           ◼ IJCAI 2024 Web Chair <br>
           ◼ Conference/Workshop Charing: ACM CoNext Finance Chair (2017),  EAI CyDiP Technical Program Committee Chair (2021)<br>
-          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022, 2024), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020, 2024), ACCV (2021, 2024), BMVC (2022), ICCV, (2023), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022, 2023, 2024), AAAI (2022, 2023, 2024), KDD (2022, 2023, 2024), IJCAI (2022, 2023, 2024), WACV (2021, 2022, 2024), ICML (2023, 2024), CVPR (2023, 2024), ICPR (2024), SDM (2024) <br>
+          ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022, 2024), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020, 2024), ACCV (2021, 2024), BMVC (2022), ICCV, (2023), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022, 2023, 2024), AAAI (2022, 2023, 2024), KDD (2022, 2023, 2024), IJCAI (2022, 2023, 2024), WACV (2021, 2022, 2024), ICML (2023, 2024), CVPR (2023, 2024), ICPR (2024), SDM (2024), NeurIPS (2023, 2024)<br>
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
           ◼ Session Chair: ACM SAC MLA (2021, 2024), TheWebConf (2021, 2024), ACM CCS (2021), PAKDD (2024)<br>
           ◼ Workshop Organizers: <br>

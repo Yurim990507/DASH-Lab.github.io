@@ -72,7 +72,7 @@ permalink: /About/
           ◼ 2023 The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a> (<a href="https://www.acm.org/conferences/best-paper-awards"  target="_blank">ACM Best Paper Awards Archive</a>)<br>
           ◼ 2021 PLP 2021: Workshop on Programming Language Processing, <a href="https://sw.skku.edu/sw/news.do?mode=view&articleNo=150622&article.offset=10&articleLimit=10&srSearchVal=우사이먼">Best Paper Award</a>, 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) <br>
           ◼ 2016 The 17th World Conference on Information Security Applications (WISA), Best Paper Award, Korea <br>    
-          ◼ 2003 Mary Gates Scholar, University of Washington, Seattle <br>
+          ◼ 2003 Mary Gates Scholar, University of Washington, Seattle, USA <br>
 </div>
 <hr>
 
@@ -86,9 +86,9 @@ permalink: /About/
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>
           ◼ Session Chair: ACM SAC MLA (2021, 2024), TheWebConf (2021, 2024), ACM CCS (2021), PAKDD (2024)<br>
           ◼ Workshop Organizers: <br>
-    ◼ ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (<a href="https://sites.google.com/view/wdc-2022/" target="_blank">2022</a>, <a href="https://sites.google.com/view/wdc-2023/" target="_blank">2023</a>, <a href="https://sites.google.com/view/wdc-2024/" target="_blank">2024</a>) at ACM AsiaCCS<br>
-    ◼ <a href="https://sites.google.com/view/ansd23?pli=1" target="_blank">The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD)</a> at <a href="https://uobevents.eventsair.com/cikm2023/" target="_blank">CIKM 2023</a>, Birmingham UK <br>
-    ◼ The First International Workshop on AI-Driven Modeling and Management of Data (AIMM 2024) at <a href="https://insights.sei.cmu.edu/news/international-conference-on-conceptual-modeling-er-2024-opens-call-for-papers/" target="_blank">International Conference on Conceptual Modeling (ER) 2024</a>, Carnegie Mellon University, PA, USA<br> 
+    - ACM AsiaCCS Workshop on the security implications of Deepfakes and Cheapfakes (WDC) Organizer (<a href="https://sites.google.com/view/wdc-2022/" target="_blank">2022</a>, <a href="https://sites.google.com/view/wdc-2023/" target="_blank">2023</a>, <a href="https://sites.google.com/view/wdc-2024/" target="_blank">2024</a>) at ACM AsiaCCS<br>
+    - <a href="https://sites.google.com/view/ansd23?pli=1" target="_blank">The 1st International Workshop on Anomaly and Novelty detection in Satellite and Drones systems (ANSD)</a> at <a href="https://uobevents.eventsair.com/cikm2023/" target="_blank">CIKM 2023</a>, Birmingham UK <br>
+    - The First International Workshop on AI-Driven Modeling and Management of Data (AIMM 2024) at <a href="https://insights.sei.cmu.edu/news/international-conference-on-conceptual-modeling-er-2024-opens-call-for-papers/" target="_blank">International Conference on Conceptual Modeling (ER) 2024</a>, Carnegie Mellon University, PA, USA<br> 
 
 </div>
 <div class="divider"></div>

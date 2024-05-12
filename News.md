@@ -30,7 +30,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/PAKDD_24-3.jpg"/>
-				<p>All Running up Awards @PAKDD (Taiwan, May 2024)</p>			
+				<p>Student Travel Awards @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/PAKDD_24-4.jpg"/>

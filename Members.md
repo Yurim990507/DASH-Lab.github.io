@@ -473,7 +473,7 @@ permalink: /Members/
                  <tr>
                   <td><a href="https://kishor-bhaumik.github.io/" target = "_blank">Kishor Kumar Bhaumik</a> (MS) 2023</td>
                   <td>Image Manipulation Detection, Time Series</td>
-                  <td><a href="https://ccds.ai/">CCDS, Bangladesh</a></td>
+                  <td>UC Riverside, PhD program (w/ Dean's Distinguished Award + RA) </a></td>
                   </tr>
                   <tr>
                   <td>Jungho Kim (MS) 2023</td>

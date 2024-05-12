@@ -69,7 +69,7 @@ permalink: /About/
 </div>
 <div class="section">
     <h5>International Honors and Awards</h5>
-          ◼ 2024 The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), <a href="https://pakdd2024.org/award24awardpakdd24/">Best Paper Running-Up Award</a> 
+          ◼ 2024 The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), <a href="https://pakdd2024.org/award24awardpakdd24/">Best Paper Running-Up Award</a> <br>
           ◼ 2023 The 38th ACM/SIGAPP Symposium on Applied Computing (SAC), <a href="https://www.sigapp.org/sac/sac2023/" target="_blank">Best Paper Award  (AI and Agents)</a> (<a href="https://www.acm.org/conferences/best-paper-awards"  target="_blank">ACM Best Paper Awards Archive</a>)<br>
           ◼ 2021 PLP 2021: Workshop on Programming Language Processing, <a href="https://sw.skku.edu/sw/news.do?mode=view&articleNo=150622&article.offset=10&articleLimit=10&srSearchVal=우사이먼">Best Paper Award</a>, 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD) <br>
           ◼ 2016 The 17th World Conference on Information Security Applications (WISA), Best Paper Award, Korea <br>    

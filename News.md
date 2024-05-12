@@ -5,7 +5,8 @@ permalink: /News/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
-<b> There are universities focuing on teaching and others for research. The object of our lab is to do research</b>
+<b> - There are universities focuing on teaching and others for research. The object of our lab is to do research (not teaching)</b> <br>
+<b> (대학도 교육 중심대학이 있고, 연구 중심 대학이 있습니다. 저희 연구실은 "연구"를 하는 곳이고, 연구를 하고자 하는 학생만 지원 바랍니다. )</b> <br>
 <b> - 우리 연구실은 단순 성균관대 졸업장이 아니라, 좋은 연구를 하고, 좋은 논문을 쓰고 싶은 highly motivated한 석사/박사, 포닥분들 모집, who want to make a difference in the field and future!</b>
 <br>
 &rarr;<a href="https://swb.skku.edu/security2020/index.do" target="_blank">CS 석/박사지원 융합보안대학원</a> <br>

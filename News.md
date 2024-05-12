@@ -22,7 +22,7 @@ permalink: /News/
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/PAKDD_24-1.jpg"/>
-				<p>Student Travel Award @PAKDD (Taiwan, May 2024)</p>			
+				<p>Best Paper Running up Award @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=380   style=" border-radius: 8px;" src="/img/PAKDD_24-2.jpg"/>

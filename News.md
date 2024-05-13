@@ -290,7 +290,9 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
-April 2024. Won the Best Paper Running-Up Award <b> PAKDD 2024. </b><br>
+May 2024. Won the Best Paper Running-Up Award <b> PAKDD 2024. </b><br>
+
+April 2024. One paper is accepted at <b> IJCAI 2024. </b><br>
 
 April 2024. One short paper is accepted at <b> TheWebConf 2024. </b><br>
 

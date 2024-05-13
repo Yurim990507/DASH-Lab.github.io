@@ -284,7 +284,7 @@ anomaly score to differentiate anomalies. We evaluate our model using the real-w
                     </tr>
 					<tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF=1 (Oral Talk)</font>
+                               <font color='blue'>BK Computer Science IF=1 (Oral Talk) (<a href="https://pakdd2024.org/award24awardpakdd24/"><font color="red">Best Paper Running-up Award</font></a>)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

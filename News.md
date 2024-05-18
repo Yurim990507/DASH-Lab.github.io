@@ -290,7 +290,7 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
-May 2024. One paper is accepted at <b> SIG KDD 2024. </b><br>
+May 2024. One paper is accepted at <b> SIGKDD 2024. </b><br>
 
 May 2024. Won the Best Paper Running-Up Award <b> PAKDD 2024. </b><br>
 

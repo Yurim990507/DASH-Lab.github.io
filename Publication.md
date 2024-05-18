@@ -51,8 +51,7 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
-	<hr>
-
+<hr>
  <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -81,11 +80,11 @@ which are currently operating: KOMPSAT-3, KOMPSAT-3A, and KOMPSAT-5 satellites. 
                 </tbody>
             </table>
         </div>
-	 <hr>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
             <img  loading="lazy" src="SIGKDD24.png"  style="max-height: 195px;max-width: 530px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>
     </div>
+	<hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

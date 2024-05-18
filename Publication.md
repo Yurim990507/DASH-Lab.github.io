@@ -52,6 +52,39 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 	<hr>
+
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Decomposed Attention Segment Recurrent Neural Network for Orbit Prediction</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>SeungWon Jeong, Soyeon Woo, Daewon Chung, and <i><b>Simon S. Woo</b> </i>, <i><b>Youjin Shin</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://www.inns.org/ijcnn-home"> International Conference on Knowledge Discovery and Data Mining (SIGKDD), Barcelona, Spain, 2024</a></b> </small> </p>
+                    </tr>
+		<tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF=4</font>
+                                </b> </small> </p>
+                    </tr> 
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>As the focus of space exploration shifts from national agencies to private companies, the interest in space industry has been steadily increasing. With the increasing number of satellites, the risk of collisions between satellites and space debris has escalated, potentially leading to significant property and human losses. Therefore,
+accurately modeling the orbit is critical for satellite operations. In this work, we propose the Decomposed Attention Segment Recurrent Neural Network (DASR) model, adding two key components, Multi-Head Attention and Tensor Train Decomposition, to SegRNN for orbit prediction. The DASR model applies Multi-Head Attention before segmenting at input data and before the input of the GRU layers. In addition, Tensor Train (TT) Decomposition is applied to the weight matrices of the Multi-Head Attention in both the encoder and decoder. For evaluation, we use three real-world satellite datasets from the Korea Aerospace Research Institute (KARI),
+which are currently operating: KOMPSAT-3, KOMPSAT-3A, and KOMPSAT-5 satellites. Our proposed model demonstrates superior performance compared to other SOTA baseline models. We demonstrate that our approach is 94.13% higher predictive performance than the second-best model in the KOMPSAT-3 dataset, 89.79% higher in the KOMPSAT-3A dataset, and 76.71% higher in the KOMPSAT-3 dataset.</small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="SIGKDD24.png"  style="max-height: 195px;max-width: 530px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div>
+    </div>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

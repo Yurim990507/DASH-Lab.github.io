@@ -81,6 +81,7 @@ which are currently operating: KOMPSAT-3, KOMPSAT-3A, and KOMPSAT-5 satellites. 
                 </tbody>
             </table>
         </div>
+	 <hr>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
             <img  loading="lazy" src="SIGKDD24.png"  style="max-height: 195px;max-width: 530px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div>

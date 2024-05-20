@@ -62,7 +62,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>SeungWon Jeong, Soyeon Woo, Daewon Chung, and <i><b>Simon S. Woo</b> </i>, <i><b>Youjin Shin</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>SeungWon Jeong, Soyeon Woo, Daewon Chung, <i><b>Simon S. Woo</b> </i>, and <i><b>Youjin Shin</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://www.inns.org/ijcnn-home"> International Conference on Knowledge Discovery and Data Mining (SIGKDD), Barcelona, Spain, 2024</a></b> </small> </p>

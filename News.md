@@ -37,7 +37,7 @@ permalink: /News/
 				<p>Student Travel Awards @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/PAKDD_24-4.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/PAKDD 2024_travelaward.png"/>
 				<p>Student Travel Award Acceptance @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

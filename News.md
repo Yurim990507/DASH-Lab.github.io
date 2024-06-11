@@ -33,7 +33,7 @@ permalink: /News/
 				<p>Binh & Simon @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=300   style=" border-radius: 8px;" src="/img/PAKDD 2024_travelaward.png"/>
+				<img  loading="lazy" class="carousel-cell" border=0  width=460 height=310   style=" border-radius: 8px;" src="/img/PAKDD 2024_travelaward.png"/>
 				<p>Student Travel Award Acceptance @PAKDD (Taiwan, May 2024)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">

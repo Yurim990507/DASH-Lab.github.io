@@ -25,53 +25,78 @@ permalink: /News/
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=360   style=" border-radius: 8px;" src="/img/PAKDD 2024 Award 0.jpg"/>
-				<p>Best Paper Running-up Award @PAKDD (Taiwan, May 2024)</p>			
+			    <a href="/img/PAKDD 2024 Award 0.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="360" style="border-radius: 8px;" src="/img/PAKDD 2024 Award 0.jpg" />
+			    </a>
+			    <p>Best Paper Running-up Award @PAKDD (Taiwan, May 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=290   style=" border-radius: 8px;" src="/img/PAKDD 2024 Award.jpg"/>
-				<p>Binh & Simon @PAKDD (Taiwan, May 2024)</p>			
+			    <a href="/img/PAKDD 2024 Award.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="290" style="border-radius: 8px;" src="/img/PAKDD 2024 Award.jpg" />
+			    </a>
+			    <p>Binh & Simon @PAKDD (Taiwan, May 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=460 height=310   style=" border-radius: 8px;" src="/img/PAKDD 2024_travelaward.png"/>
-				<p>Student Travel Award Acceptance @PAKDD (Taiwan, May 2024)</p>			
+			    <a href="/img/PAKDD 2024_travelaward.png" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="460" height="310" style="border-radius: 8px;" src="/img/PAKDD 2024_travelaward.png" />
+			    </a>
+			    <p>Student Travel Award Acceptance @PAKDD (Taiwan, May 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skku@aaai_1.jpg"/>
-				<p>Lab's poster @AAAI (Canada, Feb 2024)</p>			
+			    <a href="/img/skku@aaai_1.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/skku@aaai_1.jpg" />
+			    </a>
+			    <p>Lab's poster @AAAI (Canada, Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=350 height=440   style=" border-radius: 8px;" src="/img/skku@aaai_2.jpg"/>
-				<p>Lab's poster @AAAI (Canada, Feb 2024)</p>			
+			    <a href="/img/skku@aaai_2.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="350" height="440" style="border-radius: 8px;" src="/img/skku@aaai_2.jpg" />
+			    </a>
+			    <p>Lab's poster @AAAI (Canada, Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/skku@aaai_3.jpg"/>
-				<p>Lab's poster @AAAI (Canada, Feb 2024)</p>			
+			    <a href="/img/skku@aaai_3.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/skku@aaai_3.jpg" />
+			    </a>
+			    <p>Lab's poster @AAAI (Canada, Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/dash@aaai24.jpg"/>
-				<p>DASH group @AAAI (Canada, Feb 2024)</p>			
+			    <a href="/img/dash@aaai24.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/dash@aaai24.jpg" />
+			    </a>
+			    <p>DASH group @AAAI (Canada, Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=380 height=440   style=" border-radius: 8px;" src="/img/skkugroup.jpg"/>
-				<p>SKKU@AAAI (Canada, Feb 2024)</p>			
+			    <a href="/img/skkugroup.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="380" height="440" style="border-radius: 8px;" src="/img/skkugroup.jpg" />
+			    </a>
+			    <p>SKKU@AAAI (Canada, Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad.jpg"/>
-				<p>Taejun's graduation (Feb 2024)</p>			
+			    <a href="/img/taejun_grad.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/taejun_grad.jpg" />
+			    </a>
+			    <p>Taejun's graduation (Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad_01.jpg"/>
-				<p>Taejun's graduation (Feb 2024)</p>			
+			    <a href="/img/taejun_grad_01.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/taejun_grad_01.jpg" />
+			    </a>
+			    <p>Taejun's graduation (Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/taejun_grad_02.jpg"/>
-				<p>Taejun's graduation (Feb 2024)</p>			
+			    <a href="/img/taejun_grad_02.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/taejun_grad_02.jpg" />
+			    </a>
+			    <p>Taejun's graduation (Feb 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0  width=300 height=400   style=" border-radius: 8px;" src="/img/taejun_grad_03.jpg"/>
-				<p>Taejun's graduation (Feb 2024)</p>			
+			    <a href="/img/taejun_grad_03.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="300" height="400" style="border-radius: 8px;" src="/img/taejun_grad_03.jpg" />
+			    </a>
+			    <p>Taejun's graduation (Feb 2024)</p>
 			</div>
+
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof23_02.jpeg"/>
 				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			

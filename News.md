@@ -314,6 +314,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+	
+June 2024. One Workshop paper is accepted at <b> ICIP 2024. </b><br>
 
 May 2024. One paper is accepted at <b> SIGKDD 2024. </b><br>
 

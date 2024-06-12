@@ -229,7 +229,7 @@ and speeding the optimization up to three times faster.</small> </p>
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="Moire_CVPR_Workshop.png"  style="max-height: 235px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="Moire_CVPR_Workshop.png"  style="max-height: 195px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div> 
     </div>
 	<hr>

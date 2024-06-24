@@ -63,7 +63,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Taejune Kim, Yun-Gyoo Lee, Inho Jung, Soo-Youn Ham and <i> <b> Simon S. Woo*</b></i></small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Taejune Kim, Yun-Gyoo Lee, Inho Jung, Soo-Youn Ham, and <i> <b> Simon S. Woo*</b></i></small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Pattern Recognition Letters</b> </small> </p>

@@ -314,6 +314,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+
+June 2024. One journal paper is accepted at <b> PRLetters 2024. </b><br>
 	
 June 2024. One Conference paper is accepted at <b> ICIP 2024. </b><br>
 

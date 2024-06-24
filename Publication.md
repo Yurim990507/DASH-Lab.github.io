@@ -57,7 +57,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>Exploring The Impact of Moiré Pattern on Deepfake Detectors</b></a>
+                        <a><b>Exploring the Impact of Moiré Pattern on Deepfake Detectors</b></a>
                     </tr>
                 </thead>
                 <tbody>

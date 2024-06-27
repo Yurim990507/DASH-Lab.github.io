@@ -70,7 +70,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) SCIE IF = 5.1 (June-2024)</font>
+                               <font color='blue'>SCIE Q1 IF = 5.1 (Accepted on June 2024)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

@@ -34,43 +34,43 @@ permalink: /News/
 			    <a href="/img/ACM2024_7.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_7.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
    			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_6.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_6.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_5.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_5.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_4.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_4.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_3.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_3.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
    			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_2.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_2.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_1.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_1.jpg" />
 			    </a>
-			    <p>Successful Organization of The 3rd Workshop by <strong>DASH Lab</strong> on the security implications of Deepfakes and Cheapfakes (WDC '24) @ AsiaCCS 2024</p>
+			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
 			</div>
   			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/PAKDD 2024 Award 0.jpg" target="_blank">

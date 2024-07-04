@@ -66,11 +66,11 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Joo Chan Lee, Taejune Kim, Eunbyung Park,  <i><b> Simon S. Woo*</b></i> , and Jong Hwan Ko</small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 18th European Conference on Computer Vision ECCV 2024</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 18th European Conference on Computer Vision (ECCV 2024), Milan, September 2024</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK IF = 2</font>
+                               <font color='blue'>BK Computer Science IF = 2</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

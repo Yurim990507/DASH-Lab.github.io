@@ -71,8 +71,14 @@ permalink: /News/
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_1.jpg" />
 			    </a>
 			    <p>WDC 2024 @ AsiaCCS2024 Organized by <strong>DASH Lab</strong></p>
-			</div>
+			</div>		
   			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/cvpr24_poster.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="360" style="border-radius: 8px;" src="/img/cvpr24_poster.jpg" />
+			    </a>
+			    <p>Lab's poster @ CVPR (Seattle, June 2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/PAKDD 2024 Award 0.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="360" style="border-radius: 8px;" src="/img/PAKDD 2024 Award 0.jpg" />
 			    </a>

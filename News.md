@@ -74,7 +74,7 @@ permalink: /News/
 			</div>		
   			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/cvpr24_poster.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="350" height="440" style="border-radius: 8px;" src="/img/cvpr24_poster.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="280" height="350" style="border-radius: 8px;" src="/img/cvpr24_poster.jpg" />
 			    </a>
 			    <p>Lab's poster @ CVPR (Seattle, June 2024)</p>
 			</div>
@@ -104,7 +104,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/skku@aaai_2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="350" height="440" style="border-radius: 8px;" src="/img/skku@aaai_2.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0"  width="280" height="350" style="border-radius: 8px;" src="/img/skku@aaai_2.jpg" />
 			    </a>
 			    <p>Lab's poster @AAAI (Canada, Feb 2024)</p>
 			</div>
@@ -122,7 +122,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/skkugroup.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="380" height="440" style="border-radius: 8px;" src="/img/skkugroup.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0"  width="280" height="350" style="border-radius: 8px;" src="/img/skkugroup.jpg" />
 			    </a>
 			    <p>SKKU@AAAI (Canada, Feb 2024)</p>
 			</div>
@@ -150,7 +150,6 @@ permalink: /News/
 			    </a>
 			    <p>Taejun's graduation (Feb 2024)</p>
 			</div>
-
 			<div class="gallery-cell" style="margin: auto; padding:0">
 				<img  loading="lazy" class="carousel-cell" border=0  width=430 height=330   style=" border-radius: 8px;" src="/img/asvspoof23_02.jpeg"/>
 				<p>DASH group at ASVSpoof workshop (Japan - Nov 2023)</p>			
@@ -252,7 +251,7 @@ permalink: /News/
 				<p>Visiting research group at University of Malaya (Malaysia - Oct 2023)</p>			
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
-				<img  loading="lazy" class="carousel-cell" border=0 width=500 height=400  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
+				<img  loading="lazy" class="carousel-cell" border=0 width=540 height=360  style=" border-radius: 8px;" src="/img/icip23_sessionchair.jpg"/>
 				<p>With Session Chair @ICIP23 (Malaysia - Oct 2023)</p>			
 			</div>			
 			<div class="gallery-cell" style="margin: auto; padding:0">

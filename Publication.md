@@ -30,7 +30,7 @@ permalink: /Publications/
         <center>    
 <!--              How: Change the number after the Conference Name to indicate # of paper accepted -->
             <sup>Since 2018:</sup>   
-            <img  loading="lazy" alt="CIKM"     src="https://img.shields.io/badge/CIKM-12-brightgreen?style=social"      height="20">&nbsp;
+            <img  loading="lazy" alt="CIKM"     src="https://img.shields.io/badge/CIKM-15-brightgreen?style=social"      height="20">&nbsp;
             <img  loading="lazy" alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img  loading="lazy" alt="AAAI"     src="https://img.shields.io/badge/AAAI-4-brightgreen?style=social"      height="20">&nbsp;      
             <img  loading="lazy" alt="KDD"      src="https://img.shields.io/badge/KDD-4-brightgreen?style=social"       height="20">&nbsp;
@@ -51,7 +51,70 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
-
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Deep Journey Hierarchical Attention Networks for Predictions in Digital Marketing</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, Hyeonseok Yun, Banseok Lee, David Sung, and <i><b> Simon S. Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 3</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In digital marketing, precise audience targeting is crucial for campaign efficiency. However, digital marketing agencies often struggle with incomplete user profiles and interaction details from Advertising Identifier (ADID) data in user behavior modeling. To address this, Korea Telecom (KT), a leading telecommunication and big data service provider in South Korea, introduces the Deep Journey Hierarchical Attention Networks (DJHAN). This novel method enhances conversion predictions by leveraging heterogeneous action sequences associated with ADIDs and encapsulating these interactions into structured journeys. These journeys are hierarchically aggregated to effectively represent ADID’s behavioral attributes. Moreover, DJHAN incorporates three specialized attention mechanisms: temporal attention for time-sensitive contexts, action attention for emphasizing key behaviors, and journey attention for highlighting influential journeys in the purchase conversion process. Emprically, DJHAN surpasses state-of-the-art (SOTA) models across three diverse datasets, including real-world data from NasMedia, a leading media representative in Asia. In backtesting simulations with three advertisers, DJHAN outperforms existing baselines, achieving the highest improvements in Conversion Rate (CVR) and Return on Ad Spend (ROAS) across three advertisers, demonstrating its practical potential in digital marketing.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="eCIKM2024-ban.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>
+    <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Patch-wise Vector Quantization for Unsupervised Medical Anomaly Detection</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Taejune Kim, Yun-Gyoo Lee, Inho Jung, Soo-Youn Ham, and <i> <b> Simon S. Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Pattern Recognition Letters</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>SCIE Q1 IF = 5.1 (Accepted on June 2024)</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Radiography images inherently possess globally consistent structures while exhibiting significant diversity in local anatomical regions, making it challenging to model their normal features through unsupervised anomaly detection. Since unsupervised anomaly detection methods localize anomalies by utilizing discrepancies between learned normal features and input abnormal features, previous studies introduce a memory structure to capture the normal features of radiography images. However, these approaches store extremely localized image segments in their memory, causing the model to represent both normal and pathological features with the stored components. This poses a significant challenge in unsupervised anomaly detection by reducing the disparity between learned features and abnormal features. Furthermore, with the diverse settings in radiography imaging, the above issue is exacerbated: more diversity in the normal images results in stronger representation of pathological features. To resolve the issues above, we propose a novel pathology detection method called Patch-wise Vector Quantization (P-VQ). Unlike the previous methods, P-VQ learns vector-quantized representations of normal "patches" while preserving its spatial information by incorporating vector similarity metric. Furthermore, we introduce a novel method for selecting features in the memory to further enhance the robustness against diverse imaging settings. P-VQ even mitigates the "index collapse" problem of vector quantization by proposing top-k% dropout. Our extensive experiments on the BMAD benchmark demonstrate the superior performance of P-VQ against existing state-of-the-art methods.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="prletters.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>
  <hr>
  <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

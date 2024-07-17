@@ -65,7 +65,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyumin Choi, Jiwon Kim, Chiyoung Song, <i><b> Simon S. Woo*</b></i></small>, and Hyoungshick Kim</p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</a></b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -97,7 +97,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seungyeon Back, Geonho Son, Dahye Jeong, Eunil Park, and <i><b> Simon S. Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024 (Demonstrations Track)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024 (Demonstrations Track)</a></b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Photo restoration technology enables preserving visual memories in photographs. However, physical prints are vulnerable to various forms of deterioration, ranging from physical damage to loss of image quality, etc. While restoration by human experts can improve the quality of outcomes, it often comes at a high price in terms of cost and time for restoration. In this work, we present the AI- based photo restoration framework composed of multiple stages, where each stage tailored to enhance and restore specific types of photo damage, accelerating and automating the photo restoration process. By integrating these techniques into a unified architecture, our framework aims to offer a one-stop solution for restoring old and deteriorated photographs. Furthermore, we present a novel old photo restoration dataset due to the lack of publicly available dataset for our evaulation.
@@ -124,7 +124,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, Hyeonseok Yun, Banseok Lee, David Sung, and <i><b> Simon S. Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</a></b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

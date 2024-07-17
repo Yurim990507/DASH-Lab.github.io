@@ -57,6 +57,65 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyumin Choi, Jiwon Kim, Chiyoung Song, <i><b> Simon S. Woo*</b></i></small>, and Hyoungshick Kim</p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 3</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>We present Blind-Match, a novel biometric identification system that leverages homomorphic encryption (HE) for efficient and privacy- preserving 1:N matching. Blind-Match introduces a HE-optimized cosine similarity computation method, where the key idea is to divide the feature vector into smaller parts for processing rather than comput- ing the entire vector at once. By optimizing the number of these parts, Blind-Match minimizes execution time while ensuring data privacy through HE. Blind-Match achieves superior performance compared to state-of-the-art methods across various biometric datasets. On the LFW face dataset, Blind-Match attains a 99.63% Rank-1 ac- curacy with a 128-dimensional feature vector, demonstrating its robustness in face recognition tasks. For fingerprint identification, Blind-Match achieves a remarkable 99.55% Rank-1 accuracy on the PolyU dataset, even with a compact 16-dimensional feature vector, significantly outperforming the state-of-the-art method, Blind-Touch, which achieves only 59.17%. Furthermore, Blind-Match showcases practical efficiency in large-scale biometric identification scenarios, such as Naver Cloud’s FaceSign, by processing 6,144 biometric samples in 0.74 seconds using a 128-dimensional feature vector.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="CIKM2024-choi.jpg"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>	
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Preserving Old Memories in Vivid Detail: Human-Interactive Photo Restoration Framework</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Seungyeon Back, Geonho Son, Dahye Jeong, Eunil Park, and <i><b> Simon S. Woo*</b></i></small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024 (Demonstrations Track)</b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Photo restoration technology enables preserving visual memories in photographs. However, physical prints are vulnerable to various forms of deterioration, ranging from physical damage to loss of image quality, etc. While restoration by human experts can improve the quality of outcomes, it often comes at a high price in terms of cost and time for restoration. In this work, we present the AI- based photo restoration framework composed of multiple stages, where each stage tailored to enhance and restore specific types of photo damage, accelerating and automating the photo restoration process. By integrating these techniques into a unified architecture, our framework aims to offer a one-stop solution for restoring old and deteriorated photographs. Furthermore, we present a novel old photo restoration dataset due to the lack of publicly available dataset for our evaulation.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="CIKM2024-back.jpg"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>Deep Journey Hierarchical Attention Networks for Predictions in Digital Marketing</b></a>
                     </tr>
                 </thead>
@@ -65,7 +124,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Girim Ban, Hyeonseok Yun, Banseok Lee, David Sung, and <i><b> Simon S. Woo*</b></i></small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

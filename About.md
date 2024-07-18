@@ -80,10 +80,10 @@ permalink: /About/
 
 <div class="section">    
     <h5>Services</h5> 
-          ◼ KDD 2024 Research Track Chair <br>
-          ◼ CIKM 2024 Senior PC on Resource/Demo Track <br>
-          ◼ IJCAI 2024 Web Chair <br>
-          ◼ ACML 2024 Area Chair <br>
+          ◼ 2024 KDD Research Track Chair <br>
+          ◼ 2024 CIKM Senior PC on Resource/Demo Track <br>
+          ◼ 2024 IJCAI Web Chair <br>
+          ◼ 2024 ACML Area Chair <br>
           ◼ Conference/Workshop Charing: ACM CoNext Finance Chair (2017),  EAI CyDiP Technical Program Committee Chair (2021)<br>
           ◼ TPCs: SecureComm (2019, 2020), SOUPS (2020), TheWebConf (WWW) (2000, 2021, 2022, 2024), ACM SAC Machine Learning Application Track (2020, 2021), ECCV (2020, 2024), ACCV (2021, 2024), BMVC (2022), ICCV, (2023), Cyber Security Experimentation and Test (CSET) Workshop (2021), CIKM (2020, 2021, 2022, 2023, 2024), AAAI (2022, 2023, 2024), KDD (2022, 2023, 2024), IJCAI (2022, 2023, 2024), WACV (2021, 2022, 2024), ICML (2023, 2024), CVPR (2023, 2024), ICPR (2024), SDM (2024), NeurIPS (2023, 2024)<br>
           ◼ Journals: TIIS Editor (2019-2021), IEEE TIFS (2019), AIAA Journal of Aerospace Information Systems (2020)<br>

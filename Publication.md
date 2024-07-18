@@ -81,7 +81,7 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="cikm-2024-inzi.jpg"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="cikm-inzi-2024.jpg"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div> 
     </div>		
  <hr>

@@ -80,7 +80,7 @@ permalink: /About/
 
 <div class="section">    
     <h5>Services</h5> 
-          ◼ 2024 KDD Research Track Chair <br>
+          ◼ 2024 KDD Research Track Area Chair <br>
           ◼ 2024 CIKM Senior PC on Resource/Demo Track <br>
           ◼ 2024 IJCAI Web Chair <br>
           ◼ 2024 ACML Area Chair <br>

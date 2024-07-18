@@ -450,9 +450,9 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
-                  <td>Girim Ban </a> (MS) 2024 </td>
+                  <td>Girim Ban (MS) 2024 </td>
                   <td> Big Data, E-Commerce, Data Science </td>
-                  <td> Data Scientist, Toss </td>
+                  <td> Data Scientist at Toss </td>
                  </tr>
                   <tr>
                   <td><a href="https://tae-mo.github.io/" target = "_blank"> Taejune Kim </a> (MS) 2024 </td>

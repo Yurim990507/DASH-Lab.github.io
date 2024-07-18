@@ -30,7 +30,7 @@ permalink: /Publications/
         <center>    
 <!--              How: Change the number after the Conference Name to indicate # of paper accepted -->
             <sup>Since 2018:</sup>   
-            <img  loading="lazy" alt="CIKM"     src="https://img.shields.io/badge/CIKM-15-brightgreen?style=social"      height="20">&nbsp;
+            <img  loading="lazy" alt="CIKM"     src="https://img.shields.io/badge/CIKM-16-brightgreen?style=social"      height="20">&nbsp;
             <img  loading="lazy" alt="WWW"      src="https://img.shields.io/badge/WWW-6-brightgreen?style=social"       height="20"  >&nbsp;            
             <img  loading="lazy" alt="AAAI"     src="https://img.shields.io/badge/AAAI-4-brightgreen?style=social"      height="20">&nbsp;      
             <img  loading="lazy" alt="KDD"      src="https://img.shields.io/badge/KDD-4-brightgreen?style=social"       height="20">&nbsp;
@@ -51,6 +51,39 @@ permalink: /Publications/
         </center>
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
+<hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>IDENTIFY: Integral Radial and Spatial Fourier Analysis for AI-Generated Image Authentication</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Inzamamul Alam, Muhammad Shahid Muneer, and <i><b> Simon S. Woo*</b></i></small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 3</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>In the wake of a fabricated explosion image at the Pentagon, an ability to discern real images from fake counterparts has never been more critical. Our study introduces a novel multi-modal approach to detect AI-generated images amidst the proliferation of new- generation methods such as Diffusion models. Our method, IDEN- TIFY, encompasses three key detection steps: First, we transform the RGB images into YCbCr channels and apply an Integral Radial Operation to emphasize salient radial features. Secondly, the Spatial Fourier Extraction operation is used for a spatial shift, utilizing a pre-trained deep learning network for optimal feature extraction. Finally, the deep neural network classification stage processes the data through dense layers using softmax for classification. Our approach significantly enhances the accuracy of differentiating between real and AI-generated images, as evidenced by a 12.64% increase in accuracy and 28.43% increase in AUC compared to ex- isting state-of-the-art methods. Also, we integrated and deployed
+1 our approach to detect real-world deepfakes in our system.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="cikm-2024-inzi.jpg"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
  <hr>
  <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

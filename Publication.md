@@ -239,38 +239,6 @@ permalink: /Publications/
             <img  loading="lazy" src="eccv.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div> 
     </div>
-    <hr>
- <div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>Patch-wise Vector Quantization for Unsupervised Medical Anomaly Detection</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Taejune Kim, Yun-Gyoo Lee, Inho Jung, Soo-Youn Ham, and <i> <b> Simon S. Woo*</b></i></small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Pattern Recognition Letters</b> </small> </p>
-                    </tr>
-                    <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>SCIE Q1 IF = 5.1 (Accepted on June 2024)</font>
-                                </b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Radiography images inherently possess globally consistent structures while exhibiting significant diversity in local anatomical regions, making it challenging to model their normal features through unsupervised anomaly detection. Since unsupervised anomaly detection methods localize anomalies by utilizing discrepancies between learned normal features and input abnormal features, previous studies introduce a memory structure to capture the normal features of radiography images. However, these approaches store extremely localized image segments in their memory, causing the model to represent both normal and pathological features with the stored components. This poses a significant challenge in unsupervised anomaly detection by reducing the disparity between learned features and abnormal features. Furthermore, with the diverse settings in radiography imaging, the above issue is exacerbated: more diversity in the normal images results in stronger representation of pathological features. To resolve the issues above, we propose a novel pathology detection method called Patch-wise Vector Quantization (P-VQ). Unlike the previous methods, P-VQ learns vector-quantized representations of normal "patches" while preserving its spatial information by incorporating vector similarity metric. Furthermore, we introduce a novel method for selecting features in the memory to further enhance the robustness against diverse imaging settings. P-VQ even mitigates the "index collapse" problem of vector quantization by proposing top-k% dropout. Our extensive experiments on the BMAD benchmark demonstrate the superior performance of P-VQ against existing state-of-the-art methods.
- </small> </p>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="prletters.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-        </div> 
-    </div>
  <hr>
 	<div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

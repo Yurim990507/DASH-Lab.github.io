@@ -95,7 +95,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyumin Choi, Jiwon Kim, Chiyoung Song, <i><b> Simon S. Woo*</b></i></small>, and Hyoungshick Kim*</p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Hyumin Choi, Jiwon Kim, Chiyoung Song, <i><b> Simon S. Woo*</b></i>, and Hyoungshick Kim*</small></p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://cikm2024.org/">33rd ACM International Conference on Information & Knowledge Management (CIKM), Boise, Idaho, USA, October 2024</a></b> </small> </p>

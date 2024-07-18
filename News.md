@@ -368,6 +368,10 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
+July 2024. Three full papers and one demo paper are accepted at <b> CIKM 2024. </b><br>
+
+July 2024. Three full papers and one demo paper are accepted at <b> CIKM 2024. </b><br>
+
 June 2024. One Journal paper is accepted at <b> PRLetters 2024. </b><br>
 	
 June 2024. One Conference paper is accepted at <b> ICIP 2024. </b><br>

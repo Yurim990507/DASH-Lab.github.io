@@ -136,7 +136,7 @@ permalink: /Members/
                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minha Kim
                       </div>
                      </td>
-                  <td>Computer Science & Engineering (소프트웨어)</td>
+                  <td>Dept of AI (인공지능학과)</td>
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
                 </tr>                                 

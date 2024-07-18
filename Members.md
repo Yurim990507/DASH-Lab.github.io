@@ -139,18 +139,7 @@ permalink: /Members/
                   <td>Computer Science & Engineering (소프트웨어)</td>
                   <td>Time Series, Reinforcement Learning</td>       
                       <td><i></i></td>
-                </tr>                  
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mira Lee
-                      </div>
-                  </td>
-                  <td> Electrical and Computer Engineering  </td>
-                  <td>Time series and security</td>
-                  <td><i>olmizr @ g dot skku dot edu</i></td>
-                </tr>                
+                </tr>                                 
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -461,6 +450,11 @@ permalink: /Members/
               </thead>
               <tbody>
                  <tr>
+                  <td>Girim Ban </a> (MS) 2024 </td>
+                  <td> Big Data, E-Commerce, Data Science </td>
+                  <td> Data Scientist, Toss </td>
+                 </tr>
+                  <tr>
                   <td><a href="https://tae-mo.github.io/" target = "_blank"> Taejune Kim </a> (MS) 2024 </td>
                   <td> Anomaly Detection, Computer Vision </td>
                   <td> Robotics Lab, Hyundai Motor Company </td>

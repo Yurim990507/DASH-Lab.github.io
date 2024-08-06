@@ -57,6 +57,103 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Satellite State Prediction and Maneuver Detection Analysis using NCDEs</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Kangjun Lee, and <i><b> Simon S. Woo*</b></i></small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://icpr2024.org/template.html">27th International Conference on Pattern Recognition (ICPR), Kolkata, India, December 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Satellite orbit propagation (SOP) are of prime importance in the prevention of collision and completion of the assigned task of the satellites. In the past, orbit prediction and propagation have relied on physics-based mathematical model. However, as the number of satellites and their data increases, it is crucial to explore the data-driven orbit propagation based on the advanced machine learning methods. In this work, we propose a novel deep learning-based framework to forecast future satellite orbit states. The proposed framework employs a model based on Neural Controlled Differential Equations (NCDEs) to train orbit prediction models, and our approach captures features from past satellite state values at both fixed and dynamic time intervals. The experimental results on Korea Aerospace Research Institute (KARI)’s KOMPSAT-3 and 5 datasets demonstrate that the proposed framework outperforms the other eight data-driven baseline forecasting models.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="kri.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer Learning</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Kishor Kumar Bhaumik, Minha Kim, Fahim Faisal Niloy, Amin Ahsan Ali, and <i><b> Simon S. Woo*</b></i></small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://icpr2024.org/template.html">27th International Conference on Pattern Recognition (ICPR), Kolkata, India, December 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Traffic forecasting in Intelligent Transportation Systems (ITS) is vital for intelligent traffic prediction. Yet, ITS often relies on data from traffic sensors or vehicle devices, where certain cities might not have all those smart devices or enabling infrastructures. Also, recent studies have employed meta-learning to generalize spatial-temporal traffic networks, utilizing data from multiple cities for effective traffic forecasting for data-scarce target cities. However, collecting data from multiple cities can be costly and time-consuming. To tackle this challenge, we introduce Single Source Meta-Transfer Learning (SSMT ) which relies only on a single source city for traffic prediction. Our method harnesses this transferred knowledge to enable few-shot traffic forecasting, particularly when the target city possesses limited data. Specifically, we use memory-augmented attention to store the heterogeneous spatial knowledge from the source city and selectively recall them for the data-scarce target city. We extend the idea of sinusoidal positional encoding to establish meta-learning tasks by leveraging diverse temporal traffic patterns from the source city. Moreover, to capture a more generalized representation of the positions we introduced a meta-positional encoding that learns the
+most optimal representation of the temporal pattern across all the tasks. We experiment on five real-world benchmark datasets to demonstrate that our method outperforms several existing methods in time series traffic prediction.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="ssmt.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>MIXAD: Memory-Induced Explainable Time Series Anomaly Detection</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Minha Kim, Kishor Kumar Bhaumik, Amin Ahsan Ali, and <i><b> Simon S. Woo*</b></i></small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://icpr2024.org/template.html">27th International Conference on Pattern Recognition (ICPR), Kolkata, India, December 2024</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>BK Computer Science IF = 1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>For modern industrial applications, accurately detecting and diagnosing anomalies in multivariate time series data is essential. Despite this need, most state-of-the-art methods often prioritize detection performance over model interpretability. Addressing this gap, we introduce MIXAD (Memory-Induced Explainable Time Series Anomaly Detection), a model designed for interpretable anomaly detection. MIXAD leverages a memory network alongside spatiotemporal processing units to understand the intricate dynamics and topological structures inherent in sensor relationships. We also introduce a novel anomaly scoring method that detects significant shifts in memory activation patterns during anomalies. Our approach not only ensures decent detection performance but also outperforms state-of-the-art baselines by 34.30% and 34.51% in interpretability metrics.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="mixad.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
+ <hr>
+ <div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>IDENTIFY: Integral Radial and Spatial Fourier Analysis for AI-Generated Image Authentication</b></a>
                     </tr>
                 </thead>

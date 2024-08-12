@@ -96,13 +96,13 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                        <img  loading="lazy" src="/img/inzi.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp; Inzamamul Alam
                       </div>
                   </td>
-                  <td>CSE</td>
-                  <td>Deepfake</td>
-                  <td><i></i></td>
+                  <td>Computer Science and Engineering</td>
+                  <td>Multi-modal, Image Manupulation, Deepfake Detection, Representation learning</td>
+                  <td>inzi15@g.skku.edu</td>
                 </tr>
               </tbody>
             </table>

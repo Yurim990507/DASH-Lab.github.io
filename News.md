@@ -391,9 +391,9 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> 
+August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> <br>
 
-July 2024. Three full papers and one demo paper are accepted at <b> CIKM 2024.(BK IF=3) </b><br>
+July 2024. Three full papers <b>(BK IF=3)</b> and one demo paper <b>(BK IF=1)</b> are accepted at <b> CIKM 2024. </b><br>
 
 July 2024. One paper is accepted at <b> ECCV 2024. </b><br>
 

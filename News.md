@@ -25,6 +25,30 @@ permalink: /News/
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/ijcai-3.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_8.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/ijcai-4.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_8.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/ijcai-2.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_8.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/ijcai-1.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_8.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ACM2024_8.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ACM2024_8.jpg" />
 			    </a>
@@ -367,8 +391,9 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> 
 
-July 2024. Three full papers and one demo paper are accepted at <b> CIKM 2024. </b><br>
+July 2024. Three full papers and one demo paper are accepted at <b> CIKM 2024.(BK IF=3) </b><br>
 
 July 2024. One paper is accepted at <b> ECCV 2024. </b><br>
 

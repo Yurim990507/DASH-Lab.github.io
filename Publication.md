@@ -52,6 +52,38 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 <hr>
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>A real-world pharmacovigilance study on cardiovascular adverse events of tisagenlecleucel using machine learning approach</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Juhong Jung,  Ju Hwan Kim, Ji-Hwan Bae, <i><b> Simon S. Woo* </b></i>,  Hyesung Lee, and Ju-Young Shin</small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://icpr2024.org/template.html">Nature Publication</a></b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Scie Q1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Chimeric antigen receptor T-cell (CAR-T) therapies are a paradigm-shifting therapeutic in patients with hematological malignancies. However, some concerns remain that they may cause serious cardiovascular adverse events (AEs), for which data are scarce. In this study, gradient boosting machine algorithm-based model was fitted to identify safety signals of serious cardiovascular AEs reported for tisagenlecleucel in the World Health Organization Vigibase up until February 2024. Input dataset, comprised of positive and negative controls of tisagenlecleucel based on its labeling information and literature search, was used to train the model. Then, we implemented the model to calculate the predicted probability of serious cardiovascular AEs defined by preferred terms included in the important medical event list from European Medicine Agency. There were 467 distinct AEs from 3,280 safety cases reports for tisagenlecleucel, of which 363 (77.7%) were classified as positive controls, 66 (14.2%) as negative controls, and 37 (7.9%) as unknown AEs. The prediction model had area under the receiver operating characteristic curve of 0.76 in the test dataset application. Of the unknown AEs, six cardiovascular AEs were predicted as the safety signals: bradycardia (predicted probability 0.99), pleural effusion (0.98), pulseless electrical activity (0.89), cardiotoxicity (0.83), cardio-respiratory arrest (0.69), and acute myocardial infarction (0.58). Our findings underscore vigilant monitoring of acute cardiotoxicities with tisagenlecleucel therapy.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="nature-2024.webp"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
+ <hr>
  <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

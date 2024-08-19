@@ -62,7 +62,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Zeliang Xu,  Dong In Kim, Fellow, IEEE, and <i><b> Simon S. Woo* </b></i></small></p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Zeliang Xu,  Dong In Kim, and <i><b> Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 15th International Conference on Information and Communication Technology Convergence (ICTC 2024)</b> </small> </p>
@@ -100,11 +100,11 @@ in cloud-edge systems.
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Juhong Jung,  Ju Hwan Kim, Ji-Hwan Bae, <i><b> Simon S. Woo* </b></i>,  Hyesung Lee, and Ju-Young Shin</small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Nature Publication</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Scientific Reports, June 2024</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Scie Q1 </font>
+                               <font color='blue'>SCIE </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

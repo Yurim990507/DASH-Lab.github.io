@@ -57,6 +57,41 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Adaptive Clustering and Step-Size Optimization in Collaborative Distributed Diffusion-Based AIGC: Balancing Performance and Resource Utilization</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Zeliang Xu,  Dong In Kim, Fellow, IEEE, and <i><b> Simon S. Woo* </b></i></small></p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 15th International Conference on Information and Communication Technology Convergence (ICTC 2024)</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'> </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>This paper proposes a novel cloud-edge collaborative distributed diffusion model for AI-generated content (AIGC) such as image generation, which integrates adaptive clustering techniques with dynamic step-size optimization. The proposed model addresses the challenges of heterogeneous edge devices in real-world deployments. Experimental results demonstrate significant improvements in performance and efficiency with
+a 38.8% reduction in average generation time and a 15.6% increase in image quality (evaluate via CLIP score). The system shows enhanced resource utilization, improving cloud and edge utilization by 16.1% and 36.6%, respectively. This research contributes to the advancement of collaborative distributed diffusion model, offering a scalable and adaptive framework for efficient
+AIGC services in dynamic environments along with potential applications extending to other computationally intensive tasks
+in cloud-edge systems.
+ </small> </p>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+            <img  loading="lazy" src="ICTC 2024.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+        </div> 
+    </div>		
+ <hr>
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>A real-world pharmacovigilance study on cardiovascular adverse events of tisagenlecleucel using machine learning approach</b></a>
                     </tr>
                 </thead>
@@ -65,7 +100,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Juhong Jung,  Ju Hwan Kim, Ji-Hwan Bae, <i><b> Simon S. Woo* </b></i>,  Hyesung Lee, and Ju-Young Shin</small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://icpr2024.org/template.html">Nature Publication</a></b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Nature Publication</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

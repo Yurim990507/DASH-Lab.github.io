@@ -24,9 +24,10 @@ permalink: /News/
 <div  class="row center">
 	<!-- Flickity HTML init --> 
 	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
+	<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-1.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/minha-1.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="300" height="400" style="border-radius: 8px;" src="/img/minha-1.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024) </p>
 			</div>
@@ -44,13 +45,13 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-5.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ijcai-5.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-5.jpg" />
 			    </a>
 			    <p>IJCAI Web Chair Certificate(South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-3.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
@@ -68,7 +69,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-1.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>

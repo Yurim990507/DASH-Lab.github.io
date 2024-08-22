@@ -33,7 +33,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/minha-2.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="330" style="border-radius: 8px;" src="/img/minha-2.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024)</p>
 			</div>

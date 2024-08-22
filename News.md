@@ -51,7 +51,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-3.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="380" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>

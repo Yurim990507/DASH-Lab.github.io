@@ -40,10 +40,14 @@ permalink: /Projects/
         </div>
 
 <div class="section">
-        ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    
-
+        
 </div>
 
+<div class="section">
+    <h4> <b>AI를 활용한 인물 복원기술 </b></h4>
+◼  <a style="font-size:20px" href="../Heroface_restoration/" target="_blank">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    
+
+    
 <div class="section">
     <h5>Time Series Data</h5>
         ◼  (항공우주연구원) AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구 <br>
@@ -58,38 +62,7 @@ permalink: /Projects/
 
 
 
-<!--
-<div class="section">
-    <h5>Deepfake Detection and Generation reserch (딥페이크 탐지 및 생성 연구) 
-        ◼  Unified Deepfake Detection Methods <br>
-        ◼  Deepfake Generation <br>
-        ◼  딥페이크관련 정책 및 대응방안 연구 <br>
-        ◼  연구성과물: <br>
-    
-    
-</div>
 
-
-<div class="section">
-    <h5> 인공지능 활용 위성영상 자동탐지 기술개발 추진방안 연구 </h5> 
-        ◼  우주개발기반조성 및 성과확산사업 <br>
-        ◼  Object Detection and Classification Research <br>
-        ◼  연구성과물: <br>
-</div>
-
-<div class="section">
-    <h5> AI 기반 위성상태데이터 고장탐지 구현 및 검증방안 연구 [ML/ANOMALY/DATA]</h5> 
-        ◼  Multivariate Anomaly Detection Research <br>
-        ◼  Ground big data system design <br>
-        ◼  연구성과물: <br>
-</div>
-
-<div class="section">
-    <h5> Cyber-Physical Systems (CPS) Anomaly Detection</h5> 
-        ◼  Multivariate Anomaly Detection Research <br>
-        ◼  연구성과물: <br>
-</div>
--->
 
 
 

@@ -15,17 +15,14 @@ permalink: /Projects/
       <span style="font-size:20px"> 2. (한국연구재단 개인기초연구(과기정통부): 2020-2022, 완료)  인공지능 기반의 딥페이크(Deep Fake) 멀티미디어 탐지 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
       <span style="font-size:20px"> 2. (경찰청: 2020, 완료)  딥페이크 기술을 활용한 온라인 불법행위 대응방안 연구용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 3. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> 
+      <span style="font-size:20px"> 4. (호주 CSIRO Data61: 2022-2024) Deepfake Dataset and Detection Research (연구책임자) </span> 
+            
         <br>
 
+</div>
 
-
+<div class="section">
         ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    
-
-
-        ◼  (IITP)  Stable Diffusion 생성 기법 연구   <br>    
-
-
-        ◼  (호주 CSIRO Data61) Deepfake Research   <br>    
 
 </div>
 

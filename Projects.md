@@ -16,8 +16,9 @@ permalink: /Projects/
       <span style="font-size:20px"> 3. (경찰청: 2020, 완료)  딥페이크 기술을 활용한 온라인 불법행위 대응방안 연구용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 4. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 5. (삼성SDS: 2022, 완료) 기술이전. 딥페이크 탐지 및 칩페이크 탐지 모델 연구 및 고도화 (연구책임자) </span> <br>
-      <span style="font-size:20px"> 6. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자) </b></span> 
-</div>
+      <span style="font-size:20px"> 6. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자)</span> 
+        </b>
+        </div>
 
 <div class="section">
         ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    

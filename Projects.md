@@ -13,7 +13,7 @@ permalink: /Projects/
         ◼  <span style="font-size:20px"> (IITP) Deepfake Detection and Generation </span> <br>
             <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
     
-        ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> <br>    
+        ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    
 
 
         ◼  (IITP)  Stable Diffusion 생성 기법 연구   <br>    

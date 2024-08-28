@@ -10,7 +10,7 @@ permalink: /Projects/
 
 <div class="section">
     <h5>Computer Vision</h5>
-        ◼  <span style="font-size:20px"> 1. (과기정통부/IITP)  악의적 변조 콘텐츠 대응을 위한 딥페이크 탐지 고도화, 생성억제, 유포 방지 플랫폼 개발 </span> <br>
+        ◼  <span style="font-size:20px"> 1. (과기정통부/IITP: 2023-2025)  악의적 변조 콘텐츠 대응을 위한 딥페이크 탐지 고도화, 생성억제, 유포 방지 플랫폼 개발 (연구책임자) </span> <br>
             <center><img src="/img/IU2.JPG" alt="" width="1280" /></center>
     
         ◼  <a style="font-size:20px" href="../Heroface_restoration/">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    

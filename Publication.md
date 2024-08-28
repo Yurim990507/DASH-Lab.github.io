@@ -222,7 +222,7 @@ most optimal representation of the temporal pattern across all the tasks. We exp
             <table>
                 <thead>
                     <tr>
-                        <a><b>IDENTIFY: Integral Radial and Spatial Fourier Analysis for AI-Generated Image Authentication</b></a>
+                        <a><b>UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints</b></a>
                     </tr>
                 </thead>
                 <tbody>

@@ -36,8 +36,8 @@ permalink: /Projects/
       
 <span style="font-size:20px"> 6. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자)</span> 
 <br>
-      </b>
-        </div>
+</b>
+</div>
 
 <div class="section">
         

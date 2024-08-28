@@ -14,7 +14,7 @@ permalink: /Projects/
       <span style="font-size:20px"> 2. (한국연구재단 우수신진연구: 2023-2027  진행중)  인공지능 기반의 딥페이크(Deep Fake) 멀티미디어 탐지 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
       <span style="font-size:20px"> 2. (한국연구재단 개인기초연구(과기정통부): 2020-2022 완료)  인공지능 기반의 딥페이크(Deep Fake) 멀티미디어 탐지 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
       <span style="font-size:20px"> 2. (경찰청: 2020 완료)  딥페이크 기술을 활용한 온라인 불법행위 대응방안 연구용역 (연구책임자) </span> <br>
-      <span style="font-size:20px"> 3. (행안부/국립과학수사연구원: 2020 완)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> 
+      <span style="font-size:20px"> 3. (행안부/국립과학수사연구원: 2020 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> 
         <br>
 
 

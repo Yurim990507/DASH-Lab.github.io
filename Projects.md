@@ -11,7 +11,6 @@ permalink: /Projects/
 <div class="section">
     <h5>Computer Vision (Deepfake 딥페이크 탐지 및 생성 억제)</h5>
         <span style="font-size:20px"> <b>1. (과기정통부/IITP: 2023-2025, 진행중)  악의적 변조 콘텐츠 대응을 위한 딥페이크 탐지 고도화, 생성억제, 유포 방지 플랫폼 개발 (연구책임자) </span>  <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
-      <!--<span style="font-size:20px"> 2. (한국연구재단 우수신진연구: 2024-2028,  진행중)  AI기법으로 고도화된 유해 멀티미디어 콘텐츠 탐지 및 삭제 학습 기법 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>--!>
       <span style="font-size:20px"> 2. (한국연구재단 개인기초연구(과기정통부): 2020-2022, 완료)  인공지능 기반의 딥페이크(Deep Fake) 멀티미디어 탐지 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
       <span style="font-size:20px"> 2. (경찰청: 2020, 완료)  딥페이크 기술을 활용한 온라인 불법행위 대응방안 연구용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 3. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> <br>

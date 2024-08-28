@@ -15,8 +15,8 @@ permalink: /Projects/
       <span style="font-size:20px"> 2. (한국연구재단 개인기초연구(과기정통부): 2020-2022, 완료)  인공지능 기반의 딥페이크(Deep Fake) 멀티미디어 탐지 연구 (연구책임자) </span> <center><img src="/img/IU2.JPG" alt="" width="1280" /></center> <br>
       <span style="font-size:20px"> 3. (경찰청: 2020, 완료)  딥페이크 기술을 활용한 온라인 불법행위 대응방안 연구용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 4. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> <br>
-      <span style="font-size:20px"> 5. (삼성SDS: 2020, 완료)  딥페이크 탐지기법 기술이전 (연구책임자) </span> <br>
-      <span style="font-size:20px"> 5. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자) </span> 
+      <span style="font-size:20px"> 5. (삼성SDS: 2022, 완료) 기술이전. 딥페이크 탐지 및 칩페이크 탐지 모델 연구 및 고도화 (연구책임자) </span> <br>
+      <span style="font-size:20px"> 6. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자) </span> 
 </div>
 
 <div class="section">

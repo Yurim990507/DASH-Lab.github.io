@@ -21,6 +21,7 @@ permalink: /Projects/
       <span style="font-size:20px"> 4. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 5. (삼성SDS: 2022, 완료) 기술이전. 딥페이크 탐지 및 칩페이크 탐지 모델 연구 및 고도화 (연구책임자) </span> <br>
       <span style="font-size:20px"> 6. (호주 CSIRO Data61: 2022-현재, No Funding) Deepfake Dataset and Detection Research (연구책임자)</span> 
+      </b>
         </div>
 
 <div class="section">

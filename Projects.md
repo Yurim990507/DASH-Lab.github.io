@@ -17,7 +17,7 @@ permalink: /Projects/
       <span style="font-size:20px"> 3. (행안부/국립과학수사연구원: 2020, 완료)  지능형 동영상 합성(딥페이크) 검출을 위한 연구 용역 (연구책임자) </span> <br>
       <span style="font-size:20px"> 4. (호주 CSIRO Data61: 2022-2024) Deepfake Dataset and Detection Research (연구책임자) </span> 
             
-        <br>
+        
 
 </div>
 

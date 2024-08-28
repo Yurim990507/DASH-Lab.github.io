@@ -46,7 +46,7 @@ permalink: /Projects/
 <div class="section">
     <h4> <b>AI를 활용한 인물 복원기술 </b></h4>
 ◼  <a style="font-size:20px" href="../Heroface_restoration/" target="_blank">(보훈부-자생의료재단) AI 기술을 활용한 6.25 전쟁영웅 사진 복원 사업  </a> (<a href="../Heroface_restoration/"  target="_blank">Click</a>)<br>    
-<center><img src="/img/IU2.JPG" alt="" width="800" /></center> 
+<center><img src="/img/pat.png" alt="" width="800" /></center> 
     
 <div class="section">
     <h5>Time Series Data</h5>

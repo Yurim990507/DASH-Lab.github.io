@@ -5,7 +5,19 @@ permalink: /Dataset_kor/
 ---
 <p><a href="../Dataset/">Eng</a></p>
 
-<h1 class="page-title">RWDF-24 Dataset</h1>
+
+<h1 class="page-title">COCO spliced datasets</h1>
+  <p> 우리는 <a href="https://cocodataset.org/#home">COCO dataset</a> 을 활용하여 조작된 데이터셋을 생성했습니다. 데이터셋에는 제공된 레이블(마스크)이 포함되어 있으므로, 처음에는 마스크를 적용하여 원본 이미지에서 원하는 부분을 식별했습니다. 그런 다음 이러한 특정 영역을 사용하여 다른 이미지를 조작했습니다. 각 이미지는 약 8~10개의 객체로 변경되었으며, 그 결과 약 90만 개의 조작된 이미지가 생성되었습니다.<p><br>
+  
+ <p align=center><img  loading="lazy" border=0  src="/Publications/Screen Shot 2023-12-11 at 2.15.08 PM.png" width="780"></p> 
+
+<h1 class="page-title">Satellite Forgery Image Dataset</h1>
+  <p> 우리는 <a href="http://deepglobe.org/">DeepGlop dataset</a> 을 사용하여 <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf">Deep Belief networks</a>. 에서 제안된 방법을 따라 위성 조작 이미지를 생성했습니다. 해상도 1000×1000 픽셀의 293개의 정사보정된(orthorectified) 이미지를 수집했습니다. 이 중 100개의 이미지를 사용하여 조작된 이미지를 생성했습니다. 19개의 다른 객체를 100개의 이미지에 합성하여 총 500개의 조작된 이미지와 해당 조작의 정답 마스크가 생성되었습니다. 19개의 객체에는 로켓, 비행기, 드론 이미지가 포함됩니다. 아래 그림은 조작된 데이터셋의 예시를 보여줍니다.<p><br>
+  
+ <p align=center><img  loading="lazy" border=0  src="/Publications/satellite_forgery.png" width="780"></p> 
+
+
+<h1 class="page-title">RWDF-23 Dataset</h1>
   <p>RWDF-23 데이터셋은 21개국에서 4가지 언어를 대상으로 하는 2,000개의 딥페이크 비디오로부터 수집되었고, 수집된 플랫폼은 Reddit, YouTube, TikTok 그리고 Bilibili입니다. 저희는 기존 연구를 넘어 데이터셋의 스코프를 확장함으로써, 광범위한 real-world 딥페이크 콘텐츠를 캡처하였고, 이는 끊임없이 진화하는 온라인 플랫폼 환경을 반영합니다. 또한, creator, manipulation strategy, purpose, real-world content production method 등 다양한 측면을 포괄하는 종합적인 분석을 진행하였습니다. 이를 통해, 다양한 맥락에서 딥페이크의 뉘앙스와 특성에 대한 통찰력을 얻을 수 있을 것입니다. 마지막으로, 비디오 콘텐츠 외에도 시청자의 댓글과 상호작용을 수집하여, 딥페이크 콘텐츠에 대한 사용자들의 참여를 탐색할 수 있게 하였습니다.  <p><br>
   
  <p align=center><img border=0  src="/Publications/rwdf23_cikm23.png" width="780"></p> 

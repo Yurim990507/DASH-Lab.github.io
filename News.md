@@ -39,7 +39,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-3.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="430" style="border-radius: 8px;" src="/img/minha-3.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="550" height="430" style="border-radius: 8px;" src="/img/minha-3.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024)</p>
 			</div>
@@ -57,7 +57,7 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-4.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="440" style="border-radius: 8px;" src="/img/ijcai-4.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="435" style="border-radius: 8px;" src="/img/ijcai-4.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
@@ -69,25 +69,25 @@ permalink: /News/
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/skku-lab2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/skku-lab2.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="550" height="435" style="border-radius: 8px;" src="/img/skku-lab2.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-1.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="400" height="435" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/web-demo.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/web-demo.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="600" height="435" style="border-radius: 8px;" src="/img/web-demo.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/skku-lab1.png" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/skku-lab1.png" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="380" height="435" style="border-radius: 8px;" src="/img/skku-lab1.png" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>

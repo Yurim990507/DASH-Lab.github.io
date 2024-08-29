@@ -11,7 +11,7 @@ permalink: /Projects/
 <div class="section">
     <h4> <b>Computer Vision (Deepfake 딥페이크 탐지 및 생성 억제)</b></h4>
    <p> - 본 <b>DASH Lab</b> 연구실에서는 <b>2017</b>년부터 자체적으로 딥페이크연구를 시작하여, <b>NeurIPS, AAAI, ICML, WWW, CIKM</b>등 최고의 학술대회에 연구결과를 발표하고 있습니다. </p>
-   <p> - 2021년 세계 최초로 멀티모달 딥페이크 벤치마크 데이터 셋을 <font color="blue"><b>FakeAVCeleb</b></font> (<a href="https://sites.google.com/view/fakeavcelebdash-lab/"  target="_blank">Click</a>)데이터 셋을 제작하여 현재 50개국이상 1,000여명(<a href="https://sites.google.com/view/fakeavcelebdash-lab/dataset-request-usage?authuser=0"  target="_blank">Click</a>)의 국제 연구자들에 연구용으로 배포하였습니다. 
+   <p> - 2021년 세계 최초로 멀티모달 딥페이크 벤치마크 데이터 셋인 <font color="blue"><b>FakeAVCeleb</b></font> (<a href="https://sites.google.com/view/fakeavcelebdash-lab/"  target="_blank">Click</a>)데이터 셋을 제작하여 현재 50개국이상 1,000여명(<a href="https://sites.google.com/view/fakeavcelebdash-lab/dataset-request-usage?authuser=0"  target="_blank">Click</a>)의 국제 연구자들에 연구용으로 배포하였습니다. 
    <p>- 현재 딥페이크탐지 관련 세계적으로 연구성과를 인정받고 있습니다. 관련 연구 성과는 여기서 찾아보실 수 있습니다. (<a href="https://github.com/DASH-Lab/deepfakeResearch"  target="_blank">Click</a>)</p>
 <p>또한, 2021년부터 딥페이크 관련 국제 워크숍(WDC) Workshop on the security implications of Deepfakes and Cheapfakes(<a href="https://sites.google.com/view/wdc-2024/"  target="_blank">Click</a>)을 주관 및 계최하여, 딥페이크 연구 관련 성과를 해외연구자들과 같이 공유, 토의, 논의하여 딥페이크를 근절할 수 있도록 국제적인 협력과 노력중입니다. </p>
 

@@ -7,12 +7,12 @@ permalink: /Dataset_kor/
 
 
 <h1 class="page-title">COCO spliced datasets</h1>
-  <p> 우리는 <a href="https://cocodataset.org/#home">COCO dataset</a> 을 활용하여 조작된 데이터셋을 생성했습니다. 데이터셋에는 제공된 레이블(마스크)이 포함되어 있으므로, 처음에는 마스크를 적용하여 원본 이미지에서 원하는 부분을 식별했습니다. 그런 다음 이러한 특정 영역을 사용하여 다른 이미지를 조작했습니다. 각 이미지는 약 8~10개의 객체로 변경되었으며, 그 결과 약 90만 개의 조작된 이미지가 생성되었습니다.<p><br>
+  <p> 우리는 <a href="https://cocodataset.org/#home">COCO dataset</a>데이터셋을 활용하여 조작된 데이터셋을 생성했습니다. 이 데이터셋에서 제공된 레이블 (정답 마스크)이 포함되어 있어, 먼저 마스크를 적용해 원본 이미지에서 원하는 부분을 식별했습니다. 그런 다음 이 특정 영역을 다른 이미지에 적용하여 조작했습니다. 각 이미지에는 약 8~10개의 조작용 객체가 사용되었으며, 그 결과 약 90만 개의 조작된 이미지가 생성되었습니다.<p><br>
   
  <p align=center><img  loading="lazy" border=0  src="/Publications/Screen Shot 2023-12-11 at 2.15.08 PM.png" width="780"></p> 
 
 <h1 class="page-title">Satellite Forgery Image Dataset</h1>
-  <p> 우리는 <a href="http://deepglobe.org/">DeepGlop dataset</a> 을 사용하여 <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf">Deep Belief networks</a>. 에서 제안된 방법을 따라 위성 조작 이미지를 생성했습니다. 해상도 1000×1000 픽셀의 293개의 정사보정된(orthorectified) 이미지를 수집했습니다. 이 중 100개의 이미지를 사용하여 조작된 이미지를 생성했습니다. 19개의 다른 객체를 100개의 이미지에 합성하여 총 500개의 조작된 이미지와 해당 조작의 정답 마스크가 생성되었습니다. 19개의 객체에는 로켓, 비행기, 드론 이미지가 포함됩니다. 아래 그림은 조작된 데이터셋의 예시를 보여줍니다.<p><br>
+  <p> 우리는 <a href="http://deepglobe.org/">DeepGlop dataset</a> 데이터셋과 <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Horvath_Manipulation_Detection_in_Satellite_Images_Using_Deep_Belief_Networks_CVPRW_2020_paper.pdf">Deep Belief networks</a>. 네트워크에서 제안된 방법을 사용하여 위성 조작 이미지를 생성했습니다. 해상도가 1000×1000인 293개의 정사보정(orthorectified) 이미지를 수집하였으며, 이 중 100개의 이미지를 사용해 조작된 이미지를 만들었습니다. 19개의 다양한 객체를 100개의 이미지에 합성하여 총 500개의 조작된 이미지와 정답 마스크를 생성했습니다. 19개의 객체에는 로켓, 비행기, 드론 이미지 등이 포함되어 있습니다. 아래 그림은 조작된 데이터셋의 예시를 보여줍니다.<p><br>
   
  <p align=center><img  loading="lazy" border=0  src="/Publications/satellite_forgery.png" width="780"></p> 
 

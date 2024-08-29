@@ -27,49 +27,67 @@ permalink: /News/
 	<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-1.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="355" height="400" style="border-radius: 8px;" src="/img/minha-1.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="430" style="border-radius: 8px;" src="/img/minha-1.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024) </p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="330" style="border-radius: 8px;" src="/img/minha-2.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="750" height="430" style="border-radius: 8px;" src="/img/minha-2.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/minha-3.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/minha-3.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="430" style="border-radius: 8px;" src="/img/minha-3.jpg" />
 			    </a>
 			    <p>Minha's Graduation (Aug, 2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-5.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-5.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="430" style="border-radius: 8px;" src="/img/ijcai-5.jpg" />
 			    </a>
 			    <p>IJCAI Web Chair Certificate(South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-3.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="400" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="435" style="border-radius: 8px;" src="/img/ijcai-3.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-4.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ijcai-4.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="450" height="440" style="border-radius: 8px;" src="/img/ijcai-4.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/ijcai-2.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="500" height="435" style="border-radius: 8px;" src="/img/ijcai-2.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/skku-lab2.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/skku-lab2.jpg" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/ijcai-1.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="380" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
+			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/ijcai-1.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/web-demo.jpg" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="440" height="435" style="border-radius: 8px;" src="/img/web-demo.jpg" />
+			    </a>
+			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
+			</div>
+			<div class="gallery-cell" style="margin: auto; padding:0">
+			    <a href="/img/skku-lab1.png" target="_blank">
+			        <img loading="lazy" class="carousel-cell" border="0" width="430" height="330" style="border-radius: 8px;" src="/img/skku-lab1.png" />
 			    </a>
 			    <p>SKKU@IJCAI (South Korea, Jeju, August,2024)</p>
 			</div>

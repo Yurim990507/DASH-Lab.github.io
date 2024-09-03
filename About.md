@@ -27,6 +27,7 @@ permalink: /About/
 
     <h5>About me</h5> 
         ◼ SKKU Fellowship Professor, 2022 (<a href="https://cs.skku.edu/ko/edures/education/view/7054">News</a>)<br>
+        ◼ Early tenure is granted in 2024.
         ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
         ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
         ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
@@ -40,7 +41,7 @@ permalink: /About/
 <div class="divider"></div>
 <div class="section">
     <h5>Work Experience</h5> 
-        ◼ Currently, Associate Professor at SKKU affliated with, 2019- <br> 
+        ◼ Currently, Tenured Associate Professor at SKKU affliated with, 2019- <br> 
         - Applied Data Science (데이터사이언스) <br>
         - <a href="https://swb.skku.edu/security2020/index.do" target="_blank"> CSE (소프트웨어/융합보안대학원) </a> <br> 
         - <a href="https://skb.skku.edu/skkuaai/index.do" target="_blank"> Applied AI Dept.(인공지능융합학과)  </a> <br>

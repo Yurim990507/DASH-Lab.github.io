@@ -108,11 +108,11 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/shahid.jpeg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          <a href="https://scholar.google.com/citations?user=aOz3PaoAAAAJ&hl=en">Muhammad Shahid Muneer</a>
+                          <a href="https://scholar.google.com/citations?user=aOz3PaoAAAAJ&hl=en">M. Shahid Muneer</a>
                       </div>
                   </td>
                   <td>Computer Science and Engineering</td>
-                  <td>Multi-modal DeepFake detection, Vision Language Models (VLMs), Large Language Models (LLMs)  </td>
+                  <td>DeepFake detection, Vision Language Models (VLMs), Large Language Models (LLMs)  </td>
                   <td>shahidmuneer@g.skku.edu</td>
                 </tr>
               </tbody>

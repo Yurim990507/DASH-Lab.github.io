@@ -107,7 +107,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/shahid.jpeg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                        <img  loading="lazy" src="/img/shahid.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
                           <a href="https://scholar.google.com/citations?user=aOz3PaoAAAAJ&hl=en">M. Shahid Muneer</a>
                       </div>
                   </td>

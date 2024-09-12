@@ -108,7 +108,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/shahid.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp; Muhammad Shahid Muneer
+                          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=aOz3PaoAAAAJ&hl=en">Muhammad Shahid Muneer</a>
                       </div>
                   </td>
                   <td>Computer Science and Engineering</td>

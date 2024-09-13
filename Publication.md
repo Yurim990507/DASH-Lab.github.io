@@ -222,7 +222,7 @@ most optimal representation of the temporal pattern across all the tasks. We exp
             <table>
                 <thead>
                     <tr>
-                        <a><b>UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints</b></a>
+                        <a href="http://arxiv.org/abs/2409.07913"><b>UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints</b></a>
                     </tr>
                 </thead>
                 <tbody>

@@ -104,6 +104,17 @@ permalink: /Members/
                   <td>Multi-modal, Image Manupulation, Deepfake Detection, Representation learning</td>
                   <td>inzi15@g.skku.edu</td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/shahid.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          <a href="https://scholar.google.com/citations?user=aOz3PaoAAAAJ&hl=en">M. Shahid Muneer</a>
+                      </div>
+                  </td>
+                  <td>Computer Science and Engineering</td>
+                  <td>DeepFake detection, Vision Language Models (VLMs), Large Language Models (LLMs)  </td>
+                  <td>shahidmuneer@g.skku.edu</td>
+                </tr>
               </tbody>
             </table>
           </div>

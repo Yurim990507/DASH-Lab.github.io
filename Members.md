@@ -126,6 +126,17 @@ permalink: /Members/
                   <td>Large Language Models, Industrial AI Applications  </td>
                   <td>sh88park @ g dot skku dot edu </td>
                 </tr>
+                  <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/Khoa Tran.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Tran Van Khoa
+                      </div>
+                  </td>
+                  <td>Computer Science and Engineering</td>
+                  <td>Machine Learning, AI Privacy, Representation Learning   </td>
+                  <td>khoa.tr @ g dot skku dot edu </td>
+                </tr>
               </tbody>
             </table>
           </div>

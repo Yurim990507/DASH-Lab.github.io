@@ -102,7 +102,7 @@ permalink: /Members/
                   </td>
                   <td>Computer Science and Engineering</td>
                   <td>Multi-modal, Image Manupulation, Deepfake Detection, Representation learning</td>
-                  <td>inzi15@g.skku.edu</td>
+                  <td>inzi15 @ g dot skku dot edu</td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -113,7 +113,18 @@ permalink: /Members/
                   </td>
                   <td>Computer Science and Engineering</td>
                   <td>DeepFake detection, Vision Language Models (VLMs), Large Language Models (LLMs)  </td>
-                  <td>shahidmuneer@g.skku.edu</td>
+                  <td>shahidmuneer @ g dot skku dot edu</td>
+                </tr>
+                  <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/ParkSangHyeok.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;SangHyeok Park
+                      </div>
+                  </td>
+                  <td>Semiconductor Display Engineering</td>
+                  <td>Large Language Models, Industrial AI Applications  </td>
+                  <td>sh88park @ g dot skku dot edu </td>
                 </tr>
               </tbody>
             </table>
@@ -337,7 +348,18 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Anomaly Detection </td>    
                      <td><i>nyc0421 @ g dot skku dot edu</i></td>
-                </tr>      
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <img  loading="lazy" src="/img/SonJungWook.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Jungwook Shon 
+                      </div>
+                     </td>
+                  <td>Semiconductor and Display Engineering</td>
+                  <td>Time Series Anomaly Detection </td>    
+                     <td><i>jw.shon @ g dot skku dot edu</i></td>
+                </tr>  
               </tbody>
             </table>
           </div>

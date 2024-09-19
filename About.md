@@ -1,15 +1,34 @@
 ---
 layout: page
-title: About
-permalink: /About/
+title: Professor
+permalink: /Professor/
 ---
 
 <h1 class="page-title">Simon Woo</h1>
 
-![Simon Woo](./img/simonwoo.png)
+<!-- ![Simon Woo](./img/simonwoo.png) -->
 
 <div class="section">
-
+ <h5>About me</h5> 
+    <table>
+        <tr>
+            <td></td>
+            <td></td>
+            <td valign="top"><img src="/img/SimonWoo_new.jpg" alt="Simon Woo"/> </td>
+            <td></td>
+            <td valign="top">
+        ◼ SKKU Fellowship Professor, 2022 (<a href="https://cs.skku.edu/ko/edures/education/view/7054">News</a>)<br>
+        ◼ Early tenure is granted in 2024 <br>
+        ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
+        ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
+        ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
+        ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
+        ◼ Lynnwood High School, Lynnwood, WA, USA <br>
+        (Fluent in Korean and English)
+        </td>
+        </tr>
+    </table>
+<div class = divider></div>
 <h5>Education/Research Statements (Not Technical) </h5>
 
 <p> 1. I would like to train students to get out of their comfort zone, and challenge themselves to become better persons not necessarily technically, but also be mindful and open to differences 
@@ -23,20 +42,6 @@ permalink: /About/
 3. Last but not least, I strive to create the positive synergy and co-work between Korean and International students/scholars. And, I believe in that different people can help each other 
 <!-- (다름이 어려움일 수 도 있지만, 자신을 성장시킬 수 있는 기회가 되기도 합니다. 20년간 minority이민자로써의 생활을 통해 , 다양성과 상호존중에서 오는 긍정적인 파워를 경험하였고, diverse background가 학생들의 궁극적인 성장에 도움이 된다는 것을 보여주고 싶습니다).-->    
 </p>
-<div class="divider"></div>
-
-    <h5>About me</h5> 
-        ◼ SKKU Fellowship Professor, 2022 (<a href="https://cs.skku.edu/ko/edures/education/view/7054">News</a>)<br>
-        ◼ Early tenure is granted in 2024 <br>
-        ◼ Ph.D. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
-        ◼ M.S. Computer Science, University of Southern California (USC) , Los Angeles, CA, USA <br>
-        ◼ M.S. Electrical and Computer Engineering , University of California, San Diego (UCSD) , CA, USA <br>
-        ◼ B.S. Electrical Engineering, University of Washington (UW), Seattle, WA, USA <br>
-        ◼ Lynnwood High School, Lynnwood, WA, USA <br>
-        (Fluent in Korean and English)
-      
- 
-</div>
 
 <div class="divider"></div>
 <div class="section">

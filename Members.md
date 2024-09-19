@@ -5,7 +5,10 @@ permalink: /Members/
 ---
 <h1 class="page-title">{{ page.title | escape }}</h1>
 <div class="section">
-    <b>I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br> <i>— Simon S. Woo</i><br>
+    <div style="text-align: center; position: relative;">
+    <b style="display: inline-block;">I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br>
+     <i style="position: absolute; right:0;">— Simon S. Woo</i><br>
+    </div>
     <h5>Ph.D.</h5> 
     <div class="row">
           <div class="col s12">
@@ -161,18 +164,7 @@ permalink: /Members/
                     <th align="center">Contact</th>
                 </tr>
               </thead>
-              <tbody>                 
-                <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                          <img  loading="lazy" src="/img/dummy_female.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minha Kim
-                      </div>
-                     </td>
-                  <td>Dept of AI (인공지능학과)</td>
-                  <td>Time Series, Reinforcement Learning</td>       
-                      <td><i></i></td>
-                </tr>                                 
+              <tbody>                                           
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -330,12 +322,12 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          <img  loading="lazy" src="/img/chanhid.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;Park Chan
                       </div>
                      </td>
                   <td>Artificial Intelligence</td>
-                  <td>Multi-modal</td>    
+                  <td>Multi-modal, Deepfake Detection, Weakly Supervised Learning</td>    
                      <td><i>pchan1018 @ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
@@ -376,6 +368,53 @@ permalink: /Members/
           </div>
     </div>
 </div>
+<div class="section">
+    <h5>UnderGraduate Students</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table style="width: 100%">
+                <colgroup>
+                    <col span="1" style="width: 15%;">
+                    <col span="1" style="width: 30%;">
+                    <col span="1" style="width: 30%;">
+                    <col span="1" style="width: 25%;">
+                </colgroup>
+              <thead>
+                <tr>
+                    <th align="center">Name</th>
+                    <th align="center">Major</th>
+                    <th align="center">Research Interests</th>
+                    <th align="center">Contact</th>
+                </tr>
+              </thead>
+              <tbody>                                           
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/MoonBoHyun2.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moon BoHyun
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Computer Vision, Deepfakes, Video Representation Learning </td>
+                  <td><i>bhmoon98 @ g dot skku dot edu</i></td>
+                </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kang SeungJune
+                      </div>
+                  </td>
+                  <td> Arificial Intelligence </td>
+                  <td> Computer Vision, Video Anomaly, Deepfakes </td>
+                  <td><i>seungjune05 @ g dot skku dot edu</i></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+  </div>
 
 <div class="section">
     <h5>Master Thesis/Capstone Project Supervision</h5> 
@@ -493,6 +532,11 @@ permalink: /Members/
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td>Minha Kim (MS) 2024 </td>
+                  <td>Time Series, Reinforcement Learning</td>
+                  <td> TBU </td>
+                 </tr>
                  <tr>
                   <td>Girim Ban (MS) 2024 </td>
                   <td> Big Data, E-Commerce, Data Science </td>

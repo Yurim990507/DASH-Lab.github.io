@@ -27,7 +27,7 @@ permalink: /News/
 	<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/Tenure2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" border="0" width="550" height="430" style="border-radius: 8px;" src="/img/Tenure2.jpg" />
+			        <img loading="lazy" class="carousel-cell" style="" src="/img/Tenure2.jpg" />
 			    </a>
 			    <p>Professor Simon, Tenure Celebrations @ <strong>DASH Lab</strong> (Sept, 2024) </p>
 			</div>

@@ -56,8 +56,12 @@
             <div>
                 Made by Dash lab</a>
                 <span style="text-align: right; float: right">
-                Copyright © 2020 <a href="https://x.com/TheDASHLab" class="white-text text-lighten-3">DASH-lab</a>. Powered by <a target="_blank" href="http://jekyllrb.com/" class="orange-text text-lighten-3">Jekyll</a>
+                  Copyright © <span id="current-year"></span> <a href="https://x.com/TheDASHLab" class="white-text text-lighten-3">DASH-lab</a>. Powered by <a target="_blank" href="http://jekyllrb.com/" class="orange-text text-lighten-3">Jekyll</a>
                 </span>
+                <script>
+                  // Automatically updates the year
+                  document.getElementById('current-year').textContent = new Date().getFullYear();
+                </script>
             </div>
         </div>
     </div>

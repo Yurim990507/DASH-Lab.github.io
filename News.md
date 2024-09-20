@@ -23,7 +23,7 @@ permalink: /News/
 <br>
 <div  class="row center">
 	<!-- Flickity HTML init --> 
-	<div align="center"  class="flickity carousel" data-flickity='{ "autoPlay": true }'>
+	<div align="center" style="background: rgba(255, 255, 255, 0.315);padding:0; margin: auto; height: 620px; width: 800px; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
 	<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/Tenure2.jpg" target="_blank">

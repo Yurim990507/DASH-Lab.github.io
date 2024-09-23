@@ -89,6 +89,7 @@ permalink: /Publications/
     </div>
 
 
+<hr>
 
 
 
@@ -125,6 +126,7 @@ permalink: /Publications/
     </div>
 
 
+<hr>
 <!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

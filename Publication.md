@@ -69,7 +69,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq <i><b> Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b>  </small> BK IF=1</p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -107,7 +107,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Md Islam, Inzamamul Alam,  <i><b> Simon S. Woo </b></i>, Saeed Anwar, IK HUN LEE, Khan Muhammad</small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b> </small> BK IF=1</p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

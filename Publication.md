@@ -69,7 +69,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq <i><b> Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b>  </small> BK IF=1</p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b>  </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

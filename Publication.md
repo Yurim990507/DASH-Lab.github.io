@@ -69,7 +69,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq <i><b> Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 15th International Asian Conference on Computer Vision (ACCV 2024)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 17th International Asian Conference on Computer Vision (ACCV 2024)</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -84,13 +84,11 @@ permalink: /Publications/
             </table>
         </div>
         <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-            <img  loading="lazy" src="img/ACCV-2024-1.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            <img  loading="lazy" src="/img/ACCV-2024-1.png"  style="max-height: 275px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
         </div> 
     </div>
 
 
-    <h4 style="margin-top:40px"><b>2024</b></h4>
-<hr>
 <!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">

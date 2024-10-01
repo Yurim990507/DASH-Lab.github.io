@@ -458,6 +458,9 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+
+Sept 2024. Two full papers are accepted at <b> ACCV 2024 (BK IF=1) including 1 Oral paper! Congrats, All!</b> <br>
+	
 August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> <br>
 
 July 2024. Three full papers <b>(BK IF=3)</b> and one demo paper <b>(BK IF=1)</b> are accepted at <b> CIKM 2024. </b><br>

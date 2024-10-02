@@ -38,11 +38,16 @@
         document.querySelector("#popup2").style.opacity = '1';
         document.querySelector("#popup2").style.transform = 'scale(1)';
         document.querySelector("#popup2").style.left = 0;
+		
+        document.querySelector("#popup1").style.opacity = '1';
+        document.querySelector("#popup1").style.transform = 'scale(1)';
+        document.querySelector("#popup1").style.left = 0;
     }, 10);
 
     window.addEventListener("load", function(){
         setTimeout(function openSecondPopup(){
             document.querySelector("#popup2").style.display = "block";
+            document.querySelector("#popup1").style.display = "block";
         }, 1000);  // Delay before showing the second popup
     });
 
@@ -54,13 +59,8 @@
 </script>
 
 <script>
-    setTimeout(function() {
-        // Show only the second popup
-        document.querySelector("#popup1").style.opacity = '1';
-        document.querySelector("#popup1").style.transform = 'scale(1)';
-        document.querySelector("#popup1").style.right = 0;
-    }, 10);
 
+	
     window.addEventListener("load", function(){
         setTimeout(function openSecondPopup(){
             document.querySelector("#popup1").style.display = "block";

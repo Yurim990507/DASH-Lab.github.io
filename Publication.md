@@ -67,7 +67,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq <i><b> Simon S. Woo </b></i></small></p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq, and <i><b>Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024)</a></b>  </small> </p>
@@ -106,14 +106,14 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Md Islam, Inzamamul Alam,  <i><b> Simon S. Woo</b></i>, Saeed Anwar, IK HUN LEE, Khan Muhammad</small></p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Md Islam, Inzamamul Alam,  <i><b> Simon S. Woo</b></i>, Saeed Anwar, Ik Hun Lee, and Khan Muhammad</small></p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024)</a></b> </small></p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'> BK Computer Science IF = 1  </font></b> </small> </p>
+                               <font color='blue'> BK Computer Science IF = 1</font></b> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small>Abstract. Low-light image enhancement (LLIE) is essential for numerous computer vision tasks, including object detection, tracking, segmentation, and scene understanding. Despite substantial research on improving low-quality images captured in underexposed conditions, clear vision remains critical for autonomous vehicles, which often struggle with low-light scenarios, signifying the need for continuous research. However, LLIE models and LLIE-paired datasets are scarce, particularly for street scenes, limiting the development of robust LLIE methods. Despite using advanced transformers and/or diffusion-based models, current LLIE methods struggle in real-world low-light conditions and lack training on street-scene datasets, limiting their effectiveness for autonomous vehicles. To bridge these gaps, we introduce a new large-scale dataset “LoLI-Street” (Low-Light Images of Streets) with 33k paired low-light and well-exposed images from street scenes in developed cities, covering 19k object classes for object detection, including Person, Bicycle, Car, Bus, Motorcycle, and Traffic Light, etc. LoLI-Street dataset also features 1,000 real low-light test images, providing a benchmark for evaluating models under real-world conditions. Furthermore, we propose a transformer and diffusion-based LLIE model named “TriFuse”. Leveraging the LoLI-Street dataset, we train and evaluate our TriFuse and other SOTA models to benchmark our dataset. Comparing various models, the feasibility of our dataset for generalization is evident in testing across different mainstream datasets by significantly enhancing low-quality images and object detection for practical applications in autonomous driving and surveillance systems. The benchmark dataset and the evaluation code will be released to ensure reproducibility.</small> </p>

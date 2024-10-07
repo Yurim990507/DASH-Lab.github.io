@@ -459,6 +459,8 @@ permalink: /News/
 <div class="section">
 <div class="row">
 
+Oct.2024. ZDNET Korea on <b> "AI가 개인정보만 잊게 한다" …BBC가 '이 대학' 연구에 주목한 이유는</b>, 2024[<a href="https://zdnet.co.kr/view/?no=20241006155009&from=pc">media</a>] <br>
+
 Sept 2024. Two full papers are accepted at <b> ACCV 2024 (BK IF=1) including 1 Oral paper! Congrats, All!</b> <br>
 	
 August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> <br>

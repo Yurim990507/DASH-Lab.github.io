@@ -280,7 +280,7 @@ most optimal representation of the temporal pattern across all the tasks. We exp
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science IF = 1 </font>
+                               <font color='blue'>BK Computer Science IF = 1 (Oral) </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

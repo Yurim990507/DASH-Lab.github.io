@@ -175,7 +175,12 @@
 
     <main>
         <!-- HEADER SESSION -->
-<div class="section no-pad-bot" id="index-banner" style="width: 100%;background-image: linear-gradient(rgba(1, 3, 100,  0.8), rgba(1, 3, 100, 0.8)), url('../img/vision_2.png');">
+<div class="section no-pad-bot" id="index-banner" style="width: 100%;background-image: linear-gradient(rgba(1, 3, 100,  0.8), rgba(1, 3, 100, 0.8)), url('../img/coverPage.jpg');
+
+background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+">
 <div class="container" style="color:white">
 	<h1 class="header center Green" style="font-family:'Courier New';-webkit-text-stroke-width: 1px;text-stroke-width: 1px;">DASH Lab</h1>
 	<div class="row center">
@@ -186,6 +191,9 @@
 		<h5>News</h5>
 	<!-- Flickity HTML init -->
 	<div align="center" style="margin: auto; height: 120px; width: 95%; border-radius: 8px;" class="flickity carousel" data-flickity='{ "autoPlay": true }'>
+			<div class="gallery-cell">
+			<p><b>  Two full papers are accepted at ACCV 2024 (BK IF=1) </b></p>
+			</div>
 			<div class="gallery-cell">
 			<p><b>  Three full papers are accepted at ICPR 2024 (BK IF=1) </b></p>
 			</div>
@@ -287,9 +295,19 @@
 	<a id="detail" href="/Poster_dash/">
 		<button title="Details" style="position: absolute; top:0; right:36px; margin-bottom: 2px; background-color: transparent;   color: #070707;background: #fafaface;	width: 36px;height: 20px;  border: none;   outline: none;  cursor: pointer;" onmouseover="this.style.background='#dadadace'" onmouseout="this.style.background='#fafaface'"><i style="font-size:15px" class="fa">&#xf096;</i></button>
 	</a>
-	<button id="close1"  title="Close"  style="position: absolute;  top:0; right:0; margin-bottom: 2px; background-color: transparent; font-size: 14px;  color: #070707;background: #fafaface;	width: 36px;height: 20px;  border: none;   outline: none;  cursor: pointer;" onmouseover="this.style.background='#f84242ce',this.style.color='#ffffff'" onmouseout="this.style.background='#fafaface',this.style.color='#555555'">&#x2716;</button>
-	<embed align="center"  src="../img//poster_skku24.png" width="300px" height="400px" style="margin-left: 10px;margin-top: 14px;"/>
+	<button id="close2"  title="Close"  style="position: absolute;  top:0; right:0; margin-bottom: 2px; background-color: transparent; font-size: 14px;  color: #070707;background: #fafaface;	width: 36px;height: 20px;  border: none;   outline: none;  cursor: pointer;" onmouseover="this.style.background='#f84242ce',this.style.color='#ffffff'" onmouseout="this.style.background='#fafaface',this.style.color='#555555'">&#x2716;</button>
+	<embed align="center"  src="../img/poster_skku24.png" width="300px" height="400px" style="margin-left: 10px;margin-top: 14px;"/>
 </div>
+
+<div id="popup1"  class="popup" style="transition: all 1.5s ease-in; opacity: 0; transform: scale(0.0); display: block; position: absolute;top:  0px; left: -20%; margin: 140px 4px; z-index: 9; background-color: rgba(236, 236, 236, 0.7); padding: 10px 10px 10px 0px; width:320px;  border-radius:  0px;">
+	<a id="detail" href="/Poster_dash/">
+		<button title="Details" style="position: absolute; top:0; right:36px; margin-bottom: 2px; background-color: transparent;   color: #070707;background: #fafaface;	width: 36px;height: 20px;  border: none;   outline: none;  cursor: pointer;" onmouseover="this.style.background='#dadadace'" onmouseout="this.style.background='#fafaface'"><i style="font-size:15px" class="fa">&#xf096;</i></button>
+	</a>
+	<button id="close1"  title="Close"  style="position: absolute;  top:0; right:0; margin-bottom: 2px; background-color: transparent; font-size: 14px;  color: #070707;background: #fafaface;	width: 36px;height: 20px;  border: none;   outline: none;  cursor: pointer;" onmouseover="this.style.background='#f84242ce',this.style.color='#ffffff'" onmouseout="this.style.background='#fafaface',this.style.color='#555555'">&#x2716;</button>
+	<embed align="center"  src="../img/Lab_Infographics.png" width="300px" height="400px" style="margin-left: 10px;margin-top: 14px;"/>
+</div>
+
+
 
 <!-- For 1 Popup -->
 <!-- CONTENT SESSION -->
@@ -375,8 +393,8 @@
 
 			
 			<div  class="col s12 m4" align="center" style="overflow-y:scroll; height:500px;">
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7242821252254420992" height="450px"  frameborder="0" allowfullscreen="" title="Embedded post">
-				</iframe><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7239926812921778177" height="500px"  frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7243803163508490241" height="308" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7239926812921778177" height="500px"  frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 				<!-- <a class="twitter-timeline" href="https://twitter.com/TheDASHLab?ref_src=twsrc%5Etfw" width="auto\9;" height="360" tweet-limit="4">
 			   Tweets by TheDASHLab
 			   </a> 
@@ -513,11 +531,16 @@
         document.querySelector("#popup2").style.opacity = '1';
         document.querySelector("#popup2").style.transform = 'scale(1)';
         document.querySelector("#popup2").style.left = 0;
+		
+        document.querySelector("#popup1").style.opacity = '1';
+        document.querySelector("#popup1").style.transform = 'scale(1)';
+        document.querySelector("#popup1").style.right = 0;
     }, 10);
 
     window.addEventListener("load", function(){
         setTimeout(function openSecondPopup(){
             document.querySelector("#popup2").style.display = "block";
+            document.querySelector("#popup1").style.display = "block";
         }, 1000);  // Delay before showing the second popup
     });
 
@@ -528,6 +551,21 @@
     });
 </script>
 
+<script>
+
+	
+    window.addEventListener("load", function(){
+        setTimeout(function openSecondPopup(){
+            document.querySelector("#popup1").style.display = "block";
+        }, 1000);  // Delay before showing the second popup
+    });
+
+    // Close second popup
+    document.querySelector("#close1").addEventListener("click", function(){
+        document.querySelector("#popup1").style.transform = 'scale(0)';
+        document.querySelector("#popup1").style.display = "none";
+    });
+</script>
 
 
 
@@ -577,9 +615,10 @@
 <script>
 	// Array of image URLs
 	var images = [
-	  '../img/vision_2.png',
-	  '../img/skku2.jpg',
-	  '../img/skku3.jpg',
+	//   '../img/vision_2.png',
+	//   '../img/skku2.jpg',
+	//   '../img/skku3.jpg',
+	"../img/coverPage.jpg"
 	];
   
 	// Select a random image from the array
@@ -589,7 +628,7 @@
 	var div = document.getElementById('index-banner');
   
 	// Set the div's background image to the random image
-	div.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('" + randomImage + "')";
+	div.style.backgroundImage = " linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('" + randomImage + "')";
   </script>
 <!-- flickity courasel -->
 <script src="../js/flickity.pkgd.min.js"></script>

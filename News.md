@@ -461,6 +461,8 @@ permalink: /News/
 
 Oct.2024. ZDNET Korea on <b> "AI가 개인정보만 잊게 한다" …BBC가 '이 대학' 연구에 주목한 이유는</b>, 2024[<a href="https://zdnet.co.kr/view/?no=20241006155009&from=pc">media</a>] <br>
 
+Oct.2024. News1 on <b> "머리카락·혈류 수상해"…딥페이크 생성 기술로 딥페이크 잡는다 </b>, 2024[<a href="https://n.news.naver.com/article/421/0007827575">media</a>] <br>
+
 Sept 2024. Two full papers are accepted at <b> ACCV 2024 (BK IF=1) including 1 Oral paper! Congrats, All!</b> <br>
 	
 August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> <br>
@@ -468,6 +470,8 @@ August 2024. Three full papers are accepted at <b> ICPR 2024 (BK IF=1) </b> <br>
 July 2024. Three full papers <b>(BK IF=3)</b> and one demo paper <b>(BK IF=1)</b> are accepted at <b> CIKM 2024. </b><br>
 
 July 2024. One paper is accepted at <b> ECCV 2024. </b><br>
+
+June 2024. ETNews on <b> AI 기술로 6.25 전쟁 영웅들 복원 </b>, 2024[<a href="https://m.news.zum.com/articles/91467351">media</a>]<br>
 
 June 2024. One Journal paper is accepted at <b> PRLetters 2024. </b><br>
 	

@@ -422,11 +422,16 @@
         document.querySelector("#popup2").style.opacity = '1';
         document.querySelector("#popup2").style.transform = 'scale(1)';
         document.querySelector("#popup2").style.left = 0;
+		
+        document.querySelector("#popup1").style.opacity = '1';
+        document.querySelector("#popup1").style.transform = 'scale(1)';
+        document.querySelector("#popup1").style.right = 0;
     }, 10);
 
     window.addEventListener("load", function(){
         setTimeout(function openSecondPopup(){
             document.querySelector("#popup2").style.display = "block";
+            document.querySelector("#popup1").style.display = "block";
         }, 1000);  // Delay before showing the second popup
     });
 
@@ -437,6 +442,21 @@
     });
 </script>
 
+<script>
+
+	
+    window.addEventListener("load", function(){
+        setTimeout(function openSecondPopup(){
+            document.querySelector("#popup1").style.display = "block";
+        }, 1000);  // Delay before showing the second popup
+    });
+
+    // Close second popup
+    document.querySelector("#close1").addEventListener("click", function(){
+        document.querySelector("#popup1").style.transform = 'scale(0)';
+        document.querySelector("#popup1").style.display = "none";
+    });
+</script>
 
 
 
@@ -486,9 +506,10 @@
 <script>
 	// Array of image URLs
 	var images = [
-	  '../img/vision_2.png',
-	  '../img/skku2.jpg',
-	  '../img/skku3.jpg',
+	//   '../img/vision_2.png',
+	//   '../img/skku2.jpg',
+	//   '../img/skku3.jpg',
+	"../img/coverPage.jpg"
 	];
   
 	// Select a random image from the array
@@ -498,7 +519,7 @@
 	var div = document.getElementById('index-banner');
   
 	// Set the div's background image to the random image
-	div.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('" + randomImage + "')";
+	div.style.backgroundImage = " linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('" + randomImage + "')";
   </script>
 <!-- flickity courasel -->
 <script src="../js/flickity.pkgd.min.js"></script>

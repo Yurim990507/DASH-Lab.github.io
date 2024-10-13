@@ -44,79 +44,26 @@
         document.querySelector("#popup1").style.right = 0;
     }, 10);
 
-    window.addEventListener("load", function(){
-        setTimeout(function openSecondPopup(){
-            document.querySelector("#popup2").style.display = "block";
-            document.querySelector("#popup1").style.display = "block";
-        }, 1000);  // Delay before showing the second popup
-    });
 
     // Close second popup
     document.querySelector("#close2").addEventListener("click", function(){
         document.querySelector("#popup2").style.transform = 'scale(0)';
         document.querySelector("#popup2").style.display = "none";
     });
-</script>
 
-<script>
-
-	
-    window.addEventListener("load", function(){
-        setTimeout(function openSecondPopup(){
-            document.querySelector("#popup1").style.display = "block";
-        }, 1000);  // Delay before showing the second popup
-    });
-
-    // Close second popup
-    document.querySelector("#close1").addEventListener("click", function(){
+	document.querySelector("#close1").addEventListener("click", function(){
         document.querySelector("#popup1").style.transform = 'scale(0)';
         document.querySelector("#popup1").style.display = "none";
     });
 </script>
 
+<script>
 
 
-<!-- This is the code for 2 pop-up windows. Remove this after the Workshop over -->
-<!-- <script>
-    setTimeout(function() {
-        // Show the first popup
-        document.querySelector("#popup1").style.opacity = '1';
-        document.querySelector("#popup1").style.transform='scale(1)';
-        document.querySelector("#popup1").style.left = 0;
-
-        // Add a delay before showing the second popup
-        setTimeout(function() {
-            document.querySelector("#popup2").style.opacity = '1';
-            document.querySelector("#popup2").style.transform='scale(1)';
-            document.querySelector("#popup2").style.left = 0;
-        }, 1500);  // Delay in milliseconds
-    }, 10);
+    // Close second popup
+    
 </script>
-<script type="text/javascript">
-	
-	window.addEventListener("load", function(){
-		setTimeout(function openFirstPopup(){
-			document.querySelector("#popup1").style.display = "block";
-		}, 1000);
-		setTimeout(function openSecondPopup(){
-			document.querySelector("#popup2").style.display = "block";
-		}, 2000);
-	});
 
-	document.querySelector("#close1").addEventListener("click", function(){
-		document.querySelector("#popup1").style.transform='scale(0)';
-		document.querySelector("#popup1").style.display = "none";
-
-		// Move the second popup to the position of the first popup
-        document.querySelector("#popup2").style.top = document.querySelector("#popup1").style.top;
-        document.querySelector("#popup2").style.margin = document.querySelector("#popup1").style.margin;
-	});
-
-	document.querySelector("#close2").addEventListener("click", function(){
-		document.querySelector("#popup2").style.transform='scale(0)';
-		document.querySelector("#popup2").style.display = "none";
-	});
-</script> -->
 
 <!-- Script for randomly choose an thumbnail image on home page -->
 <script>

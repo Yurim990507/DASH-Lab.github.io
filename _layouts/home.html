@@ -79,7 +79,7 @@ background-size: cover;
         width: 320px;
         min-height: 420px;
         border-radius: 0px;
-        margin-top: 140px;
+        margin-top: 10px;
     }
 
     @media (max-width: 600px) {
@@ -96,6 +96,11 @@ background-size: cover;
             right: auto;
             position: absolute; /* Keeps it positioned relative to the viewport, not the container */
         }
+		.popup embed {
+        width: 100%; /* Makes the image responsive */
+        height: auto; /* Adjust height automatically */
+        max-height: 400px; /* Maximum height */
+    }
     }
 </style>
 

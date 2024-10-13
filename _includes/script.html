@@ -4,32 +4,40 @@
 <script src="{{ "js/init.js" | relative_url }}"></script>
 <script async src="https://static1.sharpweather.com/widgetjs/?id=id3241554892540"></script>
 <!--Script for the Pop-up advertisement-->
-<!-- <script>
-	setTimeout(function() {
-		document.querySelector(".popup2").style.opacity = '1';
-		document.querySelector(".popup2").style.transform='scale(1)';
-		document.querySelector(".popup2").style.left = 0;
-	}, 10);
-</script> 
-<script type="text/javascript">
-
-	
-	window.addEventListener("load", function(){
-		setTimeout(
-			function open(event){
-				document.querySelector(".popup").style.display = "block";
-			},
-			1000 
-		)
-	});
-
-	document.querySelector("#close").addEventListener("click", function(){
-		document.querySelector(".popup2").style.transform='scale(0)';
-		document.querySelector(".popup2").style.display = "none";
-	});
-</script> -->
 
 
+<style>
+    .popup-container {
+        display: flex;
+        flex-wrap: wrap; /* Allows items to wrap onto the next line as needed */
+        justify-content: center; /* Centers the pop-ups in the container */
+        padding: 10px;
+        gap: 10px; /* Space between pop-ups */
+    }
+
+    .popup {
+        transition: all 1.5s ease-in;
+        opacity: 0;
+        transform: scale(0.0);
+        background-color: rgba(236, 236, 236, 0.7);
+        padding: 10px;
+        width: 320px; /* Fixed width */
+        min-height: 420px; /* Adjust based on content */
+        border-radius: 0px;
+        margin-top: 140px; /* Space from the top */
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 600px) {
+        .popup-container {
+            flex-direction: column; /* Stacks pop-ups vertically on small screens */
+        }
+
+        .popup {
+            margin-top: 10px; /* Less margin on smaller screens */
+        }
+    }
+</style>
 <!-- This is the code for 1 pop-up window.  -->
 
 <script>
@@ -69,9 +77,6 @@
 <script>
 	// Array of image URLs
 	var images = [
-	//   '../img/vision_2.png',
-	//   '../img/skku2.jpg',
-	//   '../img/skku3.jpg',
 	"../img/coverPage.jpg"
 	];
   

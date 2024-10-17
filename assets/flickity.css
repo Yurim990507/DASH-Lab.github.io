@@ -238,3 +238,7 @@ https://flickity.metafizzy.co
 		box-shadow: 0 0 18px rgb(61, 88, 243);
 	}
 }
+
+.right.hide-on-med-and-down li{
+background-color: #01579bc7;
+}

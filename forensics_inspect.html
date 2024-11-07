@@ -1,1 +1,187 @@
 
+---
+layout: page
+permalink: /forensics_inspector/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image to Canvas</title>
+    <style>
+        body {
+            display: flex;
+            height: 100vh;
+            margin: 0;
+        }
+        .column {
+            padding: 10px;
+        }
+        .left-column {
+            width: 80%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+			background-color: rgb(43, 43, 43); /* Updated line */
+
+        }
+        .right-column {
+            width: 20%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+			background-color: rgb(0, 0, 0); 
+        }
+        #upload {
+            display: none;
+        }
+        #upload-label {
+            display: inline-block;
+			padding: 10px 20px;
+			background-color: #000000;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			font-size: 16px;
+			position: absolute; /* Updated line */
+			top: 10px; /* Updated line */
+        }
+        #preview {
+            position: absolute;
+            border: 1px solid black;
+            width: 256px;
+            height: 256px;
+            display: none; /* Initially hidden */
+			border-radius: 50%; /* Updated line to make it circular */
+        }
+		
+    </style>
+</head>
+<body>
+    <div class="left-column column">
+        <canvas id="canvas"></canvas>
+        <canvas id="preview" width="256" height="256"></canvas>
+    </div>
+    <div class="right-column column">
+        <label for="upload" id="upload-label">Upload Image</label>
+        <input type="file" id="upload" accept="image/*">
+    </div>
+
+    <script>
+        const upload = document.getElementById('upload');
+        const canvas = document.getElementById('canvas');
+        const preview = document.getElementById('preview');
+        const ctx = canvas.getContext('2d');
+        const previewCtx = preview.getContext('2d');
+
+        upload.addEventListener('change', (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const img = new Image();
+                    img.onload = function() {
+                        const windowHeight = window.innerHeight;
+                        const windowWidth = window.innerWidth;
+                        const maxHeight = windowHeight * 0.8;
+                        const maxWidth = windowWidth * 0.8;
+
+                        if (img.height > maxHeight) {
+                            const scaleFactor = maxHeight / img.height;
+                            img.width *= scaleFactor;
+                            img.height = maxHeight;
+                        }
+						if (img.width > maxWidth) {
+                            const scaleFactor = maxWidth / img.width;
+                            img.height *= scaleFactor;
+                            img.width = maxWidth;
+                        }
+                        canvas.width = img.width;
+                        canvas.height = img.height;
+                        ctx.drawImage(img, 0, 0, img.width, img.height);
+                        preview.style.display = 'block'; // Show preview canvas
+                    }
+                    img.src = e.target.result;
+                }
+                reader.readAsDataURL(file);
+            }
+        });
+
+        canvas.addEventListener('mousemove', (event) => {
+            const rect = canvas.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            const cropX = Math.max(0, Math.min(x - 32, canvas.width - 64));
+            const cropY = Math.max(0, Math.min(y - 32, canvas.height - 64));
+
+            const imageData = ctx.getImageData(cropX, cropY, 64, 64);
+            const data = imageData.data;
+
+            // Separate the channels
+            const r = [], g = [], b = [];
+            for (let i = 0; i < data.length; i += 4) {
+                r.push(data[i]);
+                g.push(data[i + 1]);
+                b.push(data[i + 2]);
+            }
+
+            // Apply histogram equalization to each channel
+            const equalize = (channel) => {
+                const histogram = new Array(256).fill(0);
+                for (let i = 0; i < channel.length; i++) {
+                    histogram[channel[i]]++;
+                }
+
+                const cdf = new Array(256).fill(0);
+                cdf[0] = histogram[0];
+                for (let i = 1; i < 256; i++) {
+                    cdf[i] = cdf[i - 1] + histogram[i];
+                }
+
+                const cdfMin = cdf.find(value => value > 0);
+                const equalized = channel.map(value => Math.round((cdf[value] - cdfMin) / (channel.length - cdfMin) * 255));
+                return equalized;
+            };
+
+            const rEqualized = equalize(r);
+            const gEqualized = equalize(g);
+            const bEqualized = equalize(b);
+
+            // Combine the channels back
+            for (let i = 0; i < data.length; i += 4) {
+                data[i] = rEqualized[i / 4];
+                data[i + 1] = gEqualized[i / 4];
+                data[i + 2] = bEqualized[i / 4];
+            }
+
+            // Create a temporary canvas to draw the transformed image data
+            const tempCanvas = document.createElement('canvas');
+            const tempCtx = tempCanvas.getContext('2d');
+            tempCanvas.width = 64;
+            tempCanvas.height = 64;
+
+            // Put the transformed image data into the temporary canvas
+            const transformedImageData = new ImageData(data, 64, 64);
+            tempCtx.putImageData(transformedImageData, 0, 0);
+
+            // Clear the preview canvas and draw the scaled image
+            previewCtx.clearRect(0, 0, preview.width, preview.height);
+			previewCtx.imageSmoothingEnabled = false; // Disable smoothing
+            previewCtx.drawImage(tempCanvas, 0, 0, 64, 64, 0, 0, 256, 256);
+
+            preview.style.left = `${event.pageX + 10}px`;
+            preview.style.top = `${event.pageY + 10}px`;
+        });
+		canvas.addEventListener('mouseleave', () => {
+            preview.style.display = 'none'; // Hide preview canvas
+        });
+		canvas.addEventListener('mouseenter', () => {
+            preview.style.display = 'block'; // Show preview canvas
+        });
+    </script>
+</body>
+</html>

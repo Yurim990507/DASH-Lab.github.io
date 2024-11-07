@@ -105,6 +105,6 @@ We ranked first in the first round of the anomalous behavior recognition track o
   </tr>
 </table>
 <h1 class="page-title">Deepfake Inspector</h1>
-   <p><a href="/Foren_ins/">Tool</a></p>
+   Try our beta version here:<p><a href="/Foren_ins/">Tool</a></p>. 
   
  

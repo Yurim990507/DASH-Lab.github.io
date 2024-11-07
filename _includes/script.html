@@ -165,8 +165,8 @@
 		previewCtx.imageSmoothingEnabled = false; // Disable smoothing
 		previewCtx.drawImage(tempCanvas, 0, 0, 64, 64, 0, 0, 256, 256);
 
-		const offsetX = window.innerWidth * 0.01;  // 10% of the viewport width
-		const offsetY = window.innerHeight * 0.01; // 10% of the viewport height
+		const offsetX = window.innerWidth * 0.05;  // 5% of the viewport width
+		const offsetY = window.innerHeight * 0.05; // 5% of the viewport height
 		
 		preview.style.left = `${event.pageX - offsetX}px`;
 		preview.style.top = `${event.pageY - offsetY}px`;

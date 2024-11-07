@@ -3,13 +3,7 @@
 layout: page
 permalink: /forensics_inspect/
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image to Canvas</title>
-    <style>
+<style>
         body {
             display: flex;
             height: 100vh;
@@ -45,7 +39,7 @@ permalink: /forensics_inspect/
 			border: none;
 			border-radius: 5px;
 			cursor: pointer;
-			font-size: 16px;
+			font-size: 22px;
 			position: absolute; /* Updated line */
 			top: 10px; /* Updated line */
         }
@@ -59,8 +53,6 @@ permalink: /forensics_inspect/
         }
 		
     </style>
-</head>
-<body>
     <div class="left-column column">
         <canvas id="canvas"></canvas>
         <canvas id="preview" width="256" height="256"></canvas>
@@ -183,5 +175,3 @@ permalink: /forensics_inspect/
             preview.style.display = 'block'; // Show preview canvas
         });
     </script>
-</body>
-</html>

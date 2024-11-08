@@ -68,7 +68,20 @@
 	const preview = document.getElementById('preview');
 	const ctx = canvas.getContext('2d');
 	const previewCtx = preview.getContext('2d');
-
+	const toggleSwitch = document.getElementById('toggle-switch');
+	let showOriginal = false;
+	toggleSwitch.addEventListener('change', () => {
+        if (toggleSwitch.checked) {
+            // Switch to the right
+            toggleSwitch.nextElementSibling.style.backgroundColor = '#007bff';
+            toggleSwitch.nextElementSibling.firstElementChild.style.transform = 'translateX(26px)';
+        } else {
+            // Switch to the left
+            toggleSwitch.nextElementSibling.style.backgroundColor = '#ccc';
+            toggleSwitch.nextElementSibling.firstElementChild.style.transform = 'translateX(0)';
+        }
+		showOriginal = toggleSwitch.checked;
+    	});
 	upload.addEventListener('change', (event) => {
 		const file = event.target.files[0];
 		if (file) {
@@ -111,60 +124,66 @@
 		const cropY = Math.max(0, Math.min(y - 32, canvas.height - 64));
 
 		const imageData = ctx.getImageData(cropX, cropY, 64, 64);
-		const data = imageData.data;
-
-		// Separate the channels
-		const r = [], g = [], b = [];
-		for (let i = 0; i < data.length; i += 4) {
-			r.push(data[i]);
-			g.push(data[i + 1]);
-			b.push(data[i + 2]);
-		}
-
-		// Apply histogram equalization to each channel
-		const equalize = (channel) => {
-			const histogram = new Array(256).fill(0);
-			for (let i = 0; i < channel.length; i++) {
-				histogram[channel[i]]++;
+		if (showOriginal) {
+	            // Show original image area
+	            previewCtx.clearRect(0, 0, preview.width, preview.height);
+	            previewCtx.imageSmoothingEnabled = false;
+	            previewCtx.drawImage(canvas, cropX, cropY, 64, 64, 0, 0, 256, 256);
+	        } else {
+			const data = imageData.data;
+	
+			// Separate the channels
+			const r = [], g = [], b = [];
+			for (let i = 0; i < data.length; i += 4) {
+				r.push(data[i]);
+				g.push(data[i + 1]);
+				b.push(data[i + 2]);
 			}
-
-			const cdf = new Array(256).fill(0);
-			cdf[0] = histogram[0];
-			for (let i = 1; i < 256; i++) {
-				cdf[i] = cdf[i - 1] + histogram[i];
+	
+			// Apply histogram equalization to each channel
+			const equalize = (channel) => {
+				const histogram = new Array(256).fill(0);
+				for (let i = 0; i < channel.length; i++) {
+					histogram[channel[i]]++;
+				}
+	
+				const cdf = new Array(256).fill(0);
+				cdf[0] = histogram[0];
+				for (let i = 1; i < 256; i++) {
+					cdf[i] = cdf[i - 1] + histogram[i];
+				}
+	
+				const cdfMin = cdf.find(value => value > 0);
+				const equalized = channel.map(value => Math.round((cdf[value] - cdfMin) / (channel.length - cdfMin) * 255));
+				return equalized;
+			};
+	
+			const rEqualized = equalize(r);
+			const gEqualized = equalize(g);
+			const bEqualized = equalize(b);
+	
+			// Combine the channels back
+			for (let i = 0; i < data.length; i += 4) {
+				data[i] = rEqualized[i / 4];
+				data[i + 1] = gEqualized[i / 4];
+				data[i + 2] = bEqualized[i / 4];
 			}
-
-			const cdfMin = cdf.find(value => value > 0);
-			const equalized = channel.map(value => Math.round((cdf[value] - cdfMin) / (channel.length - cdfMin) * 255));
-			return equalized;
-		};
-
-		const rEqualized = equalize(r);
-		const gEqualized = equalize(g);
-		const bEqualized = equalize(b);
-
-		// Combine the channels back
-		for (let i = 0; i < data.length; i += 4) {
-			data[i] = rEqualized[i / 4];
-			data[i + 1] = gEqualized[i / 4];
-			data[i + 2] = bEqualized[i / 4];
+	
+			// Create a temporary canvas to draw the transformed image data
+			const tempCanvas = document.createElement('canvas');
+			const tempCtx = tempCanvas.getContext('2d');
+			tempCanvas.width = 64;
+			tempCanvas.height = 64;
+	
+			// Put the transformed image data into the temporary canvas
+			const transformedImageData = new ImageData(data, 64, 64);
+			tempCtx.putImageData(transformedImageData, 0, 0);
+	
+			// Clear the preview canvas and draw the scaled image
+			previewCtx.clearRect(0, 0, preview.width, preview.height);
+			previewCtx.imageSmoothingEnabled = false; // Disable smoothing
+			previewCtx.drawImage(tempCanvas, 0, 0, 64, 64, 0, 0, 256, 256);
 		}
-
-		// Create a temporary canvas to draw the transformed image data
-		const tempCanvas = document.createElement('canvas');
-		const tempCtx = tempCanvas.getContext('2d');
-		tempCanvas.width = 64;
-		tempCanvas.height = 64;
-
-		// Put the transformed image data into the temporary canvas
-		const transformedImageData = new ImageData(data, 64, 64);
-		tempCtx.putImageData(transformedImageData, 0, 0);
-
-		// Clear the preview canvas and draw the scaled image
-		previewCtx.clearRect(0, 0, preview.width, preview.height);
-		previewCtx.imageSmoothingEnabled = false; // Disable smoothing
-		previewCtx.drawImage(tempCanvas, 0, 0, 64, 64, 0, 0, 256, 256);
-
 		const offsetX = window.innerWidth * 0.12;  // 12% of the viewport width
 		const offsetY = window.innerHeight * 0.12; // 12% of the viewport height
 		

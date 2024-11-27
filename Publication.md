@@ -61,6 +61,39 @@ permalink: /Publications/
 
 
 
+<!-- Park_SCD_2025 -->
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>X3A: Efficient Multimodal Deepfake Detection with Score-Level Fusion</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chan Park, Bohyun Moon, Minsun Jeon, Jee-Weon Jung and  <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>(Accepted) BK IF 1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Advances in deepfake generation have highlighted the necessity for sophisticated detection methods and realistic datasets to ensure models are effectively generalized. While traditional datasets focused on unimodal manipulations, the emergence of multimodal datasets, which include audio-visual forgeries, increased the complexity of deepfake detection. The recent release of the LAV-DF and AV-Deepfake1M datasets featured partial manipulations in multimodal contents and underscored the need for effective video level detection methods to identify these forgeries. In this work, we propose X3A, an efficient multimodal video deepfake detection model exploiting two powerful unimodal models with probabilistic score-level fusion. X3A leverages the advantage of using raw visual and audio inputs without relying on hand-crafted features. We conducted the extensive experiments on multiple different multimodal deepfake benchmark datasets and achieved superior performance on multimodal deepfake detection, successively detecting entirely and partially manipulated scenarios. Our X3A model demonstrates an accuracy of 0.9960 AUC of 0.9999 on the most challenging AVDeepfake1M benchmark, surpassing all existing models.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/Park_SCD_2025.png" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
 
 
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
@@ -91,7 +124,7 @@ Deepfake Detection</b></a>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="img/SAC_hyeongjun.jpg" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/SAC_hyeongjun.jpg" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>    

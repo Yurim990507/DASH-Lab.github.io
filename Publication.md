@@ -77,7 +77,7 @@ Deepfake Detection</b></a>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hyeongjun Choi, <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Symposium on Applied Computing (SAC),</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

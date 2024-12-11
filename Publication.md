@@ -59,6 +59,42 @@ permalink: /Publications/
  
 <!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 
+<!-- Park_SCD_2025 -->
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>X3A: Efficient Multimodal Deepfake Detection with Score-Level Fusion</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hakjun Moon, Dayeon Woo, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>(Accepted) BK IF 1 </font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Face age transformation is a task that aims to age or rejuvenate faces while preserving identity. Balancing realistic transformations with identity preservation is challenging due to the difficulty in determining which facial features to modify or retain. We introduce a novel GAN-based face age transformation framework utilizing Hierarchical Encoding and Contrastive Learning (HECL). Specifically, we incorporate a multi-level encoder that extracts and analyzes age-related features at different levels of detail, such as facial texture, structure, and skin tone.
+ We also combined a contrastive learning approach in the discriminator to finetune the differentiation between age groups. These modifications enhance identity preservation and provide better control over aging through strategic loss functions, addressing shortcomings in existing models, which often struggle with modifying subtle face and hair texture, color, or volume during age progression. HECL outperforms SOTA models in realism and versatility, generating high-quality face images. We demonstrate superior identity preservation performance in metrics, also receiving better qualitative approval from human evaluators. Our codes and models are available here: https://github.com/Gloriel621/HECL
+ </small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/Moon_SCD_2025.png" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>    
+
 
 
 <!-- Park_SCD_2025 -->

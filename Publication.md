@@ -53,14 +53,10 @@ permalink: /Publications/
     </p>
     <h4 style="margin-top:40px"><b>2024</b></h4>
 <hr>
-
-
-
+ 
  
 <!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
-
-<!-- Park_SCD_2025 -->
-
+ 
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -78,11 +74,11 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) BK IF 1 </font>
+                               <font color='blue'>BK Computer Science IF = 1 </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Face age transformation is a task that aims to age or rejuvenate faces while preserving identity. Balancing realistic transformations with identity preservation is challenging due to the difficulty in determining which facial features to modify or retain. We introduce a novel GAN-based face age transformation framework utilizing Hierarchical Encoding and Contrastive Learning (HECL). Specifically, we incorporate a multi-level encoder that extracts and analyzes age-related features at different levels of detail, such as facial texture, structure, and skin tone.
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> We introduce a novel GAN-based face age transformation framework utilizing Hierarchical Encoding and Contrastive Learning (HECL). Specifically, we incorporate a multi-level encoder that extracts and analyzes age-related features at different levels of detail, such as facial texture, structure, and skin tone.
  We also combined a contrastive learning approach in the discriminator to finetune the differentiation between age groups. These modifications enhance identity preservation and provide better control over aging through strategic loss functions, addressing shortcomings in existing models, which often struggle with modifying subtle face and hair texture, color, or volume during age progression. HECL outperforms SOTA models in realism and versatility, generating high-quality face images. We demonstrate superior identity preservation performance in metrics, also receiving better qualitative approval from human evaluators. Our codes and models are available here: https://github.com/Gloriel621/HECL
  </small> </p>
                     </tr>                             
@@ -90,14 +86,10 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/Moon_SCD_2025.png" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/Moon_SCD_2025.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    <hr>    
-
-
-
-<!-- Park_SCD_2025 -->
+    <hr>     
 
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -116,17 +108,17 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) BK IF 1 </font>
+                               <font color='blue'>BK Computer Science IF = 1</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Advances in deepfake generation have highlighted the necessity for sophisticated detection methods and realistic datasets to ensure models are effectively generalized. While traditional datasets focused on unimodal manipulations, the emergence of multimodal datasets, which include audio-visual forgeries, increased the complexity of deepfake detection. The recent release of the LAV-DF and AV-Deepfake1M datasets featured partial manipulations in multimodal contents and underscored the need for effective video level detection methods to identify these forgeries. In this work, we propose X3A, an efficient multimodal video deepfake detection model exploiting two powerful unimodal models with probabilistic score-level fusion. X3A leverages the advantage of using raw visual and audio inputs without relying on hand-crafted features. We conducted the extensive experiments on multiple different multimodal deepfake benchmark datasets and achieved superior performance on multimodal deepfake detection, successively detecting entirely and partially manipulated scenarios. Our X3A model demonstrates an accuracy of 0.9960 AUC of 0.9999 on the most challenging AVDeepfake1M benchmark, surpassing all existing models.</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>In this work, we propose X3A, an efficient multimodal video deepfake detection model exploiting two powerful unimodal models with probabilistic score-level fusion. X3A leverages the advantage of using raw visual and audio inputs without relying on hand-crafted features. We conducted the extensive experiments on multiple different multimodal deepfake benchmark datasets and achieved superior performance on multimodal deepfake detection, successively detecting entirely and partially manipulated scenarios. Our X3A model demonstrates an accuracy of 0.9960 AUC of 0.9999 on the most challenging AVDeepfake1M benchmark, surpassing all existing models.</small> </p>
                     </tr>                             
                 </tbody>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/Park_SCD_2025.png" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/Park_SCD_2025.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>    
@@ -150,24 +142,20 @@ Deepfake Detection</b></a>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted) BK IF 1 </font>
+                               <font color='blue'>BK Computer Science IF = 1</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Deepfake detection remains challenging, particularly when identifying deepfakes generated by unseen forgery methods. Recent studies have shown that detectors trained on forgery data from Generative Adversarial Networks (GAN) cannot generalize well on data from Diffusion Models (DM) and vice versa. As generative methods such as GAN and DM are significantly advanced for creating highly photorealistic images, it becomes crucial to  develop generalized methods to detect forgeries generated from different generation methods. While research on generalizable  detectors is gaining momentum, the impact of training data on detectors’ generalization ability has yet to be extensively studied, especially concerning synthetic human face images. In this work, we train popular deep neural networks using face data generated by various generative models and thoroughly analyze their generalizability. Our results reveal significant differences in model performance based on the forgery method used to generate the training data. Notably, we identify specific scenarios that significantly enhance model generalization, contradicting previous research finding that models trained on DM-generated data would achieve higher generalization performance than those trained on GAN-generated data. These findings emphasize the crucial role of training data selection in enhancing the generalization capabilities of deepfake detectors. By strategically selecting and combining datasets, we can develop more robust detection systems, laying a foundation for future research in creating reliable and universal deepfake detection methods</small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>In this work, we train popular deep neural networks using face data generated by various generative models and thoroughly analyze their generalizability. Our results reveal significant differences in model performance based on the forgery method used to generate the training data. Notably, we identify specific scenarios that significantly enhance model generalization, contradicting previous research finding that models trained on DM-generated data would achieve higher generalization performance than those trained on GAN-generated data. These findings emphasize the crucial role of training data selection in enhancing the generalization capabilities of deepfake detectors. By strategically selecting and combining datasets, we can develop more robust detection systems, laying a foundation for future research in creating reliable and universal deepfake detection methods</small> </p>
                     </tr>                             
                 </tbody>
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/SAC_hyeongjun.jpg" style="max-height: 500px;max-width: 560px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/SAC_hyeongjun.jpg" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
-    <hr>    
-
-
-
-<!--  -->
+    <hr>     
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -186,7 +174,7 @@ Asaduzzaman, Upama Kabir, A.M. Aahad and <i><b>Simon S. Woo*</b> </i> </small> <
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>(Accepted)SCIE Q1 IF = 5.3 (5-year Journal Impact Factor) </font>
+                               <font color='blue'>(Accepted) SCIE Q1 IF = 5.3 (5-year Journal Impact Factor) </font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -234,7 +222,7 @@ Asaduzzaman, Upama Kabir, A.M. Aahad and <i><b>Simon S. Woo*</b> </i> </small> <
 
 
 <hr>
-<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
+ 
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

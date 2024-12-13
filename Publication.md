@@ -47,7 +47,7 @@ permalink: /Publications/
             <img  loading="lazy" alt="WACV"     src="https://img.shields.io/badge/WACV-3-brightgreen?style=social"      height="20">&nbsp; 
             <img  loading="lazy" alt="PAKDD"     src="https://img.shields.io/badge/PAKDD-4-brightgreen?style=social"      height="20">&nbsp;
 	    <img  loading="lazy" alt="ACCV"     src="https://img.shields.io/badge/ACCV-4-brightgreen?style=social"      height="20">&nbsp; 
-	    <img  loading="lazy" alt="SAC"     src="https://img.shields.io/badge/SAC-4-brightgreen?style=social"      height="20">&nbsp; 
+	    <img  loading="lazy" alt="SAC"     src="https://img.shields.io/badge/SAC-7-brightgreen?style=social"      height="20">&nbsp; 
             <img  loading="lazy" alt="SCIE"     src="https://img.shields.io/badge/SCIE-23-brightgreen?style=social"     height="20">
         </center>
     </p>

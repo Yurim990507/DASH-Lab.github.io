@@ -64,6 +64,43 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
+                        <a><b>Prioritizing Safety: A Two-Stage Not Safe For Work and Deepfake Detection Framework</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Minsun Jeon, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Conference on Korean Artificial Intelligence Association 2024 (KAIA), 2024
+</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
+                     As the need to address privacy protection and data utilization simultaneously grows, synthetic data, a powerful anonymization technique, is gaining attention. Synthetic data is artificially generated rather than obtained from real events and can substitute for original data. It is widely used in various applications, including data analysis, AI model training, simulation, and research, all while ensuring privacy protection.
+This paper examines the types of synthetic data, key generation methods for different target subjects, and various application cases. Through this exploration, we aim to provide a more detailed understanding of synthetic data's benefits and potential applications, as well as insights into future research directions for expanding its use.</small> </p>
+                    </tr>
+		    <tr>
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/minsun_Safety.png" style="max-height: 239px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>     
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
                         <a><b>An Empirical Study of Black-box based Membership Inference Attacks on a Real-World Dataset (to appear)</b></a>
                     </tr>
                 </thead>

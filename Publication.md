@@ -91,7 +91,7 @@ This paper examines the types of synthetic data, key generation methods for diff
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/minsun_Safety.png" style="max-height: 239px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/minsun_Safety.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>     

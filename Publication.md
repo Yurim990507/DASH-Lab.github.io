@@ -62,7 +62,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>X3A: Efficient Multimodal Deepfake Detection with Score-Level Fusion</b></a>
+                        <a><b>High-Fidelity Face Age Transformation Via Hierarchical Encoding and Contrastive Learning</b></a>
                     </tr>
                 </thead>
                 <tbody>

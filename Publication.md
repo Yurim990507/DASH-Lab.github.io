@@ -85,7 +85,7 @@ permalink: /Publications/
                         </small> </p>
                     </tr>
 		    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>  <a  href="https://github.com/Gloriel621/HECL"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                        <!-- <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>  <a  href="https://github.com/Gloriel621/HECL"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p> -->
                     </tr> 
                 </tbody>
             </table>

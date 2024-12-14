@@ -126,7 +126,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/membership_attack.png" style="max-height: 239px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/membership_attack.png" style="max-height: 240px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>     

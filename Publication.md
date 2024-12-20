@@ -55,7 +55,7 @@ permalink: /Publications/
 
 
     
-    <h4 style="margin-top:40px"><b>2025</b></h4>
+<h4 style="margin-top:40px"><b>2025</b></h4>
 
     
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
@@ -161,7 +161,7 @@ permalink: /Publications/
     <hr>     
 
 
-    <h4 style="margin-top:40px"><b>2024</b></h4>
+<h4 style="margin-top:40px"><b>2024</b></h4>
 <hr>
  
 

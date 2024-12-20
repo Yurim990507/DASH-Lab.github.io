@@ -51,90 +51,13 @@ permalink: /Publications/
             <img  loading="lazy" alt="SCIE"     src="https://img.shields.io/badge/SCIE-23-brightgreen?style=social"     height="20">
         </center>
     </p>
-    <h4 style="margin-top:40px"><b>2024</b></h4>
-<hr>
- 
-
- 
- 
-<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
- 
-<div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>Prioritizing Safety: A Two-Stage Not Safe For Work and Deepfake Detection Framework</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Minsun Jeon, <i><b>Simon S. Woo*</b> </i> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Conference on Korean Artificial Intelligence Association 2024 (KAIA), 2024
-</b> </small> </p>
-                    </tr>
-                    <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
-                                </b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
-                    Deepfake content is being created automatically in large quantities, but it must still be reported manually by victims, making rapid responses difficult. Despite the prevalence of sexually exploitative deepfake, no existing approach has combined Not Safe For Work (NSFW) detection with deepfake detection. To address this issue, this study proposes a novel integrated process that first implements NSFW detection to assess urgency and identify sexual components before proceeding to deepfake detection. To verify the effectiveness of this process, we generated eight FaceSwap images. In addition, we utilized these images to evaluate the performance of the NSFW and deepfake detection models, achieving an accuracy of 87.5% and 100%, respectively. The results demonstrated the viability of a sequential detection approach. This research highlights the importance of combining NSFW and deepfake detection for more efficient and urgent content moderation, providing a practical tool for law enforcement and victim support organizations. In our findings, this research presents a paradigm that enables rapid responses to address the harms caused by deepfake content effectively and promotes a more proactive approach to content moderation.</tr>
-		    <tr>
-                    </tr> 
-                </tbody>
-            </table>
-            </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/minsun_Safety.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div>
-         </div>
-    <hr>     
-
-<div style="display: flex;flex-direction: row;justify-content: space-between;">
-        <div style="margin-left: 25px;margin-right: 10px;">
-            <table>
-                <thead>
-                    <tr>
-                        <a><b>An Empirical Study of Black-box based Membership Inference Attacks on a Real-World Dataset (to appear)</b></a>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Yujeong Kwon, <i><b>Simon S. Woo*</b> </i>, and Hyungjoon Koo </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International Symposium on Foundations and Practice of Security (FPS 2024)</b> </small> </p>
-                    </tr>
-                    <tr>
-                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
-                                </b> </small> </p>
-                    </tr>
-                    <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
-                        The recent advancements in artificial intelligence drive the widespread adoption of Machine-Learning-as-a-Service platforms, which offer valuable services. However, these pervasive utilities in the cloud environment unavoidably encounter security and privacy issues. In particular, a membership inference attack (MIA) poses a threat by recognizing the presence of a data sample in a training set for the target model. Although prior MIA approaches underline privacy risks repeatedly by demonstrating experimental results with standard benchmark datasets such as MNIST and CIFAR, the effectiveness of such techniques on a real-world dataset remains questionable. We are the first to perform an in-depth empirical study on black-box-based MIAs that hold realistic assumptions, including six metric-based and three classifier-based MIAs with the high-dimensional image dataset that consists of identification (ID) cards and driving licenses. Additionally, we introduce the Siamese-based MIA that shows similar or better performance than the state-of-the-art approaches and suggest training a shadow model with autoencoder-based reconstructed images. Our major findings show that the performance of MIA techniques against too many features may be degraded; the MIA configuration or a sample's properties can impact the accuracy of membership inference on members and non-members.
-                        </small> </p>
-                    </tr>
-		    <tr>
-                        <!-- <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>  <a  href="https://github.com/Gloriel621/HECL"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p> -->
-                    </tr> 
-                </tbody>
-            </table>
-            </div>
-            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/membership_attack.png" style="max-height: 239px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
-            </div>
-         </div>
-    <hr>     
 
 
- 
-<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
- 
+
+    
+    <h4 style="margin-top:40px"><b>2025</b></h4>
+
+    
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>
@@ -148,7 +71,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hakjun Moon, Dayeon Woo, <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, April, 2025</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -185,7 +108,7 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Chan Park, Bohyun Moon, Minsun Jeon, Jee-Weon Jung and  <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, April, 2025</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -210,8 +133,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>GAN or DM? In-depth Analysis and Evaluation of AI-generated Face Data for Generalizable
-Deepfake Detection</b></a>
+                        <a><b>GAN or DM? In-depth Analysis and Evaluation of AI-generated Face Data for Generalizable Deepfake Detection</b></a>
                     </tr>
                 </thead>
                 <tbody>
@@ -219,7 +141,7 @@ Deepfake Detection</b></a>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Hyeongjun Choi, <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, 2025</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 40th ACM/SIGAPP Symposium on Applied Computing (SAC), Sicily, Italy, April, 2025</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -237,6 +159,93 @@ Deepfake Detection</b></a>
             </div>
          </div>
     <hr>     
+
+
+    <h4 style="margin-top:40px"><b>2024</b></h4>
+<hr>
+ 
+
+ 
+ 
+<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
+ 
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Prioritizing Safety: A Two-Stage Not Safe For Work and Deepfake Detection Framework</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Minsun Jeon, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Conference on Korean Artificial Intelligence Association (KAIA), Seoul, Korea, November 2024
+</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
+                    Deepfake content is being created automatically in large quantities, but it must still be reported manually by victims, making rapid responses difficult. Despite the prevalence of sexually exploitative deepfake, no existing approach has combined Not Safe For Work (NSFW) detection with deepfake detection. To address this issue, this study proposes a novel integrated process that first implements NSFW detection to assess urgency and identify sexual components before proceeding to deepfake detection. To verify the effectiveness of this process, we generated eight FaceSwap images. In addition, we utilized these images to evaluate the performance of the NSFW and deepfake detection models, achieving an accuracy of 87.5% and 100%, respectively. The results demonstrated the viability of a sequential detection approach. This research highlights the importance of combining NSFW and deepfake detection for more efficient and urgent content moderation, providing a practical tool for law enforcement and victim support organizations. In our findings, this research presents a paradigm that enables rapid responses to address the harms caused by deepfake content effectively and promotes a more proactive approach to content moderation.
+                    </tr>
+		    <tr>
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/minsun_Safety.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>     
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>An Empirical Study of Black-box based Membership Inference Attacks on a Real-World Dataset</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Yujeong Kwon, <i><b>Simon S. Woo*</b> </i>, and Hyungjoon Koo </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International Symposium on Foundations and Practice of Security (FPS 2024) Montreal, Canada, December, 2024</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
+                        The recent advancements in artificial intelligence drive the widespread adoption of Machine-Learning-as-a-Service platforms, which offer valuable services. However, these pervasive utilities in the cloud environment unavoidably encounter security and privacy issues. In particular, a membership inference attack (MIA) poses a threat by recognizing the presence of a data sample in a training set for the target model. Although prior MIA approaches underline privacy risks repeatedly by demonstrating experimental results with standard benchmark datasets such as MNIST and CIFAR, the effectiveness of such techniques on a real-world dataset remains questionable. We are the first to perform an in-depth empirical study on black-box-based MIAs that hold realistic assumptions, including six metric-based and three classifier-based MIAs with the high-dimensional image dataset that consists of identification (ID) cards and driving licenses. Additionally, we introduce the Siamese-based MIA that shows similar or better performance than the state-of-the-art approaches and suggest training a shadow model with autoencoder-based reconstructed images. Our major findings show that the performance of MIA techniques against too many features may be degraded; the MIA configuration or a sample's properties can impact the accuracy of membership inference on members and non-members.
+                        </small> </p>
+                    </tr>
+		    <tr>
+                        <!-- <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>  <a  href="https://github.com/Gloriel621/HECL"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p> -->
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/membership_attack.png" style="max-height: 239px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>     
+
+
+ 
+<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
+ 
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

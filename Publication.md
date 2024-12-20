@@ -293,7 +293,7 @@ Asaduzzaman, Upama Kabir, A.M. Aahad and <i><b>Simon S. Woo*</b> </i> </small> <
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Md Islam, Inzamamul Alam,  <i><b> Simon S. Woo*</b></i>, Saeed Anwar, Ik Hun Lee, and Khan Muhammad*</small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024)</a></b> </small></p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024) Hanoi, Vietnam, December 2024</a></b> </small></p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -330,7 +330,7 @@ Asaduzzaman, Upama Kabir, A.M. Aahad and <i><b>Simon S. Woo*</b> </i> </small> <
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Shahroz Tariq, and <i><b>Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024)</a></b>  </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b><a href="https://accv2024.org">The 17th International Asian Conference on Computer Vision (ACCV 2024)  Hanoi, Vietnam, December 2024</a></b>  </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
@@ -369,7 +369,7 @@ Asaduzzaman, Upama Kabir, A.M. Aahad and <i><b>Simon S. Woo*</b> </i> </small> <
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Zeliang Xu,  Dong In Kim, and <i><b> Simon S. Woo </b></i></small></p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 15th International Conference on Information and Communication Technology Convergence (ICTC 2024)</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>The 15th International Conference on Information and Communication Technology Convergence (ICTC 2024) Jeju Island, Korea, October, 2024 </b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>

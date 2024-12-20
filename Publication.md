@@ -56,7 +56,8 @@ permalink: /Publications/
 
     
 <h4 style="margin-top:40px"><b>2025</b></h4>
-
+<hr>
+ 
     
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -169,6 +170,42 @@ permalink: /Publications/
  
 <!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
  
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Synthetic Data Generation Research Trends</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Minsun Jeon, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>Conference on Information Security and Cryptography 2024 Winter (CISC-W), Gyeonggi-do, Korea, November 2024
+</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <!-- <font color='blue'>BK Computer Science IF = 1 </font> -->
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small> 
+                  With the growing need to simultaneously address privacy protection and data utilization, synthetic data, a powerful anonymization technique, is gaining attention. This paper examines the types of synthetic data, key generation methods for different target subjects, and various application cases. Through this exploration, we aim to provide a more detailed understanding of synthetic data's advantages and potential applications, as well as insights into future research directions for expanding its use.</small></p>
+                    </tr>
+		    <tr>
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/minsun_saftey_2.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>     
+
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

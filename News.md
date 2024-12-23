@@ -29,7 +29,7 @@ permalink: /News/
 			    <a href="/img/award2.jpg" target="_blank">
 			        <img loading="lazy" class="carousel-cell" style="" src="/img/award2.jpg" />
 			    </a>
-			    <p>Professor Simon, Tenure Celebrations @ <strong>DASH Lab</strong> (Sept, 2024) </p>
+			    <p>Nov 2024. Won the Best Paper Award at CISC-W 2024 </p>
 			</div>
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/Tenure2.jpg" target="_blank">
@@ -464,7 +464,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-
+Nov 2024. Won the <b> Best Paper Award at CISC-W </b> 2024
+<br>
 Oct.2024. ZDNET Korea on <b> "AI가 개인정보만 잊게 한다" …BBC가 '이 대학' 연구에 주목한 이유는</b>, 2024[<a href="https://zdnet.co.kr/view/?no=20241006155009&from=pc">media</a>] <br>
 
 Oct.2024. News1 on <b> "머리카락·혈류 수상해"…딥페이크 생성 기술로 딥페이크 잡는다 </b>, 2024[<a href="https://n.news.naver.com/article/421/0007827575">media</a>] <br>

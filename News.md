@@ -27,7 +27,7 @@ permalink: /News/
 	<!-- ###### REMEMBER TO RESIZE THE IMAGE TO ITS RATIO, DON'T LEAVE AS IT IS #######-->
 			<div class="gallery-cell" style="margin: auto; padding:0">
 			    <a href="/img/award2.jpg" target="_blank">
-			        <img loading="lazy" class="carousel-cell" style="" src="/img/award2.jpg" />
+			        <img loading="lazy" class="carousel-cell" style="" width="250px" src="/img/award2.jpg" />
 			    </a>
 			    <p>Nov 2024. Won the Best Paper Award at CISC-W 2024 </p>
 			</div>

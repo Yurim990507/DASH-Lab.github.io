@@ -4,10 +4,12 @@ title: Members
 permalink: /Members/
 ---
 <h1 class="page-title">{{ page.title | escape }}</h1>
+
+
 <div class="section">
     <div style="text-align: center; position: relative;">
-    <b style="display: inline-block;">I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br>
-     <i style="position: absolute; right:0;">— Simon S. Woo</i><br>
+    <!-- <b style="display: inline-block;">I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br>
+     <i style="position: absolute; right:0;">— Simon S. Woo</i><br> -->
     </div>
     <h5>Ph.D.</h5> 
     <div class="row">

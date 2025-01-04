@@ -184,6 +184,19 @@ permalink: /Members/
                   <td>Machine Learning, AI Privacy, Representation Learning   </td>
                   <td>khoa.tr @ g dot skku dot edu </td>
                 </tr>
+
+                                  <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/ghost.png" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Ghost Phantom Deepfake
+                      </div>
+                  </td>
+                  <td>Computer Science and Engineering</td>
+                  <td>Deepfake   </td>
+                  <td> </td>
+                </tr>
+                
               </tbody>
             </table>
           </div>

@@ -9,7 +9,7 @@ permalink: /Members/
     <b style="display: inline-block;">I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br>
      <i style="position: absolute; right:0;">— Simon S. Woo</i><br>
     </div>
-    <h5>Ph.D.</h5> 
+    <h5>Ph.D. Students (DASH Brain)</h5> 
     <div class="row">
           <div class="col s12">
             <table style="width: 100%">

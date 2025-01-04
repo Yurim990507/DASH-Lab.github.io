@@ -190,7 +190,7 @@ permalink: /Members/
     </div>
 </div>
 <div class="section">
-    <h5>Masters</h5> 
+    <h5>Masters (The Sorcerers)</h5> 
     <div class="row">
           <div class="col s12">
             <table style="width: 100%">
@@ -369,7 +369,7 @@ permalink: /Members/
     </div>
 </div>
 <div class="section">
-    <h5>UnderGraduate Students</h5> 
+    <h5>UnderGraduate Students ((The Sorcerer's Apprentice)</h5> 
     <div class="row">
           <div class="col s12">
             <table style="width: 100%">

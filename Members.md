@@ -118,7 +118,7 @@ permalink: /Members/
                   <td>DeepFake detection, Vision Language Models (VLMs), Large Language Models (LLMs)  </td>
                   <td>shahidmuneer @ g dot skku dot edu</td>
                 </tr>
-                  <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/ParkSangHyeok.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
@@ -129,42 +129,6 @@ permalink: /Members/
                   <td>Large Language Models, Industrial AI Applications  </td>
                   <td>sh88park @ g dot skku dot edu </td>
                 </tr>
-                  <tr>
-                  <td align="center">
-                      <div style="display:flex;flex-direction:column">
-                        <img  loading="lazy" src="/img/Khoa Tran.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;Tran Van Khoa
-                      </div>
-                  </td>
-                  <td>Computer Science and Engineering</td>
-                  <td>Machine Learning, AI Privacy, Representation Learning   </td>
-                  <td>khoa.tr @ g dot skku dot edu </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="section">
-    <h5>Masters</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table style="width: 100%">
-                <colgroup>
-                   <col span="1" style="width: 15%;">
-                   <col span="1" style="width: 30%;">
-                   <col span="1" style="width: 30%;">
-                   <col span="1" style="width: 25%;">
-                </colgroup>
-              <thead>
-                <tr>
-                    <th align="center">Name</th>
-                    <th align="center">Major</th>
-                    <th align="center">Research Interests</th>
-                    <th align="center">Contact</th>
-                </tr>
-              </thead>
-              <tbody>                                           
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -209,6 +173,42 @@ permalink: /Members/
                   <td> Multi-modal & Super Resolution </td>
                   <td><i> sohn1029 @ g dot skku dot edu</i></td>
                 </tr>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                        <img  loading="lazy" src="/img/Khoa Tran.jpg" alt="" height="auto" width="128" style="border-radius:45%"><br>
+                          &nbsp;&nbsp;&nbsp;&nbsp;Tran Van Khoa
+                      </div>
+                  </td>
+                  <td>Computer Science and Engineering</td>
+                  <td>Machine Learning, AI Privacy, Representation Learning   </td>
+                  <td>khoa.tr @ g dot skku dot edu </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+    </div>
+</div>
+<div class="section">
+    <h5>Masters</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table style="width: 100%">
+                <colgroup>
+                   <col span="1" style="width: 15%;">
+                   <col span="1" style="width: 30%;">
+                   <col span="1" style="width: 30%;">
+                   <col span="1" style="width: 25%;">
+                </colgroup>
+              <thead>
+                <tr>
+                    <th align="center">Name</th>
+                    <th align="center">Major</th>
+                    <th align="center">Research Interests</th>
+                    <th align="center">Contact</th>
+                </tr>
+              </thead>
+              <tbody>                                           
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">

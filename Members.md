@@ -4,6 +4,49 @@ title: Members
 permalink: /Members/
 ---
 <h1 class="page-title">{{ page.title | escape }}</h1>
+<div class="section">
+    <div style="text-align: center; position: relative;">
+    <b style="display: inline-block;">I am extremely fortunate to work with the following highly motivated students, and very grateful for their research efforts!</b><br>
+     <i style="position: absolute; right:0;">— Simon S. Woo</i><br>
+    </div>
+    <h5>Research Professor</h5> 
+    <div class="row">
+          <div class="col s12">
+            <table style="width: 100%">
+                <colgroup>
+                   <col span="1" style="width: 15%;">
+                   <col span="1" style="width: 30%;">
+                   <col span="1" style="width: 30%;">
+                   <col span="1" style="width: 25%;">
+                </colgroup>
+              <thead>
+                <tr>
+                    <th align="center">Name</th>
+                    <th align="center">Major</th>
+                    <th align="center">Research Interests</th>
+                    <th align="center">Contact</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center">
+                      <div style="display:flex;flex-direction:column">
+                          <a href="#" target = "_blank">
+                              <img  loading="lazy" src="/img/BinhMLe.jpg" alt="Photo" height="auto" width="128" style="border-radius:45%" ><br>
+                              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                          </a>
+                      </div>
+                     </td>
+                  <td>Computer Science & Engineering</td>
+                  <td>Adversarial Robustness, Representation Learning</td>
+                  <td><i>postdoc@g.skku.edu</i></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+    </div>
+</div>
+
 
 
 <div class="section">

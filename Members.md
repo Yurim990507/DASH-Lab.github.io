@@ -184,7 +184,6 @@ permalink: /Members/
                   <td>Machine Learning, AI Privacy, Representation Learning   </td>
                   <td>khoa.tr @ g dot skku dot edu </td>
                 </tr>
-
                                   <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
@@ -196,7 +195,6 @@ permalink: /Members/
                   <td>Deepfake   </td>
                   <td> </td>
                 </tr>
-                
               </tbody>
             </table>
           </div>

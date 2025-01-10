@@ -85,7 +85,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/Jun_WEVJ_2025.png" style="max-width: 100%; height: auto; image-rendering: crisp-edges; margin-bottom: 10px;">
+             <img  loading="lazy" src="/img/Jun_WEVJ_2025.png" style="width: 100%; max-width: 1200px; height: auto; image-rendering: crisp-edges; margin-bottom: 10px;">
             </div>
          </div>
     <hr>

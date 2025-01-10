@@ -58,7 +58,39 @@ permalink: /Publications/
 <h4 style="margin-top:40px"><b>2025</b></h4>
 <hr>
  
-    
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Development of Deep Learning-based Algorithm for Extracting Abnormal Deceleration Patterns</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Youngho Jun, Minha Kim, Kangjun Lee, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>World Electric Vehicle Journal (WEVJ)</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>(Accepted) ESCI Q2 IF = 2.6</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>The smart regenerative braking system for EV can reduce unnecessary brake operation by assisting in braking of the vehicle according to the driving situation, road slope, and driver’s preference. This system maintains the distance between the ego and front vehicles without controlling the brake pedal. Since the strength of regenerative braking is generally determined based on calibration data determined during the vehicle development process, some driver could suffer inconvenience when the regenerative braking is activated differently from their driving habits. In order to solve this problem, various deep learning-based algorithms are developed to provide driving stability by learning the driving data. Among those artificial intelligence algorithms, anomaly detection algorithms can successfully separate the deceleration data in abnormal driving situations, and the resulting refined deceleration data can be used to train the regression model to achieve better driving stability. This study evaluates the performance of a personalized driving assistance system by applying driver characteristic data, obtained through an anomaly detection algorithm, to vehicle control.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/Jun_WEVJ_2025.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
+
+
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
             <table>

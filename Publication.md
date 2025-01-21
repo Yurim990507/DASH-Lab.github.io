@@ -76,7 +76,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Short Paper</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -94,7 +94,7 @@ permalink: /Publications/
                 </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/WWW2025_shahid.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/WWW2025_shahid.jpg" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>
@@ -116,7 +116,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Short Paper</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -148,11 +148,11 @@ permalink: /Publications/
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Inzamamul Alam, Md Tanvir Islam, <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International World Wide Web Conference (WWW)2025 Sydney, Australia</b> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International World Wide Web Conference (WWW) 2025 Sydney, Australia</b> </small> </p>
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>Short Paper</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

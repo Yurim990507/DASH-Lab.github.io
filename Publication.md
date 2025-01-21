@@ -94,7 +94,7 @@ permalink: /Publications/
                 </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/WWW2025_shahid.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/WWW2025_shahid.png" style="max-height: 300px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>
@@ -130,7 +130,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/WWW2025_khoa.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/WWW2025_khoa.png" style="max-height: 250px;max-width: 500px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>
@@ -140,7 +140,7 @@ permalink: /Publications/
             <table>
                 <thead>
                     <tr>
-                        <a><b>SADRE:Saliency-Aware Diffusion Reconstruction for Effective InvisibleWatermark Removal</b></a>
+                        <a><b>SADRE: Saliency-Aware Diffusion Reconstruction for Effective InvisibleWatermark Removal</b></a>
                     </tr>
                 </thead>
                 <tbody>
@@ -171,7 +171,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/WWW2025_inzi.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/WWW2025_inzi.png" style="max-height: 500px;max-width: 400px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>

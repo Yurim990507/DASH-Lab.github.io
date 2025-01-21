@@ -350,8 +350,8 @@ permalink: /Members/
                       </div>
                   </td>
                   <td> Artificial Intelligence </td>
-                  <td> Diffusion model & Dataset </td>
-                  <td><i>jyl8755 @ g dot skku dot edu</i></td>
+                  <td> Computer Vision </td>
+                  <td><i>jyl8755 @ naver dot com</i></td>
                 </tr>                    
                 <tr>
                   <td align="center">

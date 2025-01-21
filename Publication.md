@@ -57,6 +57,124 @@ permalink: /Publications/
     
 <h4 style="margin-top:40px"><b>2025</b></h4>
 <hr>
+
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Towards Safe Synthetic Image Generation On theWeb: A Multimodal Robust NSFWDefense and Million Scale Dataset</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Muhammad Shahid Muneer, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International World Wide Web Conference (WWW) 2025 Sydney, Australia</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Short Paper</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>In the past years, we have witnessed the remarkable success of Text-to-Image (T2I) models and their widespread use on the web. 
+                        Extensive research in making T2I models produce hyper-realistic images has led to new concerns, such as generating Not-Safe-For-Work (NSFW) web content and polluting the online society with the misuse of such technologies. 
+                        To this end, defensive mechanisms such as NSFW and post-hoc security filters are implemented in T2I models to mitigate the misuse of T2I models and develop a safe online ecosystem for web users. However, recent work unveiled 
+                        how these methods can easily fail to prevent misuse. In particular, careful adversarial attacks on text and image modalities can easily outplay defensive measures. Moreover, there is no robust millionscale multimodal NSFW dataset 
+                        with both prompt and image pairs with adversarial examples. In this work, we propose a large-scale prompt and image dataset, generated using open-source diffusion models. Also, we develop a multimodal classification model to distinguish 
+                        safe and NSFW text and images, which has robustness against adversarial attacks, and directly alleviates the current challenges. Our extensive experimental results show that our model shows good performance against existing SOTA NSFW detection methods in terms of accuracy and recall, and drastically reduced the Attack Success Rate (ASR) in multimodal adversarial attack scenarios.</small> </p>
+                    </tr>
+                <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>   <a  href="https://github.com/shahidmuneer/multimodal-nsfw-defense"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                    </tr>                             
+                </tbody>
+                </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/WWW2025_shahid.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>Fairness and Robustness in Machine Unlearning</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Khoa Tran, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International World Wide Web Conference (WWW) 2025 Sydney, Australia</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Short Paper</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>Machine unlearning poses the challenge of “how to eliminate the influence of specific data from a pretrained model” in regard to privacy concerns. 
+                         While prior research on approximated unlearning has demonstrated accuracy and efficiency in time complexity, we claim that it falls short of achieving exact unlearning, and we are the first to focus on fairness and robustness 
+                         in machine unlearning algorithms. Our study presents fairness Conjectures for a well-trained model, based on the variance-bias trade-off characteristic, and considers their relevance to robustness. Our Conjectures are supported by experiments conducted on the two most widely used model architectures—ResNet and ViT—demonstrating the correlation between fairness and robustness: the higher fairness-gap is, the more the model is sensitive and vulnerable. 
+                         In addition, our experiments demonstrate the vulnerability of current state-of-the-art approximated unlearning algorithms to adversarial attacks, where their unlearned models suffer a significant drop in accuracy compared
+                         to the exact-unlearned models.We claim that our fairness-gap measurement and robustness metric should be used to evaluate the unlearning algorithm. Furthermore, we demonstrate that unlearning in the intermediate and last layers is sufficient and cost-effective for time and memory complexity.</small> </p>
+                    </tr>                             
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/WWW2025_khoa.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
+
+<div style="display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="margin-left: 25px;margin-right: 10px;">
+            <table>
+                <thead>
+                    <tr>
+                        <a><b>SADRE:Saliency-Aware Diffusion Reconstruction for Effective InvisibleWatermark Removal</b></a>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Inzamamul Alam, Md Tanvir Islam, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>International World Wide Web Conference (WWW)2025 Sydney, Australia</b> </small> </p>
+                    </tr>
+                    <tr>
+                    <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
+                               <font color='blue'>Short Paper</font>
+                                </b> </small> </p>
+                    </tr>
+                    <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"><small>As digital content becomes increasingly ubiquitous, the need for robust watermark removal techniques has grown due to inadequacy 
+                            of existing embedding techniques, which lack robustness. This paper introduces a novel Saliency-Aware Diffusion Reconstruction (SADRE) framework for watermark elimination on the web, combining adaptive noise injection, 
+                            region-specific perturbations, and advanced diffusion-based reconstruction. SADRE disrupts embedded watermarks by injecting targeted noise into latent representations guided by saliency masks although preserving essential 
+                            image features. A reverse diffusion process ensures high-fidelity image restoration, leveraging adaptive noise levels determined by watermark strength. Our framework is theoretically grounded with stability guarantees and 
+                            achieves robust watermark removal across diverse scenarios. Empirical evaluations on state-of-the-art (SOTA) watermarking techniques demonstrate SADRE’s superiority in balancing watermark disruption and image quality, 
+                            achieving the best performance in PSNR, SSIM, Wasserstein Distance, and Bit Recovery Accuracy. By bridging the gap between theoretical robustness and practical effectiveness, SADRE sets a new benchmark for watermark elimination, 
+                            offering a flexible and reliable solution for real-world web contents.</small> </p>
+                    </tr>
+            <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>   <a  href="https://github.com/inzamamulDU/SADRE"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
+                    </tr>                               
+                </tbody>
+            </table>
+            </div>
+            <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
+             <img  loading="lazy" src="/img/WWW2025_inzi.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+            </div>
+         </div>
+    <hr>
  
 <div style="display: flex;flex-direction: row;justify-content: space-between;">
         <div style="margin-left: 25px;margin-right: 10px;">
@@ -85,7 +203,7 @@ permalink: /Publications/
             </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/Jun_WEVJ_2025.png" style="width: 100%; max-width: 1200px; height: auto; image-rendering: crisp-edges; margin-bottom: 10px;">
+             <img  loading="lazy" src="/img/Jun_WEVJ_2025.png" style="max-height: 196px;max-width: 461px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>

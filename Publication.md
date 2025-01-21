@@ -76,7 +76,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=3 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -116,7 +116,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=3 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>
@@ -152,7 +152,7 @@ permalink: /Publications/
                     </tr>
                     <tr>
                     <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>
-                               <font color='blue'>BK Computer Science 최우수학회 IF=4 (Short Paper)</font>
+                               <font color='blue'>BK Computer Science 최우수학회 IF=3 (Short Paper)</font>
                                 </b> </small> </p>
                     </tr>
                     <tr>

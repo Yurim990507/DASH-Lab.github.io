@@ -464,6 +464,8 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
+Jan 2025.  Three short papers are accepted at <b> WWW 2025 (BK IF=3) Congrats, All!</b>
+<br>
 Nov 2024. Won the <b> Best Paper Award at CISC-W </b> 2024
 <br>
 Oct.2024. ZDNET Korea on <b> "AI가 개인정보만 잊게 한다" …BBC가 '이 대학' 연구에 주목한 이유는</b>, 2024[<a href="https://zdnet.co.kr/view/?no=20241006155009&from=pc">media</a>] <br>

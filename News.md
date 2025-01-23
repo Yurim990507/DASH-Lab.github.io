@@ -464,7 +464,7 @@ permalink: /News/
 
 <div class="section">
 <div class="row">
-Jan 2025.  Three short papers are accepted at <b> WWW 2025 (BK IF=3) Congrats, All!</b>
+Jan 2025.  Three short papers are accepted at <b> TheWebConf 2025 (BK IF=3) Congrats, All!</b>
 <br>
 Nov 2024. Won the <b> Best Paper Award at CISC-W </b> 2024
 <br>

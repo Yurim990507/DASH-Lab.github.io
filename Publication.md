@@ -87,9 +87,9 @@ permalink: /Publications/
                         with both prompt and image pairs with adversarial examples. In this work, we propose a large-scale prompt and image dataset, generated using open-source diffusion models. Also, we develop a multimodal classification model to distinguish 
                         safe and NSFW text and images, which has robustness against adversarial attacks, and directly alleviates the current challenges. Our extensive experimental results show that our model shows good performance against existing SOTA NSFW detection methods in terms of accuracy and recall, and drastically reduced the Attack Success Rate (ASR) in multimodal adversarial attack scenarios.</small> </p>
                     </tr>
-                <tr>
+                <!-- <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>   <a  href="https://github.com/shahidmuneer/multimodal-nsfw-defense"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                    </tr>                             
+                    </tr>                              -->
                 </tbody>
                 </table>
             </div>
@@ -164,9 +164,10 @@ permalink: /Publications/
                             achieving the best performance in PSNR, SSIM, Wasserstein Distance, and Bit Recovery Accuracy. By bridging the gap between theoretical robustness and practical effectiveness, SADRE sets a new benchmark for watermark elimination, 
                             offering a flexible and reliable solution for real-world web contents.</small> </p>
                     </tr>
-            <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>   <a  href="https://github.com/inzamamulDU/SADRE"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small> </p>
-                    </tr>                               
+            <!-- <tr>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;margin-left: 20px;"> <small>   <a  href="https://github.com/inzamamulDU/SADRE"> <img  alt="github" src="github.svg" style="right: 15px; position:relative; top:5px; width: 18px; height: 18px;">  </a> </small>
+                         </p>
+                    </tr>                                -->
                 </tbody>
             </table>
             </div>

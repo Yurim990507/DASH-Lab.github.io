@@ -466,7 +466,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;JongU Park 
                       </div>
                      </td>
@@ -477,7 +477,7 @@ permalink: /Members/
                 <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
-                          <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                          <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                           &nbsp;&nbsp;&nbsp;&nbsp;SeungWon Jeong  
                       </div>
                      </td>
@@ -513,7 +513,7 @@ permalink: /Members/
                   <tr>
                     <td align="center">
                         <div style="display:flex;flex-direction:column">
-                            <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
                             &nbsp;&nbsp;&nbsp;&nbsp;  
                         </div>
                       </td>

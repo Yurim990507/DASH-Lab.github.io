@@ -508,7 +508,20 @@ permalink: /Members/
                     <th align="center">Research Interests</th>
                     <th align="center">Contact</th>
                 </tr>
-              </thead><tbody></tbody>
+              </thead>
+                <tbody>
+                  <tr>
+                    <td align="center">
+                        <div style="display:flex;flex-direction:column">
+                            <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;  
+                        </div>
+                      </td>
+                    <td>Computer Science & Engineering, Data Science</td>
+                    <td> </td>    
+                      <td><i>undergraduate @ g dot skku dot edu</i></td>
+                  </tr> 
+                </tbody>
             </table>
           </div>
         </div>

@@ -291,7 +291,7 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/MoonBoHyun2.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moon BoHyun
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Moon BoHyun
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>
@@ -302,14 +302,14 @@ permalink: /Members/
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                         <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kang SeungJune
+                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kang SeungJune
                       </div>
                   </td>
                   <td> Arificial Intelligence </td>
                   <td> Computer Vision, Video Anomaly, Deepfakes </td>
                   <td><i>seungjune05 @ g dot skku dot edu</i></td>
                 </tr>
-                                  <tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.png" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -462,7 +462,8 @@ permalink: /Members/
                   <td>Semiconductor and Display Engineering</td>
                   <td>Time Series Anomaly Detection </td>    
                      <td><i>jw.shon @ g dot skku dot edu</i></td>
-                     <tr>
+                </tr>  
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -472,8 +473,8 @@ permalink: /Members/
                   <td>Computer Science & Engineering</td>
                   <td>Time Series Anomaly Detection </td>    
                      <td><i>jongupark @ g dot skku dot edu</i></td>
-                     </tr>
-                     <tr>
+                </tr>
+                <tr>
                   <td align="center">
                       <div style="display:flex;flex-direction:column">
                           <img  loading="lazy" src="/img/dummy_male.jpg" alt="" height="auto" width="128" style="border-radius:50%"><br>
@@ -507,9 +508,7 @@ permalink: /Members/
                     <th align="center">Research Interests</th>
                     <th align="center">Contact</th>
                 </tr>
-              </thead>
-              <tbody>                                           
-              </tbody>
+              </thead><tbody></tbody>
             </table>
           </div>
         </div>

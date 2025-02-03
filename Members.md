@@ -285,7 +285,7 @@ permalink: /Members/
                      </td>
                   <td>Computer Science & Engineering</td>
                   <td>Computer Vision</td>    
-                     <td><i>gababsang@g dot skku dot edu</i></td>
+                     <td><i>gababsang@ g dot skku dot edu</i></td>
                 </tr>
                 <tr>
                   <td align="center">
@@ -518,7 +518,7 @@ permalink: /Members/
                         </div>
                       </td>
                     <td>Computer Science & Engineering, Data Science</td>
-                    <td> </td>    
+                    <td> Computer Vision, Anomaly Detection, NLP and AI security </td>    
                       <td><i>undergraduate @ g dot skku dot edu</i></td>
                   </tr> 
                 </tbody>

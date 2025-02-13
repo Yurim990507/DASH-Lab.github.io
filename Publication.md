@@ -85,7 +85,7 @@ permalink: /Publications/
                 </table>
             </div>
             <div class="col-lg-3" style="vertical-align: middle;display:flex;flex-direction:row;justify-content:center">
-             <img  loading="lazy" src="/img/euro_s&p2025.jpg" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
+             <img  loading="lazy" src="/img/euro_s&p2025.png" style="max-height: 500px;max-width: 360px; margin-bottom: 10px; height: auto;aspect-ratio: auto;">
             </div>
          </div>
     <hr>

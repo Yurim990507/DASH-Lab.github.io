@@ -68,7 +68,7 @@ permalink: /Publications/
                 </thead>
                 <tbody>
                     <tr>
-                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Jiwon Kim, Shahroz Tariq, Kristen Moore, Alsharif Abuadbba, <i><b>Simon S. Woo*</b> </i> </small> </p>
+                        <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> Binh M. Le, Jiwon Kim, Shahroz Tariq, Kristen Moore, Alsharif Abuadbba and <i><b>Simon S. Woo*</b> </i> </small> </p>
                     </tr>
                     <tr>
                         <p style="margin-top: 0px;margin-bottom: 0px;text-align: justify;"> <small> <b>10th IEEE European Symposium on Security and Privacy 2025 (Euro S&P), Venice Italy </b> </small> </p>
